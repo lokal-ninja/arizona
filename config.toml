@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/arizona"
+languageCode = "en-US"
+title = "Arizona"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "arizona"
