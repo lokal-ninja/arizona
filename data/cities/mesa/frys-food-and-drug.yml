@@ -1,12 +1,12 @@
-id: 4472275174
-type: node
+id: 264116723
+type: way
 shop: supermarket
-latitude: 33.406534
-longitude: -111.77230960000001
-postcode: "85204"
+latitude: 33.4065278
+longitude: -111.6311397
+postcode: "85208"
 city: Mesa
-street: "East Broadway Road"
-housenumber: 2727
-phone: "+1 (480) 464-5705"
-opening_hours: "06:00-24:00"
-website: "https://www.frysfood.com/storeHours?store=66000123"
+street: "South Ellsworth Road"
+housenumber: 435
+phone: ""
+opening_hours: ""
+website: ""

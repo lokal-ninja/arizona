@@ -1,6 +1,6 @@
 ---
 title: Cave Creek
 url: /cave-creek/
-latitude: 33.8333716
-longitude: -111.9507042
+latitude: 33.8333333
+longitude: -111.95083330000001
 ---

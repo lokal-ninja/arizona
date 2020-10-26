@@ -1,12 +1,12 @@
-id: 2713060858
-type: node
+id: 432329707
+type: way
 shop: supermarket
-latitude: 33.423782
-longitude: -111.7207972
-postcode: "85205"
+latitude: 33.4490812
+longitude: -111.77265580000001
+postcode: "85213"
 city: Mesa
-street: "East University Drive"
-housenumber: 5122
-phone: "+1-480-832-9484"
+street: "East McKellips Road"
+housenumber: 2725
+phone: "+1-480-733-1679"
 opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5257/mesa-az/whats-new"
+website: "https://www.walmart.com/store/3846/mesa-az/whats-new"

@@ -1,12 +1,12 @@
-id: 3040314980
-type: node
+id: 130341162
+type: way
 shop: supermarket
-latitude: 33.566489000000004
-longitude: -112.07219300000001
-postcode: "85020"
+latitude: 33.478421000000004
+longitude: -112.25402290000001
+postcode: ""
 city: Phoenix
-street: "East Dunlap Avenue"
-housenumber: 115
-phone: "+1-480-754-8043"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2632/phoenix-az/whats-new"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: ""
+website: ""

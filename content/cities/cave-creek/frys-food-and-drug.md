@@ -1,4 +1,4 @@
 ---
-title: "Fry's Food And Drug"
+title: "Fry's Food and Drug"
 url: /cave-creek/frys-food-and-drug/
 ---

@@ -1,12 +1,12 @@
-id: 3777709334
-type: node
+id: 760706996
+type: way
 shop: supermarket
-latitude: 33.380320000000005
-longitude: -111.772934
-postcode: "85204"
+latitude: 33.3627959
+longitude: -111.65460150000001
+postcode: "85212"
 city: Mesa
-street: "South Lindsay Road"
-housenumber: 1916
-phone: "+1-480-892-6085"
+street: "East Guadalupe Road"
+housenumber: 8335
+phone: "+1-480-357-4137"
 opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5304/mesa-az/whats-new"
+website: "https://www.walmart.com/store/5349/mesa-az/whats-new"

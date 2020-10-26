@@ -1,6 +1,6 @@
 ---
 title: Avondale
 url: /avondale/
-latitude: 33.4354989
-longitude: -112.3495572
+latitude: 33.4355977
+longitude: -112.34960210000001
 ---

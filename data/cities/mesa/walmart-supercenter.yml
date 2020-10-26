@@ -1,12 +1,12 @@
-id: 5315597587
-type: node
+id: 44660034
+type: way
 shop: supermarket
-latitude: 33.384526
-longitude: -111.73964400000001
-postcode: "85206"
+latitude: 33.4318407
+longitude: -111.86650940000001
+postcode: "85201"
 city: Mesa
-street: "South Greenfield Road"
-housenumber: 1710
-phone: "+1-480-892-3814"
+street: "North Dobson Road"
+housenumber: 857
+phone: "+1-480-962-0038"
 opening_hours: "24/7"
-website: "https://www.walmart.com/store/5428/mesa-az/whats-new"
+website: "https://www.walmart.com/store/2482/mesa-az/whats-new"
