@@ -1,4 +1,4 @@
 ---
-title: "Bashas"
+title: "Bashas'"
 url: /kingman/bashas/
 ---
