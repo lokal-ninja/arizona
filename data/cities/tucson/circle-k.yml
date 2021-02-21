@@ -1,12 +1,11 @@
-id: 4404891143
-type: node
-shop: convenience
-latitude: 32.256024700000005
-longitude: -110.97855290000001
-postcode: "85705"
+id: 34822371
+type: way
+latitude: 32.2368398
+longitude: -110.9573476
+postcode: "85719"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2701
+street: "East Speedway Boulevard"
+housenumber: 977
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/"
+website: ""

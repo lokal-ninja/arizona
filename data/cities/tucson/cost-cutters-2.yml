@@ -1,12 +1,11 @@
-id: 838356167
-type: way
-shop: hairdresser
-latitude: 32.2077627
-longitude: -110.85538050000001
-postcode: "85710"
+id: 8387295888
+type: node
+latitude: 32.306753
+longitude: -110.8456484
+postcode: "85750"
 city: Tucson
-street: "East 22nd Street"
-housenumber: 6383
+street: "East Sunrise Drive"
+housenumber: 6890
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.costcutters.com/locations/az/tucson/ventana-village-haircuts-62027.html"

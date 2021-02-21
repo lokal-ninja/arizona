@@ -1,12 +1,11 @@
 id: 1592989381
 type: node
-shop: supermarket
 latitude: 33.5290131
-longitude: -111.9274556
+longitude: -111.92745500000001
 postcode: "85253"
 city: Scottsdale
 street: "North Scottsdale Road"
 housenumber: 6202
 phone: "+1-480-948-9886"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Su 08:00-21:00"
+website: "https://www.traderjoes.com"

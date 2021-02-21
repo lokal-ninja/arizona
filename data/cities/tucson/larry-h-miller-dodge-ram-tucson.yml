@@ -1,6 +1,5 @@
 id: 417129193
 type: way
-shop: car
 latitude: 32.206831
 longitude: -110.9028306
 postcode: "85711"
@@ -9,4 +8,4 @@ street: "East 22nd Street"
 housenumber: 4220
 phone: "520-745-1000"
 opening_hours: "Mo-Fr 08:00-21:00, Sa 08:00-20:00, Su closed"
-website: "http://www.larrymillerdodgeramtucson.com"
+website: "https://www.larrymillerdodgeramtucson.com/"

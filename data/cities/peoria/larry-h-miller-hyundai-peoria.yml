@@ -1,12 +1,11 @@
 id: 3198431948
 type: node
-shop: car
 latitude: 33.63713
-longitude: -112.24288480000001
+longitude: -112.242884
 postcode: "85382"
 city: Peoria
 street: "West Bell Road"
 housenumber: 8633
 phone: "(623) 815-4500"
 opening_hours: "Mo-Fr 08:00-21:00, Sa 08:00-20:00, Su 10:00-18:00"
-website: "http://www.larrymillerhyundai.com"
+website: "https://www.larrymillerhyundai.com"
