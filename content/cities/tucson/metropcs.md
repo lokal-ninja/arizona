@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /tucson/metropcs/
-shop: convenience
+shop: mobile phone
 ---

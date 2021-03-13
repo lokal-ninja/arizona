@@ -1,5 +1,5 @@
 ---
 title: "The Battery Factory"
 url: /tucson/the-battery-factory/
-shop: convenience
+shop: shop
 ---
