@@ -1,5 +1,5 @@
 ---
-title: "Fry's MarketPlace"
+title: "Fry's Marketplace"
 url: /phoenix/frys-marketplace/
 shop: supermarket
 ---
