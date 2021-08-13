@@ -1,5 +1,5 @@
 ---
-title: "MINI of Tempe"
+title: "Mini of Tempe"
 url: /tempe/mini-of-tempe/
 shop: car
 ---
