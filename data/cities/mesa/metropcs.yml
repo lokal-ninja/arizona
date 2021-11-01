@@ -1,11 +1,11 @@
-id: 6961176296
-type: node
-latitude: 33.4165708
-longitude: -111.63353980000001
-postcode: "85207"
+id: 669605389
+type: way
+latitude: 33.4144852
+longitude: -111.8584804
+postcode: "85201"
 city: Mesa
-street: "East Main Street"
-housenumber: 9124
-phone: "+1 480 354 8122"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://www.metrobyt-mobile.com/"
+street: "West Main Street"
+housenumber: 1255
+phone: ""
+opening_hours: ""
+website: ""

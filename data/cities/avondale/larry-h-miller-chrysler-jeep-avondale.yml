@@ -1,11 +1,11 @@
-id: 2290870390
-type: node
-latitude: 33.459685900000004
-longitude: -112.27765000000001
+id: 123900029
+type: way
+latitude: 33.459724
+longitude: -112.2777928
 postcode: "85323"
 city: Avondale
 street: "West Papago Freeway"
 housenumber: 10055
-phone: "623-298-1100"
-opening_hours: "Mo-Sa 07:00-21:00; Su 10:00-18:00"
-website: "https://www.larrymillerchryslerjeepavondale.com/"
+phone: ""
+opening_hours: ""
+website: ""
