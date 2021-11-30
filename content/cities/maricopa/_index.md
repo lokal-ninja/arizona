@@ -1,6 +1,6 @@
 ---
 title: Maricopa
 url: /maricopa/
-latitude: 33.34883
-longitude: -112.49123
+latitude: 33.058129
+longitude: -112.04775540000001
 ---
