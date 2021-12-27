@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /yuma/walmart-neighborhood-market/
-shop: supermarket
+shop: Supermarkt
 ---

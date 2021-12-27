@@ -1,5 +1,5 @@
 ---
 title: "Pump -N- Munch"
 url: /phoenix/pump-n-munch/
-shop: convenience
+shop: Lebensmittel
 ---

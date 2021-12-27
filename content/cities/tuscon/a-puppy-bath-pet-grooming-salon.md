@@ -1,5 +1,5 @@
 ---
 title: "A Puppy Bath Pet Grooming Salon"
 url: /tuscon/a-puppy-bath-pet-grooming-salon/
-shop: pet
+shop: Tiere
 ---

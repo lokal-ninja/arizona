@@ -1,6 +1,6 @@
 ---
 title: Hackberry
 url: /hackberry/
-latitude: 35.3691614
-longitude: -113.72716430000001
+latitude: 35.375
+longitude: -113.723
 ---

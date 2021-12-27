@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mesa/shell/
-shop: convenience
+shop: Lebensmittel
 ---

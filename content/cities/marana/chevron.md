@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /marana/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

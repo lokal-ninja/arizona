@@ -1,5 +1,5 @@
 ---
 title: "Antelope Canyon Tours"
 url: /page/antelope-canyon-tours/
-shop: ticket
+shop: Tickets
 ---

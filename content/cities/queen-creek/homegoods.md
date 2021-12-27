@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /queen-creek/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "(Vacant)"
 url: /peoria/vacant-2/
-shop: shop
+shop: Allgemein
 ---

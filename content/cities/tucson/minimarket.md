@@ -1,5 +1,5 @@
 ---
 title: "Минимаркет"
 url: /tucson/minimarket/
-shop: convenience
+shop: Lebensmittel
 ---

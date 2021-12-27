@@ -1,6 +1,6 @@
 ---
 title: Winkelman
 url: /winkelman/
-latitude: 32.9875659
-longitude: -110.7709387
+latitude: 32.987
+longitude: -110.77
 ---

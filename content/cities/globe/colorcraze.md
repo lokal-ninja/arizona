@@ -1,5 +1,5 @@
 ---
 title: "Colorcraze"
 url: /globe/colorcraze/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /peoria/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

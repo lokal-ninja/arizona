@@ -1,5 +1,5 @@
 ---
 title: "Potato Barn"
 url: /mesa/potato-barn/
-shop: furniture
+shop: Möbel
 ---

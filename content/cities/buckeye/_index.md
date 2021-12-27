@@ -1,6 +1,6 @@
 ---
 title: Buckeye
 url: /buckeye/
-latitude: 
-longitude: 
+latitude: 33.437
+longitude: -112.56
 ---

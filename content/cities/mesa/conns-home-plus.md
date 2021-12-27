@@ -1,5 +1,5 @@
 ---
 title: "Conn's Home Plus"
 url: /mesa/conns-home-plus/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tempe;Mesa
 url: /tempe-mesa/
-latitude: 
-longitude: 
+latitude: 33.381
+longitude: -111.824
 ---

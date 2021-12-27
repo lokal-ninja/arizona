@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tempe/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

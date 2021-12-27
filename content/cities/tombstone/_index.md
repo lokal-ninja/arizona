@@ -1,6 +1,6 @@
 ---
 title: Tombstone
 url: /tombstone/
-latitude: 31.714229000000003
-longitude: -110.06520280000001
+latitude: 31.71
+longitude: -110.059
 ---

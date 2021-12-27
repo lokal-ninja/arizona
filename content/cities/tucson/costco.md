@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /tucson/costco/
-shop: wholesale
+shop: Großhandel
 ---

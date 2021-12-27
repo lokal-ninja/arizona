@@ -1,6 +1,6 @@
 ---
 title: Rimrock
 url: /rimrock/
-latitude: 34.6450394
-longitude: -111.78484110000001
+latitude: 34.638
+longitude: -111.815
 ---

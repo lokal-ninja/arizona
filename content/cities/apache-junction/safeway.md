@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /apache-junction/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

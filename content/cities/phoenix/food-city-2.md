@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /phoenix/food-city-2/
-shop: supermarket
+shop: Supermarkt
 ---

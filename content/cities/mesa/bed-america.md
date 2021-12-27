@@ -1,5 +1,5 @@
 ---
 title: "Bed America"
 url: /mesa/bed-america/
-shop: furniture
+shop: Möbel
 ---

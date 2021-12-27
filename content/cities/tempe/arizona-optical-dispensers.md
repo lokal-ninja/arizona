@@ -1,5 +1,5 @@
 ---
 title: "Arizona Optical Dispensers"
 url: /tempe/arizona-optical-dispensers/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakley"
 url: /glendale/oakley/
-shop: optician
+shop: Optiker
 ---

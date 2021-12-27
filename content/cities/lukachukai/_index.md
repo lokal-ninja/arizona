@@ -1,6 +1,6 @@
 ---
 title: Lukachukai
 url: /lukachukai/
-latitude: 36.4158307
-longitude: -109.2267511
+latitude: 36.405
+longitude: -109.264
 ---

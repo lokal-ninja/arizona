@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tolleson/quiktrip-2/
-shop: convenience
+shop: Lebensmittel
 ---

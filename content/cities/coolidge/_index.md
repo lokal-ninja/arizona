@@ -1,6 +1,6 @@
 ---
 title: Coolidge
 url: /coolidge/
-latitude: 32.977839
-longitude: -111.51762400000001
+latitude: 32.994
+longitude: -111.522
 ---

@@ -1,6 +1,6 @@
 ---
 title: San Manuel
 url: /san-manuel/
-latitude: 32.5997933
-longitude: -110.6309289
+latitude: 32.614
+longitude: -110.63
 ---

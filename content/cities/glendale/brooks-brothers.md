@@ -1,5 +1,5 @@
 ---
 title: "Brooks Brothers"
 url: /glendale/brooks-brothers/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Just For You"
 url: /apache-junction/just-for-you/
-shop: gift
+shop: Andenken
 ---

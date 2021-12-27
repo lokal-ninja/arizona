@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /glendale/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

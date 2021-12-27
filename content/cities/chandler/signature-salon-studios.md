@@ -1,5 +1,5 @@
 ---
 title: "Signature Salon Studios"
 url: /chandler/signature-salon-studios/
-shop: hairdresser
+shop: Friseur
 ---

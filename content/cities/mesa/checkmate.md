@@ -1,5 +1,5 @@
 ---
 title: "CheckMate"
 url: /mesa/checkmate/
-shop: pawnbroker
+shop: Leiher
 ---

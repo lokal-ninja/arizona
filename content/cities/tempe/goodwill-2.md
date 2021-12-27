@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /tempe/goodwill-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

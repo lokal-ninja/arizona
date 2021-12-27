@@ -1,5 +1,5 @@
 ---
 title: "Summit Brick Company"
 url: /tucson/summit-brick-company/
-shop: convenience
+shop: Lebensmittel
 ---

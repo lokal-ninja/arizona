@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /tucson/dsw/
-shop: shoes
+shop: Schuhe
 ---

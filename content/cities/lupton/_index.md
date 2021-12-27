@@ -1,6 +1,6 @@
 ---
 title: Lupton
 url: /lupton/
-latitude: 35.3539127
-longitude: -109.0537017
+latitude: 35.36
+longitude: -109.051
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /phoenix/valero/
-shop: convenience
+shop: Lebensmittel
 ---

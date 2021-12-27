@@ -1,5 +1,5 @@
 ---
 title: "USA Pawn And Jewelry"
 url: /glendale/usa-pawn-and-jewelry/
-shop: pawnbroker
+shop: Leiher
 ---

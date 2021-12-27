@@ -1,6 +1,6 @@
 ---
 title: Mesa
 url: /mesa/
-latitude: 33.415111700000004
-longitude: -111.8314792
+latitude: 33.434
+longitude: -111.868
 ---

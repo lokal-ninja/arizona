@@ -1,5 +1,5 @@
 ---
 title: "AJ's Fine Foods"
 url: /scottsdale/ajs-fine-foods-2/
-shop: supermarket
+shop: Supermarkt
 ---

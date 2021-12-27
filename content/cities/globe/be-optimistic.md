@@ -1,5 +1,5 @@
 ---
 title: "Be Optimistic"
 url: /globe/be-optimistic/
-shop: hairdresser
+shop: Friseur
 ---

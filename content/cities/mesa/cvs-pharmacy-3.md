@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /mesa/cvs-pharmacy-3/
-shop: chemist
+shop: Drogerie
 ---

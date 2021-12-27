@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Welding Supply"
 url: /mesa/phoenix-welding-supply/
-shop: wholesale
+shop: Großhandel
 ---

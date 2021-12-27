@@ -1,6 +1,6 @@
 ---
 title: Huachuca City
 url: /huachuca-city/
-latitude: 31.6278703
-longitude: -110.33396780000001
+latitude: 31.626
+longitude: -110.336
 ---

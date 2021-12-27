@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

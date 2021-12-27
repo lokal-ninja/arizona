@@ -1,6 +1,6 @@
 ---
 title: Paradise Valley
 url: /paradise-valley/
-latitude: 33.5324295
-longitude: -111.95051230000001
+latitude: 33.529
+longitude: -111.927
 ---

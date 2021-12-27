@@ -1,5 +1,5 @@
 ---
 title: "Rose's Alterations"
 url: /glendale/roses-alterations/
-shop: clothes
+shop: Kleidung
 ---

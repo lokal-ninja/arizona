@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /chandler/the-home-depot-2/
-shop: garden centre
+shop: Garten-Center
 ---

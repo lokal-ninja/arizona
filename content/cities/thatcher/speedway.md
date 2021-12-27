@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /thatcher/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

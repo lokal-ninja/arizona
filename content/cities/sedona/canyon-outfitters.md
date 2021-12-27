@@ -1,5 +1,5 @@
 ---
 title: "Canyon Outfitters"
 url: /sedona/canyon-outfitters/
-shop: sports
+shop: Sport
 ---

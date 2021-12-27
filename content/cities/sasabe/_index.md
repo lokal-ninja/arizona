@@ -1,6 +1,6 @@
 ---
 title: Sasabe
 url: /sasabe/
-latitude: 31.488701600000002
-longitude: -111.5420505
+latitude: 31.488
+longitude: -111.543
 ---

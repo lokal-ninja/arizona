@@ -1,5 +1,5 @@
 ---
 title: "Leidan Mitchell Salon"
 url: /chandler/leidan-mitchell-salon/
-shop: beauty
+shop: Kosmetik
 ---

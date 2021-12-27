@@ -1,5 +1,5 @@
 ---
 title: "QuickTrip"
 url: /avondale/quicktrip/
-shop: convenience
+shop: Lebensmittel
 ---

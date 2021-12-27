@@ -1,6 +1,6 @@
 ---
 title: Scottsdale
 url: /scottsdale/
-latitude: 33.4942189
-longitude: -111.9260184
+latitude: 33.467
+longitude: -111.913
 ---

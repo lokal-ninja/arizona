@@ -1,6 +1,6 @@
 ---
 title: Rock Point
 url: /rock-point/
-latitude: 36.7170573
-longitude: -109.62451420000001
+latitude: 36.719
+longitude: -109.627
 ---

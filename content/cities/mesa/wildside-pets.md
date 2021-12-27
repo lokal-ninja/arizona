@@ -1,5 +1,5 @@
 ---
 title: "Wildside Pets"
 url: /mesa/wildside-pets/
-shop: pet
+shop: Tiere
 ---

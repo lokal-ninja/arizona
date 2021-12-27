@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /sun-city/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

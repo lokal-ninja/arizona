@@ -1,5 +1,5 @@
 ---
 title: "Cabrera's Cleaners"
 url: /mesa/cabreras-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

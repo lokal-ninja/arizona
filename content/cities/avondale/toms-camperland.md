@@ -1,5 +1,5 @@
 ---
 title: "Tom's Camperland"
 url: /avondale/toms-camperland/
-shop: caravan
+shop: Wohnwagen
 ---

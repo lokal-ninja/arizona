@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /lake-havasu-city/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

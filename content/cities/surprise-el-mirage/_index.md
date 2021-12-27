@@ -1,6 +1,6 @@
 ---
 title: Surprise;El Mirage
 url: /surprise-el-mirage/
-latitude: 
-longitude: 
+latitude: 33.623
+longitude: -112.331
 ---

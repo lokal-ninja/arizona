@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /meadview/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

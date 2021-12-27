@@ -1,5 +1,5 @@
 ---
 title: "Greene's Athletic Supply"
 url: /mesa/greenes-athletic-supply/
-shop: sports
+shop: Sport
 ---

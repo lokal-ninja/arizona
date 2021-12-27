@@ -1,6 +1,6 @@
 ---
 title: Patagonia
 url: /patagonia/
-latitude: 31.539313800000002
-longitude: -110.7563046
+latitude: 31.539
+longitude: -110.754
 ---

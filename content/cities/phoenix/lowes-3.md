@@ -1,5 +1,5 @@
 ---
-title: "Lowe's"
+title: "Lowes"
 url: /phoenix/lowes-3/
-shop: doityourself
+shop: Garten-Center
 ---

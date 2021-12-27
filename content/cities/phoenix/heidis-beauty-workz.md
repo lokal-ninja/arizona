@@ -1,5 +1,5 @@
 ---
 title: "Heidi's Beauty Workz"
 url: /phoenix/heidis-beauty-workz/
-shop: hairdresser
+shop: Friseur
 ---

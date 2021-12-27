@@ -1,5 +1,5 @@
 ---
 title: "Blossom"
 url: /mesa/blossom/
-shop: clothes
+shop: Kleidung
 ---

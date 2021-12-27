@@ -1,6 +1,6 @@
 ---
 title: Globe
 url: /globe/
-latitude: 33.3959623
-longitude: -110.78713440000001
+latitude: 33.396
+longitude: -110.787
 ---

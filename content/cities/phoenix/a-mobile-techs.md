@@ -1,5 +1,5 @@
 ---
 title: "A+ Mobile Techs"
 url: /phoenix/a-mobile-techs/
-shop: shop
+shop: Allgemein
 ---

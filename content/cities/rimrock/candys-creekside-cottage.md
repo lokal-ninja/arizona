@@ -1,5 +1,5 @@
 ---
 title: "Candy's Creekside Cottage"
 url: /rimrock/candys-creekside-cottage/
-shop: antiques
+shop: Antiquitäten
 ---

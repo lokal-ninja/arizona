@@ -1,6 +1,6 @@
 ---
 title: Gilbert
 url: /gilbert/
-latitude: 33.352763200000005
-longitude: -111.7890373
+latitude: 33.265
+longitude: -111.687
 ---

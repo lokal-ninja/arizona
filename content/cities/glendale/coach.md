@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /glendale/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

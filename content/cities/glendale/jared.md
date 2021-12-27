@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /glendale/jared/
-shop: jewelry
+shop: Schmuck
 ---

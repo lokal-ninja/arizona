@@ -1,5 +1,5 @@
 ---
 title: "Centurylink"
 url: /tucson/centurylink/
-shop: electronics
+shop: Elektronik
 ---

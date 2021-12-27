@@ -1,5 +1,5 @@
 ---
 title: "Moonwalk Smoke Shop"
 url: /glendale/moonwalk-smoke-shop/
-shop: convenience
+shop: Lebensmittel
 ---

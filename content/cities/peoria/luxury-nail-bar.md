@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nail Bar"
 url: /peoria/luxury-nail-bar/
-shop: beauty
+shop: Kosmetik
 ---

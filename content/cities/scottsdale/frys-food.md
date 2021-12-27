@@ -1,5 +1,5 @@
 ---
 title: "Fry's Food"
 url: /scottsdale/frys-food/
-shop: supermarket
+shop: Supermarkt
 ---

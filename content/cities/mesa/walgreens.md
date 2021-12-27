@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mesa/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bishops"
 url: /tempe/bishops/
-shop: hairdresser
+shop: Friseur
 ---

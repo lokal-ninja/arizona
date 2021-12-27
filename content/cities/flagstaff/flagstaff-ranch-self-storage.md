@@ -1,5 +1,5 @@
 ---
 title: "Flagstaff Ranch Self Storage"
 url: /flagstaff/flagstaff-ranch-self-storage/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Storage"
 url: /marana/national-storage/
-shop: storage rental
+shop: Mieten
 ---

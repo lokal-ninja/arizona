@@ -1,5 +1,5 @@
 ---
 title: "Apache Market"
 url: /tombstone/apache-market/
-shop: convenience
+shop: Lebensmittel
 ---

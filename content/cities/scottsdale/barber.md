@@ -1,5 +1,5 @@
 ---
 title: "Barber"
 url: /scottsdale/barber/
-shop: hairdresser
+shop: Friseur
 ---

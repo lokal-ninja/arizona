@@ -1,5 +1,5 @@
 ---
 title: "FoodMart"
 url: /phoenix/foodmart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colby Collision"
 url: /flagstaff/colby-collision/
-shop: car repair
+shop: Autowerkstatt
 ---
