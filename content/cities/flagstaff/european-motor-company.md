@@ -1,5 +1,5 @@
 ---
 title: "European Motor Company"
 url: /flagstaff/european-motor-company/
-shop: Autowerkstatt
+shop: car repair
 ---

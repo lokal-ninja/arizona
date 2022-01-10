@@ -1,5 +1,5 @@
 ---
 title: "TitleBuck$"
 url: /phoenix/titlebuck/
-shop: Allgemein
+shop: shop
 ---

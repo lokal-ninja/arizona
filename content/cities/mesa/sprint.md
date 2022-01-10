@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /mesa/sprint/
-shop: Handy
+shop: mobile phone
 ---

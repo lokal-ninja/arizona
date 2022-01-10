@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /oro-valley/petsmart/
-shop: Tiere
+shop: pet
 ---

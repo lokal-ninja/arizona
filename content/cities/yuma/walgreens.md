@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /yuma/walgreens/
-shop: Drogerie
+shop: chemist
 ---

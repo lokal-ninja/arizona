@@ -1,5 +1,5 @@
 ---
 title: "Heartfelt Hearing"
 url: /mesa/heartfelt-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /marana/autozone/
-shop: Autoteile
+shop: car parts
 ---

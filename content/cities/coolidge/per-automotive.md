@@ -1,5 +1,5 @@
 ---
 title: "PER Automotive"
 url: /coolidge/per-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

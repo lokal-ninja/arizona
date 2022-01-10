@@ -1,5 +1,5 @@
 ---
 title: "Studio G Vinyl Records"
 url: /tuscon/studio-g-vinyl-records/
-shop: Musik
+shop: music
 ---

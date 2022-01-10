@@ -1,5 +1,5 @@
 ---
 title: "Southwest Transmission"
 url: /holbrook/southwest-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

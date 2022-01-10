@@ -1,5 +1,5 @@
 ---
 title: "Nizhóní Spa"
 url: /apache-junction/nizhoni-spa/
-shop: Kosmetik
+shop: beauty
 ---

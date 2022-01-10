@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /apache-junction/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

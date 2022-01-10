@@ -1,5 +1,5 @@
 ---
 title: "Del Sol Market"
 url: /yuma/del-sol-market/
-shop: Supermarkt
+shop: supermarket
 ---

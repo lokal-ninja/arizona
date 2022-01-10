@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /peoria/petco/
-shop: Tiere
+shop: pet
 ---

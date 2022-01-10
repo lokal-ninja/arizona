@@ -1,5 +1,5 @@
 ---
 title: "Pinnacle Nissan"
 url: /scottsdale/pinnacle-nissan/
-shop: Autohaus
+shop: car
 ---

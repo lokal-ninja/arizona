@@ -1,5 +1,5 @@
 ---
 title: "Muffler Masters"
 url: /glendale/muffler-masters/
-shop: Autowerkstatt
+shop: car repair
 ---

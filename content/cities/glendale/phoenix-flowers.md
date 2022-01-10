@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Flowers"
 url: /glendale/phoenix-flowers/
-shop: Blumen
+shop: florist
 ---

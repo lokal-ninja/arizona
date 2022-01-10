@@ -1,5 +1,5 @@
 ---
 title: "Cloud Pool Supply"
 url: /mesa/cloud-pool-supply/
-shop: Pool
+shop: swimming pool
 ---

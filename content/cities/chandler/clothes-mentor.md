@@ -1,5 +1,5 @@
 ---
 title: "Clothes Mentor"
 url: /chandler/clothes-mentor/
-shop: Kleidung
+shop: clothes
 ---

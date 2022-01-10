@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /mesa/francescas/
-shop: Kleidung
+shop: clothes
 ---

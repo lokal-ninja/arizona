@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /phoenix/rei/
-shop: Outdoor
+shop: outdoor
 ---

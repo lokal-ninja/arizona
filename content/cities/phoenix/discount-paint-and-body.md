@@ -1,5 +1,5 @@
 ---
 title: "Discount Paint And Body"
 url: /phoenix/discount-paint-and-body/
-shop: Autowerkstatt
+shop: car repair
 ---

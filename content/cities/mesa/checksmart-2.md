@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /mesa/checksmart-2/
-shop: Leiher
+shop: pawnbroker
 ---

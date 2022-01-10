@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /mesa/chevron-5/
-shop: Lebensmittel
+shop: convenience
 ---

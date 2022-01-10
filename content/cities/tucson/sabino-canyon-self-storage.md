@@ -1,5 +1,5 @@
 ---
 title: "Sabino Canyon Self Storage"
 url: /tucson/sabino-canyon-self-storage/
-shop: Mieten
+shop: storage rental
 ---

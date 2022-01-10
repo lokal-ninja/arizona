@@ -1,5 +1,5 @@
 ---
 title: "The Vapor Vault"
 url: /el-mirage/the-vapor-vault/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Florist Plaza"
 url: /phoenix/my-florist-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

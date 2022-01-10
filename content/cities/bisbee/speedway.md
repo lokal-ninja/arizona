@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bisbee/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

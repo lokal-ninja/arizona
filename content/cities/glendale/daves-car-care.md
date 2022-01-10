@@ -1,5 +1,5 @@
 ---
 title: "Dave's Car Care"
 url: /glendale/daves-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

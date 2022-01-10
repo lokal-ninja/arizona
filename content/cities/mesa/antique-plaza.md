@@ -1,5 +1,5 @@
 ---
 title: "Antique Plaza"
 url: /mesa/antique-plaza/
-shop: Antiquitäten
+shop: antiques
 ---

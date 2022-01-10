@@ -1,5 +1,5 @@
 ---
 title: "Kerby's Furniture"
 url: /mesa/kerbys-furniture/
-shop: Möbel
+shop: furniture
 ---

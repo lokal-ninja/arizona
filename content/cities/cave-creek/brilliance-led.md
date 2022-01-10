@@ -1,5 +1,5 @@
 ---
 title: "Brilliance LED"
 url: /cave-creek/brilliance-led/
-shop: Lampen
+shop: lamps
 ---

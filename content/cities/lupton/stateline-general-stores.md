@@ -1,5 +1,5 @@
 ---
 title: "Stateline General Stores"
 url: /lupton/stateline-general-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /scottsdale/life-storage-3/
-shop: Mieten
+shop: storage rental
 ---

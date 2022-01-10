@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /glendale/dress-barn/
-shop: Kleidung
+shop: clothes
 ---

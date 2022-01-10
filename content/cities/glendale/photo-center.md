@@ -1,5 +1,5 @@
 ---
 title: "Photo Center"
 url: /glendale/photo-center/
-shop: Foto
+shop: photo
 ---

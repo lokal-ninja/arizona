@@ -1,5 +1,5 @@
 ---
 title: "Blessingdales Thrift Store"
 url: /tucson/blessingdales-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

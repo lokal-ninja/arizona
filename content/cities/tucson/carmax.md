@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /tucson/carmax/
-shop: Autohaus
+shop: car
 ---

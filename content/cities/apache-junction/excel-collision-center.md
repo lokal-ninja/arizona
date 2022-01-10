@@ -1,5 +1,5 @@
 ---
 title: "Excel Collision Center"
 url: /apache-junction/excel-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

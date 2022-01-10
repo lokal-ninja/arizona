@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Motorsports"
 url: /tempe/xtreme-motorsports/
-shop: Autowerkstatt
+shop: car repair
 ---

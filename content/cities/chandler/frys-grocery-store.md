@@ -1,5 +1,5 @@
 ---
 title: "Fry's Grocery Store"
 url: /chandler/frys-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

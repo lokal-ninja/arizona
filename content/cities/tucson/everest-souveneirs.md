@@ -1,5 +1,5 @@
 ---
 title: "Everest Souveneirs"
 url: /tucson/everest-souveneirs/
-shop: Andenken
+shop: gift
 ---

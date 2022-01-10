@@ -1,5 +1,5 @@
 ---
 title: "Olsen's Grain"
 url: /prescott/olsens-grain/
-shop: Tiere
+shop: pet
 ---

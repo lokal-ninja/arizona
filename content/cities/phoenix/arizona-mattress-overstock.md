@@ -1,5 +1,5 @@
 ---
 title: "Arizona Mattress Overstock"
 url: /phoenix/arizona-mattress-overstock/
-shop: Betten
+shop: bed
 ---

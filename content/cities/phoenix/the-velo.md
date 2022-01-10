@@ -1,5 +1,5 @@
 ---
 title: "The Velo"
 url: /phoenix/the-velo/
-shop: Fahrrad
+shop: bicycle
 ---

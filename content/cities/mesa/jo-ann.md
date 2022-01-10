@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /mesa/jo-ann/
-shop: Basteln
+shop: craft
 ---

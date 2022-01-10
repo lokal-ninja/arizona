@@ -1,5 +1,5 @@
 ---
 title: "Southwestern Eye Center"
 url: /phoenix/southwestern-eye-center/
-shop: Optiker
+shop: optician
 ---

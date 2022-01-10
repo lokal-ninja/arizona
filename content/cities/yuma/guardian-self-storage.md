@@ -1,5 +1,5 @@
 ---
 title: "Guardian Self Storage"
 url: /yuma/guardian-self-storage/
-shop: Baumarkt
+shop: doityourself
 ---

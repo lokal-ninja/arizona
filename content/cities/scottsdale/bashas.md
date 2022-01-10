@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /scottsdale/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /oro-valley/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

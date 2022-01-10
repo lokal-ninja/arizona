@@ -1,5 +1,5 @@
 ---
 title: "Chapman BMW Chandler"
 url: /chandler/chapman-bmw-chandler/
-shop: Autohaus
+shop: car
 ---

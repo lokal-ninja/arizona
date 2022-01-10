@@ -1,5 +1,5 @@
 ---
 title: "JS Jones Enterprises"
 url: /mesa/js-jones-enterprises/
-shop: Nähzubehör
+shop: sewing
 ---

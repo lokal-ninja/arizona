@@ -1,5 +1,5 @@
 ---
 title: "Fastmarket"
 url: /glendale/fastmarket/
-shop: Lebensmittel
+shop: convenience
 ---

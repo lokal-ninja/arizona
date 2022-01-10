@@ -1,5 +1,5 @@
 ---
 title: "Autobahn Collision"
 url: /chandler/autobahn-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

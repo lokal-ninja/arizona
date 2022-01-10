@@ -1,5 +1,5 @@
 ---
 title: "The Lift Shop"
 url: /phoenix/the-lift-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

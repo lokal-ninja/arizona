@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Mall"
 url: /mesa/fiesta-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

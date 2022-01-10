@@ -1,5 +1,5 @@
 ---
 title: "Furry Beginnings Pet Spa"
 url: /gilbert/furry-beginnings-pet-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

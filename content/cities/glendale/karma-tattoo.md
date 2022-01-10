@@ -1,5 +1,5 @@
 ---
 title: "Karma Tattoo"
 url: /glendale/karma-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

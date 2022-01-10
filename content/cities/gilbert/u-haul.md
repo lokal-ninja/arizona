@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /gilbert/u-haul/
-shop: Mieten
+shop: storage rental
 ---

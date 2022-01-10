@@ -1,5 +1,5 @@
 ---
 title: "FitLife Med Spa"
 url: /chandler/fitlife-med-spa/
-shop: Massage
+shop: massage
 ---

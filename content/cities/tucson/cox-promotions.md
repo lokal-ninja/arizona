@@ -1,5 +1,5 @@
 ---
 title: "Cox Promotions"
 url: /tucson/cox-promotions/
-shop: Radiotechnik
+shop: radiotechnics
 ---

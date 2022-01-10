@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /mesa/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

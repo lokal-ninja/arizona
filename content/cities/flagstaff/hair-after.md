@@ -1,5 +1,5 @@
 ---
 title: "Hair After"
 url: /flagstaff/hair-after/
-shop: Friseur
+shop: hairdresser
 ---

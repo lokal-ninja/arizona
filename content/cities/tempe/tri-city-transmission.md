@@ -1,5 +1,5 @@
 ---
 title: "Tri-City Transmission"
 url: /tempe/tri-city-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

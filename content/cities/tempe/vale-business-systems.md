@@ -1,5 +1,5 @@
 ---
 title: "Vale Business Systems"
 url: /tempe/vale-business-systems/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /tempe/marshalls/
-shop: Warenhaus
+shop: department store
 ---

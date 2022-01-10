@@ -1,5 +1,5 @@
 ---
 title: "Kelly Automotive"
 url: /mesa/kelly-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

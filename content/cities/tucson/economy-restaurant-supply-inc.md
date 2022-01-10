@@ -1,5 +1,5 @@
 ---
 title: "Economy Restaurant Supply Inc."
 url: /tucson/economy-restaurant-supply-inc/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /mesa/quiktrip-7/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PIEfection"
 url: /mesa/piefection/
-shop: Bäckerei
+shop: bakery
 ---

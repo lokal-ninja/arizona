@@ -1,5 +1,5 @@
 ---
 title: "Cerreta Candy Company"
 url: /glendale/cerreta-candy-company/
-shop: Süßwaren
+shop: confectionery
 ---

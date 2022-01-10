@@ -1,5 +1,5 @@
 ---
 title: "Walmart Auto Care Centers"
 url: /mesa/walmart-auto-care-centers/
-shop: Reifen
+shop: tyres
 ---

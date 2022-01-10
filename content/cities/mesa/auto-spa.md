@@ -1,5 +1,5 @@
 ---
 title: "Auto Spa"
 url: /mesa/auto-spa/
-shop: Autowerkstatt
+shop: car repair
 ---

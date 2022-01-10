@@ -1,5 +1,5 @@
 ---
 title: "Jim Click Hyundai Mazda"
 url: /tucson/jim-click-hyundai-mazda/
-shop: Autohaus
+shop: car
 ---

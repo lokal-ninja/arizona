@@ -1,5 +1,5 @@
 ---
 title: "Dexcom"
 url: /mesa/dexcom/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /sedona/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

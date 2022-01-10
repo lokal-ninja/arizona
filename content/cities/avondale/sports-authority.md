@@ -1,5 +1,5 @@
 ---
 title: "Sports Authority"
 url: /avondale/sports-authority/
-shop: Sport
+shop: sports
 ---

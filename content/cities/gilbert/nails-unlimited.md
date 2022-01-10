@@ -1,5 +1,5 @@
 ---
 title: "Nails Unlimited"
 url: /gilbert/nails-unlimited/
-shop: Kosmetik
+shop: beauty
 ---

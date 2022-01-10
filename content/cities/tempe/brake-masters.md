@@ -1,5 +1,5 @@
 ---
 title: "Brake Masters"
 url: /tempe/brake-masters/
-shop: Autowerkstatt
+shop: car repair
 ---

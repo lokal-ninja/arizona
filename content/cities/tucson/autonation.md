@@ -1,5 +1,5 @@
 ---
 title: "AutoNation"
 url: /tucson/autonation/
-shop: Autohaus
+shop: car
 ---

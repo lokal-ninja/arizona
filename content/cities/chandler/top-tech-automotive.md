@@ -1,5 +1,5 @@
 ---
 title: "Top Tech Automotive"
 url: /chandler/top-tech-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

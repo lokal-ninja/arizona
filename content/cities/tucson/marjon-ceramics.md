@@ -1,5 +1,5 @@
 ---
 title: "Marjon Ceramics"
 url: /tucson/marjon-ceramics/
-shop: Lebensmittel
+shop: convenience
 ---

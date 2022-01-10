@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /sun-city-west/bealls-outlet/
-shop: Warenhaus
+shop: department store
 ---

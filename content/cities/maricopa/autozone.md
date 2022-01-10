@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /maricopa/autozone/
-shop: Autoteile
+shop: car parts
 ---

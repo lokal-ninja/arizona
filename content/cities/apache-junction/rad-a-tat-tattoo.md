@@ -1,5 +1,5 @@
 ---
 title: "Rad-A-Tat Tattoo"
 url: /apache-junction/rad-a-tat-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

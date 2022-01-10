@@ -1,5 +1,5 @@
 ---
 title: "Spa Nails"
 url: /tucson/spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

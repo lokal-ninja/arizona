@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /tempe/ikea/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camelback Collectibles"
 url: /mesa/camelback-collectibles/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A Family Discount Storage"
 url: /tucson/a-family-discount-storage/
-shop: Mieten
+shop: storage rental
 ---

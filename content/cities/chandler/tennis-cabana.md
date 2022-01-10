@@ -1,5 +1,5 @@
 ---
 title: "Tennis Cabana"
 url: /chandler/tennis-cabana/
-shop: Sport
+shop: sports
 ---

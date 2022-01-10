@@ -1,5 +1,5 @@
 ---
 title: "Carlife"
 url: /glendale/carlife/
-shop: Autowerkstatt
+shop: car repair
 ---

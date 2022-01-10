@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /tempe/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CORE Automotive"
 url: /tempe/core-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

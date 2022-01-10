@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /queen-creek/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

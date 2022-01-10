@@ -1,5 +1,5 @@
 ---
 title: "Hi-Health"
 url: /fountain-hills/hi-health/
-shop: Bioladen
+shop: health food
 ---

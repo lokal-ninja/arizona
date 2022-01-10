@@ -1,5 +1,5 @@
 ---
 title: "Quartzsite Beauty Salon"
 url: /quartzsite/quartzsite-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

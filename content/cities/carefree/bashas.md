@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /carefree/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

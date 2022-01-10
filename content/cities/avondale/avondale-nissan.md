@@ -1,5 +1,5 @@
 ---
 title: "Avondale Nissan"
 url: /avondale/avondale-nissan/
-shop: Autohaus
+shop: car
 ---

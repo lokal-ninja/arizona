@@ -1,5 +1,5 @@
 ---
 title: "Campus Collision"
 url: /flagstaff/campus-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clayton's Automotive"
 url: /peoria/claytons-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

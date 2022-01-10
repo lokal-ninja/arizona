@@ -1,5 +1,5 @@
 ---
 title: "McGaugh's Beer and Smoke"
 url: /flagstaff/mcgaughs-beer-and-smoke/
-shop: Spirituosen
+shop: alcohol
 ---

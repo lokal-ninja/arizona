@@ -1,5 +1,5 @@
 ---
 title: "Passion Nail Salon"
 url: /flagstaff/passion-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

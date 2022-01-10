@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /flagstaff/mattress-firm/
-shop: Betten
+shop: bed
 ---

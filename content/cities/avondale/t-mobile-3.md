@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /avondale/t-mobile-3/
-shop: Handy
+shop: mobile phone
 ---

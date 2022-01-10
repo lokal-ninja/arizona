@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /phoenix/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

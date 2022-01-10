@@ -1,5 +1,5 @@
 ---
 title: "Straight Line Suspension"
 url: /mesa/straight-line-suspension/
-shop: Autowerkstatt
+shop: car repair
 ---

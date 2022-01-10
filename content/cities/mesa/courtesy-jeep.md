@@ -1,5 +1,5 @@
 ---
 title: "Courtesy Jeep"
 url: /mesa/courtesy-jeep/
-shop: Autohaus
+shop: car
 ---

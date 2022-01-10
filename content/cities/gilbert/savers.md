@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /gilbert/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

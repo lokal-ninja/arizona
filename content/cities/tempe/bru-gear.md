@@ -1,5 +1,5 @@
 ---
 title: "Bru Gear"
 url: /tempe/bru-gear/
-shop: Brauerei
+shop: brewery
 ---

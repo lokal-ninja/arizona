@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /buckeye/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vistoso Automotive"
 url: /oro-valley/vistoso-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

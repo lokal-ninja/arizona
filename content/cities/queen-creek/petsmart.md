@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /queen-creek/petsmart/
-shop: Tiere
+shop: pet
 ---

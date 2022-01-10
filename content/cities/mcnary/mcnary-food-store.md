@@ -1,5 +1,5 @@
 ---
 title: "McNary Food Store"
 url: /mcnary/mcnary-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aquienta Pools"
 url: /gilbert/aquienta-pools/
-shop: Pool
+shop: swimming pool
 ---

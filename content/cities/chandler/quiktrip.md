@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /chandler/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

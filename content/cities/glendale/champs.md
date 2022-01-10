@@ -1,5 +1,5 @@
 ---
 title: "Champs"
 url: /glendale/champs/
-shop: Autowerkstatt
+shop: car repair
 ---

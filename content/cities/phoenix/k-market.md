@@ -1,5 +1,5 @@
 ---
 title: "K-Market"
 url: /phoenix/k-market/
-shop: Lebensmittel
+shop: convenience
 ---

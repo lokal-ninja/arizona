@@ -1,5 +1,5 @@
 ---
 title: "CES Tools"
 url: /mesa/ces-tools/
-shop: Eisenwaren
+shop: hardware
 ---

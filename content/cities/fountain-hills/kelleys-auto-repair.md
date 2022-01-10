@@ -1,5 +1,5 @@
 ---
 title: "Kelley's Auto Repair"
 url: /fountain-hills/kelleys-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

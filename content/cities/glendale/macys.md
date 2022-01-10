@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /glendale/macys/
-shop: Warenhaus
+shop: department store
 ---

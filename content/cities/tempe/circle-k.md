@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tempe/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /phoenix/autozone-15/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multitech"
 url: /globe/multitech/
-shop: Sicherheit
+shop: security
 ---

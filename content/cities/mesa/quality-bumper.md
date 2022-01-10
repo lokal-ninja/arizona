@@ -1,5 +1,5 @@
 ---
 title: "Quality Bumper"
 url: /mesa/quality-bumper/
-shop: Autoteile
+shop: car parts
 ---

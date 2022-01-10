@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /tucson/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

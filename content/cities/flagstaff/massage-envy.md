@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /flagstaff/massage-envy/
-shop: Massage
+shop: massage
 ---

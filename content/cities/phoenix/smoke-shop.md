@@ -1,5 +1,5 @@
 ---
 title: "Smoke Shop"
 url: /phoenix/smoke-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porter's Market"
 url: /yuma/porters-market/
-shop: Lebensmittel
+shop: convenience
 ---

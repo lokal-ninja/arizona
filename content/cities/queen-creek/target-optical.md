@@ -1,5 +1,5 @@
 ---
 title: "Target Optical"
 url: /queen-creek/target-optical/
-shop: Optiker
+shop: optician
 ---

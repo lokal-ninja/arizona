@@ -1,5 +1,5 @@
 ---
 title: "Arizona Hardware"
 url: /gilbert/arizona-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

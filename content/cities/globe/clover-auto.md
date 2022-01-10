@@ -1,5 +1,5 @@
 ---
 title: "Clover Auto"
 url: /globe/clover-auto/
-shop: Autohaus
+shop: car
 ---

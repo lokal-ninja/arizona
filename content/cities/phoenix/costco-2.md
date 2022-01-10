@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /phoenix/costco-2/
-shop: Großhandel
+shop: wholesale
 ---

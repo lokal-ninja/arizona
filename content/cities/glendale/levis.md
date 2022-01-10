@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /glendale/levis/
-shop: Kleidung
+shop: clothes
 ---

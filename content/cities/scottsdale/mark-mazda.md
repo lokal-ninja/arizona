@@ -1,5 +1,5 @@
 ---
 title: "Mark Mazda"
 url: /scottsdale/mark-mazda/
-shop: Autohaus
+shop: car
 ---

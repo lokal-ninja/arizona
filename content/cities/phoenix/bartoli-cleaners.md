@@ -1,5 +1,5 @@
 ---
 title: "Bartoli Cleaners"
 url: /phoenix/bartoli-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

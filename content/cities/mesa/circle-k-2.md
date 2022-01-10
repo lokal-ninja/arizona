@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /mesa/circle-k-2/
-shop: Lebensmittel
+shop: convenience
 ---

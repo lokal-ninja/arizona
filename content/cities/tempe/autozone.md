@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tempe/autozone/
-shop: Autoteile
+shop: car parts
 ---

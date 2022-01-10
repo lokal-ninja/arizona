@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /show-low/speedway-3/
-shop: Lebensmittel
+shop: convenience
 ---

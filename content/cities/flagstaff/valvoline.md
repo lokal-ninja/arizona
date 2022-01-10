@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /flagstaff/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

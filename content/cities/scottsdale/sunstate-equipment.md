@@ -1,5 +1,5 @@
 ---
 title: "Sunstate Equipment"
 url: /scottsdale/sunstate-equipment/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tire Masters"
 url: /glendale/tire-masters/
-shop: Autowerkstatt
+shop: car repair
 ---

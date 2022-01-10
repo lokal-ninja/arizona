@@ -1,5 +1,5 @@
 ---
 title: "Minute Mart"
 url: /phoenix/minute-mart/
-shop: Lebensmittel
+shop: convenience
 ---

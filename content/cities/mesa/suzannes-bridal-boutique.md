@@ -1,5 +1,5 @@
 ---
 title: "Suzanne's Bridal Boutique"
 url: /mesa/suzannes-bridal-boutique/
-shop: Kleidung
+shop: clothes
 ---

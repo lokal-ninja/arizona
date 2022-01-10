@@ -1,5 +1,5 @@
 ---
 title: "Schorie Auto Repair"
 url: /mesa/schorie-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

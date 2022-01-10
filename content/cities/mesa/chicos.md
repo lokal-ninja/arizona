@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /mesa/chicos/
-shop: Kleidung
+shop: clothes
 ---

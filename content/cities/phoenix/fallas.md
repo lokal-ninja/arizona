@@ -1,5 +1,5 @@
 ---
 title: "Fallas"
 url: /phoenix/fallas/
-shop: Kleidung
+shop: clothes
 ---

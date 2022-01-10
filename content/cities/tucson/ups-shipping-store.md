@@ -1,5 +1,5 @@
 ---
 title: "UPS Shipping Store"
 url: /tucson/ups-shipping-store/
-shop: Allgemein
+shop: shop
 ---

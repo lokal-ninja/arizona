@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /mesa/bealls-outlet/
-shop: Warenhaus
+shop: department store
 ---

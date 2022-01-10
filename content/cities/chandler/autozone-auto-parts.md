@@ -1,5 +1,5 @@
 ---
 title: "AutoZone Auto Parts"
 url: /chandler/autozone-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

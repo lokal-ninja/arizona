@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /glendale/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

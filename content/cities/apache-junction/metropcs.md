@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /apache-junction/metropcs/
-shop: Handy
+shop: mobile phone
 ---

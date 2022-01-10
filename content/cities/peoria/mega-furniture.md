@@ -1,5 +1,5 @@
 ---
 title: "Mega Furniture"
 url: /peoria/mega-furniture/
-shop: Möbel
+shop: furniture
 ---

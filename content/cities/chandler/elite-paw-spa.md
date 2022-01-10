@@ -1,5 +1,5 @@
 ---
 title: "Elite Paw Spa"
 url: /chandler/elite-paw-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

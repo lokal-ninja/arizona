@@ -1,5 +1,5 @@
 ---
 title: "RedBox"
 url: /flagstaff/redbox/
-shop: Videothek
+shop: video
 ---

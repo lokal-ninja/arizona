@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /sedona/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

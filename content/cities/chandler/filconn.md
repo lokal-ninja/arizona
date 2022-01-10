@@ -1,5 +1,5 @@
 ---
 title: "Filconn"
 url: /chandler/filconn/
-shop: Elektrisch
+shop: electrical
 ---

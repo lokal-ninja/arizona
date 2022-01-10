@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /sierra-vista/gamestop/
-shop: Videospiele
+shop: video games
 ---

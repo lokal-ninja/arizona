@@ -1,5 +1,5 @@
 ---
 title: "Wigs Amor"
 url: /phoenix/wigs-amor/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

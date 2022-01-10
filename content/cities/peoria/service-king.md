@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /peoria/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

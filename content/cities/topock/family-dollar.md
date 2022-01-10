@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /topock/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

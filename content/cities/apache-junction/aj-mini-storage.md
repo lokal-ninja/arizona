@@ -1,5 +1,5 @@
 ---
 title: "AJ Mini Storage"
 url: /apache-junction/aj-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

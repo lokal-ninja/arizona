@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /flagstaff/gamestop/
-shop: Videospiele
+shop: video games
 ---

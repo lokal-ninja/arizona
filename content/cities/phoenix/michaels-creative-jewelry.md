@@ -1,5 +1,5 @@
 ---
 title: "Michael's Creative Jewelry"
 url: /phoenix/michaels-creative-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

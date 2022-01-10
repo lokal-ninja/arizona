@@ -1,5 +1,5 @@
 ---
 title: "Arizona Reptile Center"
 url: /mesa/arizona-reptile-center/
-shop: Tiere
+shop: pet
 ---

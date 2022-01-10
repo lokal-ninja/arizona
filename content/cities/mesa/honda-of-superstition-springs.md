@@ -1,5 +1,5 @@
 ---
 title: "Honda of Superstition Springs"
 url: /mesa/honda-of-superstition-springs/
-shop: Autohaus
+shop: car
 ---

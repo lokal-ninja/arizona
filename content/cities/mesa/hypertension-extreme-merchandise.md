@@ -1,5 +1,5 @@
 ---
 title: "Hypertension Extreme Merchandise"
 url: /mesa/hypertension-extreme-merchandise/
-shop: Kleidung
+shop: clothes
 ---

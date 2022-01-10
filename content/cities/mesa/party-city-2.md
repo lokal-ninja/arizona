@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /mesa/party-city-2/
-shop: Partyzubehör
+shop: party
 ---

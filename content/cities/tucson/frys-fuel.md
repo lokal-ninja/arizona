@@ -1,5 +1,5 @@
 ---
 title: "Fry's Fuel"
 url: /tucson/frys-fuel/
-shop: Kiosk
+shop: kiosk
 ---

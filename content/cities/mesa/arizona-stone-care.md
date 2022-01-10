@@ -1,5 +1,5 @@
 ---
 title: "Arizona Stone Care"
 url: /mesa/arizona-stone-care/
-shop: Fußböden
+shop: flooring
 ---

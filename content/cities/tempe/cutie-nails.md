@@ -1,5 +1,5 @@
 ---
 title: "Cutie Nails"
 url: /tempe/cutie-nails/
-shop: Kosmetik
+shop: beauty
 ---

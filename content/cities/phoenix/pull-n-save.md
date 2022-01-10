@@ -1,5 +1,5 @@
 ---
 title: "Pull-N-Save"
 url: /phoenix/pull-n-save/
-shop: Allgemein
+shop: shop
 ---

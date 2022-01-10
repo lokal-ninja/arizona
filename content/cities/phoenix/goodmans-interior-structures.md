@@ -1,5 +1,5 @@
 ---
 title: "Goodmans Interior Structures"
 url: /phoenix/goodmans-interior-structures/
-shop: Möbel
+shop: furniture
 ---

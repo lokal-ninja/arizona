@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /mesa/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /willcox/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW North Scottsdale"
 url: /phoenix/bmw-north-scottsdale/
-shop: Autohaus
+shop: car
 ---

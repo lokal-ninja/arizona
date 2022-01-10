@@ -1,5 +1,5 @@
 ---
 title: "PRO Blind Repair"
 url: /cave-creek/pro-blind-repair/
-shop: Jalousien
+shop: window blind
 ---

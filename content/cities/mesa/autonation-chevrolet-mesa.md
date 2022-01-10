@@ -1,5 +1,5 @@
 ---
 title: "AutoNation Chevrolet - Mesa"
 url: /mesa/autonation-chevrolet-mesa/
-shop: Autohaus
+shop: car
 ---

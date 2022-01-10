@@ -1,5 +1,5 @@
 ---
 title: "Sterling Financial"
 url: /tempe/sterling-financial/
-shop: Leiher
+shop: pawnbroker
 ---

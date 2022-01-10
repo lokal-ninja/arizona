@@ -1,5 +1,5 @@
 ---
 title: "Esparza Auto Service"
 url: /mesa/esparza-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

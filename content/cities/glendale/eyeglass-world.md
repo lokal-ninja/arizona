@@ -1,5 +1,5 @@
 ---
 title: "Eyeglass World"
 url: /glendale/eyeglass-world/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /yuma/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

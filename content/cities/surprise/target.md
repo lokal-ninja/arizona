@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /surprise/target/
-shop: Warenhaus
+shop: department store
 ---

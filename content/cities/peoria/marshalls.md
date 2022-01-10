@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /peoria/marshalls/
-shop: Warenhaus
+shop: department store
 ---

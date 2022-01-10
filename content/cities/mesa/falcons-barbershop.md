@@ -1,5 +1,5 @@
 ---
 title: "Falcons Barbershop"
 url: /mesa/falcons-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

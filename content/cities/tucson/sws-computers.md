@@ -1,5 +1,5 @@
 ---
 title: "SWS Computers"
 url: /tucson/sws-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imperial Tile"
 url: /phoenix/imperial-tile/
-shop: Fliesen
+shop: tiles
 ---

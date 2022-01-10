@@ -1,5 +1,5 @@
 ---
 title: "Sands Kia"
 url: /surprise/sands-kia/
-shop: Autohaus
+shop: car
 ---

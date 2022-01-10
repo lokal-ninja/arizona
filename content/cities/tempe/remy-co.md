@@ -1,5 +1,5 @@
 ---
 title: "Remy Co"
 url: /tempe/remy-co/
-shop: Kosmetik
+shop: beauty
 ---

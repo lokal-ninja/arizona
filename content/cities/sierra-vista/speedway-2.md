@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sierra-vista/speedway-2/
-shop: Lebensmittel
+shop: convenience
 ---

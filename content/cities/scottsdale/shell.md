@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /scottsdale/shell/
-shop: Lebensmittel
+shop: convenience
 ---

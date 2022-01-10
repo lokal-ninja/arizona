@@ -1,5 +1,5 @@
 ---
 title: "Sonora Nissan"
 url: /yuma/sonora-nissan/
-shop: Autohaus
+shop: car
 ---

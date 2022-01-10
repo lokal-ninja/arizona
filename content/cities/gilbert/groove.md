@@ -1,5 +1,5 @@
 ---
 title: "Groove"
 url: /gilbert/groove/
-shop: Kleidung
+shop: clothes
 ---

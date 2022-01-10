@@ -1,5 +1,5 @@
 ---
 title: "StorageWest"
 url: /scottsdale/storagewest/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sun Valley Imports"
 url: /tempe/sun-valley-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

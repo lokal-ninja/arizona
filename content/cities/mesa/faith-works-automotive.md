@@ -1,5 +1,5 @@
 ---
 title: "Faith Works Automotive"
 url: /mesa/faith-works-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

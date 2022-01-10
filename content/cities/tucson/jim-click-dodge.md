@@ -1,5 +1,5 @@
 ---
 title: "Jim Click Dodge"
 url: /tucson/jim-click-dodge/
-shop: Autohaus
+shop: car
 ---

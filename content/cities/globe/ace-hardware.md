@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /globe/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

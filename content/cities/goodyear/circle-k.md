@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /goodyear/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

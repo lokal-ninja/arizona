@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /peoria/nectar/
-shop: Getränke
+shop: beverages
 ---

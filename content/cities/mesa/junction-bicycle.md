@@ -1,5 +1,5 @@
 ---
 title: "Junction Bicycle"
 url: /mesa/junction-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

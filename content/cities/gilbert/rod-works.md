@@ -1,5 +1,5 @@
 ---
 title: "Rod Works"
 url: /gilbert/rod-works/
-shop: Raumausstattung
+shop: interior decoration
 ---

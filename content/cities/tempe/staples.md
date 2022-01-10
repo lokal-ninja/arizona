@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tempe/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

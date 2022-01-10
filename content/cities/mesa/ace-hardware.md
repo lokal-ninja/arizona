@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /mesa/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

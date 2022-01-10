@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /peoria/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

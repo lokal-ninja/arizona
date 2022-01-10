@@ -1,5 +1,5 @@
 ---
 title: "Bashan Spa Wellness"
 url: /chandler/bashan-spa-wellness/
-shop: Massage
+shop: massage
 ---

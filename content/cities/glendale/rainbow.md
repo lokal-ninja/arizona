@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /glendale/rainbow/
-shop: Kleidung
+shop: clothes
 ---

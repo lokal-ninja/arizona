@@ -1,5 +1,5 @@
 ---
 title: "Mesa Auto Works"
 url: /mesa/mesa-auto-works/
-shop: Autowerkstatt
+shop: car repair
 ---

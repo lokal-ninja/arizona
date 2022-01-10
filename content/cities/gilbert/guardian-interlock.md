@@ -1,5 +1,5 @@
 ---
 title: "Guardian Interlock"
 url: /gilbert/guardian-interlock/
-shop: Elektrisch
+shop: electrical
 ---

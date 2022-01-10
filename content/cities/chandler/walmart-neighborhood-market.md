@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /chandler/walmart-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

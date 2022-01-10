@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /surprise/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

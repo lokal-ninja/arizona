@@ -1,5 +1,5 @@
 ---
 title: "San Tan Self Storage"
 url: /chandler/san-tan-self-storage/
-shop: Mieten
+shop: storage rental
 ---

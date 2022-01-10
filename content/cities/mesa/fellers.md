@@ -1,5 +1,5 @@
 ---
 title: "Fellers"
 url: /mesa/fellers/
-shop: Großhandel
+shop: wholesale
 ---
