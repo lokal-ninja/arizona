@@ -1,6 +1,6 @@
 ---
 title: Guadalupe
 url: /guadalupe/
-latitude: 33.377
-longitude: -111.964
+latitude: 33.378
+longitude: -111.965
 ---

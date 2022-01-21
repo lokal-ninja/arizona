@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
-url: /glendale/boost-mobile-3/
+url: /phoenix/boost-mobile-3/
 shop: mobile phone
 ---
