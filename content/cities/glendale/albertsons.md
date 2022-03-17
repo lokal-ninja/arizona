@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /glendale-phoenix/albertsons/
+url: /glendale/albertsons/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glendale;Phoenix
 url: /glendale-phoenix/
-latitude: 33.598
-longitude: -112.168
+latitude: 33.495
+longitude: -112.221
 ---
