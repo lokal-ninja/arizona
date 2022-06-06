@@ -1,6 +1,6 @@
 ---
 title: Surprise
 url: /surprise/
-latitude: 33.644
+latitude: 33.64
 longitude: -112.358
 ---
