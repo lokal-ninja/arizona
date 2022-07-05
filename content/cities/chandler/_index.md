@@ -1,6 +1,6 @@
 ---
 title: Chandler
 url: /chandler/
-latitude: 33.265
-longitude: -111.856
+latitude: 33.314
+longitude: -111.968
 ---
