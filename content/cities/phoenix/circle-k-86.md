@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /mesa/circle-k-38/
+url: /phoenix/circle-k-86/
 shop: convenience
 ---
