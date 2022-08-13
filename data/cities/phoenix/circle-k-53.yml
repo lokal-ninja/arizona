@@ -1,11 +1,11 @@
-id: 315041956
+id: 289665106
 type: way
-latitude: 33.56709
-longitude: -112.09895
-postcode: "85021"
+latitude: 33.5125
+longitude: -112.07342
+postcode: "85013;85012"
 city: Phoenix
-street: "North 19th Avenue"
-housenumber: 8955
+street: "North Central Avenue"
+housenumber: 
 phone: ""
-opening_hours: "24/7"
-website: ""
+opening_hours: ""
+website: "https://www.circlek.com/"
