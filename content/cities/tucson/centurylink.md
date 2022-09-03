@@ -1,5 +1,5 @@
 ---
-title: "Centurylink"
+title: "CenturyLink"
 url: /tucson/centurylink/
-shop: electronics
+shop: mobile phone
 ---
