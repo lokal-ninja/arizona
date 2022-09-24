@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /tempe/circle-k-14/
+url: /phoenix/circle-k-96/
 shop: convenience
 ---
