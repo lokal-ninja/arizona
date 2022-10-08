@@ -1,6 +1,6 @@
 ---
 title: Nogales
 url: /nogales/
-latitude: 31.335
-longitude: -110.941
+latitude: 31.366
+longitude: -110.938
 ---
