@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
-url: /chandler/bashas/
+url: /sun-lakes/bashas/
 shop: supermarket
 ---
