@@ -1,11 +1,11 @@
-id: 438899721
-type: way
-latitude: 33.36315
-longitude: -111.86029
-postcode: "85202"
+id: 8321712911
+type: node
+latitude: 33.41653
+longitude: -111.8731
+postcode: "85201"
 city: Mesa
-street: "West Guadalupe Road"
-housenumber: 1225
+street: "West Main Street"
+housenumber: 1960
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: ""
 website: ""
