@@ -1,11 +1,11 @@
-id: 2169665274
-type: node
-latitude: 33.37605
-longitude: -112.02926
-postcode: "85042"
+id: 33881655
+type: way
+latitude: 33.56674
+longitude: -112.07258
+postcode: "85020"
 city: Phoenix
-street: "East Baseline Road"
-housenumber: 2435
-phone: "+1-602-232-2115"
+street: "East Dunlap Avenue"
+housenumber: 115
+phone: "+1-480-754-8043"
 opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4293/phoenix-az/whats-new"
+website: "https://www.walmart.com/store/2632/phoenix-az/whats-new"
