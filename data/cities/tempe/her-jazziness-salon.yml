@@ -7,5 +7,5 @@ city: Tempe
 street: "West 6th Street"
 housenumber: 115
 phone: "(866) 904-0501"
-opening_hours: "Sun-Mon: Closed, Tues-Fri: 9am-5pm, Sat: 10am-4pm"
+opening_hours: "Su,Mo off; Tu-Fr 09:00-17:00; Sa 10:00-16:00"
 website: "www.herjazziness.com"
