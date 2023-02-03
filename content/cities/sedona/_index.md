@@ -1,6 +1,6 @@
 ---
 title: Sedona
 url: /sedona/
-latitude: 34.872
-longitude: -111.76
+latitude: 34.862
+longitude: -111.763
 ---

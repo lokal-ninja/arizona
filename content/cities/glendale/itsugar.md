@@ -1,5 +1,5 @@
 ---
-title: "It'Sugar"
+title: "IT'SUGAR"
 url: /glendale/itsugar/
 shop: confectionery
 ---
