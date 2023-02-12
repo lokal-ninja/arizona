@@ -1,5 +1,0 @@
----
-title: "Circle K"
-url: /sierra-vista/circle-k-4/
-shop: convenience
----

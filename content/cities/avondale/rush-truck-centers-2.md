@@ -1,5 +1,5 @@
 ---
 title: "Rush Truck Centers"
-url: /avondale/rush-truck-centers-2/
+url: /avondale/rush-truck-centers/
 shop: car repair
 ---

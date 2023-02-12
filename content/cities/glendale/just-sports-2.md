@@ -1,5 +1,5 @@
 ---
 title: "Just Sports"
-url: /glendale/just-sports-2/
+url: /glendale/just-sports/
 shop: clothes
 ---
