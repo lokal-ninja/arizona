@@ -1,6 +1,6 @@
 ---
 title: Pine
 url: /pine/
-latitude: 34.385
-longitude: -111.456
+latitude: 34.388
+longitude: -111.455
 ---
