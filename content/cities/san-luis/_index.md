@@ -1,6 +1,6 @@
 ---
 title: San Luis
 url: /san-luis/
-latitude: 32.497
-longitude: -114.756
+latitude: 32.506
+longitude: -114.784
 ---
