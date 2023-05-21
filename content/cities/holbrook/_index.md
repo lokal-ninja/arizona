@@ -1,6 +1,6 @@
 ---
 title: Holbrook
 url: /holbrook/
-latitude: 34.903
-longitude: -110.164
+latitude: 34.906
+longitude: -110.158
 ---
