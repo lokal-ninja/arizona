@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /sun-lakes/u-haul/
+url: /chandler/u-haul/
 shop: storage rental
 ---

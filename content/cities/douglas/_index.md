@@ -1,6 +1,6 @@
 ---
 title: Douglas
 url: /douglas/
-latitude: 31.344
-longitude: -109.533
+latitude: 31.35
+longitude: -109.56
 ---
