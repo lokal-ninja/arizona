@@ -1,6 +1,6 @@
 ---
 title: Peoria
 url: /peoria/
-latitude: 33.595
-longitude: -112.221
+latitude: 33.581
+longitude: -112.24
 ---
