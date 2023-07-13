@@ -1,6 +1,6 @@
 ---
 title: Wittmann
 url: /wittmann/
-latitude: 33.777
-longitude: -112.528
+latitude: 33.765
+longitude: -112.514
 ---
