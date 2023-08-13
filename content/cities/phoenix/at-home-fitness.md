@@ -1,5 +1,5 @@
 ---
 title: "At Home Fitness"
 url: /phoenix/at-home-fitness/
-shop: shop
+shop: fitness equipment
 ---
