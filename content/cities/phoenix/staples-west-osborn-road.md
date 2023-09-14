@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /phoenix/staples/
+url: /phoenix/staples-west-osborn-road/
 shop: office supplies
 ---

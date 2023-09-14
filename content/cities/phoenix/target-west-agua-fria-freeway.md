@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /phoenix/target/
+url: /phoenix/target-west-agua-fria-freeway/
 shop: department store
 ---

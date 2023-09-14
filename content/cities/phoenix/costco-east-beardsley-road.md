@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /phoenix/costco/
+url: /phoenix/costco-east-beardsley-road/
 shop: wholesale
 ---

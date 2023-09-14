@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /mesa/verizon/
+url: /mesa/verizon-south-signal-butte-road/
 shop: mobile phone
 ---

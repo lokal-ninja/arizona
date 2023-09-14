@@ -1,5 +1,5 @@
 ---
 title: "(Vacant)"
-url: /peoria/vacant/
+url: /peoria/vacant-west-olive-avenue/
 shop: shop
 ---

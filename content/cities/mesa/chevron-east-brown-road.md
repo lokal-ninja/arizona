@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /mesa/chevron/
+url: /mesa/chevron-east-brown-road/
 shop: convenience
 ---

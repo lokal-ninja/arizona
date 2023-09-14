@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
-url: /mesa/fantastic-sams/
+url: /mesa/fantastic-sams-south-power-road/
 shop: hairdresser
 ---

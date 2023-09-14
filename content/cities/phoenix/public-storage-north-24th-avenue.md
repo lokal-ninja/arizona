@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /phoenix/public-storage/
+url: /phoenix/public-storage-north-24th-avenue/
 shop: storage rental
 ---

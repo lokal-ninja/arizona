@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /peoria/circle-k/
+url: /peoria/circle-k-west-olive-avenue/
 shop: convenience
 ---

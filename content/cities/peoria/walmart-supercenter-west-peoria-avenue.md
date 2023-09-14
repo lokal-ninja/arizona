@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /peoria/walmart-supercenter/
+url: /peoria/walmart-supercenter-west-peoria-avenue/
 shop: supermarket
 ---

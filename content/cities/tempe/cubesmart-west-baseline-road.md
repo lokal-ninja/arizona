@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /tempe/cubesmart/
+url: /tempe/cubesmart-west-baseline-road/
 shop: storage rental
 ---

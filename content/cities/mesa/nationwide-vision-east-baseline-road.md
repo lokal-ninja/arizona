@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Vision"
-url: /mesa/nationwide-vision/
+url: /mesa/nationwide-vision-east-baseline-road/
 shop: optician
 ---

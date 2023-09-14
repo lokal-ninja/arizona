@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /tempe/walgreens/
+url: /tempe/walgreens-south-mcclintock-drive/
 shop: chemist
 ---

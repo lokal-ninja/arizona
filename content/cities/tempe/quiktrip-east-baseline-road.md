@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /tempe/quiktrip/
+url: /tempe/quiktrip-east-baseline-road/
 shop: convenience
 ---

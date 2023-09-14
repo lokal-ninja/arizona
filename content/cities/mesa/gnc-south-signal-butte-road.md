@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /mesa/gnc/
+url: /mesa/gnc-south-signal-butte-road/
 shop: nutrition supplements
 ---

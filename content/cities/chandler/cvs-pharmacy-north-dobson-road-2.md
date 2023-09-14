@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /chandler/cvs-pharmacy/
+url: /chandler/cvs-pharmacy-north-dobson-road-2/
 shop: chemist
 ---

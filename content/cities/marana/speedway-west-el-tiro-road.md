@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /marana/speedway/
+url: /marana/speedway-west-el-tiro-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
-url: /mesa/hallmark/
+url: /mesa/hallmark-south-signal-butte-road/
 shop: gift
 ---

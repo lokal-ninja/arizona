@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /chandler/verizon/
+url: /chandler/verizon-east-germann-road/
 shop: mobile phone
 ---

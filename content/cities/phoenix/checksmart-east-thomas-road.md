@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
-url: /phoenix/checksmart/
+url: /phoenix/checksmart-east-thomas-road/
 shop: pawnbroker
 ---

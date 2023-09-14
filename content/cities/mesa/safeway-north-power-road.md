@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /mesa/safeway/
+url: /mesa/safeway-north-power-road/
 shop: supermarket
 ---

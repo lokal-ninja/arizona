@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /surprise/quiktrip/
+url: /surprise/quiktrip-west-bell-road/
 shop: convenience
 ---

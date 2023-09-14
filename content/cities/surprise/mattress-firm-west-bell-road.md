@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /surprise/mattress-firm/
+url: /surprise/mattress-firm-west-bell-road/
 shop: bed
 ---

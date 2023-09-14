@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /peoria/albertsons/
+url: /peoria/albertsons-west-deer-valley-road/
 shop: supermarket
 ---

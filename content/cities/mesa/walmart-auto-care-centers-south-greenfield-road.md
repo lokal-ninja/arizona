@@ -1,5 +1,5 @@
 ---
 title: "Walmart Auto Care Centers"
-url: /mesa/walmart-auto-care-centers/
+url: /mesa/walmart-auto-care-centers-south-greenfield-road/
 shop: car repair
 ---

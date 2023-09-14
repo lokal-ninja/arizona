@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /mesa/mattress-firm/
+url: /mesa/mattress-firm-east-southern-avenue/
 shop: bed
 ---

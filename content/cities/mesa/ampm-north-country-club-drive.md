@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /mesa/ampm/
+url: /mesa/ampm-north-country-club-drive/
 shop: convenience
 ---

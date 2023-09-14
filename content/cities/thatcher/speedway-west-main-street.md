@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /thatcher/speedway/
+url: /thatcher/speedway-west-main-street/
 shop: convenience
 ---

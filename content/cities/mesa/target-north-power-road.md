@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /mesa/target/
+url: /mesa/target-north-power-road/
 shop: department store
 ---

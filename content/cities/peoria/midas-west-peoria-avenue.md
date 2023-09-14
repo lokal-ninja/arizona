@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /peoria/midas/
+url: /peoria/midas-west-peoria-avenue/
 shop: car repair
 ---

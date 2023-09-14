@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
-url: /mesa/cost-cutters/
+url: /mesa/cost-cutters-east-baseline-road/
 shop: hairdresser
 ---

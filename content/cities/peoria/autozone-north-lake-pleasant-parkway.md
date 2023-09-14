@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /peoria/autozone/
+url: /peoria/autozone-north-lake-pleasant-parkway/
 shop: car parts
 ---

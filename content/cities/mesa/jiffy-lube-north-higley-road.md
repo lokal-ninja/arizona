@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /mesa/jiffy-lube/
+url: /mesa/jiffy-lube-north-higley-road/
 shop: car repair
 ---

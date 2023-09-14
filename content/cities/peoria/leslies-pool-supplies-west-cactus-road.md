@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Pool Supplies"
-url: /peoria/leslies-pool-supplies/
+url: /peoria/leslies-pool-supplies-west-cactus-road/
 shop: swimming pool
 ---

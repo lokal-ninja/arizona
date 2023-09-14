@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
-url: /mesa/massage-envy/
+url: /mesa/massage-envy-east-mckellips-road/
 shop: massage
 ---

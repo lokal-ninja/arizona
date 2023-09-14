@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /tolleson/quiktrip/
+url: /tolleson/quiktrip-west-buckeye-road/
 shop: convenience
 ---

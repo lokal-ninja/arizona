@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /tempe/discount-tire/
+url: /tempe/discount-tire-west-elliot-road/
 shop: tyres
 ---

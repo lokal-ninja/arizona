@@ -1,5 +1,5 @@
 ---
 title: "Water & Ice"
-url: /mesa/water-and-ice/
+url: /mesa/water-and-ice-north-higley-road/
 shop: beverages
 ---

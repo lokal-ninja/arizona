@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Vision"
-url: /glendale/nationwide-vision/
+url: /glendale/nationwide-vision-west-camelback-road/
 shop: optician
 ---

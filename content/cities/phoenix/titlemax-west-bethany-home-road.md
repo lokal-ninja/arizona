@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
-url: /phoenix/titlemax/
+url: /phoenix/titlemax-west-bethany-home-road/
 shop: pawnbroker
 ---

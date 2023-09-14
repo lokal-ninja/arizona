@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /safford/speedway/
+url: /safford/speedway-east-us-70/
 shop: convenience
 ---

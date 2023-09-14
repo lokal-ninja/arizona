@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /maricopa/circle-k/
+url: /maricopa/circle-k-west-honeycutt-road/
 shop: convenience
 ---

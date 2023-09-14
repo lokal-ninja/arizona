@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /peoria/supercuts/
+url: /peoria/supercuts-west-happy-valley-parkway/
 shop: hairdresser
 ---

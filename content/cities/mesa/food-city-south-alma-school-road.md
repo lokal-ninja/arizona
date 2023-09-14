@@ -1,5 +1,5 @@
 ---
 title: "Food City"
-url: /mesa/food-city/
+url: /mesa/food-city-south-alma-school-road/
 shop: supermarket
 ---

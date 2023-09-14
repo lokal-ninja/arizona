@@ -1,5 +1,5 @@
 ---
 title: "SuperPawn"
-url: /chandler/superpawn/
+url: /chandler/superpawn-north-arizona-avenue/
 shop: pawnbroker
 ---

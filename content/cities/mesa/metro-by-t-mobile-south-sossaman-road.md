@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /mesa/metro-by-t-mobile/
+url: /mesa/metro-by-t-mobile-south-sossaman-road/
 shop: mobile phone
 ---

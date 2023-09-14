@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /mesa/quiktrip/
+url: /mesa/quiktrip-south-ellsworth-road/
 shop: convenience
 ---

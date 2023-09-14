@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /tucson/dollar-tree/
+url: /tucson/dollar-tree-east-broadway-boulevard/
 shop: variety store
 ---

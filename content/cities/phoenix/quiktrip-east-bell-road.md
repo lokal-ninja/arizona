@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /phoenix/quiktrip/
+url: /phoenix/quiktrip-east-bell-road/
 shop: convenience
 ---

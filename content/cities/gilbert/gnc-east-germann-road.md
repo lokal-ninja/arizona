@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /gilbert/gnc/
+url: /gilbert/gnc-east-germann-road/
 shop: nutrition supplements
 ---

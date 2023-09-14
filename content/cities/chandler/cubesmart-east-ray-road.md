@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /chandler/cubesmart/
+url: /chandler/cubesmart-east-ray-road/
 shop: storage rental
 ---

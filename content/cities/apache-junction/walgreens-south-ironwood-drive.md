@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /apache-junction/walgreens/
+url: /apache-junction/walgreens-south-ironwood-drive/
 shop: chemist
 ---

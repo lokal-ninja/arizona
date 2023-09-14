@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /chandler/autozone/
+url: /chandler/autozone-west-ray-road/
 shop: car parts
 ---

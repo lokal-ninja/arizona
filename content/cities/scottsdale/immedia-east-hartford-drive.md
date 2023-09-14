@@ -1,5 +1,5 @@
 ---
 title: "Immedia"
-url: /scottsdale/immedia/
+url: /scottsdale/immedia-east-hartford-drive/
 shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /mesa/shell/
+url: /mesa/shell-east-baseline-road/
 shop: convenience
 ---

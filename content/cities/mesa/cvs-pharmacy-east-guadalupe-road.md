@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /mesa/cvs-pharmacy/
+url: /mesa/cvs-pharmacy-east-guadalupe-road/
 shop: chemist
 ---

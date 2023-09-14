@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /phoenix/ampm/
+url: /phoenix/ampm-west-indian-school-road/
 shop: convenience
 ---

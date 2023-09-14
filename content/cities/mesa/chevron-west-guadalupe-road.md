@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /mesa/chevron/
+url: /mesa/chevron-west-guadalupe-road/
 shop: convenience
 ---

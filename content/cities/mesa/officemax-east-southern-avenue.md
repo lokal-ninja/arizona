@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
-url: /mesa/officemax/
+url: /mesa/officemax-east-southern-avenue/
 shop: office supplies
 ---

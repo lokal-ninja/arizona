@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /gilbert/verizon/
+url: /gilbert/verizon-south-val-vista-drive/
 shop: mobile phone
 ---

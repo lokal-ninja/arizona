@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /peoria/verizon/
+url: /peoria/verizon-west-thunderbird-road/
 shop: mobile phone
 ---

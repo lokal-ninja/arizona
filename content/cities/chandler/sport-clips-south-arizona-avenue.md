@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
-url: /chandler/sport-clips/
+url: /chandler/sport-clips-south-arizona-avenue/
 shop: hairdresser
 ---

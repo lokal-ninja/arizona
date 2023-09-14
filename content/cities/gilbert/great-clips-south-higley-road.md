@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /gilbert/great-clips/
+url: /gilbert/great-clips-south-higley-road/
 shop: hairdresser
 ---

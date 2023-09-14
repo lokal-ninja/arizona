@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /scottsdale/target/
+url: /scottsdale/target-east-talking-stick-way/
 shop: department store
 ---

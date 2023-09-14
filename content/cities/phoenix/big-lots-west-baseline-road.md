@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
-url: /phoenix/big-lots/
+url: /phoenix/big-lots-west-baseline-road/
 shop: department store
 ---

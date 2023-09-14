@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /yuma/walgreens/
+url: /yuma/walgreens-west-24th-street/
 shop: chemist
 ---

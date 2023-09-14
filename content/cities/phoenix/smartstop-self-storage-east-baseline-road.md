@@ -1,5 +1,5 @@
 ---
 title: "SmartStop Self Storage"
-url: /phoenix/smartstop-self-storage/
+url: /phoenix/smartstop-self-storage-east-baseline-road/
 shop: storage rental
 ---

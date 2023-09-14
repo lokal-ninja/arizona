@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /scottsdale/supercuts/
+url: /scottsdale/supercuts-north-scottsdale-road/
 shop: hairdresser
 ---

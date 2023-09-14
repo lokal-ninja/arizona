@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /glendale/circle-k/
+url: /glendale/circle-k-west-olive-avenue-2/
 shop: convenience
 ---

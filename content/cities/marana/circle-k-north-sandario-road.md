@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /marana/circle-k/
+url: /marana/circle-k-north-sandario-road/
 shop: convenience
 ---

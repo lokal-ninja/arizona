@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /tempe/atandt/
+url: /tempe/atandt-east-broadway-road/
 shop: mobile phone
 ---

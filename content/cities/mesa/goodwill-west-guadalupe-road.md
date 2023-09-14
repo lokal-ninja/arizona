@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /mesa/goodwill/
+url: /mesa/goodwill-west-guadalupe-road/
 shop: charity
 ---

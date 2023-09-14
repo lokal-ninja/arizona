@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /tucson/speedway/
+url: /tucson/speedway-east-golf-links-road/
 shop: convenience
 ---

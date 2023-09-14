@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /mesa/circle-k/
+url: /mesa/circle-k-west-guadalupe-road/
 shop: convenience
 ---

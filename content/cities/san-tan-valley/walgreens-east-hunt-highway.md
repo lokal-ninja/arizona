@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /san-tan-valley/walgreens/
+url: /san-tan-valley/walgreens-east-hunt-highway/
 shop: chemist
 ---

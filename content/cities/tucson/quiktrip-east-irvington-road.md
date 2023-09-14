@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /tucson/quiktrip/
+url: /tucson/quiktrip-east-irvington-road/
 shop: convenience
 ---

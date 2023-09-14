@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /phoenix/autozone/
+url: /phoenix/autozone-west-baseline-road/
 shop: car parts
 ---

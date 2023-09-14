@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /douglas/speedway/
+url: /douglas/speedway-east-10th-street/
 shop: convenience
 ---

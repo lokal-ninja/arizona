@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
-url: /surprise/visionworks/
+url: /surprise/visionworks-north-prasada-parkway/
 shop: optician
 ---

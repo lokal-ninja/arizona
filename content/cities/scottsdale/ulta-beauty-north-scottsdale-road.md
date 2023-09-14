@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
-url: /scottsdale/ulta-beauty/
+url: /scottsdale/ulta-beauty-north-scottsdale-road/
 shop: beauty
 ---

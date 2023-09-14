@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /mesa/sprint/
+url: /mesa/sprint-east-university-drive/
 shop: mobile phone
 ---

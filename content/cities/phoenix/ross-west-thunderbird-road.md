@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /phoenix/ross/
+url: /phoenix/ross-west-thunderbird-road/
 shop: department store
 ---

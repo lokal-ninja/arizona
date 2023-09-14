@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /peoria/lowes/
+url: /peoria/lowes-west-thunderbird-road/
 shop: doityourself
 ---

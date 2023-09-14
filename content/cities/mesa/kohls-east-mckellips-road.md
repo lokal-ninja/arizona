@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
-url: /mesa/kohls/
+url: /mesa/kohls-east-mckellips-road/
 shop: department store
 ---

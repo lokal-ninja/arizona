@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /flagstaff/speedway/
+url: /flagstaff/speedway-south-milton-road/
 shop: convenience
 ---

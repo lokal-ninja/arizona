@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /glendale/oreilly-auto-parts/
+url: /glendale/oreilly-auto-parts-north-59th-avenue/
 shop: car parts
 ---

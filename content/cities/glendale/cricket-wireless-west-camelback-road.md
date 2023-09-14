@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
-url: /glendale/cricket-wireless/
+url: /glendale/cricket-wireless-west-camelback-road/
 shop: mobile phone
 ---

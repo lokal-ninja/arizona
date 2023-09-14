@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sedona/speedway/
+url: /sedona/speedway-highway-179/
 shop: convenience
 ---

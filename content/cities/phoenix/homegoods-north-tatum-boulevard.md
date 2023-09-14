@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
-url: /phoenix/homegoods/
+url: /phoenix/homegoods-north-tatum-boulevard/
 shop: houseware
 ---

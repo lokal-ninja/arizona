@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /peoria/goodwill/
+url: /peoria/goodwill-west-grand-avenue/
 shop: charity
 ---

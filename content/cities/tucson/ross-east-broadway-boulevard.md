@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /tucson/ross/
+url: /tucson/ross-east-broadway-boulevard/
 shop: department store
 ---

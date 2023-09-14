@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /glendale/food-mart/
+url: /glendale/food-mart-west-northern-avenue/
 shop: convenience
 ---

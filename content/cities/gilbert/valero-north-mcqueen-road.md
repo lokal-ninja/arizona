@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /gilbert/valero/
+url: /gilbert/valero-north-mcqueen-road/
 shop: convenience
 ---

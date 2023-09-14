@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /tucson/circle-k/
+url: /tucson/circle-k-west-ruthrauff-road/
 shop: convenience
 ---

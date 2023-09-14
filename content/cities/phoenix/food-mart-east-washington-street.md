@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /phoenix/food-mart/
+url: /phoenix/food-mart-east-washington-street/
 shop: convenience
 ---

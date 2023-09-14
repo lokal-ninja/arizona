@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /gilbert/chevron/
+url: /gilbert/chevron-south-gilbert-road/
 shop: convenience
 ---

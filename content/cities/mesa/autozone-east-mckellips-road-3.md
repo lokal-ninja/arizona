@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /mesa/autozone/
+url: /mesa/autozone-east-mckellips-road-3/
 shop: car parts
 ---

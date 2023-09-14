@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /scottsdale/goodwill/
+url: /scottsdale/goodwill-east-raintree-drive/
 shop: charity
 ---

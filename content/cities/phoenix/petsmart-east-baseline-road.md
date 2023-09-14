@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /phoenix/petsmart/
+url: /phoenix/petsmart-east-baseline-road/
 shop: pet
 ---

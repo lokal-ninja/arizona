@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Bedding"
-url: /gilbert/brooklyn-bedding/
+url: /gilbert/brooklyn-bedding-south-power-road/
 shop: bed
 ---

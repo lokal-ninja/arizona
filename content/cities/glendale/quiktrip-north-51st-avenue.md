@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /glendale/quiktrip/
+url: /glendale/quiktrip-north-51st-avenue/
 shop: convenience
 ---

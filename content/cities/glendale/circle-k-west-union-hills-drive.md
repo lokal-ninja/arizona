@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /glendale/circle-k/
+url: /glendale/circle-k-west-union-hills-drive/
 shop: convenience
 ---

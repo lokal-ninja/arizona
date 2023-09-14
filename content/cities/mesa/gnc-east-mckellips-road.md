@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /mesa/gnc/
+url: /mesa/gnc-east-mckellips-road/
 shop: nutrition supplements
 ---

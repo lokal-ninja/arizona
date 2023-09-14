@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /mesa/great-clips/
+url: /mesa/great-clips-east-baseline-road-2/
 shop: hairdresser
 ---

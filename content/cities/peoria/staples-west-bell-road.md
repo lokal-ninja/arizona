@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /peoria/staples/
+url: /peoria/staples-west-bell-road/
 shop: office supplies
 ---

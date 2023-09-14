@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /goodyear/circle-k/
+url: /goodyear/circle-k-north-litchfield-road/
 shop: convenience
 ---

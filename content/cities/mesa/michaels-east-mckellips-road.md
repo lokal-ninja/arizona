@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /mesa/michaels/
+url: /mesa/michaels-east-mckellips-road/
 shop: craft
 ---

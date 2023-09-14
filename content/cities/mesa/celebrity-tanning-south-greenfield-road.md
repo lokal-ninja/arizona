@@ -1,5 +1,5 @@
 ---
 title: "Celebrity Tanning"
-url: /mesa/celebrity-tanning/
+url: /mesa/celebrity-tanning-south-greenfield-road/
 shop: beauty
 ---

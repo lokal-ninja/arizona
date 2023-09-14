@@ -1,5 +1,5 @@
 ---
 title: "Superpumper"
-url: /scottsdale/superpumper/
+url: /scottsdale/superpumper-east-shea-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party City"
-url: /mesa/party-city/
+url: /mesa/party-city-east-baseline-road/
 shop: party
 ---

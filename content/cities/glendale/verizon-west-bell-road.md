@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /glendale/verizon/
+url: /glendale/verizon-west-bell-road/
 shop: mobile phone
 ---

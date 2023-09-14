@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /phoenix/valero/
+url: /phoenix/valero-west-buckeye-road/
 shop: convenience
 ---

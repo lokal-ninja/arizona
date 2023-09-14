@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /safford/dollar-general/
+url: /safford/dollar-general-west-thatcher-boulevard/
 shop: variety store
 ---

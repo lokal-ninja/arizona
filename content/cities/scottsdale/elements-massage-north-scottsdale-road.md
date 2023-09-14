@@ -1,5 +1,5 @@
 ---
 title: "Elements Massage"
-url: /scottsdale/elements-massage/
+url: /scottsdale/elements-massage-north-scottsdale-road/
 shop: massage
 ---

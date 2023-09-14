@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /glendale/discount-tire/
+url: /glendale/discount-tire-west-behrend-drive/
 shop: tyres
 ---

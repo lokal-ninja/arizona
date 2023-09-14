@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /goodyear/quiktrip/
+url: /goodyear/quiktrip-north-estrella-parkway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /flagstaff/jiffy-lube/
+url: /flagstaff/jiffy-lube-south-woodlands-village-boulevard/
 shop: car repair
 ---

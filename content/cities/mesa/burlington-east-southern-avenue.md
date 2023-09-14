@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /mesa/burlington/
+url: /mesa/burlington-east-southern-avenue/
 shop: department store
 ---

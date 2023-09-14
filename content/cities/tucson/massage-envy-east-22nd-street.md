@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
-url: /tucson/massage-envy/
+url: /tucson/massage-envy-east-22nd-street/
 shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /mesa/family-dollar/
+url: /mesa/family-dollar-south-alma-school-road/
 shop: variety store
 ---

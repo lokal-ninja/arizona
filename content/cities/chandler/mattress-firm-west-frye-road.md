@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /chandler/mattress-firm/
+url: /chandler/mattress-firm-west-frye-road/
 shop: bed
 ---

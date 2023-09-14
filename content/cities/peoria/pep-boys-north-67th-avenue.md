@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
-url: /peoria/pep-boys/
+url: /peoria/pep-boys-north-67th-avenue/
 shop: car repair
 ---

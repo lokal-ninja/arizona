@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
-url: /phoenix/titlemax/
+url: /phoenix/titlemax-west-indian-school-road-2/
 shop: pawnbroker
 ---

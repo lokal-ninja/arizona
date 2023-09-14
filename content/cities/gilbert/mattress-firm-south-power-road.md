@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /gilbert/mattress-firm/
+url: /gilbert/mattress-firm-south-power-road/
 shop: bed
 ---

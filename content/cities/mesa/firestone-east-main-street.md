@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /mesa/firestone/
+url: /mesa/firestone-east-main-street/
 shop: car repair
 ---

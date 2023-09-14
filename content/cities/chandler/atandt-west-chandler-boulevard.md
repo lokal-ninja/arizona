@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /chandler/atandt/
+url: /chandler/atandt-west-chandler-boulevard/
 shop: mobile phone
 ---

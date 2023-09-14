@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /phoenix/circle-k/
+url: /phoenix/circle-k-west-thomas-road-4/
 shop: convenience
 ---

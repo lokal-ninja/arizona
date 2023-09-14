@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /goodyear/target/
+url: /goodyear/target-south-cotton-lane/
 shop: department store
 ---

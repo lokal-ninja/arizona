@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /scottsdale/lowes/
+url: /scottsdale/lowes-north-scottsdale-road/
 shop: doityourself
 ---

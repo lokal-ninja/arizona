@@ -1,5 +1,5 @@
 ---
 title: "Walmart Garden Center"
-url: /phoenix/walmart-garden-center/
+url: /phoenix/walmart-garden-center-west-lower-buckeye-road/
 shop: garden centre
 ---

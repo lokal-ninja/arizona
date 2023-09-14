@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /glendale/autozone/
+url: /glendale/autozone-west-northern-avenue/
 shop: car parts
 ---

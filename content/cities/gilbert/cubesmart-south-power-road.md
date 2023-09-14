@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /gilbert/cubesmart/
+url: /gilbert/cubesmart-south-power-road/
 shop: storage rental
 ---

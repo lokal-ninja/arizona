@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /gilbert/lowes/
+url: /gilbert/lowes-south-higley-road/
 shop: doityourself
 ---

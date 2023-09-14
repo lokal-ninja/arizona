@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /chandler/supercuts/
+url: /chandler/supercuts-east-ocotillo-road/
 shop: hairdresser
 ---

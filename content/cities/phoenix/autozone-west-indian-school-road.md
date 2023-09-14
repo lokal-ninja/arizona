@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /phoenix/autozone/
+url: /phoenix/autozone-west-indian-school-road/
 shop: car parts
 ---

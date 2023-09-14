@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mesa/speedway/
+url: /mesa/speedway-south-ellsworth-road/
 shop: convenience
 ---

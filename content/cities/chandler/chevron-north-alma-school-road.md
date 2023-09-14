@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /chandler/chevron/
+url: /chandler/chevron-north-alma-school-road/
 shop: convenience
 ---

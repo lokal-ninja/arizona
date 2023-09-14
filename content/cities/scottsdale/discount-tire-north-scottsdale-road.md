@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /scottsdale/discount-tire/
+url: /scottsdale/discount-tire-north-scottsdale-road/
 shop: tyres
 ---

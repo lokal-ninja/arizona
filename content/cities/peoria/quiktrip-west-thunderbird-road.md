@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /peoria/quiktrip/
+url: /peoria/quiktrip-west-thunderbird-road/
 shop: convenience
 ---

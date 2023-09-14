@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /tempe/sephora/
+url: /tempe/sephora-east-rio-salado-parkway/
 shop: beauty
 ---

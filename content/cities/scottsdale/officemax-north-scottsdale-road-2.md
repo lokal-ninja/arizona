@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
-url: /scottsdale/officemax/
+url: /scottsdale/officemax-north-scottsdale-road-2/
 shop: office supplies
 ---

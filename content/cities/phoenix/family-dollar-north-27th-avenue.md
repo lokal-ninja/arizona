@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /phoenix/family-dollar/
+url: /phoenix/family-dollar-north-27th-avenue/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
-url: /tucson/bashas/
+url: /tucson/bashas-east-sunrise-drive/
 shop: supermarket
 ---

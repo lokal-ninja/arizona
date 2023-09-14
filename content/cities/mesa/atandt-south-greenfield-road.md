@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /mesa/atandt/
+url: /mesa/atandt-south-greenfield-road/
 shop: mobile phone
 ---

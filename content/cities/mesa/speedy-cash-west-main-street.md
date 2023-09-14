@@ -1,5 +1,5 @@
 ---
 title: "Speedy Cash"
-url: /mesa/speedy-cash/
+url: /mesa/speedy-cash-west-main-street/
 shop: pawnbroker
 ---

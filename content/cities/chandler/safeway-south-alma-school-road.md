@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /chandler/safeway/
+url: /chandler/safeway-south-alma-school-road/
 shop: supermarket
 ---

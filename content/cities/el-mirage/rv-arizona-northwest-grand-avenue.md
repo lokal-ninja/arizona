@@ -1,5 +1,5 @@
 ---
 title: "RV Arizona"
-url: /el-mirage/rv-arizona/
+url: /el-mirage/rv-arizona-northwest-grand-avenue/
 shop: caravan
 ---

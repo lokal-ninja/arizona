@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /scottsdale/staples/
+url: /scottsdale/staples-north-hayden-road/
 shop: office supplies
 ---

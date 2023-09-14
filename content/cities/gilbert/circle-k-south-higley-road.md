@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /gilbert/circle-k/
+url: /gilbert/circle-k-south-higley-road/
 shop: convenience
 ---

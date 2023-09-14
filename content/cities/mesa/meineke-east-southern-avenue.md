@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
-url: /mesa/meineke/
+url: /mesa/meineke-east-southern-avenue/
 shop: car repair
 ---

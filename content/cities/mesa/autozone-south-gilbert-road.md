@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /mesa/autozone/
+url: /mesa/autozone-south-gilbert-road/
 shop: car parts
 ---
