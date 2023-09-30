@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /phoenix/chevron-north-75th-avenue/
+url: /phoenix/chevron-east-broadway-road/
 shop: convenience
 ---
