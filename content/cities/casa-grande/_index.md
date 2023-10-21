@@ -1,6 +1,6 @@
 ---
 title: Casa Grande
 url: /casa-grande/
-latitude: 32.882
-longitude: -111.726
+latitude: 32.879
+longitude: -111.68
 ---
