@@ -1,6 +1,6 @@
 ---
 title: Safford
 url: /safford/
-latitude: 32.838
-longitude: -109.732
+latitude: 32.834
+longitude: -109.715
 ---
