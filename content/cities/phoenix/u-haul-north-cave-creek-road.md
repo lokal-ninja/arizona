@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /phoenix/u-haul-north-41st-drive/
+url: /phoenix/u-haul-north-cave-creek-road/
 shop: storage rental
 ---

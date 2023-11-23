@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /yuma/speedway-east-highway-80/
+url: /yuma/speedway-east-16th-street/
 shop: convenience
 ---

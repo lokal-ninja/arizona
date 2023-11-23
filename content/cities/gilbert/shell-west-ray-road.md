@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /gilbert/shell-south-higley-road/
+url: /gilbert/shell-west-ray-road/
 shop: convenience
 ---
