@@ -1,5 +1,5 @@
 ---
-title: "Art in Jewelry"
+title: "Art In Jewelry"
 url: /phoenix/art-in-jewelry/
 shop: jewelry
 ---
