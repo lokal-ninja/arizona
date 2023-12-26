@@ -1,6 +1,6 @@
 ---
 title: Queen Creek
 url: /queen-creek/
-latitude: 33.256
-longitude: -111.639
+latitude: 33.253
+longitude: -111.638
 ---
