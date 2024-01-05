@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /mesa/u-haul-west-university-drive/
+url: /mesa/u-haul-south-alma-school-road/
 shop: storage rental
 ---

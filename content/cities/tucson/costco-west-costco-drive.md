@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /tucson/costco-east-grant-road/
+url: /tucson/costco-west-costco-drive/
 shop: wholesale
 ---

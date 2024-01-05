@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /scottsdale/safeway-north-pima-road/
+url: /phoenix/safeway-east-mcdowell-road/
 shop: supermarket
 ---
