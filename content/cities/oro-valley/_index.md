@@ -1,6 +1,6 @@
 ---
 title: Oro Valley
 url: /oro-valley/
-latitude: 32.351
-longitude: -110.977
+latitude: 32.427
+longitude: -110.96
 ---

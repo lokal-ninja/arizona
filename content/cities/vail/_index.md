@@ -1,6 +1,6 @@
 ---
 title: Vail
 url: /vail/
-latitude: 32.044
-longitude: -110.714
+latitude: 32.05
+longitude: -110.709
 ---

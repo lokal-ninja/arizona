@@ -1,6 +1,6 @@
 ---
 title: Prescott Valley
 url: /prescott-valley/
-latitude: 34.583
-longitude: -112.315
+latitude: 34.587
+longitude: -112.33
 ---
