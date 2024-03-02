@@ -1,11 +1,11 @@
-id: 9341579136
-type: node
-latitude: 33.44328
-longitude: -111.92756
-postcode: "85281"
+id: 224030636
+type: way
+latitude: 33.34628
+longitude: -111.9641
+postcode: "85284"
 city: Tempe
-street: "North Scottsdale Road"
-housenumber: 1290
+street: "South Priest Drive"
+housenumber: 7850
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00; PH off"
+opening_hours: ""
 website: ""
