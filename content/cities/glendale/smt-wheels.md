@@ -1,5 +1,5 @@
 ---
 title: "SMT Wheels"
 url: /glendale/smt-wheels/
-shop: shop
+shop: motorcycle
 ---
