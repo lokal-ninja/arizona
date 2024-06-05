@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /phoenix/sunbelt-rentals/
-shop: shop
+shop: storage rental
 ---
