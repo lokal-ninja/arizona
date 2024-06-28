@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /scottsdale/lowes/
-shop: doityourself
+shop: garden centre
 ---
