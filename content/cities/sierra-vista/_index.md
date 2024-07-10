@@ -1,6 +1,6 @@
 ---
 title: Sierra Vista
 url: /sierra-vista/
-latitude: 31.561
-longitude: -110.254
+latitude: 31.53
+longitude: -110.259
 ---

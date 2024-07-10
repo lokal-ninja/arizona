@@ -1,6 +1,6 @@
 ---
 title: Carefree
 url: /carefree/
-latitude: 33.821
-longitude: -111.923
+latitude: 33.827
+longitude: -111.924
 ---
