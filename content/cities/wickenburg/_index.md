@@ -1,6 +1,6 @@
 ---
 title: Wickenburg
 url: /wickenburg/
-latitude: 33.965
-longitude: -112.749
+latitude: 33.971
+longitude: -112.731
 ---

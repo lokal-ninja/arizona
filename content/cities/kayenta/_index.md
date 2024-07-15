@@ -1,6 +1,6 @@
 ---
 title: Kayenta
 url: /kayenta/
-latitude: 36.708
-longitude: -110.247
+latitude: 36.71
+longitude: -110.25
 ---
