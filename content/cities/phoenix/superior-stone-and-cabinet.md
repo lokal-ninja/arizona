@@ -1,5 +1,5 @@
 ---
-title: "Superior Stone and Cabinet"
+title: "Superior Stone & Cabinet"
 url: /phoenix/superior-stone-and-cabinet/
 shop: furniture
 ---
