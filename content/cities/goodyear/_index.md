@@ -1,6 +1,6 @@
 ---
 title: Goodyear
 url: /goodyear/
-latitude: 33.461
-longitude: -112.361
+latitude: 33.464
+longitude: -112.392
 ---
