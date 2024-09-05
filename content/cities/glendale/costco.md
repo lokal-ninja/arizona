@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /glendale/costco/
-shop: wholesale
+shop: Großhandel
 ---

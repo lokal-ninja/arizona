@@ -1,5 +1,5 @@
 ---
 title: "Lapels Dry Cleaning"
 url: /gilbert/lapels-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

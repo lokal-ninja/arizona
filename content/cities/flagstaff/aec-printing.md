@@ -1,5 +1,5 @@
 ---
 title: "AEC Printing"
 url: /flagstaff/aec-printing/
-shop: copyshop
+shop: Kopieren
 ---

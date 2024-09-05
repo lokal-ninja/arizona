@@ -1,5 +1,5 @@
 ---
 title: "Sissoko Tribal Art Gallery"
 url: /scottsdale/sissoko-tribal-art-gallery/
-shop: art
+shop: Kunst
 ---

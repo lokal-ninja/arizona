@@ -1,5 +1,5 @@
 ---
 title: "Greenspring Inspire"
 url: /oro-valley/greenspring-inspire/
-shop: beauty
+shop: Kosmetik
 ---

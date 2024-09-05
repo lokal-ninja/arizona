@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /phoenix/sally-beauty-south-99th-avenue/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /flagstaff/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

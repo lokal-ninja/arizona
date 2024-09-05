@@ -1,5 +1,5 @@
 ---
 title: "Captain's"
 url: /phoenix/captains/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

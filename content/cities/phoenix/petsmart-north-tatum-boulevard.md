@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /phoenix/petsmart-north-tatum-boulevard/
-shop: pet
+shop: Tiere
 ---

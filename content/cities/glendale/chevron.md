@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /glendale/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

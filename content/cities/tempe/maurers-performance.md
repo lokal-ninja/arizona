@@ -1,5 +1,5 @@
 ---
 title: "Maurer's Performance"
 url: /tempe/maurers-performance/
-shop: car repair
+shop: Autowerkstatt
 ---

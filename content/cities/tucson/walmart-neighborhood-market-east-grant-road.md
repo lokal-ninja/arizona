@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /tucson/walmart-neighborhood-market-east-grant-road/
-shop: supermarket
+shop: Supermarkt
 ---

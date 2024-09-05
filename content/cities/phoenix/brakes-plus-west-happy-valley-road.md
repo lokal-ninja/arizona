@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /phoenix/brakes-plus-west-happy-valley-road/
-shop: car repair
+shop: Autowerkstatt
 ---

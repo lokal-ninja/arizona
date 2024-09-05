@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /glendale/torrid-west-bell-road/
-shop: clothes
+shop: Kleidung
 ---

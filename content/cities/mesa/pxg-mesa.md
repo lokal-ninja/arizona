@@ -1,5 +1,5 @@
 ---
 title: "PXG Mesa"
 url: /mesa/pxg-mesa/
-shop: sports
+shop: Sport
 ---

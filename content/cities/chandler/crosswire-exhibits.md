@@ -1,5 +1,5 @@
 ---
 title: "CROSSwire Exhibits"
 url: /chandler/crosswire-exhibits/
-shop: shop
+shop: Allgemein
 ---

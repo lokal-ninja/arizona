@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /scottsdale/mattress-firm-north-hayden-road/
-shop: bed
+shop: Betten
 ---

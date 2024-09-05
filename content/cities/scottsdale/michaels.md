@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /scottsdale/michaels/
-shop: craft
+shop: Basteln
 ---

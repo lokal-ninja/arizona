@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coolidge/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

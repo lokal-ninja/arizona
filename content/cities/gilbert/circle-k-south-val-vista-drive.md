@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /gilbert/circle-k-south-val-vista-drive/
-shop: convenience
+shop: Lebensmittel
 ---

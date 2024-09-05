@@ -1,5 +1,5 @@
 ---
 title: "PrimeLending"
 url: /glendale/primelending/
-shop: pawnbroker
+shop: Leiher
 ---

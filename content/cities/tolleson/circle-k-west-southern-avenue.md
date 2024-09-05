@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tolleson/circle-k-west-southern-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

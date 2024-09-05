@@ -1,5 +1,5 @@
 ---
 title: "AJ Barber Shop"
 url: /apache-junction/aj-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

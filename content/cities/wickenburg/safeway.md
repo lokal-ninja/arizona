@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /wickenburg/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

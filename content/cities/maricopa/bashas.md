@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /maricopa/bashas/
-shop: supermarket
+shop: Supermarkt
 ---

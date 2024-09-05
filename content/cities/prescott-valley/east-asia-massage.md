@@ -1,5 +1,5 @@
 ---
 title: "East Asia Massage"
 url: /prescott-valley/east-asia-massage/
-shop: massage
+shop: Massage
 ---

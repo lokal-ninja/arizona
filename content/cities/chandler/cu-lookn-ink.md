@@ -1,5 +1,5 @@
 ---
 title: "CU Look'N Ink"
 url: /chandler/cu-lookn-ink/
-shop: tattoo
+shop: Tattoo
 ---

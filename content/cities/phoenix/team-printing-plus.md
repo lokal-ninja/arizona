@@ -1,5 +1,5 @@
 ---
 title: "Team Printing Plus"
 url: /phoenix/team-printing-plus/
-shop: copyshop
+shop: Kopieren
 ---

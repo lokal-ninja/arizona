@@ -1,5 +1,5 @@
 ---
 title: "Bike Zone Phoenix"
 url: /phoenix/bike-zone-phoenix/
-shop: bicycle
+shop: Fahrrad
 ---

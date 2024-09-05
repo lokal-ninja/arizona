@@ -1,5 +1,5 @@
 ---
 title: "Land Rover Chandler"
 url: /chandler/land-rover-chandler/
-shop: car
+shop: Autohaus
 ---

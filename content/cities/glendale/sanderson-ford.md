@@ -1,5 +1,5 @@
 ---
 title: "Sanderson Ford"
 url: /glendale/sanderson-ford/
-shop: car
+shop: Autohaus
 ---

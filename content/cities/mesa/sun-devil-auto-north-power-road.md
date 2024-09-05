@@ -1,5 +1,5 @@
 ---
 title: "Sun Devil Auto"
 url: /mesa/sun-devil-auto-north-power-road/
-shop: car repair
+shop: Autowerkstatt
 ---

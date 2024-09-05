@@ -1,5 +1,5 @@
 ---
 title: "Sun City RV"
 url: /peoria/sun-city-rv/
-shop: caravan
+shop: Wohnwagen
 ---

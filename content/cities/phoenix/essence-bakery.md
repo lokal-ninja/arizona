@@ -1,5 +1,5 @@
 ---
 title: "Essence Bakery"
 url: /phoenix/essence-bakery/
-shop: bakery
+shop: Bäckerei
 ---

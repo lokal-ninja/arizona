@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /chandler/circle-k-east-riggs-road/
-shop: convenience
+shop: Lebensmittel
 ---

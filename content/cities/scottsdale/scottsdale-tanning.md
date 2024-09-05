@@ -1,5 +1,5 @@
 ---
 title: "Scottsdale Tanning"
 url: /scottsdale/scottsdale-tanning/
-shop: beauty
+shop: Kosmetik
 ---

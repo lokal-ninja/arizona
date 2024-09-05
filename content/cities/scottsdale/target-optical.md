@@ -1,5 +1,5 @@
 ---
 title: "Target Optical"
 url: /scottsdale/target-optical/
-shop: optician
+shop: Optiker
 ---

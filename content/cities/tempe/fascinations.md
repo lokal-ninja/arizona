@@ -1,5 +1,5 @@
 ---
 title: "Fascinations"
 url: /tempe/fascinations/
-shop: erotic
+shop: Erotik
 ---

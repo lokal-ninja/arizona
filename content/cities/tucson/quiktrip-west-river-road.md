@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tucson/quiktrip-west-river-road/
-shop: convenience
+shop: Lebensmittel
 ---

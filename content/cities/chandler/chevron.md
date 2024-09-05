@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /chandler/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

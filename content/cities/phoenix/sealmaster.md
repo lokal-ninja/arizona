@@ -1,5 +1,5 @@
 ---
 title: "SealMaster"
 url: /phoenix/sealmaster/
-shop: trade
+shop: Baustoffe
 ---

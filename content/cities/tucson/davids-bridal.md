@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /tucson/davids-bridal/
-shop: clothes
+shop: Kleidung
 ---

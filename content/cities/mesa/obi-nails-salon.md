@@ -1,5 +1,5 @@
 ---
 title: "OBI Nails Salon"
 url: /mesa/obi-nails-salon/
-shop: beauty
+shop: Kosmetik
 ---

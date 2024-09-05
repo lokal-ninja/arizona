@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /payson/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

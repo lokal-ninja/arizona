@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /glendale/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

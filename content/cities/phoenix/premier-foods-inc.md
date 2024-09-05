@@ -1,5 +1,5 @@
 ---
 title: "Premier Foods Inc"
 url: /phoenix/premier-foods-inc/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

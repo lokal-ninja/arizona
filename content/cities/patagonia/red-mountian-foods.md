@@ -1,5 +1,5 @@
 ---
 title: "Red Mountian Foods"
 url: /patagonia/red-mountian-foods/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stewart Tire Inc."
 url: /mesa/stewart-tire-inc/
-shop: tyres
+shop: Reifen
 ---

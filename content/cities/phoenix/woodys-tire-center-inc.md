@@ -1,5 +1,5 @@
 ---
 title: "Woody's Tire Center, Inc."
 url: /phoenix/woodys-tire-center-inc/
-shop: tyres
+shop: Reifen
 ---

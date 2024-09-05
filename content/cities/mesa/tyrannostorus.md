@@ -1,5 +1,5 @@
 ---
 title: "Tyrannostorus"
 url: /mesa/tyrannostorus/
-shop: clothes
+shop: Kleidung
 ---

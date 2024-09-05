@@ -1,5 +1,5 @@
 ---
 title: "Stinkweeds"
 url: /phoenix/stinkweeds/
-shop: music
+shop: Musik
 ---

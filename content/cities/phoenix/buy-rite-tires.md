@@ -1,5 +1,5 @@
 ---
 title: "Buy Rite Tires"
 url: /phoenix/buy-rite-tires/
-shop: tyres
+shop: Reifen
 ---

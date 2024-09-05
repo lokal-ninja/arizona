@@ -1,5 +1,5 @@
 ---
 title: "Power Electronics USA"
 url: /gilbert/power-electronics-usa/
-shop: electronics
+shop: Elektronik
 ---

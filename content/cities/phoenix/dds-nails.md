@@ -1,5 +1,5 @@
 ---
 title: "DD's Nails"
 url: /phoenix/dds-nails/
-shop: beauty
+shop: Kosmetik
 ---

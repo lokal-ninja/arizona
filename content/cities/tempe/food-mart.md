@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /tempe/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

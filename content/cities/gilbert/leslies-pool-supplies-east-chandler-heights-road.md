@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Pool Supplies"
 url: /gilbert/leslies-pool-supplies-east-chandler-heights-road/
-shop: swimming pool
+shop: Pool
 ---

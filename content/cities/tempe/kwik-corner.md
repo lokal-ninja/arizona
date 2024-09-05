@@ -1,5 +1,5 @@
 ---
 title: "Kwik Corner"
 url: /tempe/kwik-corner/
-shop: convenience
+shop: Lebensmittel
 ---

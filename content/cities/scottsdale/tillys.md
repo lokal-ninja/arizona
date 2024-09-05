@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /scottsdale/tillys/
-shop: clothes
+shop: Kleidung
 ---

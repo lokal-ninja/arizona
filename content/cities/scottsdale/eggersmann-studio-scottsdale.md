@@ -1,5 +1,5 @@
 ---
 title: "Eggersmann Studio Scottsdale"
 url: /scottsdale/eggersmann-studio-scottsdale/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /scottsdale/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunn-Edwards Paints"
 url: /peoria/dunn-edwards-paints/
-shop: paint
+shop: Farben
 ---

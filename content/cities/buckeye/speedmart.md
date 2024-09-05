@@ -1,5 +1,5 @@
 ---
 title: "Speedmart"
 url: /buckeye/speedmart/
-shop: convenience
+shop: Lebensmittel
 ---

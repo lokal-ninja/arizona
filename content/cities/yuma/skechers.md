@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /yuma/skechers/
-shop: shoes
+shop: Schuhe
 ---

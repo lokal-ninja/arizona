@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /tucson/smartstyle/
-shop: hairdresser
+shop: Friseur
 ---

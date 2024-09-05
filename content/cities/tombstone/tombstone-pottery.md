@@ -1,5 +1,5 @@
 ---
 title: "Tombstone Pottery"
 url: /tombstone/tombstone-pottery/
-shop: pottery
+shop: Töpferei
 ---

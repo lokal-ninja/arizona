@@ -1,5 +1,5 @@
 ---
 title: "Nadine's Attic"
 url: /globe/nadines-attic/
-shop: clothes
+shop: Kleidung
 ---

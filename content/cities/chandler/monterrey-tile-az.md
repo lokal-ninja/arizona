@@ -1,5 +1,5 @@
 ---
 title: "Monterrey Tile AZ"
 url: /chandler/monterrey-tile-az/
-shop: tiles
+shop: Fliesen
 ---

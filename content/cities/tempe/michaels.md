@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /tempe/michaels/
-shop: craft
+shop: Basteln
 ---

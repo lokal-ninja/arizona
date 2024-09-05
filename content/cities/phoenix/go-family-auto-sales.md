@@ -1,5 +1,5 @@
 ---
 title: "Go Family Auto Sales"
 url: /phoenix/go-family-auto-sales/
-shop: car
+shop: Autohaus
 ---

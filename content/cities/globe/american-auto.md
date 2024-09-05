@@ -1,5 +1,5 @@
 ---
 title: "American Auto"
 url: /globe/american-auto/
-shop: car
+shop: Autohaus
 ---

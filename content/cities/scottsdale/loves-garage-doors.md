@@ -1,5 +1,5 @@
 ---
 title: "Loves Garage Doors"
 url: /scottsdale/loves-garage-doors/
-shop: doors
+shop: Türen
 ---

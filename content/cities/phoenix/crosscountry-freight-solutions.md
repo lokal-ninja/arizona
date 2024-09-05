@@ -1,5 +1,5 @@
 ---
 title: "CrossCountry Freight Solutions"
 url: /phoenix/crosscountry-freight-solutions/
-shop: wholesale
+shop: Großhandel
 ---

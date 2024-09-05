@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /mesa/famous-footwear-south-stapley-drive/
-shop: shoes
+shop: Schuhe
 ---

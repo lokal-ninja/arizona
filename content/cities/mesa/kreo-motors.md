@@ -1,5 +1,5 @@
 ---
 title: "Kreo Motors"
 url: /mesa/kreo-motors/
-shop: motorcycle
+shop: Motorrad
 ---

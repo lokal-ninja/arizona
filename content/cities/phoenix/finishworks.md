@@ -1,5 +1,5 @@
 ---
 title: "Finishworks"
 url: /phoenix/finishworks/
-shop: wholesale
+shop: Großhandel
 ---

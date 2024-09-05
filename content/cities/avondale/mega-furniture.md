@@ -1,5 +1,5 @@
 ---
 title: "Mega Furniture"
 url: /avondale/mega-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Facinations"
 url: /glendale/facinations/
-shop: erotic
+shop: Erotik
 ---

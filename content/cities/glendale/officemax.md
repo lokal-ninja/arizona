@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /glendale/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

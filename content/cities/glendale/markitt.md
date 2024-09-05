@@ -1,5 +1,5 @@
 ---
 title: "Markitt"
 url: /glendale/markitt/
-shop: convenience
+shop: Lebensmittel
 ---

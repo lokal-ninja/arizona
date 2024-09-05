@@ -1,5 +1,5 @@
 ---
 title: "Arizbely Furniture LLC"
 url: /mesa/arizbely-furniture-llc/
-shop: furniture
+shop: Möbel
 ---

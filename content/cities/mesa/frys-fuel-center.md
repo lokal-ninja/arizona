@@ -1,5 +1,5 @@
 ---
 title: "Fry's Fuel Center"
 url: /mesa/frys-fuel-center/
-shop: convenience
+shop: Lebensmittel
 ---

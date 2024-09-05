@@ -1,5 +1,5 @@
 ---
 title: "Cowtown"
 url: /phoenix/cowtown/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /phoenix/petco-east-ray-road/
-shop: pet
+shop: Tiere
 ---

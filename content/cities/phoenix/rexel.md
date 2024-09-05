@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /phoenix/rexel/
-shop: electrical
+shop: Elektrisch
 ---

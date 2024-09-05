@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /kingman/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

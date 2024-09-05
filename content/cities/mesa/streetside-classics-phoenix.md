@@ -1,5 +1,5 @@
 ---
 title: "Streetside Classics - Phoenix"
 url: /mesa/streetside-classics-phoenix/
-shop: car
+shop: Autohaus
 ---

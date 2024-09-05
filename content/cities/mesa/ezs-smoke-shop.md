@@ -1,5 +1,5 @@
 ---
 title: "EZ's Smoke Shop"
 url: /mesa/ezs-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

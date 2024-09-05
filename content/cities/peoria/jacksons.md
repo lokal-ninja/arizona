@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /peoria/jacksons/
-shop: convenience
+shop: Lebensmittel
 ---

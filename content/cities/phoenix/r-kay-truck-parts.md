@@ -1,5 +1,5 @@
 ---
 title: "R Kay Truck Parts"
 url: /phoenix/r-kay-truck-parts/
-shop: car parts
+shop: Autoteile
 ---

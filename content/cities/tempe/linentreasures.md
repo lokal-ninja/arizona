@@ -1,5 +1,5 @@
 ---
 title: "LinenTreasures"
 url: /tempe/linentreasures/
-shop: shop
+shop: Allgemein
 ---

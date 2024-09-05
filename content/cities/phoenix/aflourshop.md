@@ -1,5 +1,5 @@
 ---
 title: "aFlourshop"
 url: /phoenix/aflourshop/
-shop: bakery
+shop: Bäckerei
 ---

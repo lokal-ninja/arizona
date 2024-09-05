@@ -1,5 +1,5 @@
 ---
 title: "Amoré Fashions"
 url: /mesa/amore-fashions/
-shop: clothes
+shop: Kleidung
 ---

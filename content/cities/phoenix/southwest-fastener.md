@@ -1,5 +1,5 @@
 ---
 title: "Southwest Fastener"
 url: /phoenix/southwest-fastener/
-shop: wholesale
+shop: Großhandel
 ---

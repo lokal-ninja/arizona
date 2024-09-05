@@ -1,5 +1,5 @@
 ---
 title: "QED"
 url: /mesa/qed/
-shop: trade
+shop: Baustoffe
 ---

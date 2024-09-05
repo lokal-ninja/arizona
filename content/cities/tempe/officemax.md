@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /tempe/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

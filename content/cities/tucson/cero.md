@@ -1,5 +1,5 @@
 ---
 title: "Cero"
 url: /tucson/cero/
-shop: shop
+shop: Allgemein
 ---

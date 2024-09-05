@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /goodyear/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

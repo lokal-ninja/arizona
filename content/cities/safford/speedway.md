@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /safford/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

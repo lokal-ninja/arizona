@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /peoria/walgreens-west-deer-valley-road/
-shop: chemist
+shop: Drogerie
 ---

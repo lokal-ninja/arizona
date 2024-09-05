@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /chandler/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

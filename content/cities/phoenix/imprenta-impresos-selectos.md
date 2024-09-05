@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Impresos Selectos"
 url: /phoenix/imprenta-impresos-selectos/
-shop: copyshop
+shop: Kopieren
 ---

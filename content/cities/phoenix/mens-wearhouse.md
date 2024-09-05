@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /phoenix/mens-wearhouse/
-shop: clothes
+shop: Kleidung
 ---

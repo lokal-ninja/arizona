@@ -1,5 +1,5 @@
 ---
 title: "BradyIFS"
 url: /phoenix/bradyifs/
-shop: wholesale
+shop: Großhandel
 ---

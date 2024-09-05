@@ -1,5 +1,5 @@
 ---
 title: "Desert Wind Harley-Davidson"
 url: /mesa/desert-wind-harley-davidson/
-shop: motorcycle
+shop: Motorrad
 ---

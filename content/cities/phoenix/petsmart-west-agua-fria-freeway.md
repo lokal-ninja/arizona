@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /phoenix/petsmart-west-agua-fria-freeway/
-shop: pet
+shop: Tiere
 ---

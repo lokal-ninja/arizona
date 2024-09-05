@@ -1,5 +1,5 @@
 ---
 title: "Professional Plants"
 url: /phoenix/professional-plants/
-shop: garden centre
+shop: Garten-Center
 ---

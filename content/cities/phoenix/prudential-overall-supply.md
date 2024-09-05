@@ -1,5 +1,5 @@
 ---
 title: "Prudential Overall Supply"
 url: /phoenix/prudential-overall-supply/
-shop: clothes
+shop: Kleidung
 ---

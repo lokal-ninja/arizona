@@ -1,5 +1,5 @@
 ---
 title: "Upscale Barbershop"
 url: /tempe/upscale-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /phoenix/costco-east-cactus-road/
-shop: wholesale
+shop: Großhandel
 ---

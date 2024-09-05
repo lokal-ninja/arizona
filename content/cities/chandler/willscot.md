@@ -1,5 +1,5 @@
 ---
 title: "WillScot"
 url: /chandler/willscot/
-shop: storage rental
+shop: Mieten
 ---

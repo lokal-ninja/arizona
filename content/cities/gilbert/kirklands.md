@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /gilbert/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

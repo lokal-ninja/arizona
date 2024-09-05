@@ -1,5 +1,5 @@
 ---
 title: "Liberty GMC"
 url: /peoria/liberty-gmc/
-shop: car
+shop: Autohaus
 ---

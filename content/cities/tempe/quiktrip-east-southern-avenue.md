@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tempe/quiktrip-east-southern-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

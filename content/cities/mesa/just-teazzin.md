@@ -1,5 +1,5 @@
 ---
 title: "Just Teazzin"
 url: /mesa/just-teazzin/
-shop: beauty
+shop: Kosmetik
 ---

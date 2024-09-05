@@ -1,5 +1,5 @@
 ---
 title: "Classic Collision"
 url: /scottsdale/classic-collision/
-shop: car repair
+shop: Autowerkstatt
 ---

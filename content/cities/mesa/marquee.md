@@ -1,5 +1,5 @@
 ---
 title: "Marquee"
 url: /mesa/marquee/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MotoMaxCycles"
 url: /mesa/motomaxcycles/
-shop: motorcycle
+shop: Motorrad
 ---

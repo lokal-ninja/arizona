@@ -1,5 +1,5 @@
 ---
 title: "Diamond Source"
 url: /scottsdale/diamond-source/
-shop: jewelry
+shop: Schmuck
 ---

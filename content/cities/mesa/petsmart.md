@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mesa/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neo Nails"
 url: /chandler/neo-nails/
-shop: beauty
+shop: Kosmetik
 ---

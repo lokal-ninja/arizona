@@ -1,5 +1,5 @@
 ---
 title: "Sweet Daddy Cupcakes"
 url: /chandler/sweet-daddy-cupcakes/
-shop: bakery
+shop: Bäckerei
 ---

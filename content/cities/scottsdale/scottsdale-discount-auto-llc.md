@@ -1,5 +1,5 @@
 ---
 title: "Scottsdale Discount Auto LLC"
 url: /scottsdale/scottsdale-discount-auto-llc/
-shop: car repair
+shop: Autowerkstatt
 ---

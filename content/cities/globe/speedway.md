@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /globe/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

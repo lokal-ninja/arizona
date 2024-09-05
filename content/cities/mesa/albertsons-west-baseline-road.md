@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /mesa/albertsons-west-baseline-road/
-shop: supermarket
+shop: Supermarkt
 ---

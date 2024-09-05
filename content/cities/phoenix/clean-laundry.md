@@ -1,5 +1,5 @@
 ---
 title: "Clean Laundry"
 url: /phoenix/clean-laundry/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boxes Near Me"
 url: /phoenix/boxes-near-me/
-shop: wholesale
+shop: Großhandel
 ---

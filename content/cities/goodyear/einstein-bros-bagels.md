@@ -1,5 +1,5 @@
 ---
 title: "Einstein Bros. Bagels"
 url: /goodyear/einstein-bros-bagels/
-shop: bakery
+shop: Bäckerei
 ---

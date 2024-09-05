@@ -1,5 +1,5 @@
 ---
 title: "Mary Ann's Mostly Books"
 url: /apache-junction/mary-anns-mostly-books/
-shop: books
+shop: Bücher
 ---

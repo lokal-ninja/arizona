@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /glendale/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunn-Edwards Paints"
 url: /mesa/dunn-edwards-paints/
-shop: paint
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairytale Brownies"
 url: /phoenix/fairytale-brownies/
-shop: bakery
+shop: Bäckerei
 ---

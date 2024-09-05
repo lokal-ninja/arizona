@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /peoria/pink/
-shop: clothes
+shop: Kleidung
 ---

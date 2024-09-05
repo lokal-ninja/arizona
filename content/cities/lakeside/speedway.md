@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lakeside/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

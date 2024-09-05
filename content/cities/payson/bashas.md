@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /payson/bashas/
-shop: supermarket
+shop: Supermarkt
 ---

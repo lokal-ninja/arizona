@@ -1,5 +1,5 @@
 ---
 title: "Janet's Shoes"
 url: /willcox/janets-shoes/
-shop: shoes
+shop: Schuhe
 ---

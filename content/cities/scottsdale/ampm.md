@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /scottsdale/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

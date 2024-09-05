@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /chandler/lush/
-shop: beauty
+shop: Kosmetik
 ---

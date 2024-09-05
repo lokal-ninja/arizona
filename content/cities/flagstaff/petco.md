@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /flagstaff/petco/
-shop: pet
+shop: Tiere
 ---

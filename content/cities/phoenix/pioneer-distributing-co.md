@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Distributing Co."
 url: /phoenix/pioneer-distributing-co/
-shop: wholesale
+shop: Großhandel
 ---

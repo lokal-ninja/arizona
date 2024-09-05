@@ -1,5 +1,5 @@
 ---
 title: "Desert Valley Audio Video"
 url: /scottsdale/desert-valley-audio-video/
-shop: camera
+shop: Kamera
 ---

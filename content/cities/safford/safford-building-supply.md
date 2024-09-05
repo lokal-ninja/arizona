@@ -1,5 +1,5 @@
 ---
 title: "Safford Building Supply"
 url: /safford/safford-building-supply/
-shop: hardware
+shop: Eisenwaren
 ---

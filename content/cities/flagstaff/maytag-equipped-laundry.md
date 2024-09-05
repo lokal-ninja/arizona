@@ -1,5 +1,5 @@
 ---
 title: "Maytag Equipped Laundry"
 url: /flagstaff/maytag-equipped-laundry/
-shop: laundry
+shop: Wäscherei
 ---

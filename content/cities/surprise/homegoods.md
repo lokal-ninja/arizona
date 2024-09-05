@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /surprise/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

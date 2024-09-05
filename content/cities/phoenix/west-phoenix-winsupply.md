@@ -1,5 +1,5 @@
 ---
 title: "West Phoenix Winsupply"
 url: /phoenix/west-phoenix-winsupply/
-shop: wholesale
+shop: Großhandel
 ---

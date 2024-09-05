@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm-north-27th-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

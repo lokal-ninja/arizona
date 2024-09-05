@@ -1,5 +1,5 @@
 ---
 title: "Ultra Nails Spa"
 url: /mesa/ultra-nails-spa/
-shop: beauty
+shop: Kosmetik
 ---

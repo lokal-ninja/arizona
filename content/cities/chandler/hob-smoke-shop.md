@@ -1,5 +1,5 @@
 ---
 title: "HOB Smoke Shop"
 url: /chandler/hob-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

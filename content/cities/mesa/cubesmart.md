@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /mesa/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

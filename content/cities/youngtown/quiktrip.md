@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /youngtown/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

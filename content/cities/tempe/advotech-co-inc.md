@@ -1,5 +1,5 @@
 ---
 title: "Advotech Co Inc"
 url: /tempe/advotech-co-inc/
-shop: electrical
+shop: Elektrisch
 ---

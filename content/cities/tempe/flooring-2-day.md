@@ -1,5 +1,5 @@
 ---
 title: "Flooring 2 Day"
 url: /tempe/flooring-2-day/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /scottsdale/lowes/
-shop: garden centre
+shop: Garten-Center
 ---

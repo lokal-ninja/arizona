@@ -1,5 +1,5 @@
 ---
 title: "Medina Auto"
 url: /phoenix/medina-auto/
-shop: car repair
+shop: Autowerkstatt
 ---

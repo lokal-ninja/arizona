@@ -1,5 +1,5 @@
 ---
 title: "Alma Imports"
 url: /mesa/alma-imports/
-shop: car parts
+shop: Autoteile
 ---

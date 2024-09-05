@@ -1,5 +1,5 @@
 ---
 title: "Desert Dry Cleaners"
 url: /gilbert/desert-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

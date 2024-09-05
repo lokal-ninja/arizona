@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /gilbert/sherwin-williams-south-higley-road/
-shop: paint
+shop: Farben
 ---

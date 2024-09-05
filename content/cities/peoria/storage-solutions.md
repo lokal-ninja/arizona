@@ -1,5 +1,5 @@
 ---
 title: "Storage Solutions"
 url: /peoria/storage-solutions/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /nogales/walgreens/
-shop: chemist
+shop: Drogerie
 ---

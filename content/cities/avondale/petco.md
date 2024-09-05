@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /avondale/petco/
-shop: pet
+shop: Tiere
 ---

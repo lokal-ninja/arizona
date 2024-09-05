@@ -1,5 +1,5 @@
 ---
 title: "Chapman Hyundai Scottsdale"
 url: /scottsdale/chapman-hyundai-scottsdale/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Digital Building Components"
 url: /phoenix/digital-building-components/
-shop: wholesale
+shop: Großhandel
 ---

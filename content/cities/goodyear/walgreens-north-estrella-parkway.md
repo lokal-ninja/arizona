@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /goodyear/walgreens-north-estrella-parkway/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /scottsdale/jacksons-north-northsight-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /phoenix/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "fastmarket"
 url: /phoenix/fastmarket/
-shop: convenience
+shop: Lebensmittel
 ---

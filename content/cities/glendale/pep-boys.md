@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /glendale/pep-boys/
-shop: car repair
+shop: Autowerkstatt
 ---

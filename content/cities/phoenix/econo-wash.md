@@ -1,5 +1,5 @@
 ---
 title: "Econo Wash"
 url: /phoenix/econo-wash/
-shop: laundry
+shop: Wäscherei
 ---

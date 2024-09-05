@@ -1,5 +1,5 @@
 ---
 title: "Fry's"
 url: /cave-creek/frys/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

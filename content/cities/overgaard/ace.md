@@ -1,5 +1,5 @@
 ---
 title: "ACE"
 url: /overgaard/ace/
-shop: hardware
+shop: Eisenwaren
 ---

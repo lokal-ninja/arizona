@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /phoenix/walgreens-west-carefree-highway/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /yuma/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wildlings Toy Boutique"
 url: /phoenix/wildlings-toy-boutique/
-shop: toys
+shop: Spielzeug
 ---

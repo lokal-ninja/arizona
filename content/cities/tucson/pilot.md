@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /tucson/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

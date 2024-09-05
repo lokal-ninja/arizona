@@ -1,5 +1,5 @@
 ---
 title: "SuperPawn"
 url: /phoenix/superpawn-east-mcdowell-road/
-shop: pawnbroker
+shop: Leiher
 ---

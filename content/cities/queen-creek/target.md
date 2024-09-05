@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /queen-creek/target/
-shop: supermarket
+shop: Supermarkt
 ---

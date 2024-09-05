@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /glendale/vans/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unique Trucks"
 url: /scottsdale/unique-trucks/
-shop: car
+shop: Autohaus
 ---

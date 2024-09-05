@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /benson/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

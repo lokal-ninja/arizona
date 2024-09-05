@@ -1,5 +1,5 @@
 ---
 title: "Regal Nails"
 url: /phoenix/regal-nails/
-shop: beauty
+shop: Kosmetik
 ---

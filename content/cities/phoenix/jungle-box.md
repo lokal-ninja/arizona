@@ -1,5 +1,5 @@
 ---
 title: "Jungle Box"
 url: /phoenix/jungle-box/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olive Food Mart"
 url: /peoria/olive-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

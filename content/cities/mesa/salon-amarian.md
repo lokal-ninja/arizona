@@ -1,5 +1,5 @@
 ---
 title: "Salon Amarian"
 url: /mesa/salon-amarian/
-shop: hairdresser
+shop: Friseur
 ---

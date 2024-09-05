@@ -1,5 +1,5 @@
 ---
 title: "Crystal Cleaners"
 url: /gilbert/crystal-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

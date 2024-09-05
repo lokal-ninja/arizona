@@ -1,5 +1,5 @@
 ---
 title: "Fuchsia"
 url: /mesa/fuchsia/
-shop: massage
+shop: Massage
 ---

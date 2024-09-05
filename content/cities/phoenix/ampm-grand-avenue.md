@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm-grand-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

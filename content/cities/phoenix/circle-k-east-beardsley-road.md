@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /phoenix/circle-k-east-beardsley-road/
-shop: convenience
+shop: Lebensmittel
 ---

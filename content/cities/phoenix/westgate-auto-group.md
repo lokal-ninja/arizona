@@ -1,5 +1,5 @@
 ---
 title: "Westgate Auto Group"
 url: /phoenix/westgate-auto-group/
-shop: car
+shop: Autohaus
 ---

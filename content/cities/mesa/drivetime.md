@@ -1,5 +1,5 @@
 ---
 title: "DriveTime"
 url: /mesa/drivetime/
-shop: car
+shop: Autohaus
 ---

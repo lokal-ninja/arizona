@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /chandler/old-navy/
-shop: clothes
+shop: Kleidung
 ---

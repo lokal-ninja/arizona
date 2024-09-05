@@ -1,5 +1,5 @@
 ---
 title: "Toni's Cleaners"
 url: /kingman/tonis-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

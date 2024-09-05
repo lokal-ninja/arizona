@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /phoenix/hanesbrands/
-shop: clothes
+shop: Kleidung
 ---

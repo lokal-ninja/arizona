@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /phoenix/shell/
-shop: convenience
+shop: Lebensmittel
 ---

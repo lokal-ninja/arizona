@@ -1,5 +1,5 @@
 ---
 title: "USA Pawn and Jewelry"
 url: /kingman/usa-pawn-and-jewelry/
-shop: pawnbroker
+shop: Leiher
 ---

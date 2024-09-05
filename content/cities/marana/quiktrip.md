@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /marana/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

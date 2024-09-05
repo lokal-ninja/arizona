@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /gilbert/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

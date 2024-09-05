@@ -1,5 +1,5 @@
 ---
 title: "Superior Pool Products LLC"
 url: /mesa/superior-pool-products-llc/
-shop: swimming pool
+shop: Pool
 ---

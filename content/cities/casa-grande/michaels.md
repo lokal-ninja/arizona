@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /casa-grande/michaels/
-shop: craft
+shop: Basteln
 ---

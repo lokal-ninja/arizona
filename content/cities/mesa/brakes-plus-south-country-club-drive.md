@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /mesa/brakes-plus-south-country-club-drive/
-shop: car repair
+shop: Autowerkstatt
 ---

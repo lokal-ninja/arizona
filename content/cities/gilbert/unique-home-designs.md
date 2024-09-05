@@ -1,5 +1,5 @@
 ---
 title: "Unique Home Designs"
 url: /gilbert/unique-home-designs/
-shop: doors
+shop: Türen
 ---

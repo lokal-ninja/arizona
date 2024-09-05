@@ -1,5 +1,5 @@
 ---
 title: "FLIRT Salon"
 url: /chandler/flirt-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /phoenix/circle-k-east-union-hills-drive/
-shop: convenience
+shop: Lebensmittel
 ---

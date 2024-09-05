@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /avondale/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

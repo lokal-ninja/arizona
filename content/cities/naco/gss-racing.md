@@ -1,5 +1,5 @@
 ---
 title: "GSS Racing"
 url: /naco/gss-racing/
-shop: motorcycle
+shop: Motorrad
 ---

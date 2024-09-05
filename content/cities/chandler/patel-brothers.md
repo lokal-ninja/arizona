@@ -1,5 +1,5 @@
 ---
 title: "Patel Brothers"
 url: /chandler/patel-brothers/
-shop: supermarket
+shop: Supermarkt
 ---

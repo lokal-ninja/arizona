@@ -1,5 +1,5 @@
 ---
 title: "It's Sugar"
 url: /glendale/its-sugar/
-shop: confectionery
+shop: Süßwaren
 ---

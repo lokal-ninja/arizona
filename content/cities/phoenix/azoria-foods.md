@@ -1,5 +1,5 @@
 ---
 title: "Azoria Foods"
 url: /phoenix/azoria-foods/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

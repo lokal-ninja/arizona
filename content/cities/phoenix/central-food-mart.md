@@ -1,5 +1,5 @@
 ---
 title: "Central Food Mart"
 url: /phoenix/central-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

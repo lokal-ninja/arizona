@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /peoria/lowes/
-shop: garden centre
+shop: Garten-Center
 ---

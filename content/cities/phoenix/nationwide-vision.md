@@ -1,5 +1,5 @@
 ---
 title: "Nationwide vision"
 url: /phoenix/nationwide-vision/
-shop: optician
+shop: Optiker
 ---

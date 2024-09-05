@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /tempe/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---

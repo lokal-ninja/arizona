@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /tempe/u-haul-south-priest-drive-2/
-shop: storage rental
+shop: Mieten
 ---

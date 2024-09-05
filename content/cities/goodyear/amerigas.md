@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /goodyear/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

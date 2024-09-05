@@ -1,5 +1,5 @@
 ---
 title: "Action Rideshop"
 url: /mesa/action-rideshop/
-shop: bicycle
+shop: Fahrrad
 ---

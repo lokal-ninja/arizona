@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm-west-deer-valley-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mesa/petsmart-east-hampton-avenue/
-shop: pet
+shop: Tiere
 ---

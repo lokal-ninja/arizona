@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tucson/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

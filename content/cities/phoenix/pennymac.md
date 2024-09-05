@@ -1,5 +1,5 @@
 ---
 title: "Pennymac"
 url: /phoenix/pennymac/
-shop: pawnbroker
+shop: Leiher
 ---

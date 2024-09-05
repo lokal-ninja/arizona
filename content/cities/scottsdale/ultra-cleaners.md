@@ -1,5 +1,5 @@
 ---
 title: "Ultra Cleaners"
 url: /scottsdale/ultra-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

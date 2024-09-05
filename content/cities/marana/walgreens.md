@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /marana/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /prescott/natural-grocers/
-shop: supermarket
+shop: Supermarkt
 ---

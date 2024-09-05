@@ -1,5 +1,5 @@
 ---
 title: "Premier Patio"
 url: /mesa/premier-patio/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thomas Custom Jewelers"
 url: /carefree/thomas-custom-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /chandler/costco/
-shop: wholesale
+shop: Großhandel
 ---

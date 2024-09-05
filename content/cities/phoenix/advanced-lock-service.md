@@ -1,5 +1,5 @@
 ---
 title: "Advanced Lock Service"
 url: /phoenix/advanced-lock-service/
-shop: locksmith
+shop: Schlüsseldienst
 ---

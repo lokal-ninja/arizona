@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /mesa/hallmark/
-shop: gift
+shop: Andenken
 ---

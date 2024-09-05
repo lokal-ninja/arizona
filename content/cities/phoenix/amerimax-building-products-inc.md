@@ -1,5 +1,5 @@
 ---
 title: "Amerimax Building Products, Inc."
 url: /phoenix/amerimax-building-products-inc/
-shop: wholesale
+shop: Großhandel
 ---

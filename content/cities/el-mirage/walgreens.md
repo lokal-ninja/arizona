@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /el-mirage/walgreens/
-shop: chemist
+shop: Drogerie
 ---

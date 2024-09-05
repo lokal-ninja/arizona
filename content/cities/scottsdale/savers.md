@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /scottsdale/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

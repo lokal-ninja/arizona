@@ -1,5 +1,5 @@
 ---
 title: "Sharp Business Systems"
 url: /tempe/sharp-business-systems/
-shop: wholesale
+shop: Großhandel
 ---

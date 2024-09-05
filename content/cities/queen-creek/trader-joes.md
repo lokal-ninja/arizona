@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /queen-creek/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

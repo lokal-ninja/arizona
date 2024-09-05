@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /oro-valley/walgreens-north-la-canada-drive/
-shop: chemist
+shop: Drogerie
 ---

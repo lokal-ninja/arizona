@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /mesa/food-city-east-main-street/
-shop: supermarket
+shop: Supermarkt
 ---

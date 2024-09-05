@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /glendale/lids/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /tolleson/peterbilt/
-shop: shop
+shop: Allgemein
 ---

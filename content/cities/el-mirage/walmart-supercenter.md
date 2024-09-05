@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /el-mirage/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

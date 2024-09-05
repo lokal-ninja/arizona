@@ -1,5 +1,5 @@
 ---
 title: "Willcox Laundry"
 url: /willcox/willcox-laundry/
-shop: laundry
+shop: Wäscherei
 ---

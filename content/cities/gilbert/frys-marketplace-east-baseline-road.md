@@ -1,5 +1,5 @@
 ---
 title: "Fry's Marketplace"
 url: /gilbert/frys-marketplace-east-baseline-road/
-shop: supermarket
+shop: Supermarkt
 ---

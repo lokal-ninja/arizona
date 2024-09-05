@@ -1,5 +1,5 @@
 ---
 title: "Tommy’s Phoenix"
 url: /mesa/tommys-phoenix/
-shop: boat
+shop: Boot
 ---

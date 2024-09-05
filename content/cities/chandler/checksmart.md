@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /chandler/checksmart/
-shop: pawnbroker
+shop: Leiher
 ---

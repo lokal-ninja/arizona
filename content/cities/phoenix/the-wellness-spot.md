@@ -1,5 +1,5 @@
 ---
 title: "The Wellness Spot"
 url: /phoenix/the-wellness-spot/
-shop: cannabis
+shop: Hanf
 ---

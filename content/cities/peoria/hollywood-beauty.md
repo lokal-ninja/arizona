@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Beauty"
 url: /peoria/hollywood-beauty/
-shop: beauty
+shop: Kosmetik
 ---

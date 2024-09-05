@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /sanders/bashas/
-shop: supermarket
+shop: Supermarkt
 ---

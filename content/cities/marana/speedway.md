@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marana/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Praxair Electronics Logistics"
 url: /chandler/praxair-electronics-logistics/
-shop: electrical
+shop: Elektrisch
 ---

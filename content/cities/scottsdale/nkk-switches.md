@@ -1,5 +1,5 @@
 ---
 title: "NKK Switches"
 url: /scottsdale/nkk-switches/
-shop: electrical
+shop: Elektrisch
 ---

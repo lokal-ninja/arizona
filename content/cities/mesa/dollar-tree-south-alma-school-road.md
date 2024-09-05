@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /mesa/dollar-tree-south-alma-school-road/
-shop: variety store
+shop: Kramladen
 ---

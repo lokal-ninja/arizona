@@ -1,5 +1,5 @@
 ---
 title: "Health for Life"
 url: /mesa/health-for-life/
-shop: cannabis
+shop: Hanf
 ---

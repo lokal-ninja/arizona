@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /queen-creek/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

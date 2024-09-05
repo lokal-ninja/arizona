@@ -1,5 +1,5 @@
 ---
 title: "Poppies Flower Shop"
 url: /phoenix/poppies-flower-shop/
-shop: florist
+shop: Blumen
 ---

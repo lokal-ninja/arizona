@@ -1,5 +1,5 @@
 ---
 title: "Broadway Liquors"
 url: /mesa/broadway-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

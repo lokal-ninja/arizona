@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /chandler/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

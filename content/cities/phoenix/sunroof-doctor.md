@@ -1,5 +1,5 @@
 ---
 title: "Sunroof Doctor"
 url: /phoenix/sunroof-doctor/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Shoe Repair"
 url: /phoenix/central-shoe-repair/
-shop: shoes
+shop: Schuhe
 ---

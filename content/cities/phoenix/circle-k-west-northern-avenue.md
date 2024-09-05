@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /phoenix/circle-k-west-northern-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

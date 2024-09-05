@@ -1,5 +1,5 @@
 ---
 title: "Belle Nails"
 url: /glendale/belle-nails/
-shop: beauty
+shop: Kosmetik
 ---
