@@ -1,5 +1,5 @@
 ---
 title: "StorAmerica"
 url: /avondale/storamerica/
-shop: Mieten
+shop: storage rental
 ---

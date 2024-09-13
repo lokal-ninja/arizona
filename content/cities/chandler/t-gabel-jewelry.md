@@ -1,5 +1,5 @@
 ---
 title: "T. Gabel Jewelry"
 url: /chandler/t-gabel-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

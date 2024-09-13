@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /phoenix/best-buy/
-shop: Elektronik
+shop: electronics
 ---

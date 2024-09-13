@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /scottsdale/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

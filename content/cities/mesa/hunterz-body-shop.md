@@ -1,5 +1,5 @@
 ---
 title: "Hunter'z Body Shop"
 url: /mesa/hunterz-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

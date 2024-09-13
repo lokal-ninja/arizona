@@ -1,5 +1,5 @@
 ---
 title: "Imports Inc."
 url: /mesa/imports-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

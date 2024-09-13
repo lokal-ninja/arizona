@@ -1,5 +1,5 @@
 ---
 title: "Telonics Inc"
 url: /mesa/telonics-inc/
-shop: Elektrisch
+shop: electrical
 ---

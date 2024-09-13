@@ -1,5 +1,5 @@
 ---
 title: "Bear Mountain"
 url: /mesa/bear-mountain/
-shop: Waffen
+shop: weapons
 ---

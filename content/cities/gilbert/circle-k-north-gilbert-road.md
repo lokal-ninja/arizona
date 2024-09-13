@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /gilbert/circle-k-north-gilbert-road/
-shop: Lebensmittel
+shop: convenience
 ---

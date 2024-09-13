@@ -1,5 +1,5 @@
 ---
 title: "Lee Lee Oriental Supermarket"
 url: /chandler/lee-lee-oriental-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

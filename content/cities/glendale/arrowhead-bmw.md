@@ -1,5 +1,5 @@
 ---
 title: "Arrowhead BMW"
 url: /glendale/arrowhead-bmw/
-shop: Autohaus
+shop: car
 ---

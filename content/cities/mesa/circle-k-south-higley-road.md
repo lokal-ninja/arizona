@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /mesa/circle-k-south-higley-road/
-shop: Lebensmittel
+shop: convenience
 ---

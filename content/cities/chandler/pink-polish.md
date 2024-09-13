@@ -1,5 +1,5 @@
 ---
 title: "PINK POLISH"
 url: /chandler/pink-polish/
-shop: Kosmetik
+shop: beauty
 ---

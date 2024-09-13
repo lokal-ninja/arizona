@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /litchfield-park/autozone/
-shop: Autoteile
+shop: car parts
 ---

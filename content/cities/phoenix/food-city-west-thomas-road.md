@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /phoenix/food-city-west-thomas-road/
-shop: Supermarkt
+shop: supermarket
 ---

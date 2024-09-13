@@ -1,5 +1,5 @@
 ---
 title: "LoanMax"
 url: /glendale/loanmax/
-shop: Leiher
+shop: pawnbroker
 ---

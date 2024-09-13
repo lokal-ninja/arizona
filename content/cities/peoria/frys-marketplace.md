@@ -1,5 +1,5 @@
 ---
 title: "Fry's Marketplace"
 url: /peoria/frys-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

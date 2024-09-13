@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /peoria/supercuts-west-bell-road/
-shop: Friseur
+shop: hairdresser
 ---

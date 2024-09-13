@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /flagstaff/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

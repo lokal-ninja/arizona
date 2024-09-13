@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /mesa/cvs-pharmacy-south-sossaman-road/
-shop: Drogerie
+shop: chemist
 ---

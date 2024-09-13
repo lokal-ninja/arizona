@@ -1,5 +1,5 @@
 ---
 title: "Coast-to-Coast Liquidators"
 url: /phoenix/coast-to-coast-liquidators/
-shop: Großhandel
+shop: wholesale
 ---

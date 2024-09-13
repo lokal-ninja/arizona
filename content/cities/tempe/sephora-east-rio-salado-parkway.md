@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /tempe/sephora-east-rio-salado-parkway/
-shop: Kosmetik
+shop: beauty
 ---

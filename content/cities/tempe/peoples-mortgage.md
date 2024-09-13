@@ -1,5 +1,5 @@
 ---
 title: "Peoples Mortgage"
 url: /tempe/peoples-mortgage/
-shop: Leiher
+shop: pawnbroker
 ---

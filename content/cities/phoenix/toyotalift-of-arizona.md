@@ -1,5 +1,5 @@
 ---
 title: "Toyotalift of Arizona"
 url: /phoenix/toyotalift-of-arizona/
-shop: Baustoffe
+shop: trade
 ---

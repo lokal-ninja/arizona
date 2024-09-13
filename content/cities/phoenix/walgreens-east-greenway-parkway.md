@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /phoenix/walgreens-east-greenway-parkway/
-shop: Drogerie
+shop: chemist
 ---

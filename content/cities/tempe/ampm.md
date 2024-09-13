@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /tempe/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

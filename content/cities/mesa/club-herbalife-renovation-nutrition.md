@@ -1,5 +1,5 @@
 ---
 title: "Club Herbalife Renovation Nutrition"
 url: /mesa/club-herbalife-renovation-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DFR Dirtfiend Racing"
 url: /mesa/dfr-dirtfiend-racing/
-shop: Autoteile
+shop: car parts
 ---

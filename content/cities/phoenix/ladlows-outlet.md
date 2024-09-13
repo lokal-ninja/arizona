@@ -1,5 +1,5 @@
 ---
 title: "Ladlow's Outlet"
 url: /phoenix/ladlows-outlet/
-shop: Möbel
+shop: furniture
 ---

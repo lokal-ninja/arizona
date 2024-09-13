@@ -1,5 +1,5 @@
 ---
 title: "Indian School Thrift"
 url: /phoenix/indian-school-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

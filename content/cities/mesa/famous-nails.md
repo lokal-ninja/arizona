@@ -1,5 +1,5 @@
 ---
 title: "Famous Nails"
 url: /mesa/famous-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /mesa/extra-space-storage-north-greenfield-road/
-shop: Mieten
+shop: storage rental
 ---

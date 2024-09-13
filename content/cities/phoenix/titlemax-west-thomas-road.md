@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /phoenix/titlemax-west-thomas-road/
-shop: Leiher
+shop: pawnbroker
 ---

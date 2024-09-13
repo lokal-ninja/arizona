@@ -1,5 +1,5 @@
 ---
 title: "Lemac Aviation"
 url: /mesa/lemac-aviation/
-shop: Allgemein
+shop: shop
 ---

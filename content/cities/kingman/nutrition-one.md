@@ -1,5 +1,5 @@
 ---
 title: "Nutrition One"
 url: /kingman/nutrition-one/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

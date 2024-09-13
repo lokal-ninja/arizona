@@ -1,5 +1,5 @@
 ---
 title: "GM Power Window Repair"
 url: /phoenix/gm-power-window-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

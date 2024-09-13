@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /flagstaff/michaels/
-shop: Basteln
+shop: craft
 ---

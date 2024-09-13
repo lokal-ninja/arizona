@@ -1,5 +1,5 @@
 ---
 title: "Moxie Multisport"
 url: /scottsdale/moxie-multisport/
-shop: Sport
+shop: sports
 ---

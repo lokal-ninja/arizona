@@ -1,5 +1,5 @@
 ---
 title: "AJ's Fine Foods"
 url: /scottsdale/ajs-fine-foods-north-scottsdale-road/
-shop: Supermarkt
+shop: supermarket
 ---

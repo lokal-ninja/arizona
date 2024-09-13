@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /phoenix/homegoods-north-tatum-boulevard/
-shop: Haushaltsartikel
+shop: houseware
 ---

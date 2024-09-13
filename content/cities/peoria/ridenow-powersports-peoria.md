@@ -1,5 +1,5 @@
 ---
 title: "RideNow Powersports Peoria"
 url: /peoria/ridenow-powersports-peoria/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copper Spoke Cycles"
 url: /tucson/copper-spoke-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

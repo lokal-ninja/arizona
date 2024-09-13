@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /queen-creek/carquest/
-shop: Autoteile
+shop: car parts
 ---

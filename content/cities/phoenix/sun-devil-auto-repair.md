@@ -1,5 +1,5 @@
 ---
 title: "Sun Devil Auto Repair"
 url: /phoenix/sun-devil-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /surprise/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

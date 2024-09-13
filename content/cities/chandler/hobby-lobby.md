@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /chandler/hobby-lobby/
-shop: Sport
+shop: sports
 ---

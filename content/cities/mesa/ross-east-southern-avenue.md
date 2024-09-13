@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /mesa/ross-east-southern-avenue/
-shop: Warenhaus
+shop: department store
 ---

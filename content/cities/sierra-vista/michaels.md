@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /sierra-vista/michaels/
-shop: Basteln
+shop: craft
 ---

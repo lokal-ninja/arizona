@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /mesa/wss/
-shop: Schuhe
+shop: shoes
 ---

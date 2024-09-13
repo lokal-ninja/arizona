@@ -1,5 +1,5 @@
 ---
 title: "Bike Masters"
 url: /mesa/bike-masters/
-shop: Fahrrad
+shop: bicycle
 ---

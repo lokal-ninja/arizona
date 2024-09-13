@@ -1,5 +1,5 @@
 ---
 title: "Arizona Cellular"
 url: /phoenix/arizona-cellular/
-shop: Handy
+shop: mobile phone
 ---

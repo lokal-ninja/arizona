@@ -1,5 +1,5 @@
 ---
 title: "Verizon Authorized Retailer"
 url: /fountain-hills/verizon-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

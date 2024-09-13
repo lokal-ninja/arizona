@@ -1,5 +1,5 @@
 ---
 title: "Parts Authority"
 url: /mesa/parts-authority-west-guadalupe-road/
-shop: Autoteile
+shop: car parts
 ---

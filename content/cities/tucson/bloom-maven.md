@@ -1,5 +1,5 @@
 ---
 title: "Bloom Maven"
 url: /tucson/bloom-maven/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /gilbert/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

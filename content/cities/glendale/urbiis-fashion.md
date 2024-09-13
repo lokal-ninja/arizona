@@ -1,5 +1,5 @@
 ---
 title: "URBII's Fashion"
 url: /glendale/urbiis-fashion/
-shop: Kleidung
+shop: clothes
 ---

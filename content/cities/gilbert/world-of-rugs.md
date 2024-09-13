@@ -1,5 +1,5 @@
 ---
 title: "World of Rugs"
 url: /gilbert/world-of-rugs/
-shop: Möbel
+shop: furniture
 ---

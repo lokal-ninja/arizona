@@ -1,5 +1,5 @@
 ---
 title: "New Deal"
 url: /glendale/new-deal/
-shop: Autohaus
+shop: car
 ---

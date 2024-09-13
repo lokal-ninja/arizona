@@ -1,5 +1,5 @@
 ---
 title: "Samurai Comics"
 url: /mesa/samurai-comics/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /peoria/goodwill-west-ludlow-drive/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /sun-lakes/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

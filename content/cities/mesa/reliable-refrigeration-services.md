@@ -1,5 +1,5 @@
 ---
 title: "Reliable Refrigeration Services"
 url: /mesa/reliable-refrigeration-services/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamondback Computers"
 url: /apache-junction/diamondback-computers/
-shop: Computer
+shop: computer
 ---

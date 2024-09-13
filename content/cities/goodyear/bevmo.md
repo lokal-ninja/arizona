@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /goodyear/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Celulares"
 url: /mesa/los-celulares/
-shop: Handy
+shop: mobile phone
 ---

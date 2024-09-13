@@ -1,5 +1,5 @@
 ---
 title: "Guadalupe Nails"
 url: /gilbert/guadalupe-nails/
-shop: Kosmetik
+shop: beauty
 ---

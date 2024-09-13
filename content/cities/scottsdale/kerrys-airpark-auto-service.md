@@ -1,5 +1,5 @@
 ---
 title: "Kerry's Airpark Auto Service"
 url: /scottsdale/kerrys-airpark-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

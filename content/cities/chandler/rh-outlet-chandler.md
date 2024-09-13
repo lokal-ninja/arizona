@@ -1,5 +1,5 @@
 ---
 title: "RH Outlet Chandler"
 url: /chandler/rh-outlet-chandler/
-shop: Möbel
+shop: furniture
 ---

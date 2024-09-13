@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mesa/autozone-east-main-street/
-shop: Autoteile
+shop: car parts
 ---

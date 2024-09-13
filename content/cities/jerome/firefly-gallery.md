@@ -1,5 +1,5 @@
 ---
 title: "Firefly Gallery"
 url: /jerome/firefly-gallery/
-shop: Kunst
+shop: art
 ---

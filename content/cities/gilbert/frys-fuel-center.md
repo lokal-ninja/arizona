@@ -1,5 +1,5 @@
 ---
 title: "Fry's Fuel Center"
 url: /gilbert/frys-fuel-center/
-shop: Lebensmittel
+shop: convenience
 ---

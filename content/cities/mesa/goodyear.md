@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /mesa/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

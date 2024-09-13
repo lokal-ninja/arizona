@@ -1,5 +1,5 @@
 ---
 title: "Lavbattouls"
 url: /phoenix/lavbattouls/
-shop: Großhandel
+shop: wholesale
 ---

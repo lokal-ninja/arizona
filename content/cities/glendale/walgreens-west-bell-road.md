@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /glendale/walgreens-west-bell-road/
-shop: Drogerie
+shop: chemist
 ---

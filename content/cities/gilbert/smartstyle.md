@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /gilbert/smartstyle/
-shop: Friseur
+shop: hairdresser
 ---

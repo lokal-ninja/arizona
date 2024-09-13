@@ -1,5 +1,5 @@
 ---
 title: "Consumer Cellular"
 url: /surprise/consumer-cellular/
-shop: Handy
+shop: mobile phone
 ---

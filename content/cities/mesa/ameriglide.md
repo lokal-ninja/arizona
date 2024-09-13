@@ -1,5 +1,5 @@
 ---
 title: "AmeriGlide"
 url: /mesa/ameriglide/
-shop: Sanitätshaus
+shop: medical supply
 ---

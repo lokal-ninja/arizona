@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /surprise/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

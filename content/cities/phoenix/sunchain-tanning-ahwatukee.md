@@ -1,5 +1,5 @@
 ---
 title: "Sunchain Tanning Ahwatukee"
 url: /phoenix/sunchain-tanning-ahwatukee/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gingerbread House Antique Store"
 url: /pine/gingerbread-house-antique-store/
-shop: Antiquitäten
+shop: antiques
 ---

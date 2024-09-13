@@ -1,5 +1,5 @@
 ---
 title: "Weller Racing"
 url: /chandler/weller-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

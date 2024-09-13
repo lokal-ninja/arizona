@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Beauty"
 url: /phoenix/hollywood-beauty/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Standard Hardware"
 url: /mesa/standard-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

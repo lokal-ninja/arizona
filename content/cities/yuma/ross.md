@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /yuma/ross/
-shop: Warenhaus
+shop: department store
 ---

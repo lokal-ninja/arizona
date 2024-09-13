@@ -1,5 +1,5 @@
 ---
 title: "Excel Collision Center"
 url: /mesa/excel-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

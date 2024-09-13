@@ -1,5 +1,5 @@
 ---
 title: "Protech Coachworks Phoenix"
 url: /phoenix/protech-coachworks-phoenix/
-shop: Autowerkstatt
+shop: car repair
 ---

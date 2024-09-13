@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /phoenix/walgreens-east-mcdowell-road/
-shop: Drogerie
+shop: chemist
 ---

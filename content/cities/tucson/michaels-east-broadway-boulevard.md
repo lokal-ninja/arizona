@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /tucson/michaels-east-broadway-boulevard/
-shop: Basteln
+shop: craft
 ---

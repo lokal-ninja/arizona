@@ -1,5 +1,5 @@
 ---
 title: "Fleet Service Center"
 url: /gilbert/fleet-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

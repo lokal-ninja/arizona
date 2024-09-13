@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /mesa/life-storage/
-shop: Mieten
+shop: storage rental
 ---

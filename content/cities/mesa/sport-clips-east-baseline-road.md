@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /mesa/sport-clips-east-baseline-road/
-shop: Friseur
+shop: hairdresser
 ---

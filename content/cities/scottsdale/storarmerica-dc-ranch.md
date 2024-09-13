@@ -1,5 +1,5 @@
 ---
 title: "StorArmerica DC Ranch"
 url: /scottsdale/storarmerica-dc-ranch/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /peoria/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

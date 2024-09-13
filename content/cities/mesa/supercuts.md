@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /mesa/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

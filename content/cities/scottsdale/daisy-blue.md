@@ -1,5 +1,5 @@
 ---
 title: "Daisy Blue"
 url: /scottsdale/daisy-blue/
-shop: Kleidung
+shop: clothes
 ---

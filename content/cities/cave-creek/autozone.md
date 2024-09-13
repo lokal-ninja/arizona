@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cave-creek/autozone/
-shop: Autoteile
+shop: car parts
 ---

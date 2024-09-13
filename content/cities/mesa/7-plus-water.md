@@ -1,5 +1,5 @@
 ---
 title: "7 Plus Water"
 url: /mesa/7-plus-water/
-shop: Getränke
+shop: beverages
 ---

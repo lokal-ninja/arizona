@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /willcox/bealls/
-shop: Warenhaus
+shop: department store
 ---

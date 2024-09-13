@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mesa/walgreens-north-power-road/
-shop: Drogerie
+shop: chemist
 ---

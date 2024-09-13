@@ -1,5 +1,5 @@
 ---
 title: "Tesla Collision Tempe"
 url: /tempe/tesla-collision-tempe/
-shop: Autowerkstatt
+shop: car repair
 ---

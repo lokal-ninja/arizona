@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sedona/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

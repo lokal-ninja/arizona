@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /mesa/discount-tire-south-power-road/
-shop: Reifen
+shop: tyres
 ---

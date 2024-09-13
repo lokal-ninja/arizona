@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /chandler/smartstyle/
-shop: Friseur
+shop: hairdresser
 ---

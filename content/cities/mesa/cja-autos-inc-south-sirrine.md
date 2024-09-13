@@ -1,5 +1,5 @@
 ---
 title: "CJA Autos Inc"
 url: /mesa/cja-autos-inc-south-sirrine/
-shop: Autohaus
+shop: car
 ---

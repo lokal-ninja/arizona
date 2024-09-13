@@ -1,5 +1,5 @@
 ---
 title: "Smart Buy"
 url: /mesa/smart-buy/
-shop: Dorfladen
+shop: general
 ---

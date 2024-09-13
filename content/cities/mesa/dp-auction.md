@@ -1,5 +1,5 @@
 ---
 title: "DP Auction"
 url: /mesa/dp-auction/
-shop: Auktionshaus
+shop: auction house
 ---

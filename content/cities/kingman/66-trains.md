@@ -1,5 +1,5 @@
 ---
 title: "66 Trains"
 url: /kingman/66-trains/
-shop: Spielzeug
+shop: toys
 ---

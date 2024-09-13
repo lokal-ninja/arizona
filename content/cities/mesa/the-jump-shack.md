@@ -1,5 +1,5 @@
 ---
 title: "The Jump Shack"
 url: /mesa/the-jump-shack/
-shop: Sport
+shop: sports
 ---

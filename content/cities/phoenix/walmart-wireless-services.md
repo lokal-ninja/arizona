@@ -1,5 +1,5 @@
 ---
 title: "Walmart Wireless Services"
 url: /phoenix/walmart-wireless-services/
-shop: Handy
+shop: mobile phone
 ---

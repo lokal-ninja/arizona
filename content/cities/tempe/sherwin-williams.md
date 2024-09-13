@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /tempe/sherwin-williams/
-shop: Farben
+shop: paint
 ---

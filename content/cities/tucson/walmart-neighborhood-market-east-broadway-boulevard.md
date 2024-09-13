@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /tucson/walmart-neighborhood-market-east-broadway-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

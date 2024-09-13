@@ -1,5 +1,5 @@
 ---
 title: "Modfire"
 url: /phoenix/modfire/
-shop: Kamine & Öfen
+shop: fireplace
 ---

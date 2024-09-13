@@ -1,5 +1,5 @@
 ---
 title: "Camelback Liquors"
 url: /phoenix/camelback-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

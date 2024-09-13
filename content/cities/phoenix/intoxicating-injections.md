@@ -1,5 +1,5 @@
 ---
 title: "Intoxicating Injections"
 url: /phoenix/intoxicating-injections/
-shop: Kosmetik
+shop: beauty
 ---

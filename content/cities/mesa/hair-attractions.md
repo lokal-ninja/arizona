@@ -1,5 +1,5 @@
 ---
 title: "Hair Attractions"
 url: /mesa/hair-attractions/
-shop: Friseur
+shop: hairdresser
 ---

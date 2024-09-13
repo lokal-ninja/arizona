@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /phoenix/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

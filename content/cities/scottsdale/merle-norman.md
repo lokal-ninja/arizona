@@ -1,5 +1,5 @@
 ---
 title: "Merle Norman"
 url: /scottsdale/merle-norman/
-shop: Kosmetik
+shop: beauty
 ---

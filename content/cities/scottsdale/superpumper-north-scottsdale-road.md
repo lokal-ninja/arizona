@@ -1,5 +1,5 @@
 ---
 title: "Superpumper"
 url: /scottsdale/superpumper-north-scottsdale-road/
-shop: Lebensmittel
+shop: convenience
 ---

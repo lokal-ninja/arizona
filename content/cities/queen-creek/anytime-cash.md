@@ -1,5 +1,5 @@
 ---
 title: "Anytime Cash"
 url: /queen-creek/anytime-cash/
-shop: Leiher
+shop: pawnbroker
 ---

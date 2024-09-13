@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /tempe/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

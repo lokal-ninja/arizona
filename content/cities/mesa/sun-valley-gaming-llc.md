@@ -1,5 +1,5 @@
 ---
 title: "Sun Valley Gaming LLC"
 url: /mesa/sun-valley-gaming-llc/
-shop: Videospiele
+shop: video games
 ---

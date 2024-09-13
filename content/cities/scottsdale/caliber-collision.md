@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /scottsdale/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Airtech Automotive"
 url: /mesa/airtech-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

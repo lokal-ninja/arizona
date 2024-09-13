@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tucson/speedway-east-broadway-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

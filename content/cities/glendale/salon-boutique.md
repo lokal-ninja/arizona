@@ -1,5 +1,5 @@
 ---
 title: "Salon Boutique"
 url: /glendale/salon-boutique/
-shop: Friseur
+shop: hairdresser
 ---

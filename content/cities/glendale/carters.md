@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /glendale/carters/
-shop: Kleidung
+shop: clothes
 ---

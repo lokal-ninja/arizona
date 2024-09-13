@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /casa-grande/autozone/
-shop: Autoteile
+shop: car parts
 ---

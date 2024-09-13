@@ -1,5 +1,5 @@
 ---
 title: "Sanderson Ford Service Center"
 url: /glendale/sanderson-ford-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

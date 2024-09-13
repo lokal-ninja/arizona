@@ -1,5 +1,5 @@
 ---
 title: "West Side Auto Repairs"
 url: /peoria/west-side-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

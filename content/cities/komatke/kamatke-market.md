@@ -1,5 +1,5 @@
 ---
 title: "Kamatke Market"
 url: /komatke/kamatke-market/
-shop: Lebensmittel
+shop: convenience
 ---

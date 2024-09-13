@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /flagstaff/ross/
-shop: Warenhaus
+shop: department store
 ---

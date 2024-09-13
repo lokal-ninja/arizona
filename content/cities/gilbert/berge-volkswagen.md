@@ -1,5 +1,5 @@
 ---
 title: "Berge Volkswagen"
 url: /gilbert/berge-volkswagen/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Core-Mark International"
 url: /phoenix/core-mark-international/
-shop: Großhandel
+shop: wholesale
 ---

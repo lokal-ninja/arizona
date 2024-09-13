@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /apache-junction/walgreens-east-apache-trail/
-shop: Drogerie
+shop: chemist
 ---

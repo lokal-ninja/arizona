@@ -1,5 +1,5 @@
 ---
 title: "Ruiz Kustomz"
 url: /gilbert/ruiz-kustomz/
-shop: Autowerkstatt
+shop: car repair
 ---

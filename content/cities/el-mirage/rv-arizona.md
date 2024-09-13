@@ -1,5 +1,5 @@
 ---
 title: "RV Arizona"
 url: /el-mirage/rv-arizona/
-shop: Wohnwagen
+shop: caravan
 ---

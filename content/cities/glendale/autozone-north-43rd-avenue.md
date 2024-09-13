@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /glendale/autozone-north-43rd-avenue/
-shop: Autoteile
+shop: car parts
 ---

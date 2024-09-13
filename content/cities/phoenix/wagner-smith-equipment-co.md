@@ -1,5 +1,5 @@
 ---
 title: "Wagner-Smith Equipment Co."
 url: /phoenix/wagner-smith-equipment-co/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /glendale/quiktrip-west-greenway-road/
-shop: Lebensmittel
+shop: convenience
 ---

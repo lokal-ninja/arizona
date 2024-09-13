@@ -1,5 +1,5 @@
 ---
 title: "Rapid Repair"
 url: /gilbert/rapid-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

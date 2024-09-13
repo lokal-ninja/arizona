@@ -1,5 +1,5 @@
 ---
 title: "Diamondback Autoworks"
 url: /mesa/diamondback-autoworks/
-shop: Autohaus
+shop: car
 ---

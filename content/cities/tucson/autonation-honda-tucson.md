@@ -1,5 +1,5 @@
 ---
 title: "AutoNation Honda Tucson"
 url: /tucson/autonation-honda-tucson/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /scottsdale/jiffy-lube-east-mcdowell-road/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /mesa/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

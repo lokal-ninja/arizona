@@ -1,5 +1,5 @@
 ---
 title: "SmartStop Self Storage"
 url: /chandler/smartstop-self-storage/
-shop: Mieten
+shop: storage rental
 ---

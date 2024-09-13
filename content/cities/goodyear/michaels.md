@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /goodyear/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superior Pool Products"
 url: /peoria/superior-pool-products/
-shop: Pool
+shop: swimming pool
 ---

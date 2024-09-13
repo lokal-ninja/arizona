@@ -1,5 +1,5 @@
 ---
 title: "Speedway Motors"
 url: /tolleson/speedway-motors/
-shop: Autoteile
+shop: car parts
 ---

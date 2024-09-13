@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /surprise/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ramsey Speed"
 url: /phoenix/ramsey-speed/
-shop: Motorrad
+shop: motorcycle
 ---

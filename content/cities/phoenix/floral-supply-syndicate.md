@@ -1,5 +1,5 @@
 ---
 title: "Floral Supply Syndicate"
 url: /phoenix/floral-supply-syndicate/
-shop: Blumen
+shop: florist
 ---

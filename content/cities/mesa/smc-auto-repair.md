@@ -1,5 +1,5 @@
 ---
 title: "SMC Auto Repair"
 url: /mesa/smc-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

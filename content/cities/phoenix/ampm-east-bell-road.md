@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm-east-bell-road/
-shop: Lebensmittel
+shop: convenience
 ---

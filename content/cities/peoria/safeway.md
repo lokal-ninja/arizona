@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /peoria/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

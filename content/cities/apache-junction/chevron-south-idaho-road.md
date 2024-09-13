@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /apache-junction/chevron-south-idaho-road/
-shop: Lebensmittel
+shop: convenience
 ---

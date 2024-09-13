@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /phoenix/oreilly-auto-parts-east-thunderbird-road/
-shop: Autoteile
+shop: car parts
 ---

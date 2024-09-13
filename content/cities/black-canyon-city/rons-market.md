@@ -1,5 +1,5 @@
 ---
 title: "Ron's Market"
 url: /black-canyon-city/rons-market/
-shop: Supermarkt
+shop: supermarket
 ---

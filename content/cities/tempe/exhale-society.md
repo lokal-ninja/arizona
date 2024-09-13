@@ -1,5 +1,5 @@
 ---
 title: "Exhale Society"
 url: /tempe/exhale-society/
-shop: Hanf
+shop: cannabis
 ---

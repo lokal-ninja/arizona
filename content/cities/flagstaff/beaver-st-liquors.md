@@ -1,5 +1,5 @@
 ---
 title: "Beaver St. Liquors"
 url: /flagstaff/beaver-st-liquors/
-shop: Getränke
+shop: beverages
 ---

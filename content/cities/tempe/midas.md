@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tempe/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

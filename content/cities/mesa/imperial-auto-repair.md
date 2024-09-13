@@ -1,5 +1,5 @@
 ---
 title: "Imperial Auto Repair"
 url: /mesa/imperial-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

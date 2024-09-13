@@ -1,5 +1,5 @@
 ---
 title: "PRO Shop"
 url: /surprise/pro-shop/
-shop: Golf
+shop: golf
 ---

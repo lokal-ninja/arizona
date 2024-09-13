@@ -1,5 +1,5 @@
 ---
 title: "NPS Pool Supply"
 url: /fountain-hills/nps-pool-supply/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beall's Outlet"
 url: /apache-junction/bealls-outlet/
-shop: Warenhaus
+shop: department store
 ---

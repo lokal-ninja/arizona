@@ -1,5 +1,5 @@
 ---
 title: "Greater Phoenix Motors"
 url: /mesa/greater-phoenix-motors/
-shop: Autohaus
+shop: car
 ---

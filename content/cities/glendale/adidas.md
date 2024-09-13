@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /glendale/adidas/
-shop: Sport
+shop: sports
 ---

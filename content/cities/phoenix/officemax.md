@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /phoenix/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

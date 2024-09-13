@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /yuma/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tint World"
 url: /chandler/tint-world/
-shop: Autoteile
+shop: car parts
 ---

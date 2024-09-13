@@ -1,5 +1,5 @@
 ---
 title: "Briseno Azteca Imports"
 url: /surprise/briseno-azteca-imports/
-shop: Töpferei
+shop: pottery
 ---

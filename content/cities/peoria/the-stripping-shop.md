@@ -1,5 +1,5 @@
 ---
 title: "The Stripping Shop"
 url: /peoria/the-stripping-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

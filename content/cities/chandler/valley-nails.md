@@ -1,5 +1,5 @@
 ---
 title: "Valley Nails"
 url: /chandler/valley-nails/
-shop: Kosmetik
+shop: beauty
 ---

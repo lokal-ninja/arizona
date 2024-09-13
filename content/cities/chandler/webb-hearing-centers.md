@@ -1,5 +1,5 @@
 ---
 title: "Webb Hearing Centers"
 url: /chandler/webb-hearing-centers/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /bullhead-city/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

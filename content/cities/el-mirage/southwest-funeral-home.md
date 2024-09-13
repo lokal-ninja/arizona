@@ -1,5 +1,5 @@
 ---
 title: "Southwest Funeral Home"
 url: /el-mirage/southwest-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mesa/autozone-west-guadalupe-road/
-shop: Autoteile
+shop: car parts
 ---

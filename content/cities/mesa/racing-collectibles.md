@@ -1,5 +1,5 @@
 ---
 title: "Racing Collectibles"
 url: /mesa/racing-collectibles/
-shop: Sammler
+shop: collector
 ---

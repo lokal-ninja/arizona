@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /phoenix/autozone-south-central-avenue/
-shop: Autoteile
+shop: car parts
 ---

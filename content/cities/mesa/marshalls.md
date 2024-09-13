@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /mesa/marshalls/
-shop: Warenhaus
+shop: department store
 ---

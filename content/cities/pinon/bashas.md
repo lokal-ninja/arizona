@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /pinon/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

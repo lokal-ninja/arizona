@@ -1,5 +1,5 @@
 ---
 title: "Indian Art Gallery"
 url: /holbrook/indian-art-gallery/
-shop: Kunst
+shop: art
 ---

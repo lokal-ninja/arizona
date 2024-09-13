@@ -1,5 +1,5 @@
 ---
 title: "Stems A Florist"
 url: /scottsdale/stems-a-florist/
-shop: Blumen
+shop: florist
 ---

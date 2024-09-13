@@ -1,5 +1,5 @@
 ---
 title: "Marshall Gallery"
 url: /scottsdale/marshall-gallery/
-shop: Kunst
+shop: art
 ---

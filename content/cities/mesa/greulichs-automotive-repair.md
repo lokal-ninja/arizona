@@ -1,5 +1,5 @@
 ---
 title: "Greulich's Automotive Repair"
 url: /mesa/greulichs-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

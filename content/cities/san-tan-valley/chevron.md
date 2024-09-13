@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /san-tan-valley/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

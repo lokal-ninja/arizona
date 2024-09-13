@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tempe/staples-east-broadway-road/
-shop: Schreibwaren
+shop: office supplies
 ---

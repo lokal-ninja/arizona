@@ -1,5 +1,5 @@
 ---
 title: "Queen of Heaven Funeral Home"
 url: /mesa/queen-of-heaven-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

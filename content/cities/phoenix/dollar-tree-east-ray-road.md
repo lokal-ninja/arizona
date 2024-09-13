@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /phoenix/dollar-tree-east-ray-road/
-shop: Kramladen
+shop: variety store
 ---

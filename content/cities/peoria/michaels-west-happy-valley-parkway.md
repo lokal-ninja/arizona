@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /peoria/michaels-west-happy-valley-parkway/
-shop: Basteln
+shop: craft
 ---

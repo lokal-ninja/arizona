@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /glendale/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Supply"
 url: /chandler/shoppers-supply/
-shop: Tiere
+shop: pet
 ---

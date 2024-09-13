@@ -1,5 +1,5 @@
 ---
 title: "Rollit Motors"
 url: /mesa/rollit-motors/
-shop: Autohaus
+shop: car
 ---

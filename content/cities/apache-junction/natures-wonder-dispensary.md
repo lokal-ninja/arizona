@@ -1,5 +1,5 @@
 ---
 title: "Nature's Wonder Dispensary"
 url: /apache-junction/natures-wonder-dispensary/
-shop: Hanf
+shop: cannabis
 ---

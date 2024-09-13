@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tucson/supercuts-east-irvington-road/
-shop: Friseur
+shop: hairdresser
 ---

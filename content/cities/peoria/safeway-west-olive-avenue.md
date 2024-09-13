@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /peoria/safeway-west-olive-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valley MedTrans"
 url: /tempe/valley-medtrans/
-shop: Reisebüro
+shop: travel agency
 ---

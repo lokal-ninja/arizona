@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /mesa/burlington-south-stapley-drive/
-shop: Warenhaus
+shop: department store
 ---

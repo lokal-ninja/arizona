@@ -1,5 +1,5 @@
 ---
 title: "Fresh Cuts"
 url: /glendale/fresh-cuts/
-shop: Friseur
+shop: hairdresser
 ---

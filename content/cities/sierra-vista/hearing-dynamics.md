@@ -1,5 +1,5 @@
 ---
 title: "Hearing Dynamics"
 url: /sierra-vista/hearing-dynamics/
-shop: Sanitätshaus
+shop: medical supply
 ---

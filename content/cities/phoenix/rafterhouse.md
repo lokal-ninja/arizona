@@ -1,5 +1,5 @@
 ---
 title: "Rafterhouse"
 url: /phoenix/rafterhouse/
-shop: Raumausstattung
+shop: interior decoration
 ---

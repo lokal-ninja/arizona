@@ -1,5 +1,5 @@
 ---
 title: "My Sisters Attic"
 url: /chandler/my-sisters-attic/
-shop: Gebrauchtwaren
+shop: charity
 ---

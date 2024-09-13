@@ -1,5 +1,5 @@
 ---
 title: "Expansion Capital Church Funding"
 url: /tempe/expansion-capital-church-funding/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desert Lighting Associates"
 url: /scottsdale/desert-lighting-associates/
-shop: Lampen
+shop: lamps
 ---

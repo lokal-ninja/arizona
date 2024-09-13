@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mesa/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

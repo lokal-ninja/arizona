@@ -1,5 +1,5 @@
 ---
 title: "MZ Montana Colors"
 url: /phoenix/mz-montana-colors/
-shop: Farben
+shop: paint
 ---

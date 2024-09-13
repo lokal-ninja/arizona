@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Pool Supplies"
 url: /phoenix/leslies-pool-supplies-west-bell-road/
-shop: Pool
+shop: swimming pool
 ---

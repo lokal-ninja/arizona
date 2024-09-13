@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /phoenix/family-dollar-north-36th-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /sierra-vista/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

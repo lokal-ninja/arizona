@@ -1,5 +1,5 @@
 ---
 title: "Hot Spa Nails"
 url: /gilbert/hot-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

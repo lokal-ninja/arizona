@@ -1,5 +1,5 @@
 ---
 title: "SuperPawn"
 url: /flagstaff/superpawn/
-shop: Leiher
+shop: pawnbroker
 ---

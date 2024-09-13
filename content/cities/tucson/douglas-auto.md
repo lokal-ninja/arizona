@@ -1,5 +1,5 @@
 ---
 title: "Douglas Auto"
 url: /tucson/douglas-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

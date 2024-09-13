@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chandler/dollar-tree-east-riggs-road/
-shop: Kramladen
+shop: variety store
 ---

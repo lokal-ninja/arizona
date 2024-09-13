@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tucson/petsmart-west-river-road/
-shop: Tiere
+shop: pet
 ---

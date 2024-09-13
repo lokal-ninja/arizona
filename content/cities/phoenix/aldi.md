@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /phoenix/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

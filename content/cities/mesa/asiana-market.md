@@ -1,5 +1,5 @@
 ---
 title: "Asiana Market"
 url: /mesa/asiana-market/
-shop: Supermarkt
+shop: supermarket
 ---

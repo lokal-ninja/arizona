@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /goodyear/petsmart/
-shop: Tiere
+shop: pet
 ---

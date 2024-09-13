@@ -1,5 +1,5 @@
 ---
 title: "Arrow Electronics Inc."
 url: /phoenix/arrow-electronics-inc/
-shop: Elektrisch
+shop: electrical
 ---

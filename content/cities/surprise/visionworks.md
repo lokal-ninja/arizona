@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /surprise/visionworks/
-shop: Optiker
+shop: optician
 ---

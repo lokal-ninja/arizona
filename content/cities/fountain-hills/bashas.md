@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /fountain-hills/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

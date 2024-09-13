@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /chandler/verizon-east-germann-road/
-shop: Handy
+shop: mobile phone
 ---

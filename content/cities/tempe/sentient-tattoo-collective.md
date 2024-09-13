@@ -1,5 +1,5 @@
 ---
 title: "Sentient Tattoo Collective"
 url: /tempe/sentient-tattoo-collective/
-shop: Tattoo
+shop: tattoo
 ---

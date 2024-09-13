@@ -1,5 +1,5 @@
 ---
 title: "Steven Crazy Nails"
 url: /peoria/steven-crazy-nails/
-shop: Kosmetik
+shop: beauty
 ---

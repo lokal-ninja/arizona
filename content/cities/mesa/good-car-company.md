@@ -1,5 +1,5 @@
 ---
 title: "Good Car Company"
 url: /mesa/good-car-company/
-shop: Autohaus
+shop: car
 ---

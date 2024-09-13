@@ -1,5 +1,5 @@
 ---
 title: "Coronado Vineyards"
 url: /willcox/coronado-vineyards/
-shop: Wein
+shop: wine
 ---

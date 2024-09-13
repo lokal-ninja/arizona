@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /mesa/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

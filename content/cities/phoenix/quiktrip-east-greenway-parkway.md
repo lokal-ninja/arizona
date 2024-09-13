@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /phoenix/quiktrip-east-greenway-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

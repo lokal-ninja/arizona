@@ -1,5 +1,5 @@
 ---
 title: "S-Mark Beauty Supply"
 url: /scottsdale/s-mark-beauty-supply/
-shop: Kosmetik
+shop: beauty
 ---

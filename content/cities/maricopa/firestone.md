@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /maricopa/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

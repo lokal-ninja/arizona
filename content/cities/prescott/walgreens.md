@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /prescott/walgreens/
-shop: Drogerie
+shop: chemist
 ---

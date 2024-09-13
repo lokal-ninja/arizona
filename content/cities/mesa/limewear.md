@@ -1,5 +1,5 @@
 ---
 title: "Limewear"
 url: /mesa/limewear/
-shop: Kleidung
+shop: clothes
 ---

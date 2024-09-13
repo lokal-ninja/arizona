@@ -1,5 +1,5 @@
 ---
 title: "Desert Equipment"
 url: /gilbert/desert-equipment/
-shop: Garten-Center
+shop: garden centre
 ---

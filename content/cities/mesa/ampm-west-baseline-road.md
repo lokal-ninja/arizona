@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /mesa/ampm-west-baseline-road/
-shop: Lebensmittel
+shop: convenience
 ---

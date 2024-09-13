@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /peoria/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

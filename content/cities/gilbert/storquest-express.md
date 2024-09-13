@@ -1,5 +1,5 @@
 ---
 title: "StorQuest Express"
 url: /gilbert/storquest-express/
-shop: Mieten
+shop: storage rental
 ---

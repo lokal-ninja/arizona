@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /apache-junction/autozone/
-shop: Autoteile
+shop: car parts
 ---

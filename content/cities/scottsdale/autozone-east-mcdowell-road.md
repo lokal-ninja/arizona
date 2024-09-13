@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /scottsdale/autozone-east-mcdowell-road/
-shop: Autoteile
+shop: car parts
 ---

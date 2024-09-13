@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /ajo/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

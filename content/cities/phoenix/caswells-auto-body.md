@@ -1,5 +1,5 @@
 ---
 title: "Caswell's Auto Body"
 url: /phoenix/caswells-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

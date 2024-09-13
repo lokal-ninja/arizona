@@ -1,5 +1,5 @@
 ---
 title: "Hank's Trading Post"
 url: /flagstaff/hanks-trading-post/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trump Store Tombstone"
 url: /tombstone/trump-store-tombstone/
-shop: Andenken
+shop: gift
 ---

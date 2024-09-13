@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /glendale/circle-k-west-maryland-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

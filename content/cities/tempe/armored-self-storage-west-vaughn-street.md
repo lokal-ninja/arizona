@@ -1,5 +1,5 @@
 ---
 title: "Armored Self Storage"
 url: /tempe/armored-self-storage-west-vaughn-street/
-shop: Mieten
+shop: storage rental
 ---

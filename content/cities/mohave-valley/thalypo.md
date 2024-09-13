@@ -1,5 +1,5 @@
 ---
 title: "Thalypo"
 url: /mohave-valley/thalypo/
-shop: Lebensmittel
+shop: convenience
 ---

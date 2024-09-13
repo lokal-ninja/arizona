@@ -1,5 +1,5 @@
 ---
 title: "Paradise Memorial Crematory"
 url: /scottsdale/paradise-memorial-crematory/
-shop: Bestattungen
+shop: funeral directors
 ---

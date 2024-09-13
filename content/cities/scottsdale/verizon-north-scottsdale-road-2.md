@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /scottsdale/verizon-north-scottsdale-road-2/
-shop: Handy
+shop: mobile phone
 ---

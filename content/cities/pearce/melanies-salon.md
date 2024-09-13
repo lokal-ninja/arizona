@@ -1,5 +1,5 @@
 ---
 title: "Melanie's Salon"
 url: /pearce/melanies-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /mesa/smartstyle/
-shop: Friseur
+shop: hairdresser
 ---

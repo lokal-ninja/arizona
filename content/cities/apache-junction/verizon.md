@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /apache-junction/verizon/
-shop: Handy
+shop: mobile phone
 ---

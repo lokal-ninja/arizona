@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /casa-grande/autozone-north-pinal-avenue/
-shop: Autoteile
+shop: car parts
 ---

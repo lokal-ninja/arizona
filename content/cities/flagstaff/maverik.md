@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /flagstaff/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

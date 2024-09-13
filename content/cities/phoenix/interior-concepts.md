@@ -1,5 +1,5 @@
 ---
 title: "Interior Concepts"
 url: /phoenix/interior-concepts/
-shop: Raumausstattung
+shop: interior decoration
 ---

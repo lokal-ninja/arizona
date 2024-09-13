@@ -1,5 +1,5 @@
 ---
 title: "Wreck O Mended"
 url: /globe/wreck-o-mended/
-shop: Autowerkstatt
+shop: car repair
 ---

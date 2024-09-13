@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /mesa/jiffy-lube-south-power-road/
-shop: Autowerkstatt
+shop: car repair
 ---

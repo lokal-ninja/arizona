@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /gilbert/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baiz Fresh Foods"
 url: /mesa/baiz-fresh-foods/
-shop: Supermarkt
+shop: supermarket
 ---

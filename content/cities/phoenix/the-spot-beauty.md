@@ -1,5 +1,5 @@
 ---
 title: "The Spot Beauty"
 url: /phoenix/the-spot-beauty/
-shop: Kosmetik
+shop: beauty
 ---

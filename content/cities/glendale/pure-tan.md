@@ -1,5 +1,5 @@
 ---
 title: "Pure Tan"
 url: /glendale/pure-tan/
-shop: Kosmetik
+shop: beauty
 ---

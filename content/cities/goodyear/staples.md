@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /goodyear/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

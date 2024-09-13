@@ -1,5 +1,5 @@
 ---
 title: "Willcox Self Storage"
 url: /willcox/willcox-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nails Max"
 url: /flagstaff/nails-max/
-shop: Kosmetik
+shop: beauty
 ---

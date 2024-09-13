@@ -1,5 +1,5 @@
 ---
 title: "Wilhelm Automotive - Surprise"
 url: /surprise/wilhelm-automotive-surprise/
-shop: Autowerkstatt
+shop: car repair
 ---

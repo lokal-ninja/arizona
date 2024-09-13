@@ -1,5 +1,5 @@
 ---
 title: "Pete's Transmissions"
 url: /phoenix/petes-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lightning Lube"
 url: /scottsdale/lightning-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

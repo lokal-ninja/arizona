@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /phoenix/metro-by-t-mobile-west-dunlap-avenue/
-shop: Handy
+shop: mobile phone
 ---

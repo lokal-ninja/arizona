@@ -1,5 +1,5 @@
 ---
 title: "Elwood Body Works"
 url: /scottsdale/elwood-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cox Solutions Store"
 url: /chandler/cox-solutions-store/
-shop: Handy
+shop: mobile phone
 ---

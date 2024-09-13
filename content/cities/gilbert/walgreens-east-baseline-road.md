@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gilbert/walgreens-east-baseline-road/
-shop: Drogerie
+shop: chemist
 ---

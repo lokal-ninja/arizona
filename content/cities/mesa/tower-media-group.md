@@ -1,5 +1,5 @@
 ---
 title: "Tower Media Group"
 url: /mesa/tower-media-group/
-shop: Kopieren
+shop: copyshop
 ---

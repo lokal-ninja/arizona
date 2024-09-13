@@ -1,5 +1,5 @@
 ---
 title: "Quick Lube Plus"
 url: /kingman/quick-lube-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

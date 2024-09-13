@@ -1,5 +1,5 @@
 ---
 title: "Check Cashers"
 url: /phoenix/check-cashers/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /phoenix/nike/
-shop: Kleidung
+shop: clothes
 ---

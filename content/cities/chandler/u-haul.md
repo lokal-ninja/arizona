@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /chandler/u-haul/
-shop: Mieten
+shop: storage rental
 ---

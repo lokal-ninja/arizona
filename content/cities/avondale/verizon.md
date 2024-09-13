@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /avondale/verizon/
-shop: Handy
+shop: mobile phone
 ---

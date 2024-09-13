@@ -1,5 +1,5 @@
 ---
 title: "Capital Mark Interiors"
 url: /gilbert/capital-mark-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "George's Auto Shop"
 url: /tempe/georges-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

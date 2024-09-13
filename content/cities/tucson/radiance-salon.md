@@ -1,5 +1,5 @@
 ---
 title: "Radiance Salon"
 url: /tucson/radiance-salon/
-shop: Friseur
+shop: hairdresser
 ---

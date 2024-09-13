@@ -1,5 +1,5 @@
 ---
 title: "Delnorte-Mufflers"
 url: /phoenix/delnorte-mufflers/
-shop: Autoteile
+shop: car parts
 ---

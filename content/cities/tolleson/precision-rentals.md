@@ -1,5 +1,5 @@
 ---
 title: "Precision Rentals"
 url: /tolleson/precision-rentals/
-shop: Mieten
+shop: storage rental
 ---

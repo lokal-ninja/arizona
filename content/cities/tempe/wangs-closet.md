@@ -1,5 +1,5 @@
 ---
 title: "Wang's Closet"
 url: /tempe/wangs-closet/
-shop: Kleidung
+shop: clothes
 ---

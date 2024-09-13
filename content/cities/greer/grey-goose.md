@@ -1,5 +1,5 @@
 ---
 title: "Grey Goose"
 url: /greer/grey-goose/
-shop: Andenken
+shop: gift
 ---

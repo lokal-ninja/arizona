@@ -1,5 +1,5 @@
 ---
 title: "Shelago's Artwerks USA"
 url: /tucson/shelagos-artwerks-usa/
-shop: Andenken
+shop: gift
 ---

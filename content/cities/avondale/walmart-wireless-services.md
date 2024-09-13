@@ -1,5 +1,5 @@
 ---
 title: "Walmart Wireless Services"
 url: /avondale/walmart-wireless-services/
-shop: Handy
+shop: mobile phone
 ---

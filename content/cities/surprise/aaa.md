@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /surprise/aaa/
-shop: Autowerkstatt
+shop: car repair
 ---

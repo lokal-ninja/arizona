@@ -1,5 +1,5 @@
 ---
 title: "Al Karama"
 url: /phoenix/al-karama/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /gilbert/the-home-depot/
-shop: Baumarkt
+shop: doityourself
 ---

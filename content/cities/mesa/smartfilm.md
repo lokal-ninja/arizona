@@ -1,5 +1,5 @@
 ---
 title: "SmartFilm"
 url: /mesa/smartfilm/
-shop: Autoteile
+shop: car parts
 ---

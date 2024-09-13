@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Vision"
 url: /apache-junction/nationwide-vision/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Battery Center"
 url: /mesa/battery-center/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Designer Boulevard"
 url: /gilbert/designer-boulevard/
-shop: Raumausstattung
+shop: interior decoration
 ---

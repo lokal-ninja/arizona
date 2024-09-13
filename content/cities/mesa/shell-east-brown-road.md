@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mesa/shell-east-brown-road/
-shop: Lebensmittel
+shop: convenience
 ---

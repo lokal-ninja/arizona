@@ -1,5 +1,5 @@
 ---
 title: "Aguilar Auto Repair"
 url: /phoenix/aguilar-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

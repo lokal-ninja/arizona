@@ -1,5 +1,5 @@
 ---
 title: "Commons at Palm Creek"
 url: /casa-grande/commons-at-palm-creek/
-shop: Einkaufszentrum
+shop: mall
 ---

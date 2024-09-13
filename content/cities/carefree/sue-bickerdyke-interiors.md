@@ -1,5 +1,5 @@
 ---
 title: "Sue Bickerdyke Interiors"
 url: /carefree/sue-bickerdyke-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

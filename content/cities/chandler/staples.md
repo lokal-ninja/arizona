@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chandler/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

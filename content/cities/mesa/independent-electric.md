@@ -1,5 +1,5 @@
 ---
 title: "Independent Electric"
 url: /mesa/independent-electric/
-shop: Baustoffe
+shop: trade
 ---

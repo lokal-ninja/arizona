@@ -1,5 +1,5 @@
 ---
 title: "Bull Mountian Hydro"
 url: /kingman/bull-mountian-hydro/
-shop: Baumarkt
+shop: doityourself
 ---

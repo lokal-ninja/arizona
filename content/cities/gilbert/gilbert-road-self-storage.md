@@ -1,5 +1,5 @@
 ---
 title: "Gilbert Road Self Storage"
 url: /gilbert/gilbert-road-self-storage/
-shop: Mieten
+shop: storage rental
 ---

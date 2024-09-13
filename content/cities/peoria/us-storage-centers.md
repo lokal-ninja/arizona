@@ -1,5 +1,5 @@
 ---
 title: "US Storage Centers"
 url: /peoria/us-storage-centers/
-shop: Mieten
+shop: storage rental
 ---

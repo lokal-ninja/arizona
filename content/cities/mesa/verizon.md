@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mesa/verizon/
-shop: Handy
+shop: mobile phone
 ---

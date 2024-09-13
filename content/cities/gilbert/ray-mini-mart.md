@@ -1,5 +1,5 @@
 ---
 title: "Ray Mini Mart"
 url: /gilbert/ray-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /scottsdale/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

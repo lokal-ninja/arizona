@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /surprise/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

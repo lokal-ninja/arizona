@@ -1,5 +1,5 @@
 ---
 title: "Chevron Kingman"
 url: /kingman/chevron-kingman/
-shop: Lebensmittel
+shop: convenience
 ---

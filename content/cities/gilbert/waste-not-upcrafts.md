@@ -1,5 +1,5 @@
 ---
 title: "Waste Not UpCrafts"
 url: /gilbert/waste-not-upcrafts/
-shop: Möbel
+shop: furniture
 ---

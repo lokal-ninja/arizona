@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /scottsdale/circle-k-east-thomas-road/
-shop: Lebensmittel
+shop: convenience
 ---

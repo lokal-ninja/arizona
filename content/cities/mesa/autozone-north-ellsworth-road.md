@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mesa/autozone-north-ellsworth-road/
-shop: Autoteile
+shop: car parts
 ---

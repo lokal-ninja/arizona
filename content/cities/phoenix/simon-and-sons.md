@@ -1,5 +1,5 @@
 ---
 title: "Simon and Sons"
 url: /phoenix/simon-and-sons/
-shop: Autowerkstatt
+shop: car repair
 ---

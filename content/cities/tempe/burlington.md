@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /tempe/burlington/
-shop: Warenhaus
+shop: department store
 ---

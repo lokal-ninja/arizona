@@ -1,5 +1,5 @@
 ---
 title: "Pinnacle Automotive Services"
 url: /flagstaff/pinnacle-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AZ International Marketplace"
 url: /mesa/az-international-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

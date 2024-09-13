@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /kingman/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

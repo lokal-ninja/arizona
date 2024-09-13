@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /phoenix/dollar-tree-west-peoria-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tucson/autozone-east-22nd-street/
-shop: Autoteile
+shop: car parts
 ---

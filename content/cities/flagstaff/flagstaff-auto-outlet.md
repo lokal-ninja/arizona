@@ -1,5 +1,5 @@
 ---
 title: "Flagstaff Auto Outlet"
 url: /flagstaff/flagstaff-auto-outlet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /tempe/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

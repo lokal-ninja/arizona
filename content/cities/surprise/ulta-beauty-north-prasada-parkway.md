@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /surprise/ulta-beauty-north-prasada-parkway/
-shop: Kosmetik
+shop: beauty
 ---

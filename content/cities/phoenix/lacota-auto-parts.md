@@ -1,5 +1,5 @@
 ---
 title: "Lacota Auto Parts"
 url: /phoenix/lacota-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

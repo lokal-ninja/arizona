@@ -1,5 +1,5 @@
 ---
 title: "FleetPride"
 url: /phoenix/fleetpride/
-shop: Autoteile
+shop: car parts
 ---

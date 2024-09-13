@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /phoenix/walgreens-east-baseline-road/
-shop: Drogerie
+shop: chemist
 ---

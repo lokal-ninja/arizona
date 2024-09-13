@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /nogales/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

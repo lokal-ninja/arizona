@@ -1,5 +1,5 @@
 ---
 title: "Italian Design and Racing"
 url: /mesa/italian-design-and-racing/
-shop: Autoteile
+shop: car parts
 ---

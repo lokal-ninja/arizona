@@ -1,5 +1,5 @@
 ---
 title: "The Jaded Root"
 url: /gilbert/the-jaded-root/
-shop: Friseur
+shop: hairdresser
 ---

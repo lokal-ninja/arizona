@@ -1,5 +1,5 @@
 ---
 title: "ProBike"
 url: /tucson/probike/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /gilbert/tillys/
-shop: Kleidung
+shop: clothes
 ---

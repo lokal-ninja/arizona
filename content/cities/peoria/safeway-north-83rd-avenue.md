@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /peoria/safeway-north-83rd-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EZ Trip"
 url: /phoenix/ez-trip/
-shop: Lebensmittel
+shop: convenience
 ---

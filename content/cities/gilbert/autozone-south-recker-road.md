@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gilbert/autozone-south-recker-road/
-shop: Autoteile
+shop: car parts
 ---

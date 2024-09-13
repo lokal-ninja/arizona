@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Hearing Solutions"
 url: /tucson/lifestyle-hearing-solutions/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bryan's Auto Service"
 url: /mesa/bryans-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

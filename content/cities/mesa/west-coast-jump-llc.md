@@ -1,5 +1,5 @@
 ---
 title: "West Coast Jump LLC"
 url: /mesa/west-coast-jump-llc/
-shop: Großhandel
+shop: wholesale
 ---

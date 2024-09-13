@@ -1,5 +1,5 @@
 ---
 title: "Vulture Bicycles"
 url: /wickenburg/vulture-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

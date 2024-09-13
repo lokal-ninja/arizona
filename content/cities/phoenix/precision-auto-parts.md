@@ -1,5 +1,5 @@
 ---
 title: "Precision Auto Parts"
 url: /phoenix/precision-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

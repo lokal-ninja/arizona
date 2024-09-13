@@ -1,5 +1,5 @@
 ---
 title: "Ideal Fleet Service"
 url: /phoenix/ideal-fleet-service/
-shop: Autowerkstatt
+shop: car repair
 ---

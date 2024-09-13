@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /phoenix/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

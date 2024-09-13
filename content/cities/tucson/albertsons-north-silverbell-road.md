@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /tucson/albertsons-north-silverbell-road/
-shop: Supermarkt
+shop: supermarket
 ---

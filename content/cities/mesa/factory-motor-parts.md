@@ -1,5 +1,5 @@
 ---
 title: "Factory Motor Parts"
 url: /mesa/factory-motor-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /glendale/buckle/
-shop: Kleidung
+shop: clothes
 ---

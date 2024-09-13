@@ -1,5 +1,5 @@
 ---
 title: "Breecher Sales Inc."
 url: /phoenix/breecher-sales-inc/
-shop: Großhandel
+shop: wholesale
 ---

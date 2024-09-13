@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /phoenix/pep-boys-east-mcdowell-road/
-shop: Autowerkstatt
+shop: car repair
 ---

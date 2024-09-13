@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /phoenix/cvs-pharmacy-east-bell-road/
-shop: Drogerie
+shop: chemist
 ---

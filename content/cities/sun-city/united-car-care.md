@@ -1,5 +1,5 @@
 ---
 title: "United Car Care"
 url: /sun-city/united-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

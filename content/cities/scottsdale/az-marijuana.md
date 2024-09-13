@@ -1,5 +1,5 @@
 ---
 title: "AZ Marijuana"
 url: /scottsdale/az-marijuana/
-shop: Hanf
+shop: cannabis
 ---

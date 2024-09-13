@@ -1,5 +1,5 @@
 ---
 title: "Stratosphere Hookah"
 url: /chandler/stratosphere-hookah/
-shop: Tabak
+shop: tobacco
 ---

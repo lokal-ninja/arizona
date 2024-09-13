@@ -1,5 +1,5 @@
 ---
 title: "John Deere"
 url: /avondale/john-deere/
-shop: Baustoffe
+shop: trade
 ---

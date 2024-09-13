@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /goodyear/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

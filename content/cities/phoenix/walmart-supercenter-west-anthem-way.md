@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /phoenix/walmart-supercenter-west-anthem-way/
-shop: Supermarkt
+shop: supermarket
 ---

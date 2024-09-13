@@ -1,5 +1,5 @@
 ---
 title: "Vision Produce Company"
 url: /phoenix/vision-produce-company/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rov-N-Techs"
 url: /scottsdale/rov-n-techs/
-shop: Autowerkstatt
+shop: car repair
 ---

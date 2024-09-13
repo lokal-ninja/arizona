@@ -1,5 +1,5 @@
 ---
 title: "MCAS Yuma Commissary"
 url: /mcas-yuma/mcas-yuma-commissary/
-shop: Supermarkt
+shop: supermarket
 ---

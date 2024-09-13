@@ -1,5 +1,5 @@
 ---
 title: "Rush Truck Centers -Hino"
 url: /tolleson/rush-truck-centers-hino/
-shop: Autohaus
+shop: car
 ---

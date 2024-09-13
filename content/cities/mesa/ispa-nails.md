@@ -1,5 +1,5 @@
 ---
 title: "iSpa Nails"
 url: /mesa/ispa-nails/
-shop: Kosmetik
+shop: beauty
 ---

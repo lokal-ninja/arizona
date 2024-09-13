@@ -1,5 +1,5 @@
 ---
 title: "The Alpha Barber"
 url: /page/the-alpha-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /scottsdale/bashas-east-mcdonald-drive/
-shop: Supermarkt
+shop: supermarket
 ---

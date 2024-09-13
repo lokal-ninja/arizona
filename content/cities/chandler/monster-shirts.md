@@ -1,5 +1,5 @@
 ---
 title: "Monster Shirts"
 url: /chandler/monster-shirts/
-shop: Kleidung
+shop: clothes
 ---

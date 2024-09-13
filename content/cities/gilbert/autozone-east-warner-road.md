@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gilbert/autozone-east-warner-road/
-shop: Autoteile
+shop: car parts
 ---

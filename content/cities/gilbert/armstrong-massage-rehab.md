@@ -1,5 +1,5 @@
 ---
 title: "Armstrong Massage Rehab"
 url: /gilbert/armstrong-massage-rehab/
-shop: Massage
+shop: massage
 ---

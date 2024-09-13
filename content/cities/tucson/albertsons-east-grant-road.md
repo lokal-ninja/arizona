@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /tucson/albertsons-east-grant-road/
-shop: Supermarkt
+shop: supermarket
 ---

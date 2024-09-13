@@ -1,5 +1,5 @@
 ---
 title: "Surprise Funeral Care"
 url: /surprise/surprise-funeral-care/
-shop: Bestattungen
+shop: funeral directors
 ---

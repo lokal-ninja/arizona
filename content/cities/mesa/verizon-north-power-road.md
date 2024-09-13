@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mesa/verizon-north-power-road/
-shop: Handy
+shop: mobile phone
 ---

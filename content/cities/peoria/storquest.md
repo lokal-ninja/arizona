@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /peoria/storquest/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tailor Shop"
 url: /glendale/tailor-shop/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XIT"
 url: /gilbert/xit/
-shop: Kleidung
+shop: clothes
 ---

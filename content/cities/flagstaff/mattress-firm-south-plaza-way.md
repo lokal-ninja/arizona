@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /flagstaff/mattress-firm-south-plaza-way/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pennington Locksmith Co."
 url: /gilbert/pennington-locksmith-co/
-shop: Schlüsseldienst
+shop: locksmith
 ---

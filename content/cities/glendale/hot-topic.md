@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /glendale/hot-topic/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiking Shack"
 url: /phoenix/hiking-shack/
-shop: Outdoor
+shop: outdoor
 ---

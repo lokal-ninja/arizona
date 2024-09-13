@@ -1,5 +1,5 @@
 ---
 title: "Koted Arms Cerakote"
 url: /mesa/koted-arms-cerakote/
-shop: Waffen
+shop: weapons
 ---

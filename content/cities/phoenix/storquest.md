@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /phoenix/storquest/
-shop: Mieten
+shop: storage rental
 ---

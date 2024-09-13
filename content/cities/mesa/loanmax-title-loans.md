@@ -1,5 +1,5 @@
 ---
 title: "LoanMax Title Loans"
 url: /mesa/loanmax-title-loans/
-shop: Leiher
+shop: pawnbroker
 ---

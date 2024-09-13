@@ -1,5 +1,5 @@
 ---
 title: "Heliponents Inc"
 url: /mesa/heliponents-inc/
-shop: Allgemein
+shop: shop
 ---

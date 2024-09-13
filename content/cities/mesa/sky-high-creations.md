@@ -1,5 +1,5 @@
 ---
 title: "Sky High Creations"
 url: /mesa/sky-high-creations/
-shop: Basteln
+shop: craft
 ---

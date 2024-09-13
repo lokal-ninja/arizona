@@ -1,5 +1,5 @@
 ---
 title: "Dollar Self Storage"
 url: /glendale/dollar-self-storage/
-shop: Mieten
+shop: storage rental
 ---

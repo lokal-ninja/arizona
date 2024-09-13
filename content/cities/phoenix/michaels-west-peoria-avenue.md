@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /phoenix/michaels-west-peoria-avenue/
-shop: Basteln
+shop: craft
 ---

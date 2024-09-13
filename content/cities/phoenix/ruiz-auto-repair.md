@@ -1,5 +1,5 @@
 ---
 title: "Ruiz Auto Repair"
 url: /phoenix/ruiz-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

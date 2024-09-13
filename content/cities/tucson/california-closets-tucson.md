@@ -1,5 +1,5 @@
 ---
 title: "California Closets - Tucson"
 url: /tucson/california-closets-tucson/
-shop: Raumausstattung
+shop: interior decoration
 ---

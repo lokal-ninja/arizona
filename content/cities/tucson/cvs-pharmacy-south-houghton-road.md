@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /tucson/cvs-pharmacy-south-houghton-road/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Complete Comforts"
 url: /tempe/complete-comforts/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collision Center of Peoria"
 url: /peoria/collision-center-of-peoria/
-shop: Autowerkstatt
+shop: car repair
 ---

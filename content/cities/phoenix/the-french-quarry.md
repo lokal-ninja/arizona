@@ -1,5 +1,5 @@
 ---
 title: "The French Quarry"
 url: /phoenix/the-french-quarry/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /glendale/sephora/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Power Square Mall"
 url: /mesa/power-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

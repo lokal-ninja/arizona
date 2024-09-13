@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /peoria/autozone/
-shop: Autoteile
+shop: car parts
 ---

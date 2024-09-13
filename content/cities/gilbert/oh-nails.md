@@ -1,5 +1,5 @@
 ---
 title: "Oh Nails"
 url: /gilbert/oh-nails/
-shop: Kosmetik
+shop: beauty
 ---

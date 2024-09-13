@@ -1,5 +1,5 @@
 ---
 title: "Grand Avenue Mini Storage"
 url: /phoenix/grand-avenue-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

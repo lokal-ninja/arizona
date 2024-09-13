@@ -1,5 +1,5 @@
 ---
 title: "Chapman Chevrolet"
 url: /tempe/chapman-chevrolet/
-shop: Autohaus
+shop: car
 ---

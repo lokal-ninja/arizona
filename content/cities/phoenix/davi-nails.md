@@ -1,5 +1,5 @@
 ---
 title: "DaVi Nails"
 url: /phoenix/davi-nails/
-shop: Kosmetik
+shop: beauty
 ---

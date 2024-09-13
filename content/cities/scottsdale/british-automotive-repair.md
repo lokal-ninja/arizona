@@ -1,5 +1,5 @@
 ---
 title: "British Automotive Repair"
 url: /scottsdale/british-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

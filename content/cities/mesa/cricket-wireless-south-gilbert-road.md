@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /mesa/cricket-wireless-south-gilbert-road/
-shop: Handy
+shop: mobile phone
 ---

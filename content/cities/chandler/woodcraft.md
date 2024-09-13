@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /chandler/woodcraft/
-shop: Basteln
+shop: craft
 ---

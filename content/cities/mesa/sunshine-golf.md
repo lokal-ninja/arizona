@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Golf"
 url: /mesa/sunshine-golf/
-shop: Sport
+shop: sports
 ---

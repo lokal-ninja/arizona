@@ -1,5 +1,5 @@
 ---
 title: "Liberty Foil"
 url: /phoenix/liberty-foil/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Supply"
 url: /gilbert/shoppers-supply/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /surprise/brakes-plus-north-prasada-parkway/
-shop: Autowerkstatt
+shop: car repair
 ---

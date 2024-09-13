@@ -1,5 +1,5 @@
 ---
 title: "Stage"
 url: /thatcher/stage/
-shop: Warenhaus
+shop: department store
 ---

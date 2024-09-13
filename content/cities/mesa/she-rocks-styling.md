@@ -1,5 +1,5 @@
 ---
 title: "She Rocks Styling"
 url: /mesa/she-rocks-styling/
-shop: Friseur
+shop: hairdresser
 ---

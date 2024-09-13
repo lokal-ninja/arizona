@@ -1,5 +1,5 @@
 ---
 title: "Auto Revival"
 url: /mesa/auto-revival/
-shop: Autohaus
+shop: car
 ---

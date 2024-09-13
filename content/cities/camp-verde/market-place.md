@@ -1,5 +1,5 @@
 ---
 title: "Market Place"
 url: /camp-verde/market-place/
-shop: Lebensmittel
+shop: convenience
 ---

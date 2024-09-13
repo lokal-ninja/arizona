@@ -1,5 +1,5 @@
 ---
 title: "Trophy Den"
 url: /tempe/trophy-den/
-shop: Pokal
+shop: trophy
 ---

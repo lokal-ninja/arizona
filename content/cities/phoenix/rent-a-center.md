@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /phoenix/rent-a-center/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Youth Injector Mesa"
 url: /mesa/the-youth-injector-mesa/
-shop: Massage
+shop: massage
 ---

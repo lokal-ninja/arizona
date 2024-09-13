@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /glendale/aerie/
-shop: Kleidung
+shop: clothes
 ---

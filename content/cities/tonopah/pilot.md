@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /tonopah/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /scottsdale/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

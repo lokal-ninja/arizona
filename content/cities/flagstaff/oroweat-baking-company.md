@@ -1,5 +1,5 @@
 ---
 title: "Oroweat Baking Company"
 url: /flagstaff/oroweat-baking-company/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mesa/autozone/
-shop: Autoteile
+shop: car parts
 ---

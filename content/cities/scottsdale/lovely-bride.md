@@ -1,5 +1,5 @@
 ---
 title: "Lovely Bride"
 url: /scottsdale/lovely-bride/
-shop: Kleidung
+shop: clothes
 ---

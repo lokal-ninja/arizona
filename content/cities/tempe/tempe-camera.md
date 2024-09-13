@@ -1,5 +1,5 @@
 ---
 title: "Tempe Camera"
 url: /tempe/tempe-camera/
-shop: Foto
+shop: photo
 ---

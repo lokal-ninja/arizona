@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /surprise/sephora/
-shop: Kosmetik
+shop: beauty
 ---

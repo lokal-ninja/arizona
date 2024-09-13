@@ -1,5 +1,5 @@
 ---
 title: "Sears Siding"
 url: /glendale/sears-siding/
-shop: Baumarkt
+shop: doityourself
 ---

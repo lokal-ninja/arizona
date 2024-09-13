@@ -1,5 +1,5 @@
 ---
 title: "The Purple Cat"
 url: /prescott/the-purple-cat/
-shop: Bücher
+shop: books
 ---

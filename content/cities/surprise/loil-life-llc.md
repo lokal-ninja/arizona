@@ -1,5 +1,5 @@
 ---
 title: "Loil Life LLC"
 url: /surprise/loil-life-llc/
-shop: Kosmetik
+shop: beauty
 ---

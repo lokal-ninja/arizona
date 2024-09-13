@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /glendale/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

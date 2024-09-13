@@ -1,5 +1,5 @@
 ---
 title: "Chandler Auto Body"
 url: /chandler/chandler-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

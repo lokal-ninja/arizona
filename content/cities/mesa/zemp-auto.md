@@ -1,5 +1,5 @@
 ---
 title: "Zemp Auto"
 url: /mesa/zemp-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chase Nail's"
 url: /mesa/chase-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Club Champion"
 url: /tucson/club-champion/
-shop: Sport
+shop: sports
 ---

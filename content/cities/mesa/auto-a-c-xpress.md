@@ -1,5 +1,5 @@
 ---
 title: "Auto A/C Xpress"
 url: /mesa/auto-a-c-xpress/
-shop: Autowerkstatt
+shop: car repair
 ---

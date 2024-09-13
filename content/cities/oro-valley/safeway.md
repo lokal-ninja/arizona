@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /oro-valley/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

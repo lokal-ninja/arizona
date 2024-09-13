@@ -1,5 +1,5 @@
 ---
 title: "High Valley Orchard"
 url: /mesa/high-valley-orchard/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oracle Ford"
 url: /oracle/oracle-ford/
-shop: Autohaus
+shop: car
 ---

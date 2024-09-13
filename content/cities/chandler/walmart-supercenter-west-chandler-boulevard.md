@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chandler/walmart-supercenter-west-chandler-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond-Vac"
 url: /chandler/diamond-vac/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

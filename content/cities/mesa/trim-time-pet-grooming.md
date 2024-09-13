@@ -1,5 +1,5 @@
 ---
 title: "Trim Time Pet Grooming"
 url: /mesa/trim-time-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

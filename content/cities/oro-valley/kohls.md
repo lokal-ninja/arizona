@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /oro-valley/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baby Bargains"
 url: /mesa/baby-bargains/
-shop: Gebrauchtwaren
+shop: charity
 ---

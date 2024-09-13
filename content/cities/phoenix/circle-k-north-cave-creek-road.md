@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /phoenix/circle-k-north-cave-creek-road/
-shop: Lebensmittel
+shop: convenience
 ---

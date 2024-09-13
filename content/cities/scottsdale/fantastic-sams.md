@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /scottsdale/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

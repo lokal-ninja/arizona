@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /kingman/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

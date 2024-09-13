@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /coolidge/autozone/
-shop: Autoteile
+shop: car parts
 ---

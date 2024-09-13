@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /phoenix/target-north-75th-avenue-west-virginia-avenue/
-shop: Warenhaus
+shop: department store
 ---

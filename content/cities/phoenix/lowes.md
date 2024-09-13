@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /phoenix/lowes/
-shop: Garten-Center
+shop: garden centre
 ---

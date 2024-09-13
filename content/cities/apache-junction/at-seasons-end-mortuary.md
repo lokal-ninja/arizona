@@ -1,5 +1,5 @@
 ---
 title: "At Season's End Mortuary"
 url: /apache-junction/at-seasons-end-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

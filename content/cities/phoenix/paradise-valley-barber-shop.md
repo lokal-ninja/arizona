@@ -1,5 +1,5 @@
 ---
 title: "Paradise Valley Barber Shop"
 url: /phoenix/paradise-valley-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

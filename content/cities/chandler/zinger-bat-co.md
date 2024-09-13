@@ -1,5 +1,5 @@
 ---
 title: "Zinger Bat Co."
 url: /chandler/zinger-bat-co/
-shop: Sport
+shop: sports
 ---

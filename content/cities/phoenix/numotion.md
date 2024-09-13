@@ -1,5 +1,5 @@
 ---
 title: "Numotion"
 url: /phoenix/numotion/
-shop: Sanitätshaus
+shop: medical supply
 ---

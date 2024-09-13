@@ -1,5 +1,5 @@
 ---
 title: "Parts Authority"
 url: /phoenix/parts-authority-north-27th-avenue/
-shop: Autoteile
+shop: car parts
 ---

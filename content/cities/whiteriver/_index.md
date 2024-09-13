@@ -1,6 +1,6 @@
 ---
 title: Whiteriver
 url: /whiteriver/
-latitude: 33.838
-longitude: -109.964
+latitude: 33.825
+longitude: -109.979
 ---

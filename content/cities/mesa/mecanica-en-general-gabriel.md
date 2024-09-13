@@ -1,5 +1,5 @@
 ---
 title: "Mecanica en General Gabriel"
 url: /mesa/mecanica-en-general-gabriel/
-shop: Autowerkstatt
+shop: car repair
 ---

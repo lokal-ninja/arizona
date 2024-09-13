@@ -1,5 +1,5 @@
 ---
 title: "EyeMagination"
 url: /mesa/eyemagination/
-shop: Optiker
+shop: optician
 ---

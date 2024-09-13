@@ -1,5 +1,5 @@
 ---
 title: "Towne Storage"
 url: /phoenix/towne-storage/
-shop: Mieten
+shop: storage rental
 ---

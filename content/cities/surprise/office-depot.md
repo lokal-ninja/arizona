@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /surprise/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

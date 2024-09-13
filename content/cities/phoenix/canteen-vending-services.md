@@ -1,5 +1,5 @@
 ---
 title: "Canteen Vending Services"
 url: /phoenix/canteen-vending-services/
-shop: Großhandel
+shop: wholesale
 ---

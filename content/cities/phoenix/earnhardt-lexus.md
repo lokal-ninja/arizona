@@ -1,5 +1,5 @@
 ---
 title: "Earnhardt Lexus"
 url: /phoenix/earnhardt-lexus/
-shop: Autohaus
+shop: car
 ---

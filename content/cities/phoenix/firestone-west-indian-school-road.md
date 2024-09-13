@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /phoenix/firestone-west-indian-school-road/
-shop: Autowerkstatt
+shop: car repair
 ---

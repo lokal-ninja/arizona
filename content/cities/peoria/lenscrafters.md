@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /peoria/lenscrafters/
-shop: Optiker
+shop: optician
 ---

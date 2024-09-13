@@ -1,5 +1,5 @@
 ---
 title: "3 Kings Automotive"
 url: /sierra-vista/3-kings-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoNation Collision Center"
 url: /chandler/autonation-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

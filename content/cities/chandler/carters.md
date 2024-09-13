@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /chandler/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /glendale/spencers/
-shop: Andenken
+shop: gift
 ---

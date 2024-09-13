@@ -1,5 +1,5 @@
 ---
 title: "Nash Powersports"
 url: /mesa/nash-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

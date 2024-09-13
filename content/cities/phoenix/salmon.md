@@ -1,5 +1,5 @@
 ---
 title: "Salmon"
 url: /phoenix/salmon/
-shop: Kosmetik
+shop: beauty
 ---

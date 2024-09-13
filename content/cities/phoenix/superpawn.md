@@ -1,5 +1,5 @@
 ---
 title: "SuperPawn"
 url: /phoenix/superpawn/
-shop: Leiher
+shop: pawnbroker
 ---

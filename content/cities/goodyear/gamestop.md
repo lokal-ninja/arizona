@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /goodyear/gamestop/
-shop: Videospiele
+shop: video games
 ---

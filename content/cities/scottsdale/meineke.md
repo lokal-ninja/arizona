@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /scottsdale/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

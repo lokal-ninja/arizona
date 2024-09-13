@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /chandler/jiffy-lube-west-parklane-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

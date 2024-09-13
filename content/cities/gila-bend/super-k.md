@@ -1,5 +1,5 @@
 ---
 title: "Super K"
 url: /gila-bend/super-k/
-shop: Lebensmittel
+shop: convenience
 ---

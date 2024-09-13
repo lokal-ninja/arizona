@@ -1,5 +1,5 @@
 ---
 title: "Hatch Ford"
 url: /show-low/hatch-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /prescott-valley/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

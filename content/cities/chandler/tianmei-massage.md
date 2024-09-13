@@ -1,5 +1,5 @@
 ---
 title: "TianMei Massage"
 url: /chandler/tianmei-massage/
-shop: Massage
+shop: massage
 ---

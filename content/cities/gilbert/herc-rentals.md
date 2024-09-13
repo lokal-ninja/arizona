@@ -1,5 +1,5 @@
 ---
 title: "Herc Rentals"
 url: /gilbert/herc-rentals/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woops!"
 url: /tucson/woops/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /tucson/metro-by-t-mobile-west-ina-road/
-shop: Handy
+shop: mobile phone
 ---

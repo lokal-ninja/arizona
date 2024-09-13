@@ -1,5 +1,5 @@
 ---
 title: "Las Cuatro Milpas"
 url: /phoenix/las-cuatro-milpas/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /peoria/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /phoenix/ampm-north-43rd-avenue-2/
-shop: Lebensmittel
+shop: convenience
 ---

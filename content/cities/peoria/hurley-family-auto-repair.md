@@ -1,5 +1,5 @@
 ---
 title: "Hurley Family Auto Repair"
 url: /peoria/hurley-family-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sun Devil Auto"
 url: /mesa/sun-devil-auto-south-macdonald/
-shop: Autowerkstatt
+shop: car repair
 ---

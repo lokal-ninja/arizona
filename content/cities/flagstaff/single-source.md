@@ -1,5 +1,5 @@
 ---
 title: "Single Source"
 url: /flagstaff/single-source/
-shop: Autowerkstatt
+shop: car repair
 ---

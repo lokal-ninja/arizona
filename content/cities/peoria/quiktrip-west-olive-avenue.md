@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /peoria/quiktrip-west-olive-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /litchfield-park/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

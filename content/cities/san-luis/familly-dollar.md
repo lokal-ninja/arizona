@@ -1,5 +1,5 @@
 ---
 title: "Familly Dollar"
 url: /san-luis/familly-dollar/
-shop: Allgemein
+shop: shop
 ---

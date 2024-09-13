@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /phoenix/bashas-east-union-hills-drive/
-shop: Supermarkt
+shop: supermarket
 ---

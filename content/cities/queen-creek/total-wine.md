@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /queen-creek/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

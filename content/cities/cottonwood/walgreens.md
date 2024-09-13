@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cottonwood/walgreens/
-shop: Drogerie
+shop: chemist
 ---

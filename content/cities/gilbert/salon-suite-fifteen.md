@@ -1,5 +1,5 @@
 ---
 title: "Salon Suite Fifteen"
 url: /gilbert/salon-suite-fifteen/
-shop: Friseur
+shop: hairdresser
 ---

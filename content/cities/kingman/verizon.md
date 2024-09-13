@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kingman/verizon/
-shop: Handy
+shop: mobile phone
 ---

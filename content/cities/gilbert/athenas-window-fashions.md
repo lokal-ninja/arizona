@@ -1,5 +1,5 @@
 ---
 title: "Athena's Window Fashions"
 url: /gilbert/athenas-window-fashions/
-shop: Jalousien
+shop: window blind
 ---

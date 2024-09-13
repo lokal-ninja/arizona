@@ -1,5 +1,5 @@
 ---
 title: "Creative Printers, Inc."
 url: /tucson/creative-printers-inc/
-shop: Kopieren
+shop: copyshop
 ---

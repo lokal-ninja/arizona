@@ -1,5 +1,5 @@
 ---
 title: "Puremark Naturals"
 url: /tempe/puremark-naturals/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

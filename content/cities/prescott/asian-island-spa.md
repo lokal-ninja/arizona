@@ -1,5 +1,5 @@
 ---
 title: "Asian Island Spa"
 url: /prescott/asian-island-spa/
-shop: Massage
+shop: massage
 ---

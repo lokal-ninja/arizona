@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /mesa/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

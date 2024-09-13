@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /queen-creek/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

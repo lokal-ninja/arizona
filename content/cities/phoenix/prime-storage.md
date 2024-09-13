@@ -1,5 +1,5 @@
 ---
 title: "Prime Storage"
 url: /phoenix/prime-storage/
-shop: Mieten
+shop: storage rental
 ---

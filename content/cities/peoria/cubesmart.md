@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /peoria/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

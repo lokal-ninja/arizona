@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /buckeye/storquest/
-shop: Mieten
+shop: storage rental
 ---

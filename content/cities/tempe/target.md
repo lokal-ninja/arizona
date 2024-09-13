@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tempe/target/
-shop: Warenhaus
+shop: department store
 ---

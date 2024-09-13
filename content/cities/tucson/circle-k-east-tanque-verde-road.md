@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tucson/circle-k-east-tanque-verde-road/
-shop: Lebensmittel
+shop: convenience
 ---

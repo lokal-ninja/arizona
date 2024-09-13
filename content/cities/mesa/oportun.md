@@ -1,5 +1,5 @@
 ---
 title: "Oportun"
 url: /mesa/oportun/
-shop: Leiher
+shop: pawnbroker
 ---

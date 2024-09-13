@@ -1,5 +1,5 @@
 ---
 title: "Chi Foot Spa"
 url: /chandler/chi-foot-spa/
-shop: Massage
+shop: massage
 ---

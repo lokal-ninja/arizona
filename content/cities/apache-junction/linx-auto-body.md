@@ -1,5 +1,5 @@
 ---
 title: "Linx Auto Body"
 url: /apache-junction/linx-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

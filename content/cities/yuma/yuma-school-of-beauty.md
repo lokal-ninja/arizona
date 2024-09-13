@@ -1,5 +1,5 @@
 ---
 title: "Yuma School of Beauty"
 url: /yuma/yuma-school-of-beauty/
-shop: Kosmetik
+shop: beauty
 ---

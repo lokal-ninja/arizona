@@ -1,5 +1,5 @@
 ---
 title: "Casa de Licores"
 url: /phoenix/casa-de-licores/
-shop: Spirituosen
+shop: alcohol
 ---

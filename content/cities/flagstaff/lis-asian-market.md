@@ -1,5 +1,5 @@
 ---
 title: "Li's Asian Market"
 url: /flagstaff/lis-asian-market/
-shop: Lebensmittel
+shop: convenience
 ---

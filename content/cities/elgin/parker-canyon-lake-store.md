@@ -1,5 +1,5 @@
 ---
 title: "Parker Canyon Lake Store"
 url: /elgin/parker-canyon-lake-store/
-shop: Lebensmittel
+shop: convenience
 ---

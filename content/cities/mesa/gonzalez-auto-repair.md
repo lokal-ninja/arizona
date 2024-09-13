@@ -1,5 +1,5 @@
 ---
 title: "Gonzalez Auto Repair"
 url: /mesa/gonzalez-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

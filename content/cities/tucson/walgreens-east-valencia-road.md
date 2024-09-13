@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /tucson/walgreens-east-valencia-road/
-shop: Drogerie
+shop: chemist
 ---

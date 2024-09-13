@@ -1,5 +1,5 @@
 ---
 title: "Rusty Rooster"
 url: /wickenburg/rusty-rooster/
-shop: Andenken
+shop: gift
 ---

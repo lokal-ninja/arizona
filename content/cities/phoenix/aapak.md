@@ -1,5 +1,5 @@
 ---
 title: "AAPAK"
 url: /phoenix/aapak/
-shop: Autoteile
+shop: car parts
 ---

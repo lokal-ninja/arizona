@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /tucson/walgreens-east-speedway-boulevard/
-shop: Drogerie
+shop: chemist
 ---

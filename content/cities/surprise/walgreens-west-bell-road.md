@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /surprise/walgreens-west-bell-road/
-shop: Drogerie
+shop: chemist
 ---

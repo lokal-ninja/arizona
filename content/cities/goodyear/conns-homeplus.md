@@ -1,5 +1,5 @@
 ---
 title: "Conn's HomePlus"
 url: /goodyear/conns-homeplus/
-shop: Möbel
+shop: furniture
 ---

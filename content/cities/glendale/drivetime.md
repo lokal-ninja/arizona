@@ -1,5 +1,5 @@
 ---
 title: "DriveTime"
 url: /glendale/drivetime/
-shop: Autohaus
+shop: car
 ---

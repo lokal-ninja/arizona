@@ -1,5 +1,5 @@
 ---
 title: "Beyoutiful Brows"
 url: /mesa/beyoutiful-brows/
-shop: Kosmetik
+shop: beauty
 ---

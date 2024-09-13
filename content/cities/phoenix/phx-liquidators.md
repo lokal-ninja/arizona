@@ -1,5 +1,5 @@
 ---
 title: "Phx Liquidators"
 url: /phoenix/phx-liquidators/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /glendale/the-home-depot-west-bell-road/
-shop: Garten-Center
+shop: garden centre
 ---

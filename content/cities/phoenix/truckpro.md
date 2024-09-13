@@ -1,5 +1,5 @@
 ---
 title: "TruckPro"
 url: /phoenix/truckpro/
-shop: Autoteile
+shop: car parts
 ---

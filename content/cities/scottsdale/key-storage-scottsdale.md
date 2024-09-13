@@ -1,5 +1,5 @@
 ---
 title: "Key Storage - Scottsdale"
 url: /scottsdale/key-storage-scottsdale/
-shop: Mieten
+shop: storage rental
 ---

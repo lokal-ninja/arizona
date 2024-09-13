@@ -1,5 +1,5 @@
 ---
 title: "Salon Boutique"
 url: /chandler/salon-boutique/
-shop: Friseur
+shop: hairdresser
 ---

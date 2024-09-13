@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers Automotive Mesa Gateway"
 url: /mesa/christian-brothers-automotive-mesa-gateway/
-shop: Autowerkstatt
+shop: car repair
 ---

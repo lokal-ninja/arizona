@@ -1,5 +1,5 @@
 ---
 title: "Bosch Diesel Center"
 url: /phoenix/bosch-diesel-center/
-shop: Autowerkstatt
+shop: car repair
 ---

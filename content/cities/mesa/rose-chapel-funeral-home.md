@@ -1,5 +1,5 @@
 ---
 title: "Rose Chapel Funeral Home"
 url: /mesa/rose-chapel-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

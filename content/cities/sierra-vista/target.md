@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sierra-vista/target/
-shop: Warenhaus
+shop: department store
 ---

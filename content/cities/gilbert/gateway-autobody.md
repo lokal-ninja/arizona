@@ -1,5 +1,5 @@
 ---
 title: "Gateway Autobody"
 url: /gilbert/gateway-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

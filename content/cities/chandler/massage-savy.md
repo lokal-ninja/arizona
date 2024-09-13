@@ -1,5 +1,5 @@
 ---
 title: "Massage Savy"
 url: /chandler/massage-savy/
-shop: Massage
+shop: massage
 ---

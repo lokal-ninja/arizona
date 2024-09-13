@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /glendale/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

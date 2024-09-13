@@ -1,5 +1,5 @@
 ---
 title: "Sunday Goodz"
 url: /phoenix/sunday-goodz/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circuit Express"
 url: /tempe/circuit-express/
-shop: Elektrisch
+shop: electrical
 ---

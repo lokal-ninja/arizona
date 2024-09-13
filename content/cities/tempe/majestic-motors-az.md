@@ -1,5 +1,5 @@
 ---
 title: "Majestic Motors AZ"
 url: /tempe/majestic-motors-az/
-shop: Autowerkstatt
+shop: car repair
 ---

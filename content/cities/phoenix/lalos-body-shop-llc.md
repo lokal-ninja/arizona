@@ -1,5 +1,5 @@
 ---
 title: "Lalo's Body Shop LLC"
 url: /phoenix/lalos-body-shop-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

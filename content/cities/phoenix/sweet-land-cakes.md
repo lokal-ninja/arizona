@@ -1,5 +1,5 @@
 ---
 title: "Sweet Land Cakes"
 url: /phoenix/sweet-land-cakes/
-shop: Bäckerei
+shop: bakery
 ---

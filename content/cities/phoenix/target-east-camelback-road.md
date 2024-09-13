@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /phoenix/target-east-camelback-road/
-shop: Warenhaus
+shop: department store
 ---

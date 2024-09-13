@@ -1,5 +1,5 @@
 ---
 title: "National Vision"
 url: /mesa/national-vision/
-shop: Optiker
+shop: optician
 ---

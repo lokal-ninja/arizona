@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /phoenix/target-east-ray-road/
-shop: Supermarkt
+shop: supermarket
 ---

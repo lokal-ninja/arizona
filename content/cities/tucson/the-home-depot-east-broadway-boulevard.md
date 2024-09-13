@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /tucson/the-home-depot-east-broadway-boulevard/
-shop: Baumarkt
+shop: doityourself
 ---

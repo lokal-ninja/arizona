@@ -1,5 +1,5 @@
 ---
 title: "Casita Verde"
 url: /tucson/casita-verde/
-shop: Garten-Center
+shop: garden centre
 ---

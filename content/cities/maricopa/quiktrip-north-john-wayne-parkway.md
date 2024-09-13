@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /maricopa/quiktrip-north-john-wayne-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

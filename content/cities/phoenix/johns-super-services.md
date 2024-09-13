@@ -1,5 +1,5 @@
 ---
 title: "John's Super Services"
 url: /phoenix/johns-super-services/
-shop: Autowerkstatt
+shop: car repair
 ---

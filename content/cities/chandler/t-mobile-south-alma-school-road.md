@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /chandler/t-mobile-south-alma-school-road/
-shop: Handy
+shop: mobile phone
 ---

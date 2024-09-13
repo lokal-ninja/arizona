@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /phoenix/firestone-east-carefree-highway/
-shop: Autowerkstatt
+shop: car repair
 ---

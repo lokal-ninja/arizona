@@ -1,5 +1,5 @@
 ---
 title: "Asian Spa"
 url: /chandler/asian-spa/
-shop: Massage
+shop: massage
 ---

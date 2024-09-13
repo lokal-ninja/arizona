@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /scottsdale/walgreens-north-via-paseo-del-sur/
-shop: Drogerie
+shop: chemist
 ---

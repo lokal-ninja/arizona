@@ -1,5 +1,5 @@
 ---
 title: "The Pawn Shop"
 url: /glendale/the-pawn-shop/
-shop: Leiher
+shop: pawnbroker
 ---

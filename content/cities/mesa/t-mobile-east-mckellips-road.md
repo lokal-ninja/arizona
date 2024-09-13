@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /mesa/t-mobile-east-mckellips-road/
-shop: Handy
+shop: mobile phone
 ---

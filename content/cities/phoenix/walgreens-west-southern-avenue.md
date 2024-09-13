@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /phoenix/walgreens-west-southern-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elliot Market"
 url: /goodyear/elliot-market/
-shop: Lebensmittel
+shop: convenience
 ---

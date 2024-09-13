@@ -1,5 +1,5 @@
 ---
 title: "Fusion Orthopedics, LLC"
 url: /mesa/fusion-orthopedics-llc/
-shop: Sanitätshaus
+shop: medical supply
 ---

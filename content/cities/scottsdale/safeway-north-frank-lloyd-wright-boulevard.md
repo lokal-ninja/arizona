@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /scottsdale/safeway-north-frank-lloyd-wright-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

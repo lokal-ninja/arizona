@@ -1,5 +1,5 @@
 ---
 title: "BonWorth"
 url: /chandler/bonworth/
-shop: Kleidung
+shop: clothes
 ---

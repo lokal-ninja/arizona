@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /oro-valley/walgreens/
-shop: Drogerie
+shop: chemist
 ---

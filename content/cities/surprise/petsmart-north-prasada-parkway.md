@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /surprise/petsmart-north-prasada-parkway/
-shop: Tiere
+shop: pet
 ---

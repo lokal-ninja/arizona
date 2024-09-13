@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /goodyear/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

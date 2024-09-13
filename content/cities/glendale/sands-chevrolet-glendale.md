@@ -1,5 +1,5 @@
 ---
 title: "Sands Chevrolet - Glendale"
 url: /glendale/sands-chevrolet-glendale/
-shop: Autohaus
+shop: car
 ---

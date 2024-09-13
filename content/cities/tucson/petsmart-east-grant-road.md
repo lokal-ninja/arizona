@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tucson/petsmart-east-grant-road/
-shop: Tiere
+shop: pet
 ---

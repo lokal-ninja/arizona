@@ -1,5 +1,5 @@
 ---
 title: "Phenix Salon Suites"
 url: /phoenix/phenix-salon-suites/
-shop: Kosmetik
+shop: beauty
 ---

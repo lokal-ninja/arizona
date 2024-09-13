@@ -1,5 +1,5 @@
 ---
 title: "Thrift Store"
 url: /san-manuel/thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

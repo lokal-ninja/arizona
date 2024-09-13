@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /mesa/metro-by-t-mobile-east-broadway-road/
-shop: Handy
+shop: mobile phone
 ---

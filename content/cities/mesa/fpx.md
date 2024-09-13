@@ -1,5 +1,5 @@
 ---
 title: "FPX"
 url: /mesa/fpx/
-shop: Autowerkstatt
+shop: car repair
 ---

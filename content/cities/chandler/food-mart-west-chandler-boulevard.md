@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /chandler/food-mart-west-chandler-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

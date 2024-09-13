@@ -1,5 +1,5 @@
 ---
 title: "BRAKEmax"
 url: /oro-valley/brakemax/
-shop: Autowerkstatt
+shop: car repair
 ---

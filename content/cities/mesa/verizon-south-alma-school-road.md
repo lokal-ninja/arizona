@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mesa/verizon-south-alma-school-road/
-shop: Handy
+shop: mobile phone
 ---

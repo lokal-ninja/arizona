@@ -1,5 +1,5 @@
 ---
 title: "Pet Planet"
 url: /gilbert/pet-planet/
-shop: Tiere
+shop: pet
 ---

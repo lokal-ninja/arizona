@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Market"
 url: /phoenix/sunshine-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mustang Auto Repair"
 url: /apache-junction/mustang-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

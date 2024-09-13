@@ -1,5 +1,5 @@
 ---
 title: "CGCC Williams - Bookstore"
 url: /mesa/cgcc-williams-bookstore/
-shop: Bücher
+shop: books
 ---

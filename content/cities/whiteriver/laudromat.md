@@ -1,5 +1,5 @@
 ---
 title: "Laudromat"
 url: /whiteriver/laudromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /mesa/aarons/
-shop: Möbel
+shop: furniture
 ---

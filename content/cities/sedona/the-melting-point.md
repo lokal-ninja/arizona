@@ -1,5 +1,5 @@
 ---
 title: "The Melting Point"
 url: /sedona/the-melting-point/
-shop: Kunst
+shop: art
 ---

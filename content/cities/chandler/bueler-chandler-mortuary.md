@@ -1,5 +1,5 @@
 ---
 title: "Bueler Chandler Mortuary"
 url: /chandler/bueler-chandler-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

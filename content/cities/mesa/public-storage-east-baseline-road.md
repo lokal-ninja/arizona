@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /mesa/public-storage-east-baseline-road/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /flagstaff/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

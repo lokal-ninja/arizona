@@ -1,5 +1,5 @@
 ---
 title: "Conn's Home Plus"
 url: /scottsdale/conns-home-plus/
-shop: Möbel
+shop: furniture
 ---

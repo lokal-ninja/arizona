@@ -1,5 +1,5 @@
 ---
 title: "Xerox"
 url: /mesa/xerox/
-shop: Kopieren
+shop: copyshop
 ---

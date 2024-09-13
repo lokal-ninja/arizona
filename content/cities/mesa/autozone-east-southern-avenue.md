@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mesa/autozone-east-southern-avenue/
-shop: Autoteile
+shop: car parts
 ---

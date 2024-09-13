@@ -1,5 +1,5 @@
 ---
 title: "Jessica's Beauty Boutique"
 url: /yuma/jessicas-beauty-boutique/
-shop: Friseur
+shop: hairdresser
 ---

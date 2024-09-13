@@ -1,5 +1,5 @@
 ---
 title: "Brake Masters"
 url: /peoria/brake-masters-west-happy-valley-parkway/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Sky Motorcylces"
 url: /tucson/big-sky-motorcylces/
-shop: Autowerkstatt
+shop: car repair
 ---

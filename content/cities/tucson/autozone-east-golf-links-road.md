@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tucson/autozone-east-golf-links-road/
-shop: Autoteile
+shop: car parts
 ---

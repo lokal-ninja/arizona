@@ -1,5 +1,5 @@
 ---
 title: "Premier Equipment Rentals"
 url: /mesa/premier-equipment-rentals/
-shop: Mieten
+shop: storage rental
 ---

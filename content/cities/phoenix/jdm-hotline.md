@@ -1,5 +1,5 @@
 ---
 title: "JDM Hotline"
 url: /phoenix/jdm-hotline/
-shop: Autoteile
+shop: car parts
 ---

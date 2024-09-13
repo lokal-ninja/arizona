@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /mesa/carquest/
-shop: Autoteile
+shop: car parts
 ---

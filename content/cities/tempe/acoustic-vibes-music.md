@@ -1,5 +1,5 @@
 ---
 title: "Acoustic Vibes Music"
 url: /tempe/acoustic-vibes-music/
-shop: Instrumente
+shop: musical instrument
 ---

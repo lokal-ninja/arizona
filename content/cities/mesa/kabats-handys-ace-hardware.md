@@ -1,5 +1,5 @@
 ---
 title: "Kabat's - Handys Ace Hardware"
 url: /mesa/kabats-handys-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

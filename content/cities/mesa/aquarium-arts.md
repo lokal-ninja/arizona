@@ -1,5 +1,5 @@
 ---
 title: "Aquarium Arts"
 url: /mesa/aquarium-arts/
-shop: Tiere
+shop: pet
 ---

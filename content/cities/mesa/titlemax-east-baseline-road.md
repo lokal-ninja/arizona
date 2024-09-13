@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /mesa/titlemax-east-baseline-road/
-shop: Leiher
+shop: pawnbroker
 ---

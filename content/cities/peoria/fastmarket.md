@@ -1,5 +1,5 @@
 ---
 title: "FastMarket"
 url: /peoria/fastmarket/
-shop: Lebensmittel
+shop: convenience
 ---

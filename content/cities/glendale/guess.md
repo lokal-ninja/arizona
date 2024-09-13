@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /glendale/guess/
-shop: Kleidung
+shop: clothes
 ---

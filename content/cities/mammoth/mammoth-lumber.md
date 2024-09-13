@@ -1,5 +1,5 @@
 ---
 title: "Mammoth Lumber"
 url: /mammoth/mammoth-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

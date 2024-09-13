@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tucson/autozone/
-shop: Autoteile
+shop: car parts
 ---

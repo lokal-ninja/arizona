@@ -1,5 +1,5 @@
 ---
 title: "Mesa Sales Inc"
 url: /mesa/mesa-sales-inc/
-shop: Fußböden
+shop: flooring
 ---

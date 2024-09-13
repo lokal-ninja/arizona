@@ -1,5 +1,5 @@
 ---
 title: "Mens Lounge Barbershop"
 url: /phoenix/mens-lounge-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

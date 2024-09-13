@@ -1,5 +1,5 @@
 ---
 title: "Innovative Health"
 url: /scottsdale/innovative-health/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvernon Optical"
 url: /tucson/alvernon-optical/
-shop: Optiker
+shop: optician
 ---

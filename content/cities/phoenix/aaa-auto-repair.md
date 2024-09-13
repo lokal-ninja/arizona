@@ -1,5 +1,5 @@
 ---
 title: "AAA Auto Repair"
 url: /phoenix/aaa-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

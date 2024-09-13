@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /goodyear/autozone/
-shop: Autoteile
+shop: car parts
 ---

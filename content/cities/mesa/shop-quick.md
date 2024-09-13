@@ -1,5 +1,5 @@
 ---
 title: "Shop Quick"
 url: /mesa/shop-quick/
-shop: Lebensmittel
+shop: convenience
 ---

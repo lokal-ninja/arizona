@@ -1,5 +1,5 @@
 ---
 title: "Ear to Hear"
 url: /mesa/ear-to-hear/
-shop: Hörgeräte
+shop: hearing aids
 ---

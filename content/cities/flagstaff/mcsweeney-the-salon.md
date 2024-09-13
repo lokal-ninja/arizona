@@ -1,5 +1,5 @@
 ---
 title: "McSweeney The Salon"
 url: /flagstaff/mcsweeney-the-salon/
-shop: Kosmetik
+shop: beauty
 ---

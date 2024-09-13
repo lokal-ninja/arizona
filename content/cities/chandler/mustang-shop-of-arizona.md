@@ -1,5 +1,5 @@
 ---
 title: "Mustang Shop of Arizona"
 url: /chandler/mustang-shop-of-arizona/
-shop: Autowerkstatt
+shop: car repair
 ---

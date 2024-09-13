@@ -1,5 +1,5 @@
 ---
 title: "PineTales"
 url: /tempe/pinetales/
-shop: Möbel
+shop: furniture
 ---

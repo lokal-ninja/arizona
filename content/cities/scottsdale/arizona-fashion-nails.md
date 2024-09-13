@@ -1,5 +1,5 @@
 ---
 title: "Arizona Fashion Nails"
 url: /scottsdale/arizona-fashion-nails/
-shop: Kosmetik
+shop: beauty
 ---

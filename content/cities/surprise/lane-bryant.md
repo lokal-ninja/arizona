@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /surprise/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /phoenix/target-north-7th-street/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Vision"
 url: /glendale/nationwide-vision-west-northern-avenue/
-shop: Optiker
+shop: optician
 ---

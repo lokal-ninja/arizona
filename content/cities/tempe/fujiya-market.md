@@ -1,5 +1,5 @@
 ---
 title: "Fujiya Market"
 url: /tempe/fujiya-market/
-shop: Lebensmittel
+shop: convenience
 ---

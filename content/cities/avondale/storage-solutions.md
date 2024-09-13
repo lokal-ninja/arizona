@@ -1,5 +1,5 @@
 ---
 title: "Storage Solutions"
 url: /avondale/storage-solutions/
-shop: Mieten
+shop: storage rental
 ---

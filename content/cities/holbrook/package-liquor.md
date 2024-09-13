@@ -1,5 +1,5 @@
 ---
 title: "Package Liquor"
 url: /holbrook/package-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

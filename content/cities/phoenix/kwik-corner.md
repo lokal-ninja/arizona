@@ -1,5 +1,5 @@
 ---
 title: "Kwik Corner"
 url: /phoenix/kwik-corner/
-shop: Lebensmittel
+shop: convenience
 ---

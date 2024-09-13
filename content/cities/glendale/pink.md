@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /glendale/pink/
-shop: Kleidung
+shop: clothes
 ---

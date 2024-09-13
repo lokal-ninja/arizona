@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Bedding"
 url: /mesa/brooklyn-bedding/
-shop: Betten
+shop: bed
 ---

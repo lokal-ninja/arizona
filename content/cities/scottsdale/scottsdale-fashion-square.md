@@ -1,5 +1,5 @@
 ---
 title: "Scottsdale Fashion Square"
 url: /scottsdale/scottsdale-fashion-square/
-shop: Einkaufszentrum
+shop: mall
 ---

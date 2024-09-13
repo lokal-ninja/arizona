@@ -1,5 +1,5 @@
 ---
 title: "Tropic Zone"
 url: /phoenix/tropic-zone/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grizzly's Discount Flooring"
 url: /mesa/grizzlys-discount-flooring/
-shop: Fußböden
+shop: flooring
 ---

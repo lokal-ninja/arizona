@@ -1,5 +1,5 @@
 ---
 title: "Mor Furniture"
 url: /avondale/mor-furniture/
-shop: Möbel
+shop: furniture
 ---

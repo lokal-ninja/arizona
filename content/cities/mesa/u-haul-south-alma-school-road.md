@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /mesa/u-haul-south-alma-school-road/
-shop: Mieten
+shop: storage rental
 ---

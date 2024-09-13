@@ -1,5 +1,5 @@
 ---
 title: "The Copier Domain"
 url: /phoenix/the-copier-domain/
-shop: Schreibwaren
+shop: office supplies
 ---

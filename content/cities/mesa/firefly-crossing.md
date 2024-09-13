@@ -1,5 +1,5 @@
 ---
 title: "Firefly Crossing"
 url: /mesa/firefly-crossing/
-shop: Raumausstattung
+shop: interior decoration
 ---

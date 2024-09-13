@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /tempe/caliber-collision-east-curry-road-2/
-shop: Autowerkstatt
+shop: car repair
 ---

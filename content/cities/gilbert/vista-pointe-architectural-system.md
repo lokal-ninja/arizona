@@ -1,5 +1,5 @@
 ---
 title: "Vista Pointe Architectural System"
 url: /gilbert/vista-pointe-architectural-system/
-shop: Türen
+shop: doors
 ---

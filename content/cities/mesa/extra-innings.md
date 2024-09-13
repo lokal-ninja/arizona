@@ -1,5 +1,5 @@
 ---
 title: "Extra Innings"
 url: /mesa/extra-innings/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /glendale/mattress-firm-west-behrend-drive/
-shop: Betten
+shop: bed
 ---

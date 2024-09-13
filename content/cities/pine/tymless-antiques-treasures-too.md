@@ -1,5 +1,5 @@
 ---
 title: "Tymless Antiques $ Treasures Too"
 url: /pine/tymless-antiques-treasures-too/
-shop: Antiquitäten
+shop: antiques
 ---

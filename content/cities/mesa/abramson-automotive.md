@@ -1,5 +1,5 @@
 ---
 title: "Abramson Automotive"
 url: /mesa/abramson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

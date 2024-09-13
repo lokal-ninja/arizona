@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /yuma/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

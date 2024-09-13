@@ -1,5 +1,5 @@
 ---
 title: "StorageMax"
 url: /scottsdale/storagemax/
-shop: Mieten
+shop: storage rental
 ---

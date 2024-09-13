@@ -1,5 +1,5 @@
 ---
 title: "Gold Canyon Nails"
 url: /gold-canyon/gold-canyon-nails/
-shop: Kosmetik
+shop: beauty
 ---

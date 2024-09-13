@@ -1,5 +1,5 @@
 ---
 title: "Owl Vans"
 url: /mesa/owl-vans/
-shop: Autoteile
+shop: car parts
 ---

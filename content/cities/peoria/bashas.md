@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /peoria/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

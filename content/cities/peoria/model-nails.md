@@ -1,5 +1,5 @@
 ---
 title: "Model Nails"
 url: /peoria/model-nails/
-shop: Kosmetik
+shop: beauty
 ---

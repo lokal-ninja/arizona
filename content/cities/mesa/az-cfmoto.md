@@ -1,5 +1,5 @@
 ---
 title: "AZ CFMoto"
 url: /mesa/az-cfmoto/
-shop: Motorrad
+shop: motorcycle
 ---

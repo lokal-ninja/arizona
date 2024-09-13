@@ -1,5 +1,5 @@
 ---
 title: "Zia Records"
 url: /mesa/zia-records/
-shop: Musik
+shop: music
 ---

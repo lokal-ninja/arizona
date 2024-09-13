@@ -1,5 +1,5 @@
 ---
 title: "UMOM Donation Warehouse"
 url: /phoenix/umom-donation-warehouse/
-shop: Großhandel
+shop: wholesale
 ---

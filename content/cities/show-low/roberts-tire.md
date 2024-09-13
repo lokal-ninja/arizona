@@ -1,5 +1,5 @@
 ---
 title: "Robert's Tire"
 url: /show-low/roberts-tire/
-shop: Reifen
+shop: tyres
 ---

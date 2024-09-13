@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /phoenix/five-below-north-tatum-boulevard/
-shop: Kramladen
+shop: variety store
 ---

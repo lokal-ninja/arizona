@@ -1,5 +1,5 @@
 ---
 title: "Creations Boutique"
 url: /phoenix/creations-boutique/
-shop: Kleidung
+shop: clothes
 ---

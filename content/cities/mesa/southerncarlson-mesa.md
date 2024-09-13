@@ -1,5 +1,5 @@
 ---
 title: "SouthernCarlson - Mesa"
 url: /mesa/southerncarlson-mesa/
-shop: Großhandel
+shop: wholesale
 ---

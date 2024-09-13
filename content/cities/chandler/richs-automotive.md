@@ -1,5 +1,5 @@
 ---
 title: "Rich's Automotive"
 url: /chandler/richs-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

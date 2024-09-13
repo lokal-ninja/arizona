@@ -1,5 +1,5 @@
 ---
 title: "BRAKEMax"
 url: /tucson/brakemax/
-shop: Autowerkstatt
+shop: car repair
 ---

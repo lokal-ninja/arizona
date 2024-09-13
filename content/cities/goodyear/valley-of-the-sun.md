@@ -1,5 +1,5 @@
 ---
 title: "Valley of the Sun"
 url: /goodyear/valley-of-the-sun/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /oro-valley/chicos/
-shop: Kleidung
+shop: clothes
 ---

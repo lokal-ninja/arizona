@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /tempe/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

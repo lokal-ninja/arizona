@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /cave-creek/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

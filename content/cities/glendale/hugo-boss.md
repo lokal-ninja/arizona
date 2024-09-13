@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /glendale/hugo-boss/
-shop: Kleidung
+shop: clothes
 ---

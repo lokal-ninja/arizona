@@ -1,5 +1,5 @@
 ---
 title: "Paddy O' Furniture"
 url: /peoria/paddy-o-furniture/
-shop: Möbel
+shop: furniture
 ---

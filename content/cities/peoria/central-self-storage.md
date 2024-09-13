@@ -1,5 +1,5 @@
 ---
 title: "Central Self Storage"
 url: /peoria/central-self-storage/
-shop: Mieten
+shop: storage rental
 ---

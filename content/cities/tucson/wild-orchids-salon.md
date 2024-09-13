@@ -1,5 +1,5 @@
 ---
 title: "Wild Orchids Salon"
 url: /tucson/wild-orchids-salon/
-shop: Kosmetik
+shop: beauty
 ---

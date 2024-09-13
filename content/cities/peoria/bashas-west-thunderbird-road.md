@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /peoria/bashas-west-thunderbird-road/
-shop: Supermarkt
+shop: supermarket
 ---

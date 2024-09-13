@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /chandler/petsmart/
-shop: Tiere
+shop: pet
 ---

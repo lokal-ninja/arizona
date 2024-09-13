@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /glendale/walgreens-west-northern-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /chandler/the-ups-store-east-riggs-road/
-shop: Kopieren
+shop: copyshop
 ---

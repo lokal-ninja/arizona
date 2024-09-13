@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /quartzsite/shell/
-shop: Lebensmittel
+shop: convenience
 ---

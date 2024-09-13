@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /avondale/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

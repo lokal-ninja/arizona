@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /surprise/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

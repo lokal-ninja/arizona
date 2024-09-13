@@ -1,5 +1,5 @@
 ---
 title: "Tint Cartel"
 url: /chandler/tint-cartel/
-shop: Autoteile
+shop: car parts
 ---

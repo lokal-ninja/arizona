@@ -1,5 +1,5 @@
 ---
 title: "Let Us Floor You"
 url: /chandler/let-us-floor-you/
-shop: Fußböden
+shop: flooring
 ---

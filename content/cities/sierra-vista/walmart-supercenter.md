@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /sierra-vista/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

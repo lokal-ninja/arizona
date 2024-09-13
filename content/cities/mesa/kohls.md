@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /mesa/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "We Got Flowers"
 url: /phoenix/we-got-flowers/
-shop: Blumen
+shop: florist
 ---

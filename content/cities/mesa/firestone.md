@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /mesa/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

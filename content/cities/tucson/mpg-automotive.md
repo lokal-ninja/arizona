@@ -1,5 +1,5 @@
 ---
 title: "MPG Automotive"
 url: /tucson/mpg-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

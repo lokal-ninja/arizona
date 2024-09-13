@@ -1,5 +1,5 @@
 ---
 title: "Dollar Storage"
 url: /chandler/dollar-storage/
-shop: Mieten
+shop: storage rental
 ---

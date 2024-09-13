@@ -1,5 +1,5 @@
 ---
 title: "521 Automotive"
 url: /mesa/521-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

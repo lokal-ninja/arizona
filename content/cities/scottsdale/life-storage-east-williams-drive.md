@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /scottsdale/life-storage-east-williams-drive/
-shop: Mieten
+shop: storage rental
 ---

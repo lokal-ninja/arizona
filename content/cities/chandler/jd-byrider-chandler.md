@@ -1,5 +1,5 @@
 ---
 title: "JD Byrider - Chandler"
 url: /chandler/jd-byrider-chandler/
-shop: Autohaus
+shop: car
 ---

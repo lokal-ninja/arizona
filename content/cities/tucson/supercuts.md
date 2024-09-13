@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tucson/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

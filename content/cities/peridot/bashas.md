@@ -1,5 +1,5 @@
 ---
 title: "Bashas'"
 url: /peridot/bashas/
-shop: Supermarkt
+shop: supermarket
 ---

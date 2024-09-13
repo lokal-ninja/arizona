@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /chandler/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

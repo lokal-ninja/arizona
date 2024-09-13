@@ -1,5 +1,5 @@
 ---
 title: "Caesar's Uniforms"
 url: /glendale/caesars-uniforms/
-shop: Kleidung
+shop: clothes
 ---

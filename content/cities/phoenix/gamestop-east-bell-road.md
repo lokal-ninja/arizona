@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /phoenix/gamestop-east-bell-road/
-shop: Videospiele
+shop: video games
 ---

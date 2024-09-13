@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /thatcher/gamestop/
-shop: Videospiele
+shop: video games
 ---

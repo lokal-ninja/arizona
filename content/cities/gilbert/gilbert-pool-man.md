@@ -1,5 +1,5 @@
 ---
 title: "Gilbert Pool Man"
 url: /gilbert/gilbert-pool-man/
-shop: Pool
+shop: swimming pool
 ---

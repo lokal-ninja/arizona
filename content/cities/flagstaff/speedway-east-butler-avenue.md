@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /flagstaff/speedway-east-butler-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

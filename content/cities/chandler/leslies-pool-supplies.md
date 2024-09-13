@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Pool Supplies"
 url: /chandler/leslies-pool-supplies/
-shop: Pool
+shop: swimming pool
 ---

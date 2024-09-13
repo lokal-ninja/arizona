@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /mesa/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

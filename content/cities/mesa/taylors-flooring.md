@@ -1,5 +1,5 @@
 ---
 title: "Taylor's Flooring"
 url: /mesa/taylors-flooring/
-shop: Fußböden
+shop: flooring
 ---

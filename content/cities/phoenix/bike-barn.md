@@ -1,5 +1,5 @@
 ---
 title: "Bike Barn"
 url: /phoenix/bike-barn/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Discount Transmissions"
 url: /phoenix/super-discount-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

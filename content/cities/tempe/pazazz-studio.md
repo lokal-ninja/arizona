@@ -1,5 +1,5 @@
 ---
 title: "Pazazz Studio"
 url: /tempe/pazazz-studio/
-shop: Kosmetik
+shop: beauty
 ---

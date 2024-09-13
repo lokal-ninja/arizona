@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /mesa/firestone-north-lindsay-road/
-shop: Autowerkstatt
+shop: car repair
 ---

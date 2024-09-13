@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /oro-valley/great-clips/
-shop: Friseur
+shop: hairdresser
 ---
