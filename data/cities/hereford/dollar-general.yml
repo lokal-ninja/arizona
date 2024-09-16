@@ -1,11 +1,11 @@
 id: 1112506133
-type: way
+type: node
 latitude: 31.3806
 longitude: -110.15003
 postcode: "85615"
 city: Hereford
-street: "East State Route 92"
-housenumber: 9527
-phone: "+1-520-497-1311"
+street: East State Route 92
+housenumber: "9527"
+phone: +1-520-497-1311
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/hereford/22613"
+website: https://www.dollargeneral.com/store-directory/az/hereford/22613

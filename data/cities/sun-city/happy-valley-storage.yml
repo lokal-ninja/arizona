@@ -1,11 +1,12 @@
 id: 938717833
-type: way
+type: node
 latitude: 33.71075
 longitude: -112.30744
 postcode: "85373"
 city: Sun City
-street: "North 115th Avenue"
-housenumber: 25011
+street: North 115th Avenue
+housenumber: "25011"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00 Office; Mo-Sa 07:00-19:00 Access; Dec 24 09:00-14:00 Office; Dec 31 09:00-16:00 Office; Dec 25 closed; Jan 01 closed"
+opening_hours: Mo-Sa 09:00-18:00 "Office"; Mo-Sa 07:00-19:00 "Access"; Dec 24 09:00-14:00
+    "Office"; Dec 31 09:00-16:00 "Office"; Dec 25 closed; Jan 01 closed
 website: ""

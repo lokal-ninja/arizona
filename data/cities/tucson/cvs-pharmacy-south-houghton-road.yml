@@ -1,11 +1,11 @@
 id: 797179846
-type: way
+type: node
 latitude: 32.19131
 longitude: -110.77206
 postcode: "85730"
 city: Tucson
-street: "South Houghton Road"
-housenumber: 2601
+street: South Houghton Road
+housenumber: "2601"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/tucson-az-pharmacies/2601-s-houghton-rd-tucson-az-85730/storeid=7855"
+website: https://www.cvs.com/store-locator/tucson-az-pharmacies/2601-s-houghton-rd-tucson-az-85730/storeid=7855

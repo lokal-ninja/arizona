@@ -1,11 +1,11 @@
 id: 982089296
-type: way
+type: node
 latitude: 33.31825
 longitude: -111.89195
 postcode: "85224"
 city: Chandler
-street: "West Ray Road"
-housenumber: 2915
+street: West Ray Road
+housenumber: "2915"
 phone: ""
 opening_hours: ""
 website: ""

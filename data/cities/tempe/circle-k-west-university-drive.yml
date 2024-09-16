@@ -1,11 +1,11 @@
 id: 938214820
-type: way
+type: node
 latitude: 33.42243
 longitude: -111.9603
 postcode: "85281"
 city: Tempe
-street: "West University Drive"
-housenumber: 1330
+street: West University Drive
+housenumber: "1330"
 phone: ""
 opening_hours: ""
 website: ""

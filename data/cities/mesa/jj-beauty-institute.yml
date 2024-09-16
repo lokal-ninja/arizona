@@ -1,11 +1,11 @@
 id: 933085927
-type: way
+type: node
 latitude: 33.39373
 longitude: -111.8172
 postcode: "85204"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 644
-phone: "480-264-5454"
+street: East Southern Avenue
+housenumber: "644"
+phone: 480-264-5454
 opening_hours: ""
-website: "https://www.jjbeautyinstitute.com/"
+website: https://www.jjbeautyinstitute.com/

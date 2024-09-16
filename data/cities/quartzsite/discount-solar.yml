@@ -1,11 +1,11 @@
 id: 759082505
-type: way
+type: node
 latitude: 33.66735
 longitude: -114.20818
 postcode: "85346"
 city: Quartzsite
-street: "East Main Street"
-housenumber: 
-phone: "+1-928-927-4551"
-opening_hours: "Oct-Mar: Mo-Fr 09:00-16:00; Apr-Sep off"
-website: "http://discountsolar.com/"
+street: East Main Street
+housenumber: ""
+phone: +1-928-927-4551
+opening_hours: 'Oct-Mar: Mo-Fr 09:00-16:00; Apr-Sep off'
+website: http://discountsolar.com/

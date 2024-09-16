@@ -1,11 +1,11 @@
 id: 229038256
-type: way
+type: node
 latitude: 33.37752
 longitude: -111.95316
 postcode: "85283"
 city: Tempe
-street: "West Baseline Road"
-housenumber: 925
+street: West Baseline Road
+housenumber: "925"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-925+w+baseline+rd-tempe-az-85283/id=2398"
+website: https://www.walgreens.com/locator/walgreens-925+w+baseline+rd-tempe-az-85283/id=2398

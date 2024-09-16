@@ -1,11 +1,11 @@
 id: 222091653
-type: way
+type: node
 latitude: 33.53802
 longitude: -112.13492
 postcode: "85051"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 3501
+street: West Glendale Avenue
+housenumber: "3501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 992045522
-type: way
+type: node
 latitude: 33.24832
 longitude: -111.56393
 postcode: "85140"
 city: San Tan Valley
-street: "West Ocotillo Road"
-housenumber: 25
+street: West Ocotillo Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

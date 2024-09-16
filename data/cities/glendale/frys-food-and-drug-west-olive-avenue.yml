@@ -1,11 +1,11 @@
 id: 426089323
-type: way
+type: node
 latitude: 33.56915
 longitude: -112.17028
 postcode: "85302"
 city: Glendale
-street: "West Olive Avenue"
-housenumber: 5116
-phone: "+1 623-937-4771"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/glendale/51st-ave-olive/660/00026"
+street: West Olive Avenue
+housenumber: "5116"
+phone: +1 623-937-4771
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/glendale/51st-ave-olive/660/00026

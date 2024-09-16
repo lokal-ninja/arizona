@@ -1,11 +1,11 @@
 id: 510680913
-type: way
+type: node
 latitude: 33.37757
 longitude: -111.69062
 postcode: "85206"
 city: Gilbert
-street: "South Power Road"
-housenumber: 2110
+street: South Power Road
+housenumber: "2110"
 phone: ""
 opening_hours: ""
 website: ""

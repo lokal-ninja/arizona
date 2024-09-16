@@ -1,11 +1,11 @@
 id: 213440704
-type: way
+type: node
 latitude: 33.41575
 longitude: -111.56011
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 1286
-phone: "+1 480 964 3832"
+street: West Apache Trail
+housenumber: "1286"
+phone: +1 480 964 3832
 opening_hours: ""
-website: "http://www.dougstransmission.com/"
+website: http://www.dougstransmission.com/

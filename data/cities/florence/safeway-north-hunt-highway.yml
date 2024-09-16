@@ -1,11 +1,11 @@
 id: 1140668800
-type: way
+type: node
 latitude: 33.06263
 longitude: -111.48535
 postcode: "85132"
 city: Florence
-street: "North Hunt Highway"
-housenumber: 3313
+street: North Hunt Highway
+housenumber: "3313"
 phone: ""
 opening_hours: ""
 website: ""

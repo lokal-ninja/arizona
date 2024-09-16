@@ -1,11 +1,11 @@
 id: 840714052
-type: way
+type: node
 latitude: 34.50749
 longitude: -109.38172
 postcode: "85936"
 city: Saint Johns
-street: "West Cleveland Street"
-housenumber: 1135
-phone: "+1 928-337-2261"
-opening_hours: "07:00-21:00"
+street: West Cleveland Street
+housenumber: "1135"
+phone: +1 928-337-2261
+opening_hours: 07:00-21:00
 website: ""

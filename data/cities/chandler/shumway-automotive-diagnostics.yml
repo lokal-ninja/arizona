@@ -1,11 +1,11 @@
 id: 902492809
-type: way
+type: node
 latitude: 33.22954
 longitude: -111.76466
 postcode: "85249"
 city: Chandler
-street: "South 148th Street"
-housenumber: 24016
+street: South 148th Street
+housenumber: "24016"
 phone: ""
 opening_hours: ""
 website: ""

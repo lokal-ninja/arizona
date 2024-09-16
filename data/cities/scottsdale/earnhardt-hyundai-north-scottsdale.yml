@@ -1,11 +1,11 @@
 id: 508910264
-type: way
+type: node
 latitude: 33.63155
 longitude: -111.89833
 postcode: "85260"
 city: Scottsdale
-street: "East Frank Lloyd Wright Boulevard"
-housenumber: 8445
+street: East Frank Lloyd Wright Boulevard
+housenumber: "8445"
 phone: ""
 opening_hours: ""
 website: ""

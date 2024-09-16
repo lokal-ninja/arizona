@@ -1,11 +1,11 @@
 id: 152922647
-type: way
+type: node
 latitude: 33.49261
 longitude: -112.21979
 postcode: "85033"
 city: Phoenix
-street: "North 75th Avenue"
-housenumber: 3855
+street: North 75th Avenue
+housenumber: "3855"
 phone: ""
 opening_hours: ""
 website: ""

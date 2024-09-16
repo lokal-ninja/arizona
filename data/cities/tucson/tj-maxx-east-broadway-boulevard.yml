@@ -1,11 +1,11 @@
 id: 839203447
-type: way
+type: node
 latitude: 32.22211
 longitude: -110.85639
 postcode: "85710"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 6337
+street: East Broadway Boulevard
+housenumber: "6337"
 phone: ""
 opening_hours: ""
 website: ""

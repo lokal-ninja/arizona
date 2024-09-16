@@ -1,11 +1,11 @@
 id: 829078349
-type: way
+type: node
 latitude: 32.20032
 longitude: -110.90132
-postcode: "85711-6114"
+postcode: 85711-6114
 city: Tucson
-street: "East 29th Street"
-housenumber: 4295
-phone: "+1 520-747-8433"
+street: East 29th Street
+housenumber: "4295"
+phone: +1 520-747-8433
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tucson/4295-east-29th-street-24418"
+website: https://www.7-eleven.com/locations/az/tucson/4295-east-29th-street-24418

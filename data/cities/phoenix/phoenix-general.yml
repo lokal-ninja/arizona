@@ -4,8 +4,8 @@ latitude: 33.45882
 longitude: -112.0706
 postcode: "85004"
 city: Phoenix
-street: "East Roosevelt Street"
-housenumber: 214
-phone: "+1-623-248-8686"
+street: East Roosevelt Street
+housenumber: "214"
+phone: +1-623-248-8686
 opening_hours: ""
-website: "https://phxgeneral.com/"
+website: https://phxgeneral.com/

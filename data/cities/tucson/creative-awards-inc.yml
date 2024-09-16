@@ -1,11 +1,11 @@
 id: 441552731
-type: way
+type: node
 latitude: 32.23972
 longitude: -110.97595
 postcode: "85705"
 city: Tucson
-street: "West Drachman Street"
-housenumber: 228
+street: West Drachman Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
-website: "https://www.creativeawardsaz.com/"
+website: https://www.creativeawardsaz.com/

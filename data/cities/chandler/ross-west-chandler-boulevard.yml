@@ -1,11 +1,11 @@
 id: 980239208
-type: way
+type: node
 latitude: 33.30823
 longitude: -111.88853
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 2720
-phone: "+1 480-726-6722"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
+street: West Chandler Boulevard
+housenumber: "2720"
+phone: +1 480-726-6722
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
 website: ""

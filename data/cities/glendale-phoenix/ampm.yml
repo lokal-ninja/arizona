@@ -1,11 +1,11 @@
 id: 427344421
-type: way
+type: node
 latitude: 33.49533
 longitude: -112.22125
 postcode: "85033"
 city: Glendale;Phoenix
-street: "West Indian School Road"
-housenumber: 7502
+street: West Indian School Road
+housenumber: "7502"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 827967381
-type: way
+type: node
 latitude: 33.3475
 longitude: -111.83729
 postcode: "85225"
 city: Chandler
-street: "East Comstock Drive"
-housenumber: 300
+street: East Comstock Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

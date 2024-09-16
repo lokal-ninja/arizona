@@ -1,11 +1,11 @@
 id: 589475919
-type: way
+type: node
 latitude: 35.19568
 longitude: -111.65529
 postcode: "86001"
 city: Flagstaff
-street: "South Milton Road"
-housenumber: 203
+street: South Milton Road
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:00; Fr 06:30-19:00; Sa-Su 07:00-19:00"
+opening_hours: Mo-Th 06:30-18:00; Fr 06:30-19:00; Sa-Su 07:00-19:00
 website: ""

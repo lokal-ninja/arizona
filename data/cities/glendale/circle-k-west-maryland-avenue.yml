@@ -1,11 +1,11 @@
 id: 255006534
-type: way
+type: node
 latitude: 33.53082
 longitude: -112.19544
 postcode: "85301"
 city: Glendale
-street: "West Maryland Avenue"
-housenumber: 6305
+street: West Maryland Avenue
+housenumber: "6305"
 phone: ""
 opening_hours: ""
 website: ""

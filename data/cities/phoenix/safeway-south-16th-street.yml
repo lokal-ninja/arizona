@@ -1,11 +1,11 @@
 id: 232206217
-type: way
+type: node
 latitude: 33.39006
 longitude: -112.04974
 postcode: "85042"
 city: Phoenix
-street: "South 16th Street"
-housenumber: 6202
-phone: "+1 602-268-0022"
+street: South 16th Street
+housenumber: "6202"
+phone: +1 602-268-0022
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/6202-s-16th-st.html"
+website: https://local.safeway.com/safeway/az/phoenix/6202-s-16th-st.html

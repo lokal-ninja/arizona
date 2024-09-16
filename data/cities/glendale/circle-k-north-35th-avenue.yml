@@ -1,11 +1,11 @@
 id: 221928905
-type: way
+type: node
 latitude: 33.71223
 longitude: -112.13583
 postcode: "85310"
 city: Glendale
-street: "North 35th Avenue"
-housenumber: 24838
+street: North 35th Avenue
+housenumber: "24838"
 phone: ""
 opening_hours: ""
 website: ""

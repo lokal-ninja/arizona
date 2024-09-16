@@ -1,11 +1,11 @@
 id: 1226044594
-type: way
+type: node
 latitude: 33.46385
 longitude: -112.395
 postcode: "85395"
 city: Goodyear
-street: "West McDowell Road"
-housenumber: 15581
+street: West McDowell Road
+housenumber: "15581"
 phone: ""
 opening_hours: ""
 website: ""

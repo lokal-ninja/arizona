@@ -1,11 +1,11 @@
 id: 591897473
-type: way
+type: node
 latitude: 33.33726
 longitude: -111.7716
 postcode: "85296"
 city: Gilbert
-street: "East Warner Road"
-housenumber: 874
+street: East Warner Road
+housenumber: "874"
 phone: ""
 opening_hours: ""
 website: ""

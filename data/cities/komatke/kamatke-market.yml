@@ -1,11 +1,11 @@
 id: 334147392
-type: way
+type: node
 latitude: 33.29124
 longitude: -112.1684
 postcode: "85339"
 city: Komatke
-street: "South 51st Avenue"
-housenumber: 16999
+street: South 51st Avenue
+housenumber: "16999"
 phone: ""
 opening_hours: ""
 website: ""

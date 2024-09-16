@@ -1,11 +1,11 @@
 id: 524612100
-type: way
+type: node
 latitude: 33.30484
 longitude: -111.9451
 postcode: "85226"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 5975
-phone: "+1-480-753-1827"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/chandler-az-pharmacies/5975-w-chandler-blvd-chandler-az-85226/storeid=3965"
+street: West Chandler Boulevard
+housenumber: "5975"
+phone: +1-480-753-1827
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/chandler-az-pharmacies/5975-w-chandler-blvd-chandler-az-85226/storeid=3965

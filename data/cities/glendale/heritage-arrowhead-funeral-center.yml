@@ -1,11 +1,11 @@
 id: 992065484
-type: way
+type: node
 latitude: 33.67411
 longitude: -112.22183
 postcode: "85308"
 city: Glendale
-street: "West Rose Garden Lane"
-housenumber: 7545
+street: West Rose Garden Lane
+housenumber: "7545"
 phone: ""
 opening_hours: ""
 website: ""

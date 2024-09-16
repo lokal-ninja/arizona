@@ -1,11 +1,11 @@
 id: 561130924
-type: way
+type: node
 latitude: 33.57609
 longitude: -111.72168
 postcode: "85268"
 city: Fountain Hills
-street: "East Shea Boulevard"
-housenumber: 16745
+street: East Shea Boulevard
+housenumber: "16745"
 phone: "+14808372036"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

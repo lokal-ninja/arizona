@@ -1,11 +1,11 @@
 id: 1303371827
-type: way
+type: node
 latitude: 33.52277
 longitude: -111.89837
-postcode: "85250-6334"
+postcode: 85250-6334
 city: Scottsdale
-street: "East McDonald Drive"
-housenumber: 8449
-phone: "+1 480-948-3102"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: East McDonald Drive
+housenumber: "8449"
+phone: +1 480-948-3102
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

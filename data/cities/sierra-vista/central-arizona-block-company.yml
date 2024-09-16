@@ -1,11 +1,11 @@
 id: 896244107
-type: way
+type: node
 latitude: 31.5566
 longitude: -110.21007
 postcode: "85635"
 city: Sierra Vista
-street: "North Ten Pond Place"
-housenumber: 285
-phone: "+1 520 452 1171"
+street: North Ten Pond Place
+housenumber: "285"
+phone: +1 520 452 1171
 opening_hours: ""
-website: "https://www.cabcoaz.com/"
+website: https://www.cabcoaz.com/

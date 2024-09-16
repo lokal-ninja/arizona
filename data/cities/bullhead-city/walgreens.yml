@@ -1,11 +1,11 @@
 id: 1227214701
-type: way
+type: node
 latitude: 35.10165
 longitude: -114.59736
 postcode: "86442"
 city: Bullhead City
-street: "AZ 95"
-housenumber: 2360
+street: AZ 95
+housenumber: "2360"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2360+highway+95-bullhead+city-az-86442/id=3913"
+website: https://www.walgreens.com/locator/walgreens-2360+highway+95-bullhead+city-az-86442/id=3913

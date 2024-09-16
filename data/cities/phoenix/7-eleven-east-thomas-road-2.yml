@@ -1,11 +1,11 @@
 id: 628734553
-type: way
+type: node
 latitude: 33.48088
 longitude: -111.99585
 postcode: "85018"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 3908
-phone: "+1 602-952-9844"
+street: East Thomas Road
+housenumber: "3908"
+phone: +1 602-952-9844
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/3948-east-thomas-23215"
+website: https://www.7-eleven.com/locations/az/phoenix/3948-east-thomas-23215

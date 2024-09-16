@@ -1,11 +1,11 @@
 id: 827158864
-type: way
+type: node
 latitude: 33.42893
 longitude: -111.84059
 postcode: "85201"
 city: Mesa
-street: "North Country Blub Drive"
-housenumber: 746
+street: North Country Blub Drive
+housenumber: "746"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/746-n-country-club.html"
+website: https://www.autozone.com/locations/az/mesa/746-n-country-club.html

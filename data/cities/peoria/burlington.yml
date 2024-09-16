@@ -1,11 +1,11 @@
 id: 1206772259
-type: way
+type: node
 latitude: 33.63589
 longitude: -112.22374
 postcode: "85382"
 city: Peoria
-street: "West Bell Road"
-housenumber: 7685
-phone: "+1 602-805-0274"
-opening_hours: "09:00-22:00"
-website: "https://stores.burlington.com/az/peoria/1331"
+street: West Bell Road
+housenumber: "7685"
+phone: +1 602-805-0274
+opening_hours: 09:00-22:00
+website: https://stores.burlington.com/az/peoria/1331

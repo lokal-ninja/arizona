@@ -1,11 +1,11 @@
 id: 812384884
-type: way
+type: node
 latitude: 33.30691
 longitude: -111.78532
 postcode: "85295"
 city: Gilbert
-street: "East Williams Field Road"
-housenumber: 13802
+street: East Williams Field Road
+housenumber: "13802"
 phone: ""
 opening_hours: ""
 website: ""

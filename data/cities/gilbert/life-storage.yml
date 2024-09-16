@@ -1,11 +1,11 @@
 id: 997960131
-type: way
+type: node
 latitude: 33.37762
 longitude: -111.7191
 postcode: "85234"
 city: Gilbert
-street: "North San Benito Drive"
-housenumber: 1485
+street: North San Benito Drive
+housenumber: "1485"
 phone: ""
 opening_hours: ""
 website: ""

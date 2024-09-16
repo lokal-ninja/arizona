@@ -1,11 +1,11 @@
 id: 158505957
-type: way
+type: node
 latitude: 33.42094
 longitude: -111.54664
 postcode: "85119"
 city: Apache Junction
-street: "North Idaho Road"
-housenumber: 666
-phone: "+1 480 982 9250"
-opening_hours: "Su 10:00-16:00; Mo-Sa 09:00-18:00; PH off"
-website: "https://thestockshop.org/locations/1799/the-stock-shop-apache-junction"
+street: North Idaho Road
+housenumber: "666"
+phone: +1 480 982 9250
+opening_hours: Su 10:00-16:00; Mo-Sa 09:00-18:00; PH off
+website: https://thestockshop.org/locations/1799/the-stock-shop-apache-junction

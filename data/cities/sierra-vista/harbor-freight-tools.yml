@@ -1,11 +1,11 @@
 id: 188128695
-type: way
+type: node
 latitude: 31.55328
 longitude: -110.25944
 postcode: "85635"
 city: Sierra Vista
-street: "East Ferry Boulevard"
-housenumber: 3758
-phone: "+1 520-417-9343"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3758-e-fry-blvd-sierra-vista-85635?number=849"
+street: East Ferry Boulevard
+housenumber: "3758"
+phone: +1 520-417-9343
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3758-e-fry-blvd-sierra-vista-85635?number=849

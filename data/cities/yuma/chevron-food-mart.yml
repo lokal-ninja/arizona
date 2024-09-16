@@ -1,11 +1,11 @@
 id: 479981534
-type: way
+type: node
 latitude: 32.65681
 longitude: -114.58074
 postcode: "85365"
 city: Yuma
-street: "South Avenue 3 East"
-housenumber: 3919
+street: South Avenue 3 East
+housenumber: "3919"
 phone: "+19283410911"
-opening_hours: "24/7"
-website: "https://www.cstoreyuma.com/"
+opening_hours: 24/7
+website: https://www.cstoreyuma.com/

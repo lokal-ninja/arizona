@@ -1,11 +1,11 @@
 id: 205012199
-type: way
+type: node
 latitude: 33.32115
 longitude: -111.98875
 postcode: "85044"
 city: Phoenix
-street: "East Ray Road"
-housenumber: 4410
+street: East Ray Road
+housenumber: "4410"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 838007087
-type: way
+type: node
 latitude: 32.20839
 longitude: -110.78864
 postcode: "85748"
 city: Tucson
-street: "East Old Spanish Trail"
-housenumber: 9525
+street: East Old Spanish Trail
+housenumber: "9525"
 phone: "+15209756876"
 opening_hours: ""
 website: ""

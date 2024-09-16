@@ -1,11 +1,11 @@
 id: 1059328515
-type: way
+type: node
 latitude: 33.43163
 longitude: -112.06432
 postcode: "85034"
 city: Phoenix
-street: "East Mohave Street"
-housenumber: 710
+street: East Mohave Street
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

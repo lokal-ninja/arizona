@@ -1,11 +1,11 @@
 id: 430884068
-type: way
+type: node
 latitude: 32.72096
 longitude: -110.64023
 postcode: "85618"
 city: Mammoth
-street: "Bluebird Avenue"
-housenumber: 203
+street: Bluebird Avenue
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

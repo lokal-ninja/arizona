@@ -1,11 +1,11 @@
 id: 93160853
-type: way
+type: node
 latitude: 33.53801
 longitude: -111.88338
 postcode: "85250"
 city: Scottsdale
-street: "East Talking Stick Way"
-housenumber: 9199
-phone: "480-951-9126"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.discounttire.com/"
+street: East Talking Stick Way
+housenumber: "9199"
+phone: 480-951-9126
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.discounttire.com/

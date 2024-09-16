@@ -1,11 +1,11 @@
 id: 530519334
-type: way
+type: node
 latitude: 32.88181
 longitude: -111.72606
 postcode: "85122"
 city: Casa Grande
-street: "East Florence Boulevard"
-housenumber: 1436
-phone: "+1 520-836-4170"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: East Florence Boulevard
+housenumber: "1436"
+phone: +1 520-836-4170
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

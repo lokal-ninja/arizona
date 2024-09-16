@@ -1,11 +1,11 @@
 id: 907914920
-type: way
+type: node
 latitude: 33.56822
 longitude: -111.87958
 postcode: "85258"
 city: Scottsdale
-street: "East Doubletree Ranch Road"
-housenumber: 9405
+street: East Doubletree Ranch Road
+housenumber: "9405"
 phone: "+14808601101"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.storagewest.com/facilities/mccormick-ranch/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.storagewest.com/facilities/mccormick-ranch/

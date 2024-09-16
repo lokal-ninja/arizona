@@ -1,11 +1,11 @@
 id: 990533275
-type: way
+type: node
 latitude: 34.43006
 longitude: -110.59808
 postcode: "85928"
 city: Heber
-street: "Black Canyon Road"
-housenumber: 1823
+street: Black Canyon Road
+housenumber: "1823"
 phone: ""
 opening_hours: ""
 website: ""

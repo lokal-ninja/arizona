@@ -1,11 +1,11 @@
 id: 858675082
-type: way
+type: node
 latitude: 33.65399
 longitude: -111.92814
 postcode: "85054"
 city: Phoenix
-street: "East Mayo Boulevard"
-housenumber: 7077
-phone: "+1 480-419-1478"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/phoenix-store1270.html"
+street: East Mayo Boulevard
+housenumber: "7077"
+phone: +1 480-419-1478
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/phoenix-store1270.html

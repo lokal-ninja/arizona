@@ -1,11 +1,11 @@
 id: 1226370092
-type: way
+type: node
 latitude: 33.46281
 longitude: -112.27683
 postcode: "85392"
 city: Avondale
-street: "West McDowell Road"
-housenumber: 10105
+street: West McDowell Road
+housenumber: "10105"
 phone: ""
 opening_hours: ""
 website: ""

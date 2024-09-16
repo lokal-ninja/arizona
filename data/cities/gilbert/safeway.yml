@@ -1,11 +1,11 @@
 id: 593140508
-type: way
+type: node
 latitude: 33.34903
 longitude: -111.75762
-postcode: "85234;85296"
+postcode: 85234;85296
 city: Gilbert
-street: "South Val Vista Drive"
-housenumber: 90
-phone: "+1 480-545-7555"
+street: South Val Vista Drive
+housenumber: "90"
+phone: +1 480-545-7555
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/gilbert/90-s-val-vista-dr.html"
+website: https://local.safeway.com/safeway/az/gilbert/90-s-val-vista-dr.html

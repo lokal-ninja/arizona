@@ -1,11 +1,11 @@
 id: 667538848
-type: way
+type: node
 latitude: 33.48706
 longitude: -111.71765
 postcode: "85215"
 city: Mesa
-street: "East Sugarloaf Circle"
-housenumber: 5215
+street: East Sugarloaf Circle
+housenumber: "5215"
 phone: ""
 opening_hours: ""
 website: ""

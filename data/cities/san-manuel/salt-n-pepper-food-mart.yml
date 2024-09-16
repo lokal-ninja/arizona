@@ -1,11 +1,11 @@
 id: 342580987
-type: way
+type: node
 latitude: 32.61414
 longitude: -110.62864
 postcode: "85631"
 city: San Manuel
-street: "North Redington Road"
-housenumber: 110
+street: North Redington Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 827959320
-type: way
+type: node
 latitude: 33.35336
 longitude: -111.83548
 postcode: "85225"
 city: Chandler
-street: "North Delaware Street"
-housenumber: 3265
+street: North Delaware Street
+housenumber: "3265"
 phone: ""
 opening_hours: ""
 website: ""

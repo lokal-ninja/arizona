@@ -1,11 +1,11 @@
 id: 317027525
-type: way
+type: node
 latitude: 33.37692
 longitude: -112.06564
 postcode: "85042"
 city: Phoenix
-street: "South 7th Street"
-housenumber: 7606
+street: South 7th Street
+housenumber: "7606"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7606+s+7th+st-phoenix-az-85042/id=6697"
+website: https://www.walgreens.com/locator/walgreens-7606+s+7th+st-phoenix-az-85042/id=6697

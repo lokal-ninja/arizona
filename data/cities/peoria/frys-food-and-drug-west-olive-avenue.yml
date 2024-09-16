@@ -1,11 +1,11 @@
 id: 762406411
-type: way
+type: node
 latitude: 33.56489
 longitude: -112.25424
 postcode: "85345"
 city: Peoria
-street: "West Olive Avenue"
-housenumber: 9043
-phone: "+1 623-979-1383"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/peoria/91st-ave-olive/660/00056"
+street: West Olive Avenue
+housenumber: "9043"
+phone: +1 623-979-1383
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/peoria/91st-ave-olive/660/00056

@@ -1,11 +1,11 @@
 id: 906012785
-type: way
+type: node
 latitude: 33.34756
 longitude: -111.9627
 postcode: "85284"
 city: Tempe
-street: "West Elliot Road"
-housenumber: 1445
+street: West Elliot Road
+housenumber: "1445"
 phone: ""
 opening_hours: ""
 website: ""

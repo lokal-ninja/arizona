@@ -1,11 +1,11 @@
 id: 843321993
-type: way
+type: node
 latitude: 33.45129
 longitude: -111.77144
 postcode: "85213"
 city: Mesa
-street: "East McKellips Road"
-housenumber: 2737
+street: East McKellips Road
+housenumber: "2737"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2737+e+mckellips+rd-mesa-az-85213/id=3767"
+website: https://www.walgreens.com/locator/walgreens-2737+e+mckellips+rd-mesa-az-85213/id=3767

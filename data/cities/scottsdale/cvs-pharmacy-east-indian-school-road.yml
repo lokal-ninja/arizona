@@ -1,11 +1,11 @@
 id: 251815095
-type: way
+type: node
 latitude: 33.49562
 longitude: -111.91823
 postcode: "85251"
 city: Scottsdale
-street: "East Indian School Road"
-housenumber: 7552
+street: East Indian School Road
+housenumber: "7552"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/scottsdale-az-pharmacies/7552-e-indian-school-rd-scottsdale-az-85251/storeid=7845"
+website: https://www.cvs.com/store-locator/scottsdale-az-pharmacies/7552-e-indian-school-rd-scottsdale-az-85251/storeid=7845

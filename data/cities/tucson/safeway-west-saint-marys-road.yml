@@ -1,11 +1,11 @@
 id: 975530586
-type: way
+type: node
 latitude: 32.22787
 longitude: -110.99835
 postcode: "85745"
 city: Tucson
-street: "West Saint Marys Road"
-housenumber: 1551
-phone: "+1 520-624-8442"
+street: West Saint Marys Road
+housenumber: "1551"
+phone: +1 520-624-8442
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/tucson/1551-w-st-marys-rd.html"
+website: https://local.safeway.com/safeway/az/tucson/1551-w-st-marys-rd.html

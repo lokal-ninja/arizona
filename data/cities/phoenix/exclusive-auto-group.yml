@@ -1,11 +1,11 @@
 id: 126987085
-type: way
+type: node
 latitude: 33.43443
 longitude: -112.04801
 postcode: "85034"
 city: Phoenix
-street: "South 16th Street"
-housenumber: 1450
-phone: "+1-480-567-9740"
-opening_hours: "Mo-Su 04:30-23:00"
-website: "https://www.silvercar.com/car-rentals/phoenix/"
+street: South 16th Street
+housenumber: "1450"
+phone: +1-480-567-9740
+opening_hours: Mo-Su 04:30-23:00
+website: https://www.silvercar.com/car-rentals/phoenix/

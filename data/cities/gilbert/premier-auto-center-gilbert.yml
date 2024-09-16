@@ -1,11 +1,11 @@
 id: 470869275
-type: way
+type: node
 latitude: 33.36595
 longitude: -111.84117
 postcode: "85233"
 city: Gilbert
-street: "North Arizona Avenue"
-housenumber: 881
+street: North Arizona Avenue
+housenumber: "881"
 phone: ""
 opening_hours: ""
-website: "https://www.thriftycarsales.com/Gilbert/"
+website: https://www.thriftycarsales.com/Gilbert/

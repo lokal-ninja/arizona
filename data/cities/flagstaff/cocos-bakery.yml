@@ -1,11 +1,11 @@
 id: 113472232
-type: way
+type: node
 latitude: 35.17936
 longitude: -111.66251
 postcode: "86001"
 city: Flagstaff
-street: "West Forest Meadows Street"
-housenumber: 360
+street: West Forest Meadows Street
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Th 06:30-21:30; Sa-Su 06:30-22:00"
+opening_hours: Mo-Th 06:30-21:30; Sa-Su 06:30-22:00
 website: ""

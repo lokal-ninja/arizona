@@ -1,11 +1,11 @@
 id: 906337986
-type: way
+type: node
 latitude: 33.65435
 longitude: -112.23688
 postcode: "85382"
 city: Peoria
-street: "North 83rd Avenue"
-housenumber: 18793
+street: North 83rd Avenue
+housenumber: "18793"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/peoria/autoparts-3559.html"
+website: https://locations.oreillyauto.com/az/peoria/autoparts-3559.html

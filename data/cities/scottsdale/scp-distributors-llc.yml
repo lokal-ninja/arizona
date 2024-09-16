@@ -1,11 +1,11 @@
 id: 309663676
-type: way
+type: node
 latitude: 33.61223
 longitude: -111.91171
 postcode: "85260"
 city: Scottsdale
-street: "East Gray Road"
-housenumber: 7841
+street: East Gray Road
+housenumber: "7841"
 phone: ""
 opening_hours: ""
 website: ""

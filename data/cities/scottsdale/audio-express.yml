@@ -1,11 +1,11 @@
 id: 231263301
-type: way
+type: node
 latitude: 33.62248
 longitude: -111.90457
 postcode: "85260"
 city: Scottsdale
-street: "North Hayden Road"
-housenumber: 15115
+street: North Hayden Road
+housenumber: "15115"
 phone: ""
 opening_hours: ""
 website: ""

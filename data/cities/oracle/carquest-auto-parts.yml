@@ -1,11 +1,11 @@
 id: 297105848
-type: way
+type: node
 latitude: 32.61805
 longitude: -110.79032
 postcode: "85623"
 city: Oracle
-street: "West American Avenue"
-housenumber: 1535
-phone: "+1 520 896 2600"
+street: West American Avenue
+housenumber: "1535"
+phone: +1 520 896 2600
 opening_hours: ""
 website: ""

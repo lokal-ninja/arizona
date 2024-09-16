@@ -1,11 +1,11 @@
 id: 224009429
-type: way
+type: node
 latitude: 33.40441
 longitude: -111.9494
 postcode: "85282"
 city: Tempe
-street: "West 22nd Street"
-housenumber: 705
+street: West 22nd Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204035093
-type: way
+type: node
 latitude: 33.51155
 longitude: -112.08496
-postcode: "85013-2207"
+postcode: 85013-2207
 city: Phoenix
-street: "West Camelback Road"
+street: West Camelback Road
 housenumber: 744;920
-phone: "+1 602-279-9001"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/7th-ave-camelback/660/00128"
+phone: +1 602-279-9001
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/7th-ave-camelback/660/00128

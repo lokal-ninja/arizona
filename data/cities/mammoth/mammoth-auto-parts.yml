@@ -1,11 +1,11 @@
 id: 816708753
-type: way
+type: node
 latitude: 32.73311
 longitude: -110.64848
 postcode: "85618"
 city: Mammoth
-street: "North Highway 77"
-housenumber: 726
+street: North Highway 77
+housenumber: "726"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384775341
-type: way
+type: node
 latitude: 33.3965
 longitude: -110.78725
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 135
+street: North Broad Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

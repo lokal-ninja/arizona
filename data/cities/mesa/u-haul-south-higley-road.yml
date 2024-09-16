@@ -1,11 +1,11 @@
 id: 837723848
-type: way
+type: node
 latitude: 33.40707
 longitude: -111.71881
 postcode: "85206"
 city: Mesa
-street: "South Higley Road"
-housenumber: 457
+street: South Higley Road
+housenumber: "457"
 phone: ""
 opening_hours: ""
 website: ""

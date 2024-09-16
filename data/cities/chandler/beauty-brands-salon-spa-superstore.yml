@@ -1,11 +1,11 @@
 id: 544841879
-type: way
+type: node
 latitude: 33.24719
 longitude: -111.84327
 postcode: "85248"
 city: Chandler
-street: "West Ocotillo Road"
-housenumber: 105
+street: West Ocotillo Road
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

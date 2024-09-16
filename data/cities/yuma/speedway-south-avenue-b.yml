@@ -1,11 +1,11 @@
 id: 929094458
-type: way
+type: node
 latitude: 32.68441
 longitude: -114.64972
 postcode: "85364"
 city: Yuma
-street: "South Avenue B"
-housenumber: 2381
+street: South Avenue B
+housenumber: "2381"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Yuma/2381-S-Avenue-B"
+website: https://www.speedway.com/locations/AZ/Yuma/2381-S-Avenue-B

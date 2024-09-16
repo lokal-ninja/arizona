@@ -1,11 +1,11 @@
 id: 1288537959
-type: way
+type: node
 latitude: 33.79849
 longitude: -111.96473
 postcode: "85331"
 city: Cave Creek
-street: "East Carefree Highway"
-housenumber: 5439
+street: East Carefree Highway
+housenumber: "5439"
 phone: ""
 opening_hours: ""
 website: ""

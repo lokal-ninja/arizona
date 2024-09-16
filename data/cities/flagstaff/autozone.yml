@@ -1,11 +1,11 @@
 id: 113486331
-type: way
+type: node
 latitude: 35.18105
 longitude: -111.66062
 postcode: "86001"
 city: Flagstaff
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/flagstaff/1900-s-milton-rd.html"
+website: https://www.autozone.com/locations/az/flagstaff/1900-s-milton-rd.html

@@ -1,11 +1,11 @@
 id: 223862387
-type: way
+type: node
 latitude: 33.40464
 longitude: -111.95873
 postcode: "85282"
 city: Tempe
-street: "West 23rd Street"
-housenumber: 1302
+street: West 23rd Street
+housenumber: "1302"
 phone: ""
 opening_hours: ""
 website: ""

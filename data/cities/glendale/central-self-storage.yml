@@ -1,11 +1,11 @@
 id: 415691615
-type: way
+type: node
 latitude: 33.54061
 longitude: -112.20319
 postcode: "85303"
 city: Glendale
-street: "North 67th Avenue"
-housenumber: 7118
+street: North 67th Avenue
+housenumber: "7118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1208663558
-type: way
+type: node
 latitude: 33.50394
 longitude: -112.46631
 postcode: "85340"
 city: Litchfield Park
-street: "N 189th Dr"
-housenumber: 4762
+street: N 189th Dr
+housenumber: "4762"
 phone: "+16232664031"
-opening_hours: "seasonal"
-website: "https://blueskyorganicfarms.com/"
+opening_hours: seasonal
+website: https://blueskyorganicfarms.com/

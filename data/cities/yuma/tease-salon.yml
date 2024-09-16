@@ -1,11 +1,11 @@
 id: 656086328
-type: way
+type: node
 latitude: 32.72471
 longitude: -114.61928
 postcode: "85364"
 city: Yuma
-street: "South Madison Avenue"
-housenumber: 141
+street: South Madison Avenue
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

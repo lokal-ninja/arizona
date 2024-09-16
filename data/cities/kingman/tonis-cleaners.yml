@@ -1,11 +1,11 @@
 id: 1284728795
-type: way
+type: node
 latitude: 35.22519
 longitude: -114.0264
 postcode: "86409"
 city: Kingman
-street: "Airway Avenue"
-housenumber: 2205
+street: Airway Avenue
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

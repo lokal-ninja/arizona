@@ -1,11 +1,11 @@
 id: 747444736
-type: way
+type: node
 latitude: 33.54013
 longitude: -112.1693
 postcode: "85301"
 city: Glendale
-street: "West Glenn Drive"
-housenumber: 5104
+street: West Glenn Drive
+housenumber: "5104"
 phone: ""
 opening_hours: ""
 website: ""

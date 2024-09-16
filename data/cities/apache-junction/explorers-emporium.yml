@@ -1,11 +1,11 @@
 id: 165396145
-type: way
+type: node
 latitude: 33.41213
 longitude: -111.56367
 postcode: "85120"
 city: Apache Junction
-street: "South Ironwood Drive"
-housenumber: 306
-phone: "+1 480 671 9534"
-opening_hours: "Tu-Su 11:00-19:00"
-website: "https://www.explorersemporium.com/"
+street: South Ironwood Drive
+housenumber: "306"
+phone: +1 480 671 9534
+opening_hours: Tu-Su 11:00-19:00
+website: https://www.explorersemporium.com/

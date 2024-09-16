@@ -1,11 +1,11 @@
 id: 731233403
-type: way
+type: node
 latitude: 33.60866
 longitude: -112.35851
 postcode: "85379"
 city: Surprise
-street: "West Waddell Road"
-housenumber: 15514
-phone: "+1-623-215-0544"
-opening_hours: "Mo-Su 7:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-15514+w+waddell+rd-surprise-az-85379/id=7933"
+street: West Waddell Road
+housenumber: "15514"
+phone: +1-623-215-0544
+opening_hours: Mo-Su 7:00-22:00
+website: https://www.walgreens.com/locator/walgreens-15514+w+waddell+rd-surprise-az-85379/id=7933

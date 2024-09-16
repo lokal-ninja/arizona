@@ -1,11 +1,11 @@
 id: 637652457
-type: way
+type: node
 latitude: 34.24029
 longitude: -111.324
 postcode: "85541"
 city: Payson
-street: "South Beeline Highway"
-housenumber: 100
+street: South Beeline Highway
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+s+beeline+hwy-payson-az-85541/id=6533"
+website: https://www.walgreens.com/locator/walgreens-100+s+beeline+hwy-payson-az-85541/id=6533

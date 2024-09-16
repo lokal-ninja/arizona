@@ -1,11 +1,11 @@
 id: 33084727
-type: way
+type: node
 latitude: 33.59833
 longitude: -112.03775
 postcode: "85028"
 city: Phoenix
-street: "North Cave Creek Road"
-housenumber: 12230
+street: North Cave Creek Road
+housenumber: "12230"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/12230-n-cave-creek-rd.html"
+website: https://www.autozone.com/locations/az/phoenix/12230-n-cave-creek-rd.html

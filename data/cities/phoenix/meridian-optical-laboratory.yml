@@ -1,11 +1,11 @@
 id: 952157207
-type: way
+type: node
 latitude: 33.40048
 longitude: -112.00157
 postcode: "85040"
 city: Phoenix
-street: "East Atlanta Avenue"
-housenumber: 3711
+street: East Atlanta Avenue
+housenumber: "3711"
 phone: ""
 opening_hours: ""
 website: ""

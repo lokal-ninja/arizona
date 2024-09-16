@@ -1,11 +1,11 @@
 id: 1011385633
-type: way
+type: node
 latitude: 34.56023
 longitude: -112.48443
 postcode: "86305"
 city: Prescott
-street: "West Iron Springs Road"
-housenumber: 1122
+street: West Iron Springs Road
+housenumber: "1122"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 693461313
-type: way
+type: node
 latitude: 34.72227
 longitude: -112.00269
 postcode: "86326"
 city: Cottonwood
-street: "South Main Street"
-housenumber: 999
+street: South Main Street
+housenumber: "999"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Cottonwood/999-S-Main-St"
+website: https://www.speedway.com/locations/AZ/Cottonwood/999-S-Main-St

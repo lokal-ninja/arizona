@@ -1,11 +1,11 @@
 id: 995030963
-type: way
+type: node
 latitude: 33.40656
 longitude: -111.83706
 postcode: "85210"
 city: Mesa
-street: "South Robson"
-housenumber: 442
+street: South Robson
+housenumber: "442"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 969673086
-type: way
+type: node
 latitude: 32.30674
 longitude: -110.84578
 postcode: "85750"
 city: Tucson
-street: "East Sunrise Drive"
-housenumber: 6890
+street: East Sunrise Drive
+housenumber: "6890"
 phone: ""
 opening_hours: ""
-website: "https://www.costcutters.com/locations/az/tucson/ventana-village-haircuts-62027.html"
+website: https://www.costcutters.com/locations/az/tucson/ventana-village-haircuts-62027.html

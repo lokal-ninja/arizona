@@ -1,11 +1,11 @@
 id: 835163169
-type: way
+type: node
 latitude: 33.33488
 longitude: -111.86263
 postcode: "85224"
 city: Chandler
-street: "West Warner Road"
-housenumber: 1257
+street: West Warner Road
+housenumber: "1257"
 phone: ""
 opening_hours: ""
 website: ""

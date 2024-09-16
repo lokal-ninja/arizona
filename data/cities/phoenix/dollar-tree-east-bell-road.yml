@@ -1,11 +1,11 @@
 id: 239943460
-type: way
+type: node
 latitude: 33.63995
 longitude: -112.00984
 postcode: "85032"
 city: Phoenix
-street: "East Bell Road"
-housenumber: 3335
+street: East Bell Road
+housenumber: "3335"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/phoenix/5964/"
+website: https://www.dollartree.com/locations/az/phoenix/5964/

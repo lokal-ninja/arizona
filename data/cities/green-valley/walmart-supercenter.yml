@@ -1,11 +1,11 @@
 id: 387651504
-type: way
+type: node
 latitude: 31.91174
 longitude: -110.98313
 postcode: "85614"
 city: Green Valley
-street: "South Nogales Highway"
-housenumber: 18680
-phone: "+1 520-625-3808"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1411/green-valley-az/whats-new"
+street: South Nogales Highway
+housenumber: "18680"
+phone: +1 520-625-3808
+opening_hours: 24/7
+website: https://www.walmart.com/store/1411/green-valley-az/whats-new

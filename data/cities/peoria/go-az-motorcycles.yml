@@ -1,11 +1,11 @@
 id: 634995567
-type: way
+type: node
 latitude: 33.63685
 longitude: -112.23582
 postcode: "85382"
 city: Peoria
-street: "North Arrowhead Fountains Center Drive"
-housenumber: 16844
+street: North Arrowhead Fountains Center Drive
+housenumber: "16844"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00
 website: ""

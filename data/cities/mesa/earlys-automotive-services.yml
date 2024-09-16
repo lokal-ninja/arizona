@@ -1,11 +1,11 @@
 id: 922745473
-type: way
+type: node
 latitude: 33.41498
 longitude: -111.69312
 postcode: "85205"
 city: Mesa
-street: "South 64th Street"
-housenumber: 25
+street: South 64th Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

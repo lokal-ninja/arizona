@@ -1,11 +1,11 @@
 id: 515215216
-type: way
+type: node
 latitude: 33.36332
 longitude: -111.92825
 postcode: "85283"
 city: Tempe
-street: "East Guadalupe Road"
-housenumber: 905
+street: East Guadalupe Road
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

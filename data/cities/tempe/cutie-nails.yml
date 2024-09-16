@@ -1,11 +1,11 @@
 id: 937361717
-type: way
+type: node
 latitude: 33.39167
 longitude: -111.93774
 postcode: "85282"
 city: Tempe
-street: "East Southern Avenue"
-housenumber: 95
+street: East Southern Avenue
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

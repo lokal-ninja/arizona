@@ -1,11 +1,11 @@
 id: 480465036
-type: way
+type: node
 latitude: 33.29324
 longitude: -111.72221
 postcode: "85295"
 city: Gilbert
-street: "South Higley Road"
-housenumber: 3170
+street: South Higley Road
+housenumber: "3170"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/gilbert-az-pharmacies/3170-s-higley-rd-gilbert-az-85295/storeid=5891"
+website: https://www.cvs.com/store-locator/gilbert-az-pharmacies/3170-s-higley-rd-gilbert-az-85295/storeid=5891

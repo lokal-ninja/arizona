@@ -1,11 +1,11 @@
 id: 980239202
-type: way
+type: node
 latitude: 33.30756
 longitude: -111.89139
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 2900
-phone: "+1 480-855-0012"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-chandler/1032"
+street: West Chandler Boulevard
+housenumber: "2900"
+phone: +1 480-855-0012
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-chandler/1032

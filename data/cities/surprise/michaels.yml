@@ -1,11 +1,11 @@
 id: 355562283
-type: way
+type: node
 latitude: 33.64046
 longitude: -112.35349
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13716
-phone: "+1 623-584-8708"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/surprise/1536"
+street: West Bell Road
+housenumber: "13716"
+phone: +1 623-584-8708
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/surprise/1536

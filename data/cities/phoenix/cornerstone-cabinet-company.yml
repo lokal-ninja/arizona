@@ -1,11 +1,11 @@
 id: 131891008
-type: way
+type: node
 latitude: 33.42474
 longitude: -112.05987
 postcode: "85034"
 city: Phoenix
-street: "South 10th Street"
-housenumber: 2435
+street: South 10th Street
+housenumber: "2435"
 phone: ""
 opening_hours: ""
 website: ""

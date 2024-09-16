@@ -1,11 +1,11 @@
 id: 1061544618
-type: way
+type: node
 latitude: 32.32133
 longitude: -111.0437
 postcode: "85741"
 city: Tucson
-street: "West River Road"
-housenumber: 3830
+street: West River Road
+housenumber: "3830"
 phone: ""
 opening_hours: ""
 website: ""

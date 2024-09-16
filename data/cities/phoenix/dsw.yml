@@ -1,11 +1,11 @@
 id: 1189929106
-type: way
+type: node
 latitude: 33.67382
 longitude: -111.97213
 postcode: "85050"
 city: Phoenix
-street: "North Tatum Boulevard"
-housenumber: 21001
-phone: "+1 480-513-9348"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.dsw.com/usa/az/phoenix/dsw-designer-shoe-warehouse-desert-ridge-marketplace.html"
+street: North Tatum Boulevard
+housenumber: "21001"
+phone: +1 480-513-9348
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.dsw.com/usa/az/phoenix/dsw-designer-shoe-warehouse-desert-ridge-marketplace.html

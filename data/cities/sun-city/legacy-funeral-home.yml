@@ -1,11 +1,11 @@
 id: 593173420
-type: way
+type: node
 latitude: 33.58061
 longitude: -112.2907
 postcode: "85351"
 city: Sun City
-street: "West Peoria Avenue"
-housenumber: 10702
-phone: "(623) 977-3435"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: West Peoria Avenue
+housenumber: "10702"
+phone: (623) 977-3435
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

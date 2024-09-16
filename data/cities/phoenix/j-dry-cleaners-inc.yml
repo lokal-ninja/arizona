@@ -1,11 +1,11 @@
 id: 286664003
-type: way
+type: node
 latitude: 33.49498
 longitude: -111.97552
 postcode: "85018"
 city: Phoenix
-street: "East Indian School Road"
-housenumber: 4910
+street: East Indian School Road
+housenumber: "4910"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34826579
-type: way
+type: node
 latitude: 32.22431
 longitude: -110.95992
-postcode: "85719-5325"
+postcode: 85719-5325
 city: Tucson
-street: "East 9th Street"
-housenumber: 745
-phone: "+1 520-882-5700"
-opening_hours: "Mo-Fr 07:30-18:00; Sa-Su 08:00-18:00"
+street: East 9th Street
+housenumber: "745"
+phone: +1 520-882-5700
+opening_hours: Mo-Fr 07:30-18:00; Sa-Su 08:00-18:00
 website: ""

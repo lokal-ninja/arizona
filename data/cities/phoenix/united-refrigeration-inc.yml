@@ -1,11 +1,11 @@
 id: 126328302
-type: way
+type: node
 latitude: 33.42658
 longitude: -112.06921
 postcode: "85004"
 city: Phoenix
-street: "East Watkins Street"
-housenumber: 302
+street: East Watkins Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

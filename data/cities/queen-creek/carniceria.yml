@@ -1,11 +1,11 @@
 id: 547120198
-type: way
+type: node
 latitude: 33.21196
 longitude: -111.68621
 postcode: "85142"
 city: Queen Creek
-street: "East San Tan Boulevard"
-housenumber: 18337
+street: East San Tan Boulevard
+housenumber: "18337"
 phone: ""
 opening_hours: ""
 website: ""

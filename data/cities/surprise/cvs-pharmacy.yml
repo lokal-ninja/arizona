@@ -1,11 +1,11 @@
 id: 662851162
-type: way
+type: node
 latitude: 33.62483
 longitude: -112.39334
 postcode: "85379"
 city: Surprise
-street: "West Greenway Road"
-housenumber: 15474
+street: West Greenway Road
+housenumber: "15474"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/surprise-az-pharmacies/15474-w-greenway-rd-surprise-az-85374/storeid=5477"
+website: https://www.cvs.com/store-locator/surprise-az-pharmacies/15474-w-greenway-rd-surprise-az-85374/storeid=5477

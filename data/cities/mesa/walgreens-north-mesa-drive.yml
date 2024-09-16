@@ -1,11 +1,11 @@
 id: 818113207
-type: way
+type: node
 latitude: 33.43651
 longitude: -111.82227
 postcode: "85201"
 city: Mesa
-street: "North Mesa Drive"
-housenumber: 1135
+street: North Mesa Drive
+housenumber: "1135"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1135+n+mesa+dr-mesa-az-85201/id=6177"
+website: https://www.walgreens.com/locator/walgreens-1135+n+mesa+dr-mesa-az-85201/id=6177

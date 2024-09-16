@@ -1,11 +1,11 @@
 id: 476672676
-type: way
+type: node
 latitude: 32.2905
 longitude: -110.98451
 postcode: "85705"
 city: Tucson
-street: "West Auto Mall Drive"
-housenumber: 700
+street: West Auto Mall Drive
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.jimclickmazdaautomall.com/"
+website: https://www.jimclickmazdaautomall.com/

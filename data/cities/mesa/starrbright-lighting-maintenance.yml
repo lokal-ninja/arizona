@@ -1,11 +1,11 @@
 id: 393289078
-type: way
+type: node
 latitude: 33.38451
 longitude: -111.81229
 postcode: "85204"
 city: Mesa
-street: "East Isabella Avenue"
-housenumber: 853
+street: East Isabella Avenue
+housenumber: "853"
 phone: ""
 opening_hours: ""
 website: ""

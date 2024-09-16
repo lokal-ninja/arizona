@@ -1,11 +1,11 @@
 id: 387478329
-type: way
+type: node
 latitude: 33.58104
 longitude: -112.25834
 postcode: "85345"
 city: Peoria
-street: "West Peoria Avenue"
-housenumber: 9240
+street: West Peoria Avenue
+housenumber: "9240"
 phone: ""
 opening_hours: ""
 website: ""

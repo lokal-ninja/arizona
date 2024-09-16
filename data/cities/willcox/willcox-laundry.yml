@@ -4,8 +4,8 @@ latitude: 32.25175
 longitude: -109.83326
 postcode: "85643"
 city: Willcox
-street: "South Haskell Avenue"
-housenumber: 174
-phone: "+1 520 384 2251"
-opening_hours: "08:00-19:00 open last wash an hour before closing"
+street: South Haskell Avenue
+housenumber: "174"
+phone: +1 520 384 2251
+opening_hours: 08:00-19:00 open "last wash an hour before closing"
 website: ""

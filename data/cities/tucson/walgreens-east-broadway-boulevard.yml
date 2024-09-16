@@ -1,11 +1,11 @@
 id: 236029712
-type: way
+type: node
 latitude: 32.22187
 longitude: -110.84829
 postcode: "85710"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 6767
+street: East Broadway Boulevard
+housenumber: "6767"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6767+e+broadway+blvd-tucson-az-85710/id=4102"
+website: https://www.walgreens.com/locator/walgreens-6767+e+broadway+blvd-tucson-az-85710/id=4102

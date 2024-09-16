@@ -1,11 +1,11 @@
 id: 961246889
-type: way
+type: node
 latitude: 33.47858
 longitude: -112.27329
 postcode: "85392"
 city: Avondale
-street: "West Thomas Road"
-housenumber: 9925
+street: West Thomas Road
+housenumber: "9925"
 phone: ""
 opening_hours: ""
 website: ""

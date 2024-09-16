@@ -1,11 +1,11 @@
 id: 721994518
-type: way
+type: node
 latitude: 32.72098
 longitude: -114.6219
 postcode: "85364"
 city: Yuma
-street: "South 2nd Avenue"
-housenumber: 335
+street: South 2nd Avenue
+housenumber: "335"
 phone: "+19283299464"
 opening_hours: ""
 website: ""

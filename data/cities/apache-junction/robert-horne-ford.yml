@@ -1,11 +1,11 @@
 id: 164545482
-type: way
+type: node
 latitude: 33.38486
 longitude: -111.53033
 postcode: "85119"
 city: Apache Junction
-street: "South Tomahawk Road"
-housenumber: 3400
+street: South Tomahawk Road
+housenumber: "3400"
 phone: ""
 opening_hours: ""
-website: "https://www.roberthorneford.net/"
+website: https://www.roberthorneford.net/

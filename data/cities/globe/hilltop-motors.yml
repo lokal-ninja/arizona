@@ -1,11 +1,11 @@
 id: 958750272
-type: way
+type: node
 latitude: 33.42001
 longitude: -110.80638
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1945
-phone: "+1 928 425 0290"
+street: North Broad Street
+housenumber: "1945"
+phone: +1 928 425 0290
 opening_hours: ""
-website: "https://www.hilltopmotorsaz.com/"
+website: https://www.hilltopmotorsaz.com/

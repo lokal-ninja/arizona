@@ -1,11 +1,11 @@
 id: 872128671
-type: way
+type: node
 latitude: 33.42679
 longitude: -111.89949
 postcode: "85281"
 city: Tempe
-street: "South Clark Drive"
-housenumber: 400
+street: South Clark Drive
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

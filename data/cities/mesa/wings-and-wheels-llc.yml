@@ -1,11 +1,11 @@
 id: 846789718
-type: way
+type: node
 latitude: 33.47202
 longitude: -111.74246
 postcode: "85215"
 city: Mesa
-street: "East Presidio Street"
-housenumber: 4049
+street: East Presidio Street
+housenumber: "4049"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 186406917
-type: way
+type: node
 latitude: 34.55126
 longitude: -112.41037
 postcode: "86303"
 city: Prescott
-street: "Gateway Boulevard"
-housenumber: 3090
-phone: "+1 928-515-2670"
+street: Gateway Boulevard
+housenumber: "3090"
+phone: +1 928-515-2670
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/arizona/prescott/9000200390/"
+website: https://stores.ashleyfurniture.com/store/us/arizona/prescott/9000200390/

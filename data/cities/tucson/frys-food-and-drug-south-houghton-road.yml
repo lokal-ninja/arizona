@@ -1,11 +1,11 @@
 id: 588481462
-type: way
+type: node
 latitude: 32.1051
 longitude: -110.77344
 postcode: "85747"
 city: Tucson
-street: "South Houghton Road"
-housenumber: 8080
-phone: "+1 520-663-1960"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/tucson/houghton-rd-rita-rd/660/00090"
+street: South Houghton Road
+housenumber: "8080"
+phone: +1 520-663-1960
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/tucson/houghton-rd-rita-rd/660/00090

@@ -1,11 +1,11 @@
 id: 1124897322
-type: way
+type: node
 latitude: 33.37969
 longitude: -112.03644
 postcode: "85042"
 city: Phoenix
-street: "East Baseline Road"
-housenumber: 2036
-phone: "+1 602-610-0013"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/phoenix-az-1620"
+street: East Baseline Road
+housenumber: "2036"
+phone: +1 602-610-0013
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/phoenix-az-1620

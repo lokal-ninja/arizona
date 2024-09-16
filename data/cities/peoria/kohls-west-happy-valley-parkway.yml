@@ -1,11 +1,11 @@
 id: 690943093
-type: way
+type: node
 latitude: 33.71564
 longitude: -112.2764
 postcode: "85383"
 city: Peoria
-street: "West Happy Valley Parkway"
-housenumber: 10072
-phone: "+1 623-376-9240"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/peoria-1084.shtml"
+street: West Happy Valley Parkway
+housenumber: "10072"
+phone: +1 623-376-9240
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/peoria-1084.shtml

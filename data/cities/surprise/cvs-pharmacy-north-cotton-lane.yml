@@ -1,11 +1,11 @@
 id: 850319892
-type: way
+type: node
 latitude: 33.62351
 longitude: -112.42793
 postcode: "85388"
 city: Surprise
-street: "North Cotton Lane"
-housenumber: 15300
+street: North Cotton Lane
+housenumber: "15300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/surprise-az-pharmacies/15300-n-cotton-lane-surprise-az-85388/storeid=5530"
+website: https://www.cvs.com/store-locator/surprise-az-pharmacies/15300-n-cotton-lane-surprise-az-85388/storeid=5530

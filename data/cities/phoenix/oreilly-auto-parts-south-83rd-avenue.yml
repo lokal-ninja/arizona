@@ -1,11 +1,11 @@
 id: 152767102
-type: way
+type: node
 latitude: 33.42432
 longitude: -112.23808
 postcode: "85043"
 city: Phoenix
-street: "South 83rd Avenue"
-housenumber: 2609
+street: South 83rd Avenue
+housenumber: "2609"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-3622.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-3622.html

@@ -1,11 +1,11 @@
 id: 444351458
-type: way
+type: node
 latitude: 32.25328
 longitude: -110.97782
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2552
+street: North Oracle Road
+housenumber: "2552"
 phone: ""
 opening_hours: ""
-website: "http://www.thebatteryfactoryaz.com/"
+website: http://www.thebatteryfactoryaz.com/

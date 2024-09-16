@@ -1,11 +1,11 @@
 id: 433218737
-type: way
+type: node
 latitude: 33.60559
 longitude: -112.30271
 postcode: "85363"
 city: Youngtown
-street: "Northwest Grand Avenue"
-housenumber: 11309
+street: Northwest Grand Avenue
+housenumber: "11309"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

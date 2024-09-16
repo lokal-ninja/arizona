@@ -1,11 +1,11 @@
 id: 940557639
-type: way
+type: node
 latitude: 33.5799
 longitude: -112.23748
 postcode: "85345"
 city: Peoria
-street: "North 83rd Avenue"
-housenumber: 10447
+street: North 83rd Avenue
+housenumber: "10447"
 phone: ""
 opening_hours: ""
 website: ""

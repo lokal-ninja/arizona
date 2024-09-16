@@ -1,11 +1,11 @@
 id: 926060920
-type: way
+type: node
 latitude: 33.4611
 longitude: -111.68035
 postcode: "85207"
 city: Mesa
-street: "East Minton Street"
-housenumber: 7015
+street: East Minton Street
+housenumber: "7015"
 phone: ""
 opening_hours: ""
 website: ""

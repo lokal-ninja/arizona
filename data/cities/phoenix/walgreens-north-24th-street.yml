@@ -1,11 +1,11 @@
 id: 592251912
-type: way
+type: node
 latitude: 33.49521
 longitude: -112.02933
 postcode: "85016"
 city: Phoenix
-street: "North 24th Street"
-housenumber: 4111
+street: North 24th Street
+housenumber: "4111"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4111+n+24th+st-phoenix-az-85016/id=4722"
+website: https://www.walgreens.com/locator/walgreens-4111+n+24th+st-phoenix-az-85016/id=4722

@@ -1,11 +1,11 @@
 id: 911073200
-type: way
+type: node
 latitude: 33.53863
 longitude: -112.0469
 postcode: "85020"
 city: Phoenix
-street: "East Glendale Avenue"
-housenumber: 1616
+street: East Glendale Avenue
+housenumber: "1616"
 phone: ""
 opening_hours: ""
 website: ""

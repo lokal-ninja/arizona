@@ -1,11 +1,11 @@
 id: 1120704542
-type: way
+type: node
 latitude: 33.4064
 longitude: -111.83116
 postcode: "85210"
 city: Mesa
-street: "East Crescent Avenue"
-housenumber: 13
+street: East Crescent Avenue
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

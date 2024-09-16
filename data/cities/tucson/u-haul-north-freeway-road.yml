@@ -1,11 +1,11 @@
 id: 664027595
-type: way
+type: node
 latitude: 32.22738
 longitude: -110.98085
 postcode: "85745"
 city: Tucson
-street: "North Freeway Road"
-housenumber: 450
+street: North Freeway Road
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

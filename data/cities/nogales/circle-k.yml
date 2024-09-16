@@ -1,11 +1,11 @@
 id: 999276359
-type: way
+type: node
 latitude: 31.35303
 longitude: -110.92108
 postcode: "85621"
 city: Nogales
-street: "East Patagonia Highway"
-housenumber: 360
+street: East Patagonia Highway
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

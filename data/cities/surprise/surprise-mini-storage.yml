@@ -1,11 +1,11 @@
 id: 1113241390
-type: way
+type: node
 latitude: 33.62591
 longitude: -112.39293
 postcode: "85374"
 city: Surprise
-street: "North Reems Road"
-housenumber: 15701
-phone: "623-584-0147"
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://surpriseministorage.com"
+street: North Reems Road
+housenumber: "15701"
+phone: 623-584-0147
+opening_hours: Mo-Sa 08:30-18:00
+website: https://surpriseministorage.com

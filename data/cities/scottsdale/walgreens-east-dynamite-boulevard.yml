@@ -1,11 +1,11 @@
 id: 1069356242
-type: way
+type: node
 latitude: 33.74253
 longitude: -111.8453
 postcode: "85262"
 city: Scottsdale
-street: "East Dynamite Boulevard"
-housenumber: 10929
+street: East Dynamite Boulevard
+housenumber: "10929"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10929+e+dynamite+blvd-scottsdale-az-85262/id=6729"
+website: https://www.walgreens.com/locator/walgreens-10929+e+dynamite+blvd-scottsdale-az-85262/id=6729

@@ -1,11 +1,11 @@
 id: 229559653
-type: way
+type: node
 latitude: 32.28825
 longitude: -110.9624
-postcode: "85705-1797"
+postcode: 85705-1797
 city: Tucson
-street: "East Wetmore Road"
-housenumber: 605
-phone: "+1 520-305-3322"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-18:00"
+street: East Wetmore Road
+housenumber: "605"
+phone: +1 520-305-3322
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 906012796
-type: way
+type: node
 latitude: 33.34724
 longitude: -111.96556
 postcode: "85284"
 city: Tempe
-street: "South Priest Drive"
-housenumber: 7760
+street: South Priest Drive
+housenumber: "7760"
 phone: ""
 opening_hours: ""
 website: ""

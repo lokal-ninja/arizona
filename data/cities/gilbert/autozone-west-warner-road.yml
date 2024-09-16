@@ -1,11 +1,11 @@
 id: 810337782
-type: way
+type: node
 latitude: 33.3361
 longitude: -111.80565
 postcode: "85233"
 city: Gilbert
-street: "West Warner Road"
-housenumber: 734
+street: West Warner Road
+housenumber: "734"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/gilbert/734-w-warner-rd.html"
+website: https://www.autozone.com/locations/az/gilbert/734-w-warner-rd.html

@@ -4,8 +4,8 @@ latitude: 33.53858
 longitude: -112.21756
 postcode: "85303"
 city: Glendale
-street: "West Glendale Avenue"
-housenumber: 7450
+street: West Glendale Avenue
+housenumber: "7450"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.oreillyauto.com/site/c/home.oap"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.oreillyauto.com/site/c/home.oap

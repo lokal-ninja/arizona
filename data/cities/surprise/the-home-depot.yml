@@ -1,11 +1,11 @@
 id: 354983904
-type: way
+type: node
 latitude: 33.64057
 longitude: -112.35727
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13760
-phone: "+1 623-544-1129"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.homedepot.com/l/Surprise/AZ/Surprise/85374/483"
+street: West Bell Road
+housenumber: "13760"
+phone: +1 623-544-1129
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.homedepot.com/l/Surprise/AZ/Surprise/85374/483

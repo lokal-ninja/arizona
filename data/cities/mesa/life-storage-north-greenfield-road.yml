@@ -1,11 +1,11 @@
 id: 1120866688
-type: way
+type: node
 latitude: 33.41864
 longitude: -111.73632
 postcode: "85205"
 city: Mesa
-street: "North Greenfield Road"
-housenumber: 139
+street: North Greenfield Road
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

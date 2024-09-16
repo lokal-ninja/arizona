@@ -1,11 +1,11 @@
 id: 733373704
-type: way
+type: node
 latitude: 32.71393
 longitude: -114.63399
 postcode: "85364"
 city: Yuma
-street: "West 8th Street"
-housenumber: 1150
+street: West 8th Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1150+w+8th+st-yuma-az-85364/id=2611"
+website: https://www.walgreens.com/locator/walgreens-1150+w+8th+st-yuma-az-85364/id=2611

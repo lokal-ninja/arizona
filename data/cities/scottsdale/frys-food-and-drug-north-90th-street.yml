@@ -1,11 +1,11 @@
 id: 546697670
-type: way
+type: node
 latitude: 33.58133
 longitude: -111.88958
 postcode: "85258"
 city: Scottsdale
-street: "North 90th Street"
-housenumber: 10450
-phone: "+1 480-661-0001"
-opening_hours: "05:00-24:00"
-website: "https://www.frysfood.com/stores/grocery/az/scottsdale/pima-shea/660/00125"
+street: North 90th Street
+housenumber: "10450"
+phone: +1 480-661-0001
+opening_hours: 05:00-24:00
+website: https://www.frysfood.com/stores/grocery/az/scottsdale/pima-shea/660/00125

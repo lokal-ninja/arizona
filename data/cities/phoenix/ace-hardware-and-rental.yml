@@ -4,8 +4,8 @@ latitude: 33.32959
 longitude: -111.97852
 postcode: "85044"
 city: Phoenix
-street: "E. Warner Road"
-housenumber: 4825
-phone: "+1 480-496-0058"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: E. Warner Road
+housenumber: "4825"
+phone: +1 480-496-0058
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

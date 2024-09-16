@@ -1,11 +1,11 @@
 id: 857638206
-type: way
+type: node
 latitude: 32.18305
 longitude: -110.94807
 postcode: "85713"
 city: Tucson
-street: "East Tucson Marketplace Boulevard"
-housenumber: 1580
+street: East Tucson Marketplace Boulevard
+housenumber: "1580"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://locations.tccrocks.com/az/tucson/1580-e--tucson-marketplace-blvd.html"
+opening_hours: Mo-Su 09:00-20:00
+website: https://locations.tccrocks.com/az/tucson/1580-e--tucson-marketplace-blvd.html

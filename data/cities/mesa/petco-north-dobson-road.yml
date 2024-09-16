@@ -1,11 +1,11 @@
 id: 179382217
-type: way
+type: node
 latitude: 33.43294
 longitude: -111.86889
 postcode: "85201"
 city: Mesa
-street: "North Dobson Road"
-housenumber: 845
-phone: "+1 480-833-5892"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/mesa/pet-supplies-mesa-az-1157.html"
+street: North Dobson Road
+housenumber: "845"
+phone: +1 480-833-5892
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/mesa/pet-supplies-mesa-az-1157.html

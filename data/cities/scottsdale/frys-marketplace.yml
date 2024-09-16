@@ -1,11 +1,11 @@
 id: 1153922153
-type: way
+type: node
 latitude: 33.57122
 longitude: -111.88929
 postcode: "85258"
 city: Scottsdale
-street: "East Via Linda"
-housenumber: 8900
-phone: "+1 480-657-6433"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/scottsdale/pima-via-linda/660/00621"
+street: East Via Linda
+housenumber: "8900"
+phone: +1 480-657-6433
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/scottsdale/pima-via-linda/660/00621

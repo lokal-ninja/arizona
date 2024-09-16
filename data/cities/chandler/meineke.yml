@@ -1,11 +1,11 @@
 id: 517531014
-type: way
+type: node
 latitude: 33.31909
 longitude: -111.85976
 postcode: "85224"
 city: Chandler
-street: "North Alma School Road"
-housenumber: 900
+street: North Alma School Road
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

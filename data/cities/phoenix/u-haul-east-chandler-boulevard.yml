@@ -1,11 +1,11 @@
 id: 1075446738
-type: way
+type: node
 latitude: 33.3051
 longitude: -111.99135
 postcode: "85048"
 city: Phoenix
-street: "East Chandler Boulevard"
-housenumber: 4229
+street: East Chandler Boulevard
+housenumber: "4229"
 phone: ""
 opening_hours: ""
 website: ""

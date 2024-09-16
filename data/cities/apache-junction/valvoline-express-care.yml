@@ -1,11 +1,11 @@
 id: 229588532
-type: way
+type: node
 latitude: 33.41485
 longitude: -111.59613
 postcode: "85120"
 city: Apache Junction
-street: "East Apache Trail"
-housenumber: 10849
-phone: "+1 480 984 0433"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.expresscare.com/"
+street: East Apache Trail
+housenumber: "10849"
+phone: +1 480 984 0433
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.expresscare.com/

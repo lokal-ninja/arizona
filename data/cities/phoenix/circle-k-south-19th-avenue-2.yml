@@ -1,11 +1,11 @@
 id: 1273990847
-type: way
+type: node
 latitude: 33.39282
 longitude: -112.09973
 postcode: "85041"
 city: Phoenix
-street: "South 19th Avenue"
-housenumber: 5850
+street: South 19th Avenue
+housenumber: "5850"
 phone: ""
 opening_hours: ""
 website: ""

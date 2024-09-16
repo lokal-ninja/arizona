@@ -1,11 +1,11 @@
 id: 152923181
-type: way
+type: node
 latitude: 33.49434
 longitude: -112.22112
 postcode: "85033"
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 7501
+street: West Indian School Road
+housenumber: "7501"
 phone: ""
 opening_hours: ""
 website: ""

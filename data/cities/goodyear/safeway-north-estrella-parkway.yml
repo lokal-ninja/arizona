@@ -1,11 +1,11 @@
 id: 896035044
-type: way
+type: node
 latitude: 33.45142
 longitude: -112.39483
 postcode: "85338"
 city: Goodyear
-street: "North Estrella Parkway"
-housenumber: 440
-phone: "+1 623-476-1708"
+street: North Estrella Parkway
+housenumber: "440"
+phone: +1 623-476-1708
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/goodyear/440-n-estrella-pkwy.html"
+website: https://local.safeway.com/safeway/az/goodyear/440-n-estrella-pkwy.html

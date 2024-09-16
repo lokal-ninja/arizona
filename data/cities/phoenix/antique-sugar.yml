@@ -4,8 +4,8 @@ latitude: 33.45689
 longitude: -112.07086
 postcode: "85004"
 city: Phoenix
-street: "North 2nd Street"
-housenumber: 801
-phone: "+1-602-277-5765"
+street: North 2nd Street
+housenumber: "801"
+phone: +1-602-277-5765
 opening_hours: ""
-website: "https://antiquesugar.com/"
+website: https://antiquesugar.com/

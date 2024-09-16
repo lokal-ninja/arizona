@@ -1,11 +1,11 @@
 id: 510362054
-type: way
+type: node
 latitude: 33.39058
 longitude: -111.69963
 postcode: "85206"
 city: Mesa
-street: "East Auto Park Drive"
-housenumber: 6130
+street: East Auto Park Drive
+housenumber: "6130"
 phone: ""
 opening_hours: ""
 website: ""

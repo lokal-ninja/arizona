@@ -1,11 +1,11 @@
 id: 809880200
-type: way
+type: node
 latitude: 33.39252
 longitude: -111.80686
 postcode: "85204"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 1159
+street: East Southern Avenue
+housenumber: "1159"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1159+e+southern+ave-mesa-az-85204/id=3670"
+website: https://www.walgreens.com/locator/walgreens-1159+e+southern+ave-mesa-az-85204/id=3670

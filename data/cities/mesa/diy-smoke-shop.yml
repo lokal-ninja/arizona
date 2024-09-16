@@ -2,10 +2,10 @@ id: 6249705103
 type: node
 latitude: 33.41281
 longitude: -111.85723
-postcode: "85201;85210"
+postcode: 85201;85210
 city: Mesa
-street: "West Main Street"
-housenumber: 1225
+street: West Main Street
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

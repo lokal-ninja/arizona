@@ -1,11 +1,11 @@
 id: 154827919
-type: way
+type: node
 latitude: 33.58293
 longitude: -111.92446
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 
+street: North Scottsdale Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/scottsdale-az-pharmacies/10653-n-scottsdale-rd-scottsdale-az-85254/storeid=9210"
+website: https://www.cvs.com/store-locator/scottsdale-az-pharmacies/10653-n-scottsdale-rd-scottsdale-az-85254/storeid=9210

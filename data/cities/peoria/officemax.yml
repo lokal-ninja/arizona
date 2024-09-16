@@ -1,11 +1,11 @@
 id: 409958897
-type: way
+type: node
 latitude: 33.55466
 longitude: -112.25936
 postcode: "85305"
 city: Peoria
-street: "West Northern Avenue"
-housenumber: 9320
+street: West Northern Avenue
+housenumber: "9320"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/az/peoria/officemax-6827"
+website: https://www.officedepot.com/storelocator/az/peoria/officemax-6827

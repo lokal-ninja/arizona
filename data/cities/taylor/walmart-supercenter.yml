@@ -1,11 +1,11 @@
 id: 1065409343
-type: way
+type: node
 latitude: 34.47394
 longitude: -110.08543
 postcode: "85938"
 city: Taylor
-street: "Show Low-Holbrook Highway"
-housenumber: 715
-phone: "+1 928-536-2543"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4355/taylor-az/whats-new"
+street: Show Low-Holbrook Highway
+housenumber: "715"
+phone: +1 928-536-2543
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4355/taylor-az/whats-new

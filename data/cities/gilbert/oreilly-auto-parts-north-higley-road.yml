@@ -1,11 +1,11 @@
 id: 838379861
-type: way
+type: node
 latitude: 33.36609
 longitude: -111.72274
 postcode: "85234"
 city: Gilbert
-street: "North Higley Road"
-housenumber: 866
+street: North Higley Road
+housenumber: "866"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/gilbert/autoparts-3568.html"
+website: https://locations.oreillyauto.com/az/gilbert/autoparts-3568.html

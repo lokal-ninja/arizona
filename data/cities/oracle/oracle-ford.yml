@@ -1,11 +1,11 @@
 id: 249144226
-type: way
+type: node
 latitude: 32.61872
 longitude: -110.81667
 postcode: "85623"
 city: Oracle
-street: "West State Highway 77"
-housenumber: 3950
+street: West State Highway 77
+housenumber: "3950"
 phone: ""
 opening_hours: ""
-website: "http://oracleford.com"
+website: http://oracleford.com

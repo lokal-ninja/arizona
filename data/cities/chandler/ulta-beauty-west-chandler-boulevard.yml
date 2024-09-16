@@ -1,11 +1,11 @@
 id: 980239210
-type: way
+type: node
 latitude: 33.30801
 longitude: -111.88812
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 2680
-phone: "+1 480-792-0457"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/chandler-az-99"
+street: West Chandler Boulevard
+housenumber: "2680"
+phone: +1 480-792-0457
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/chandler-az-99

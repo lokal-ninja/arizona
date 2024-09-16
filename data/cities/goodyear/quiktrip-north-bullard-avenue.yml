@@ -1,11 +1,11 @@
 id: 1262345117
-type: way
+type: node
 latitude: 33.46362
 longitude: -112.37634
 postcode: "85395"
 city: Goodyear
-street: "North Bullard Avenue"
-housenumber: 1540
+street: North Bullard Avenue
+housenumber: "1540"
 phone: ""
 opening_hours: ""
 website: ""

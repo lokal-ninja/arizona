@@ -1,11 +1,11 @@
 id: 988746268
-type: way
+type: node
 latitude: 33.38199
 longitude: -112.07303
 postcode: "85042"
 city: Phoenix
-street: "South Central Avenue"
-housenumber: 7027
+street: South Central Avenue
+housenumber: "7027"
 phone: ""
 opening_hours: ""
 website: ""

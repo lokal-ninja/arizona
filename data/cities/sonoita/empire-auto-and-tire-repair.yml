@@ -1,11 +1,11 @@
 id: 342994799
-type: way
+type: node
 latitude: 31.67313
 longitude: -110.65628
 postcode: "85637"
 city: Sonoita
-street: "Papago Springs Road"
-housenumber: 2
+street: Papago Springs Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-13:00
 website: ""

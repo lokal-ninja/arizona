@@ -1,11 +1,11 @@
 id: 282841574
-type: way
+type: node
 latitude: 33.58707
 longitude: -112.24539
 postcode: "85345"
 city: Peoria
-street: "West Grand Avenue"
-housenumber: 8669
+street: West Grand Avenue
+housenumber: "8669"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/peoria/8669-nw-grand-ave.html"
+website: https://www.autozone.com/locations/az/peoria/8669-nw-grand-ave.html

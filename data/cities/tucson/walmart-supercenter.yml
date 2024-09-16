@@ -1,11 +1,11 @@
 id: 43360823
-type: way
+type: node
 latitude: 32.35552
 longitude: -111.08902
 postcode: "85743"
 city: Tucson
-street: "North Cortaro Road"
-housenumber: 8280
-phone: "+1 520-744-3652"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5031-tucson-az"
+street: North Cortaro Road
+housenumber: "8280"
+phone: +1 520-744-3652
+opening_hours: 24/7
+website: https://www.walmart.com/store/5031-tucson-az

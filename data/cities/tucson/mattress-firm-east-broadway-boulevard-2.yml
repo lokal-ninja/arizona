@@ -1,11 +1,11 @@
 id: 839775299
-type: way
+type: node
 latitude: 32.22202
 longitude: -110.91368
 postcode: "85716"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 3727
-phone: "+1 520-795-0010"
+street: East Broadway Boulevard
+housenumber: "3727"
+phone: +1 520-795-0010
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/az/tucson/062016/"
+website: https://www.mattressfirm.com/en-us/stores/az/tucson/062016/

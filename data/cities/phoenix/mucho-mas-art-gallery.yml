@@ -1,11 +1,11 @@
 id: 680758768
-type: way
+type: node
 latitude: 33.46602
 longitude: -112.04401
 postcode: "85006"
 city: Phoenix
-street: "East McDowell Road"
-housenumber: 1736
+street: East McDowell Road
+housenumber: "1736"
 phone: ""
-opening_hours: "We-Sa 11:00-16:00"
-website: "https://www.muchomasartstudio.com/"
+opening_hours: We-Sa 11:00-16:00
+website: https://www.muchomasartstudio.com/

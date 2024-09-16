@@ -1,11 +1,11 @@
 id: 1108438793
-type: way
+type: node
 latitude: 33.16224
 longitude: -111.56467
 postcode: "85143"
 city: San Tan Valley
-street: "East Hunt Highway"
-housenumber: 275
+street: East Hunt Highway
+housenumber: "275"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/queencreek/autoparts-3650.html"
+website: https://locations.oreillyauto.com/az/queencreek/autoparts-3650.html

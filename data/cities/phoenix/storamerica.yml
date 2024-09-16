@@ -1,11 +1,11 @@
 id: 422894267
-type: way
+type: node
 latitude: 33.46781
 longitude: -112.23807
 postcode: "85035"
 city: Phoenix
-street: "West Palm Lane"
-housenumber: 8315
+street: West Palm Lane
+housenumber: "8315"
 phone: ""
 opening_hours: ""
 website: ""

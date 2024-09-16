@@ -1,11 +1,11 @@
 id: 829523218
-type: way
+type: node
 latitude: 33.28543
 longitude: -111.8457
 postcode: "85286"
 city: Chandler
-street: "West Willis Road"
-housenumber: 222
+street: West Willis Road
+housenumber: "222"
 phone: "+16234638661"
-opening_hours: "24/7"
-website: "https://www.wincofoods.com"
+opening_hours: 24/7
+website: https://www.wincofoods.com

@@ -1,11 +1,11 @@
 id: 342833741
-type: way
+type: node
 latitude: 31.6788
 longitude: -110.65626
 postcode: "85637"
 city: Sonoita
-street: "Highway 83"
-housenumber: 3160
+street: Highway 83
+housenumber: "3160"
 phone: ""
 opening_hours: ""
 website: ""

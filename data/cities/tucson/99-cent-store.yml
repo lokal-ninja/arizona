@@ -1,11 +1,11 @@
 id: 835207777
-type: way
+type: node
 latitude: 32.25118
 longitude: -110.96289
 postcode: "85705"
 city: Tucson
-street: "East Grant Road"
-housenumber: 515
+street: East Grant Road
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

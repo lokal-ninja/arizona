@@ -1,11 +1,11 @@
 id: 1189929103
-type: way
+type: node
 latitude: 33.67452
 longitude: -111.97309
 postcode: "85050"
 city: Phoenix
-street: "North Tatum Boulevard"
-housenumber: 21001
-phone: "+1 480-513-4262"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/phoenix-store1039.html"
+street: North Tatum Boulevard
+housenumber: "21001"
+phone: +1 480-513-4262
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/phoenix-store1039.html

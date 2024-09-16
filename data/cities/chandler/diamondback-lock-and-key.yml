@@ -1,11 +1,11 @@
 id: 194874714
-type: way
+type: node
 latitude: 33.30028
 longitude: -111.84272
 postcode: "85225"
 city: Chandler
-street: "West Chicago Street"
-housenumber: 77
+street: West Chicago Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

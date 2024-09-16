@@ -1,11 +1,11 @@
 id: 832405195
-type: way
+type: node
 latitude: 33.3945
 longitude: -111.85535
 postcode: "85210"
 city: Mesa
-street: "West Southern Avenue"
-housenumber: 1110
+street: West Southern Avenue
+housenumber: "1110"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/mesa/5300/"
+website: https://www.dollartree.com/locations/az/mesa/5300/

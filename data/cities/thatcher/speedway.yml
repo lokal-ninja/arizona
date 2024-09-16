@@ -1,11 +1,11 @@
 id: 526980471
-type: way
+type: node
 latitude: 32.84887
 longitude: -109.74929
 postcode: "85552"
 city: Thatcher
-street: "West US 70"
-housenumber: 2946
-phone: "+1 928 428 2553"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/store/2989"
+street: West US 70
+housenumber: "2946"
+phone: +1 928 428 2553
+opening_hours: 24/7
+website: https://www.speedway.com/locations/store/2989

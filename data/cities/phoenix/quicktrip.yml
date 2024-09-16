@@ -1,11 +1,11 @@
 id: 1049611317
-type: way
+type: node
 latitude: 33.48103
 longitude: -112.03356
 postcode: "85016"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 2250
+street: East Thomas Road
+housenumber: "2250"
 phone: ""
 opening_hours: ""
 website: ""

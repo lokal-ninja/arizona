@@ -1,11 +1,11 @@
 id: 844448627
-type: way
+type: node
 latitude: 35.19006
 longitude: -111.70679
 postcode: "86001"
 city: Flagstaff
-street: "South Flagstaff Ranch Road"
-housenumber: 508
+street: South Flagstaff Ranch Road
+housenumber: "508"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-16:00
 website: ""

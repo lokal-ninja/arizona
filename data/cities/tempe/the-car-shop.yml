@@ -1,11 +1,11 @@
 id: 1077455290
-type: way
+type: node
 latitude: 33.40667
 longitude: -111.95147
 postcode: "85282"
 city: Tempe
-street: "West Broadway Road"
-housenumber: 821
+street: West Broadway Road
+housenumber: "821"
 phone: ""
 opening_hours: ""
 website: ""

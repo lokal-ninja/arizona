@@ -1,11 +1,11 @@
 id: 257051265
-type: way
+type: node
 latitude: 33.36666
 longitude: -111.78938
 postcode: "85234"
 city: Gilbert
-street: "North Gilbert Road"
-housenumber: 955
+street: North Gilbert Road
+housenumber: "955"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/gilbert/955-n-gilbert-rd.html"
+website: https://www.autozone.com/locations/az/gilbert/955-n-gilbert-rd.html

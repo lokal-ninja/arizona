@@ -1,11 +1,11 @@
 id: 505252181
-type: way
+type: node
 latitude: 33.46018
 longitude: -112.28295
 postcode: "85323"
 city: Avondale
-street: "West Papago Freeway"
-housenumber: 10255
+street: West Papago Freeway
+housenumber: "10255"
 phone: ""
 opening_hours: ""
 website: ""

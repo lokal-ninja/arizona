@@ -1,11 +1,11 @@
 id: 974851385
-type: way
+type: node
 latitude: 33.6389
 longitude: -112.21111
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 7050
+street: West Bell Road
+housenumber: "7050"
 phone: ""
 opening_hours: ""
 website: ""

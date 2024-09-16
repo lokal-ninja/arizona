@@ -1,11 +1,11 @@
 id: 946036299
-type: way
+type: node
 latitude: 31.71231
 longitude: -110.06248
 postcode: "85638"
 city: Tombstone
-street: "East Fremont Street"
-housenumber: 720
-phone: "(520) 457-8538"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.tombstoneantiquemall.com/"
+street: East Fremont Street
+housenumber: "720"
+phone: (520) 457-8538
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.tombstoneantiquemall.com/

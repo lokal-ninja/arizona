@@ -1,11 +1,11 @@
 id: 169173021
-type: way
+type: node
 latitude: 33.4344
 longitude: -111.82496
 postcode: "85201"
 city: Mesa
-street: "East Brown Road"
-housenumber: 305
+street: East Brown Road
+housenumber: "305"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mesa-az-pharmacies/305-e-brown-rd-mesa-az-85201/storeid=9213"
+website: https://www.cvs.com/store-locator/mesa-az-pharmacies/305-e-brown-rd-mesa-az-85201/storeid=9213

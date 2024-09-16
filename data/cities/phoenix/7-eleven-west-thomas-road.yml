@@ -1,11 +1,11 @@
 id: 76505743
-type: way
+type: node
 latitude: 33.48123
 longitude: -112.18608
 postcode: "85031"
 city: Phoenix
-street: "West Thomas Road"
-housenumber: 5850
-phone: "+1 623-245-0519"
+street: West Thomas Road
+housenumber: "5850"
+phone: +1 623-245-0519
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/5850-west-thomas-rd-26123"
+website: https://www.7-eleven.com/locations/az/phoenix/5850-west-thomas-rd-26123

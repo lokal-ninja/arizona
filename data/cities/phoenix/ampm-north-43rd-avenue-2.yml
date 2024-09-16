@@ -1,11 +1,11 @@
 id: 724737281
-type: way
+type: node
 latitude: 33.55258
 longitude: -112.15076
 postcode: "85051"
 city: Phoenix
-street: "North 43rd Avenue"
-housenumber: 7849
+street: North 43rd Avenue
+housenumber: "7849"
 phone: ""
 opening_hours: ""
 website: ""

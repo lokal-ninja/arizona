@@ -1,11 +1,11 @@
 id: 871714487
-type: way
+type: node
 latitude: 33.42863
 longitude: -111.89447
 postcode: "85281"
 city: Tempe
-street: "South Siesta Lane"
-housenumber: 128
+street: South Siesta Lane
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 263646810
-type: way
+type: node
 latitude: 33.41648
 longitude: -111.6753
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 7220
-phone: "+1 480 237 1910"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://partsauthority.com/"
+street: East Main Street
+housenumber: "7220"
+phone: +1 480 237 1910
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://partsauthority.com/

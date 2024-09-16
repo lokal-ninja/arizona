@@ -1,11 +1,11 @@
 id: 609050803
-type: way
+type: node
 latitude: 33.3348
 longitude: -111.75963
 postcode: "85296"
 city: Gilbert
-street: "East Warner Road"
-housenumber: 1415
-phone: "+1 480-558-4588"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/gilbert/pet-supplies-gilbert-az-1104.html"
+street: East Warner Road
+housenumber: "1415"
+phone: +1 480-558-4588
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/gilbert/pet-supplies-gilbert-az-1104.html

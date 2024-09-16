@@ -1,11 +1,11 @@
 id: 1208378298
-type: way
+type: node
 latitude: 33.05775
 longitude: -112.01287
 postcode: "85138"
 city: Maricopa
-street: "West Honeycutt Road"
-housenumber: 41433
+street: West Honeycutt Road
+housenumber: "41433"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

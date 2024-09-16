@@ -1,11 +1,11 @@
 id: 851305050
-type: way
+type: node
 latitude: 33.45099
 longitude: -112.11152
 postcode: "85009"
 city: Phoenix
-street: "West Van Buren Street"
-housenumber: 2401
-phone: "+1 602 254 6526"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://pennypincheraz.com/"
+street: West Van Buren Street
+housenumber: "2401"
+phone: +1 602 254 6526
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://pennypincheraz.com/

@@ -1,11 +1,11 @@
 id: 309673631
-type: way
+type: node
 latitude: 33.61216
 longitude: -111.89376
 postcode: "85260"
 city: Scottsdale
-street: "North Northsight Boulevard"
-housenumber: 13845
+street: North Northsight Boulevard
+housenumber: "13845"
 phone: ""
 opening_hours: ""
 website: ""

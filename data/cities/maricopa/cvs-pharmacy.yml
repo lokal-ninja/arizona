@@ -1,11 +1,11 @@
 id: 200742444
-type: way
+type: node
 latitude: 33.07315
 longitude: -112.04303
 postcode: "85138"
 city: Maricopa
-street: "West Smith-Enke Road"
-housenumber: 44274
+street: West Smith-Enke Road
+housenumber: "44274"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/maricopa-az-pharmacies/44274-west-smith-enke-rd-maricopa-az-85138/storeid=6719"
+website: https://www.cvs.com/store-locator/maricopa-az-pharmacies/44274-west-smith-enke-rd-maricopa-az-85138/storeid=6719

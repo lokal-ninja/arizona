@@ -1,11 +1,11 @@
 id: 738633208
-type: way
+type: node
 latitude: 33.71028
 longitude: -112.27065
 postcode: "85383"
 city: Peoria
-street: "West Happy Valley Road"
-housenumber: 9809
+street: West Happy Valley Road
+housenumber: "9809"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/peoria/autoparts-3812.html"
+website: https://locations.oreillyauto.com/az/peoria/autoparts-3812.html

@@ -1,11 +1,11 @@
 id: 217272730
-type: way
+type: node
 latitude: 36.90708
 longitude: -111.48217
 postcode: "86040"
 city: Page
 street: ""
-housenumber: 831
+housenumber: "831"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/page/autoparts-3217.html"
+website: https://locations.oreillyauto.com/az/page/autoparts-3217.html

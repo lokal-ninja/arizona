@@ -1,11 +1,11 @@
 id: 306448564
-type: way
+type: node
 latitude: 33.36757
 longitude: -111.82382
 postcode: "85233"
 city: Gilbert
-street: "West Harvard Street"
-housenumber: 1572
+street: West Harvard Street
+housenumber: "1572"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 562333808
-type: way
+type: node
 latitude: 33.43645
 longitude: -111.78921
 postcode: "85203"
 city: Mesa
-street: "East Brown Road"
-housenumber: 1925
-phone: "+1 480-668-0800"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/mesa/mesa-brown-rd/"
+street: East Brown Road
+housenumber: "1925"
+phone: +1 480-668-0800
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/mesa/mesa-brown-rd/

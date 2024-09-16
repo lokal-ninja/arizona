@@ -1,11 +1,11 @@
 id: 1279561600
-type: way
+type: node
 latitude: 32.66875
 longitude: -114.61552
 postcode: "85365"
 city: Yuma
-street: "East 32nd Street"
-housenumber: 637
-phone: "+1-928-726-2650"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/yuma/637-e-32nd-st/2701923"
+street: East 32nd Street
+housenumber: "637"
+phone: +1-928-726-2650
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/yuma/637-e-32nd-st/2701923

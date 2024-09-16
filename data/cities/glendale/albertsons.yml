@@ -1,11 +1,11 @@
 id: 254454548
-type: way
+type: node
 latitude: 33.59782
 longitude: -112.16772
 postcode: "85304"
 city: Glendale
-street: "West Cactus Road"
-housenumber: 5040
-phone: "+1 602-843-1871"
+street: West Cactus Road
+housenumber: "5040"
+phone: +1 602-843-1871
 opening_hours: ""
-website: "https://local.albertsons.com/az/glendale/5040-w-cactus-rd.html"
+website: https://local.albertsons.com/az/glendale/5040-w-cactus-rd.html

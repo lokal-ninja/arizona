@@ -1,11 +1,11 @@
 id: 588513040
-type: way
+type: node
 latitude: 33.4153
 longitude: -111.90971
 postcode: "85281"
 city: Tempe
-street: "East Apache Boulevard"
-housenumber: 1734
+street: East Apache Boulevard
+housenumber: "1734"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

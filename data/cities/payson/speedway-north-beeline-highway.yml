@@ -1,11 +1,11 @@
 id: 989265246
-type: way
+type: node
 latitude: 34.26785
 longitude: -111.32268
 postcode: "85541"
 city: Payson
-street: "North Beeline Highway"
-housenumber: 2010
+street: North Beeline Highway
+housenumber: "2010"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Payson/2010-N-Beeline-Hwy"
+website: https://www.speedway.com/locations/AZ/Payson/2010-N-Beeline-Hwy

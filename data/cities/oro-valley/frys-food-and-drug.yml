@@ -1,11 +1,11 @@
 id: 298916227
-type: way
+type: node
 latitude: 32.40097
 longitude: -110.95732
 postcode: "85737"
 city: Oro Valley
-street: "North Oracle Road"
-housenumber: 10661
-phone: "+1 520-742-6663"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/oro-valley/oracle-1st-ave/660/00018"
+street: North Oracle Road
+housenumber: "10661"
+phone: +1 520-742-6663
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/oro-valley/oracle-1st-ave/660/00018

@@ -1,11 +1,11 @@
 id: 832769142
-type: way
+type: node
 latitude: 33.36606
 longitude: -111.86029
 postcode: "85210"
 city: Mesa
-street: "South Alma School Road"
-housenumber: 2728
+street: South Alma School Road
+housenumber: "2728"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/mesa/8566/"
+website: https://www.dollartree.com/locations/az/mesa/8566/

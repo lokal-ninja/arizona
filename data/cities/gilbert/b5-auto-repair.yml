@@ -1,11 +1,11 @@
 id: 306355462
-type: way
+type: node
 latitude: 33.35123
 longitude: -111.82675
 postcode: "85233"
 city: Gilbert
-street: "North Sunway Drive"
-housenumber: 125
+street: North Sunway Drive
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

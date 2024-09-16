@@ -1,11 +1,11 @@
 id: 131891028
-type: way
+type: node
 latitude: 33.42528
 longitude: -112.05424
 postcode: "85034"
 city: Phoenix
-street: "East Gibson Lane"
-housenumber: 1315
+street: East Gibson Lane
+housenumber: "1315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 72736639
-type: way
+type: node
 latitude: 33.46652
 longitude: -112.18703
 postcode: "85035"
 city: Phoenix
-street: "North 59th Avenue"
-housenumber: 1620
+street: North 59th Avenue
+housenumber: "1620"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1620+n+59th+ave-phoenix-az-85035/id=6021"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1620+n+59th+ave-phoenix-az-85035/id=6021

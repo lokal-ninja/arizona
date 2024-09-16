@@ -1,11 +1,11 @@
 id: 827959307
-type: way
+type: node
 latitude: 33.35221
 longitude: -111.83672
 postcode: "85225"
 city: Chandler
-street: "North Colorado Street"
-housenumber: 3185
+street: North Colorado Street
+housenumber: "3185"
 phone: ""
 opening_hours: ""
 website: ""

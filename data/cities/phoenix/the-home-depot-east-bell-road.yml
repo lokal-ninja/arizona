@@ -1,11 +1,11 @@
 id: 82162065
-type: way
+type: node
 latitude: 33.63857
 longitude: -112.03328
 postcode: "85022"
 city: Phoenix
-street: "East Bell Road"
-housenumber: 2217
-phone: "+1 602-482-2430"
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/N-Phoenix/AZ/Phoenix/85022/401"
+street: East Bell Road
+housenumber: "2217"
+phone: +1 602-482-2430
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/N-Phoenix/AZ/Phoenix/85022/401

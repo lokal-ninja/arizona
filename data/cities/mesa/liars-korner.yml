@@ -4,8 +4,8 @@ latitude: 33.41485
 longitude: -111.62428
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 9529
-phone: "+1 480 986 2515"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-16:00"
-website: "https://www.liarskorner.com/"
+street: East Main Street
+housenumber: "9529"
+phone: +1 480 986 2515
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-16:00
+website: https://www.liarskorner.com/

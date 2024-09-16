@@ -1,11 +1,11 @@
 id: 844603186
-type: way
+type: node
 latitude: 33.40675
 longitude: -111.77297
 postcode: "85204"
 city: Mesa
-street: "East Broadway Road"
-housenumber: 2727
-phone: "+1 480-464-4742"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/mesa/broadway-lindsay/660/00123"
+street: East Broadway Road
+housenumber: "2727"
+phone: +1 480-464-4742
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/mesa/broadway-lindsay/660/00123

@@ -1,11 +1,11 @@
 id: 828557798
-type: way
+type: node
 latitude: 33.31408
 longitude: -111.84229
 postcode: "85225"
 city: Chandler
-street: "North Arizona Avenue"
-housenumber: 610
+street: North Arizona Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/chandler/autoparts-3634.html"
+website: https://locations.oreillyauto.com/az/chandler/autoparts-3634.html

@@ -1,11 +1,11 @@
 id: 1038143587
-type: way
+type: node
 latitude: 33.3912
 longitude: -112.13288
 postcode: "85041"
 city: Phoenix
-street: "South 35th Avenue"
-housenumber: 6155
+street: South 35th Avenue
+housenumber: "6155"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/6155-35th-ave.html"
+website: https://www.autozone.com/locations/az/phoenix/6155-35th-ave.html

@@ -1,11 +1,11 @@
 id: 540887124
-type: way
+type: node
 latitude: 33.39481
 longitude: -110.78598
 postcode: "85501"
 city: Globe
-street: "South Hill Street"
-housenumber: 240
-phone: "+1 928-425-5390"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/az/globe/240-s-hill-st.html"
+street: South Hill Street
+housenumber: "240"
+phone: +1 928-425-5390
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/az/globe/240-s-hill-st.html

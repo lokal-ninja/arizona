@@ -1,11 +1,11 @@
 id: 992737413
-type: way
+type: node
 latitude: 33.46649
 longitude: -111.8965
 postcode: "85257"
 city: Scottsdale
-street: "North 87th Street"
-housenumber: 1620
+street: North 87th Street
+housenumber: "1620"
 phone: ""
 opening_hours: ""
 website: ""

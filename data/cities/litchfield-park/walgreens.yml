@@ -1,11 +1,11 @@
 id: 265639150
-type: way
+type: node
 latitude: 33.50871
 longitude: -112.33938
 postcode: "85340"
 city: Litchfield Park
-street: "West Camelback Road"
-housenumber: 13014
+street: West Camelback Road
+housenumber: "13014"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-13014+w+camelback+rd-litchfield+park-az-85340/id=7582"
+website: https://www.walgreens.com/locator/walgreens-13014+w+camelback+rd-litchfield+park-az-85340/id=7582

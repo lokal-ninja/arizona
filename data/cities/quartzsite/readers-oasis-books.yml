@@ -1,11 +1,11 @@
 id: 759082506
-type: way
+type: node
 latitude: 33.66721
 longitude: -114.20552
 postcode: "85346"
 city: Quartzsite
-street: "East Main Street"
-housenumber: 
-phone: "+1-928-927-6551"
-opening_hours: "Mo-Su 10:00-16:00"
+street: East Main Street
+housenumber: ""
+phone: +1-928-927-6551
+opening_hours: Mo-Su 10:00-16:00
 website: ""

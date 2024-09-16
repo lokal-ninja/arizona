@@ -1,11 +1,11 @@
 id: 341920793
-type: way
+type: node
 latitude: 32.26284
 longitude: -109.84097
 postcode: "85643"
 city: Willcox
-street: "North Bisbee Avenue"
-housenumber: 651
-phone: "+1 520 384 4288"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: North Bisbee Avenue
+housenumber: "651"
+phone: +1 520 384 4288
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

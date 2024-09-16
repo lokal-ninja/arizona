@@ -1,11 +1,11 @@
 id: 690943090
-type: way
+type: node
 latitude: 33.71308
 longitude: -112.26716
 postcode: "85383"
 city: Peoria
-street: "North Lake Pleasant Parkway"
-housenumber: 25311
-phone: "+1 623-537-2640"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-peoria/2820"
+street: North Lake Pleasant Parkway
+housenumber: "25311"
+phone: +1 623-537-2640
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-peoria/2820

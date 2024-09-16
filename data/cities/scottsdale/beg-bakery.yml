@@ -1,11 +1,11 @@
 id: 993718969
-type: way
+type: node
 latitude: 33.48275
 longitude: -111.93511
 postcode: "85251"
 city: Scottsdale
-street: "North 68th Street"
-housenumber: 3030
+street: North 68th Street
+housenumber: "3030"
 phone: "+14805900021"
 opening_hours: ""
-website: "https://www.begbakery.com/"
+website: https://www.begbakery.com/

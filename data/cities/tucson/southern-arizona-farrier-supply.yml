@@ -1,11 +1,11 @@
 id: 253397489
-type: way
+type: node
 latitude: 32.2025
 longitude: -110.82593
 postcode: "85710"
 city: Tucson
-street: "South Eastside Loop"
-housenumber: 1603
-phone: "+1-520-751-1443"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://southern-arizona-farrier-supply.business.site/"
+street: South Eastside Loop
+housenumber: "1603"
+phone: +1-520-751-1443
+opening_hours: Mo-Fr 08:00-16:00
+website: https://southern-arizona-farrier-supply.business.site/

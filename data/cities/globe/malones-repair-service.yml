@@ -1,11 +1,11 @@
 id: 383551549
-type: way
+type: node
 latitude: 33.39601
 longitude: -110.78638
 postcode: "85501"
 city: Globe
-street: "South Hill Street"
-housenumber: 100
+street: South Hill Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 348383327
-type: way
+type: node
 latitude: 32.11527
 longitude: -110.77042
 postcode: "85747"
 city: Tucson
-street: "South Houghton Road"
-housenumber: 7555
-phone: "520 413 4383"
+street: South Houghton Road
+housenumber: "7555"
+phone: 520 413 4383
 opening_hours: ""
 website: ""

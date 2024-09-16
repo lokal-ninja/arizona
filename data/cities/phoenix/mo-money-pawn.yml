@@ -1,11 +1,11 @@
 id: 1197165948
-type: way
+type: node
 latitude: 33.4953
 longitude: -112.05653
 postcode: "85014"
 city: Phoenix
-street: "East Indian School Road"
-housenumber: 1152
-phone: "602-279-4417"
+street: East Indian School Road
+housenumber: "1152"
+phone: 602-279-4417
 opening_hours: ""
-website: "https://momoneypawn.com/"
+website: https://momoneypawn.com/

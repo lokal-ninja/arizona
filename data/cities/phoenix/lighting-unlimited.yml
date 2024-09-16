@@ -1,11 +1,11 @@
 id: 731996067
-type: way
+type: node
 latitude: 33.44885
 longitude: -112.04833
 postcode: ""
 city: Phoenix
-street: "East Washington Street"
-housenumber: 1550
+street: East Washington Street
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

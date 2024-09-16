@@ -1,11 +1,11 @@
 id: 705631105
-type: way
+type: node
 latitude: 31.50378
 longitude: -110.25707
 postcode: "85650"
 city: Sierra Vista
-street: "AZ 92"
-housenumber: 3691
+street: AZ 92
+housenumber: "3691"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 33.42254
 longitude: -111.55016
 postcode: "85120"
 city: Apache Junction
-street: "West Superstition Boulevard"
-housenumber: 350
-phone: "+1 480 202 0424"
-opening_hours: "Tu,Th,Fr 09:30-14:00 By appointment only; We 09:30-13:00 By appointment only; Sa 08:00-16:00 By appointment only"
-website: "http://www.cynthiabranson.skincaretherapy.net/"
+street: West Superstition Boulevard
+housenumber: "350"
+phone: +1 480 202 0424
+opening_hours: Tu,Th,Fr 09:30-14:00 "By appointment only"; We 09:30-13:00 "By appointment
+    only"; Sa 08:00-16:00 "By appointment only"
+website: http://www.cynthiabranson.skincaretherapy.net/

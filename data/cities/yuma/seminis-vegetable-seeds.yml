@@ -1,11 +1,11 @@
 id: 722611005
-type: way
+type: node
 latitude: 32.71603
 longitude: -114.6176
 postcode: "85364"
 city: Yuma
-street: "East 6th Street"
-housenumber: 5
+street: East 6th Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

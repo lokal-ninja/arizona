@@ -1,11 +1,11 @@
 id: 755757508
-type: way
+type: node
 latitude: 33.32749
 longitude: -111.67727
 postcode: "85212"
 city: Mesa
-street: "East Ray Road"
-housenumber: 7316
-phone: "+1-480-279-5500"
-opening_hours: "We-Sa 10:00-18:00"
+street: East Ray Road
+housenumber: "7316"
+phone: +1-480-279-5500
+opening_hours: We-Sa 10:00-18:00
 website: ""

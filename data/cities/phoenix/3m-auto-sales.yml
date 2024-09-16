@@ -1,11 +1,11 @@
 id: 1230191502
-type: way
+type: node
 latitude: 33.45997
 longitude: -112.09228
 postcode: "85007"
 city: Phoenix
-street: "North Laurel Avenue"
-housenumber: 1103
+street: North Laurel Avenue
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

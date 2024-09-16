@@ -1,11 +1,11 @@
 id: 313143179
-type: way
+type: node
 latitude: 33.44104
 longitude: -112.5599
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 700
-phone: "+1 623-474-5015"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-buckeye/2295"
+street: South Watson Road
+housenumber: "700"
+phone: +1 623-474-5015
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-buckeye/2295

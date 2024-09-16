@@ -1,11 +1,11 @@
 id: 103863582
-type: way
+type: node
 latitude: 33.7978
 longitude: -112.11866
 postcode: "85085"
 city: Phoenix
-street: "West Carefree Highway"
-housenumber: 2707
+street: West Carefree Highway
+housenumber: "2707"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2707+w+carefree+hwy-phoenix-az-85085/id=9472"
+website: https://www.walgreens.com/locator/walgreens-2707+w+carefree+hwy-phoenix-az-85085/id=9472

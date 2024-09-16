@@ -4,8 +4,8 @@ latitude: 33.49332
 longitude: -111.92681
 postcode: "85251"
 city: Scottsdale
-street: "East Main Street"
-housenumber: 7168
+street: East Main Street
+housenumber: "7168"
 phone: ""
 opening_hours: ""
-website: "https://www.thesacredartgallery.com/"
+website: https://www.thesacredartgallery.com/

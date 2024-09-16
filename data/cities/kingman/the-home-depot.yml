@@ -1,11 +1,11 @@
 id: 323207439
-type: way
+type: node
 latitude: 35.23519
 longitude: -114.03497
 postcode: "86409"
 city: Kingman
-street: "Stockton Hill Road"
-housenumber: 3860
-phone: "+1 928-681-5600"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/kingman/az/kingman/86409/416"
+street: Stockton Hill Road
+housenumber: "3860"
+phone: +1 928-681-5600
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/kingman/az/kingman/86409/416

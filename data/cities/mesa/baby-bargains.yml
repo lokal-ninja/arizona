@@ -1,11 +1,11 @@
 id: 832710573
-type: way
+type: node
 latitude: 33.37738
 longitude: -111.85829
 postcode: "85210"
 city: Mesa
-street: "South Alma School Road"
-housenumber: 2057
+street: South Alma School Road
+housenumber: "2057"
 phone: ""
 opening_hours: ""
 website: ""

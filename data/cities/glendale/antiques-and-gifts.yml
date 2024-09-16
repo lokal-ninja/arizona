@@ -1,11 +1,11 @@
 id: 221593699
-type: way
+type: node
 latitude: 33.5392
 longitude: -112.1836
 postcode: "85301"
 city: Glendale
-street: "North 58th Avenue"
-housenumber: 7015
+street: North 58th Avenue
+housenumber: "7015"
 phone: ""
 opening_hours: ""
 website: ""

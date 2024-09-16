@@ -1,11 +1,11 @@
 id: 155766521
-type: way
+type: node
 latitude: 33.37995
 longitude: -112.17174
 postcode: "85339"
 city: Phoenix
-street: "West Baseline Road"
-housenumber: 5230
-phone: "+1 602-605-8690"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Phoenix-51st-Baseline/AZ/Laveen/85339/447"
+street: West Baseline Road
+housenumber: "5230"
+phone: +1 602-605-8690
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Phoenix-51st-Baseline/AZ/Laveen/85339/447

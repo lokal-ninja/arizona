@@ -1,11 +1,11 @@
 id: 196247882
-type: way
+type: node
 latitude: 33.28147
 longitude: -111.78686
 postcode: "85297"
 city: Gilbert
-street: "South Gilbert Road"
-housenumber: 3787
+street: South Gilbert Road
+housenumber: "3787"
 phone: ""
 opening_hours: ""
-website: "www.babytown.com"
+website: www.babytown.com

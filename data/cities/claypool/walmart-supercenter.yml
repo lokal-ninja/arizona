@@ -1,11 +1,11 @@
 id: 365024823
-type: way
+type: node
 latitude: 33.41284
 longitude: -110.83647
 postcode: "85532"
 city: Claypool
-street: "South Ragus Road"
-housenumber: 100
-phone: "+1 928-425-7171"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1334/claypool-az/whats-new"
+street: South Ragus Road
+housenumber: "100"
+phone: +1 928-425-7171
+opening_hours: 24/7
+website: https://www.walmart.com/store/1334/claypool-az/whats-new

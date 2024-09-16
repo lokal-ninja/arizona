@@ -1,11 +1,11 @@
 id: 813276396
-type: way
+type: node
 latitude: 33.38085
 longitude: -111.78708
 postcode: "85204"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 2050
-phone: "+1 480-632-0951"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/az/mesa/89/"
+street: East Baseline Road
+housenumber: "2050"
+phone: +1 480-632-0951
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/az/mesa/89/

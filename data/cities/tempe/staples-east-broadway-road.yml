@@ -1,11 +1,11 @@
 id: 1280032069
-type: way
+type: node
 latitude: 33.40928
 longitude: -111.92557
 postcode: "85282"
 city: Tempe
-street: "East Broadway Road"
-housenumber: 914
+street: East Broadway Road
+housenumber: "914"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/az/tempe/914-east-broadway-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/az/tempe/914-east-broadway-road

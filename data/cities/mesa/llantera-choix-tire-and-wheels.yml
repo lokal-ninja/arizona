@@ -1,11 +1,11 @@
 id: 809876234
-type: way
+type: node
 latitude: 33.40697
 longitude: -111.80563
 postcode: ""
 city: Mesa
-street: "South Stapley Drive"
-housenumber: 436
+street: South Stapley Drive
+housenumber: "436"
 phone: ""
 opening_hours: ""
 website: ""

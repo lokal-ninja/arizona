@@ -1,11 +1,11 @@
 id: 705721618
-type: way
+type: node
 latitude: 33.55304
 longitude: -112.25461
 postcode: "85345"
 city: Peoria
-street: "North 91st Avenue"
-housenumber: 8069
+street: North 91st Avenue
+housenumber: "8069"
 phone: ""
 opening_hours: ""
 website: ""

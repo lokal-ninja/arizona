@@ -1,11 +1,11 @@
 id: 788071432
-type: way
+type: node
 latitude: 32.22001
 longitude: -110.81593
 postcode: "85710"
 city: Tucson
-street: "South Sarnoff Drive"
-housenumber: 140
+street: South Sarnoff Drive
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

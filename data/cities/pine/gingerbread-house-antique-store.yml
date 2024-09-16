@@ -1,11 +1,11 @@
 id: 1051828175
-type: way
+type: node
 latitude: 34.38832
 longitude: -111.455
 postcode: "85544"
 city: Pine
-street: "North Az Highway 87"
-housenumber: 3936
+street: North Az Highway 87
+housenumber: "3936"
 phone: ""
 opening_hours: ""
 website: ""

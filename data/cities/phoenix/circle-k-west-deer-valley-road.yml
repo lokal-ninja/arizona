@@ -1,11 +1,11 @@
 id: 702950219
-type: way
+type: node
 latitude: 33.68327
 longitude: -112.13413
 postcode: "85027"
 city: Phoenix
-street: "West Deer Valley Road"
-housenumber: 3445
+street: West Deer Valley Road
+housenumber: "3445"
 phone: ""
 opening_hours: ""
 website: ""

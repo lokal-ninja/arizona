@@ -1,11 +1,11 @@
 id: 988946652
-type: way
+type: node
 latitude: 33.84864
 longitude: -109.14422
 postcode: "85920"
 city: Alpine
-street: "US 180"
-housenumber: 42653
+street: US 180
+housenumber: "42653"
 phone: ""
 opening_hours: ""
 website: ""

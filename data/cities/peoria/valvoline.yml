@@ -1,11 +1,11 @@
 id: 452111722
-type: way
+type: node
 latitude: 33.5949
 longitude: -112.21985
 postcode: "85381"
 city: Peoria
-street: "North 75th Avenue"
-housenumber: 
+street: North 75th Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/az/peoria/oil-change-090004.html"
+website: https://store.vioc.com/az/peoria/oil-change-090004.html

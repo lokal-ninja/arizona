@@ -1,11 +1,11 @@
 id: 203556502
-type: way
+type: node
 latitude: 35.19546
 longitude: -111.65613
 postcode: "86001"
 city: Flagstaff
-street: "West Clay Avenue"
-housenumber: 503
+street: West Clay Avenue
+housenumber: "503"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:05; Su 08:30-20:05"
+opening_hours: Mo-Sa 08:30-21:05; Su 08:30-20:05
 website: ""

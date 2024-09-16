@@ -1,11 +1,11 @@
 id: 222719360
-type: way
+type: node
 latitude: 33.53835
 longitude: -112.18985
 postcode: "85301"
 city: Glendale
-street: "West Glendale Avenue"
-housenumber: 6017
+street: West Glendale Avenue
+housenumber: "6017"
 phone: ""
 opening_hours: ""
 website: ""

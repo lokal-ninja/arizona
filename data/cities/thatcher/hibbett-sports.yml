@@ -1,11 +1,11 @@
 id: 526980481
-type: way
+type: node
 latitude: 32.836
 longitude: -109.73508
 postcode: "85552"
 city: Thatcher
-street: "West US 70"
-housenumber: 2145
-phone: "+1 928 428 2887"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.hibbett.com/storedetails/AZ/Thatcher/666"
+street: West US 70
+housenumber: "2145"
+phone: +1 928 428 2887
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.hibbett.com/storedetails/AZ/Thatcher/666

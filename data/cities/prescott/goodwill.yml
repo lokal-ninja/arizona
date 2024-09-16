@@ -1,11 +1,11 @@
 id: 1065553899
-type: way
+type: node
 latitude: 34.59748
 longitude: -112.45791
 postcode: ""
 city: Prescott
-street: "Lakeview Plaza Lane"
-housenumber: 3155
+street: Lakeview Plaza Lane
+housenumber: "3155"
 phone: ""
 opening_hours: ""
 website: ""

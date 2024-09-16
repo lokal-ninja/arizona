@@ -1,11 +1,11 @@
 id: 687715006
-type: way
+type: node
 latitude: 33.4952
 longitude: -112.08298
-postcode: "85013-3136"
+postcode: 85013-3136
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 646
-phone: "+1 602-279-4998"
+street: West Indian School Road
+housenumber: "646"
+phone: +1 602-279-4998
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/646-w.-indian-school-rd.-20622"
+website: https://www.7-eleven.com/locations/az/phoenix/646-w.-indian-school-rd.-20622

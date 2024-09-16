@@ -1,11 +1,11 @@
 id: 129620981
-type: way
+type: node
 latitude: 33.47229
 longitude: -112.10971
 postcode: "85009"
 city: Phoenix
-street: "North 23rd Drive"
-housenumber: 2229
+street: North 23rd Drive
+housenumber: "2229"
 phone: ""
 opening_hours: ""
 website: ""

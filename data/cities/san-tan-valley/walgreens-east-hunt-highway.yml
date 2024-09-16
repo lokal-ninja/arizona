@@ -1,11 +1,11 @@
 id: 1108438789
-type: way
+type: node
 latitude: 33.16153
 longitude: -111.56412
 postcode: "85143"
 city: San Tan Valley
-street: "East Hunt Highway"
-housenumber: 333
+street: East Hunt Highway
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-333+e+hunt+hwy-san+tan+valley-az-85143/id=1076"
+website: https://www.walgreens.com/locator/walgreens-333+e+hunt+hwy-san+tan+valley-az-85143/id=1076

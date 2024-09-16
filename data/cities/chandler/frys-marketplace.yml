@@ -1,11 +1,11 @@
 id: 553386948
-type: way
+type: node
 latitude: 33.24619
 longitude: -111.79238
 postcode: "85249"
 city: Chandler
-street: "East Ocotillo Road"
-housenumber: 2929
-phone: "+1 480-566-8875"
-opening_hours: "Su-Sa 05:00-11:00"
-website: "https://www.frysfood.com/stores/grocery/az/chandler/e-ocotillo-rd-s-gilbert/660/00681"
+street: East Ocotillo Road
+housenumber: "2929"
+phone: +1 480-566-8875
+opening_hours: Su-Sa 05:00-11:00
+website: https://www.frysfood.com/stores/grocery/az/chandler/e-ocotillo-rd-s-gilbert/660/00681

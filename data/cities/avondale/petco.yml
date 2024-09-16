@@ -1,11 +1,11 @@
 id: 153238887
-type: way
+type: node
 latitude: 33.46538
 longitude: -112.27961
 postcode: "85392"
 city: Avondale
-street: "West McDowell Road"
-housenumber: 10190
-phone: "+1 623-936-4034"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/avondale/pet-supplies-avondale-az-1132.html"
+street: West McDowell Road
+housenumber: "10190"
+phone: +1 623-936-4034
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/avondale/pet-supplies-avondale-az-1132.html

@@ -1,11 +1,11 @@
 id: 891290730
-type: way
+type: node
 latitude: 32.40678
 longitude: -110.94797
 postcode: "85737"
 city: Oro Valley
-street: "North Oracle Road"
-housenumber: 11045
+street: North Oracle Road
+housenumber: "11045"
 phone: ""
 opening_hours: ""
 website: ""

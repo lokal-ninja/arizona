@@ -1,11 +1,11 @@
 id: 656000454
-type: way
+type: node
 latitude: 32.72193
 longitude: -114.61761
 postcode: "85364"
 city: Yuma
-street: "South Main Street"
-housenumber: 333
+street: South Main Street
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

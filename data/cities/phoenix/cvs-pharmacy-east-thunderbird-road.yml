@@ -1,11 +1,11 @@
 id: 284329661
-type: way
+type: node
 latitude: 33.61154
 longitude: -111.9964
 postcode: "85032"
 city: Phoenix
-street: "East Thunderbird Road"
-housenumber: 3975
+street: East Thunderbird Road
+housenumber: "3975"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/3975-e-thunderbird-rd-phoenix-az-85032/storeid=2372"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/3975-e-thunderbird-rd-phoenix-az-85032/storeid=2372

@@ -1,11 +1,11 @@
 id: 441976986
-type: way
+type: node
 latitude: 32.24639
 longitude: -110.97847
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2025
+street: North Oracle Road
+housenumber: "2025"
 phone: ""
 opening_hours: ""
-website: "https://www.summitbrick.com/"
+website: https://www.summitbrick.com/

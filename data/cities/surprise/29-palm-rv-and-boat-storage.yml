@@ -1,11 +1,11 @@
 id: 1159268447
-type: way
+type: node
 latitude: 33.69013
 longitude: -112.40306
 postcode: "85387"
 city: Surprise
-street: "North 159th Avenue"
-housenumber: 22611
+street: North 159th Avenue
+housenumber: "22611"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.29palmsstorage.com/"
+opening_hours: 24/7
+website: https://www.29palmsstorage.com/

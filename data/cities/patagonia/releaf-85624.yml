@@ -1,11 +1,11 @@
 id: 1076438571
-type: way
+type: node
 latitude: 31.53865
 longitude: -110.75788
 postcode: "85624"
 city: Patagonia
-street: "Naugle Avenue;West Naugle Avenue"
+street: Naugle Avenue;West Naugle Avenue
 housenumber: 436;434
-phone: "+1 520 394 0093"
-opening_hours: "Th-Sa 09:00-21:00; Su-We 09:00-20:00"
-website: "https://dbloomtucson.com/releaf-85624/"
+phone: +1 520 394 0093
+opening_hours: Th-Sa 09:00-21:00; Su-We 09:00-20:00
+website: https://dbloomtucson.com/releaf-85624/

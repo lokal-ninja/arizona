@@ -1,11 +1,11 @@
 id: 1260444658
-type: way
+type: node
 latitude: 32.67631
 longitude: -114.64979
 postcode: "85364"
 city: Yuma
-street: "South Avenue B"
-housenumber: 2851
-phone: "+1-928-726-9700"
-opening_hours: "Mo-Th 07:00-21:00; Fr,Sa 07:00-22:00"
-website: "https://www.kneaders.com/"
+street: South Avenue B
+housenumber: "2851"
+phone: +1-928-726-9700
+opening_hours: Mo-Th 07:00-21:00; Fr,Sa 07:00-22:00
+website: https://www.kneaders.com/

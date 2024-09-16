@@ -1,11 +1,11 @@
 id: 497769910
-type: way
+type: node
 latitude: 33.36244
 longitude: -111.87814
 postcode: "85202"
 city: Mesa
-street: "West Guadalupe Road"
-housenumber: 2039
+street: West Guadalupe Road
+housenumber: "2039"
 phone: ""
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

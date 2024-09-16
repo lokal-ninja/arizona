@@ -1,11 +1,11 @@
 id: 783933951
-type: way
+type: node
 latitude: 35.23046
 longitude: -111.57113
 postcode: "86004"
 city: Flagstaff
-street: "East Empire Avenue"
-housenumber: 4999
+street: East Empire Avenue
+housenumber: "4999"
 phone: ""
 opening_hours: ""
 website: ""

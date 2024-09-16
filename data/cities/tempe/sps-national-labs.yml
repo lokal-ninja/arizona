@@ -1,11 +1,11 @@
 id: 940821783
-type: way
+type: node
 latitude: 33.3943
 longitude: -111.95474
 postcode: "85282"
 city: Tempe
-street: "West Geneva Drive"
-housenumber: 1119
+street: West Geneva Drive
+housenumber: "1119"
 phone: ""
 opening_hours: ""
 website: ""

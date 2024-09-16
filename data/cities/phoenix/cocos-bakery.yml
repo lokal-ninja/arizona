@@ -1,11 +1,11 @@
 id: 433775661
-type: way
+type: node
 latitude: 33.47101
 longitude: -112.06553
 postcode: "85006"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 2026
+street: North 7th Street
+housenumber: "2026"
 phone: ""
 opening_hours: ""
-website: "https://cocosbakery.com"
+website: https://cocosbakery.com

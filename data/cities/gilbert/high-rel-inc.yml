@@ -1,11 +1,11 @@
 id: 819581179
-type: way
+type: node
 latitude: 33.37474
 longitude: -111.81925
 postcode: "85233"
 city: Gilbert
-street: "North Hobson Street"
-housenumber: 1335
+street: North Hobson Street
+housenumber: "1335"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 604091767
-type: way
+type: node
 latitude: 33.30605
 longitude: -111.78573
 postcode: "85295"
 city: Gilbert
-street: "East Williams Field Road"
-housenumber: 179
+street: East Williams Field Road
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/gilbert/179-e-williams-field-rd.html"
+website: https://www.autozone.com/locations/az/gilbert/179-e-williams-field-rd.html

@@ -1,11 +1,11 @@
 id: 130176577
-type: way
+type: node
 latitude: 33.30871
 longitude: -111.74132
 postcode: "85295"
 city: Gilbert
-street: "East Williams Field Road"
-housenumber: 2288
-phone: "+1 480-722-9349"
+street: East Williams Field Road
+housenumber: "2288"
+phone: +1 480-722-9349
 opening_hours: ""
-website: "https://stores.bestbuy.com/az/gilbert/2288-e-williams-field-rd-1189.html"
+website: https://stores.bestbuy.com/az/gilbert/2288-e-williams-field-rd-1189.html

@@ -1,11 +1,11 @@
 id: 598409547
-type: way
+type: node
 latitude: 34.91509
 longitude: -110.15384
 postcode: "86025"
 city: Holbrook
-street: "Navajo Boulevard"
-housenumber: 1300
+street: Navajo Boulevard
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

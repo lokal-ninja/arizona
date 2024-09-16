@@ -1,11 +1,11 @@
 id: 807968764
-type: way
+type: node
 latitude: 33.36428
 longitude: -111.75542
 postcode: "85234"
 city: Gilbert
-street: "East Guadalupe Road"
-housenumber: 1611
+street: East Guadalupe Road
+housenumber: "1611"
 phone: ""
 opening_hours: ""
 website: ""

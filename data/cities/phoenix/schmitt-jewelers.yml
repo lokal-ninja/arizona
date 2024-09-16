@@ -1,11 +1,11 @@
 id: 286130662
-type: way
+type: node
 latitude: 33.50978
 longitude: -111.9865
 postcode: "85018"
 city: Phoenix
-street: "East Camelback Road"
-housenumber: 4402
+street: East Camelback Road
+housenumber: "4402"
 phone: "+16028401144"
-opening_hours: "09:30-18:00"
-website: "https://schmittjewelers.com/"
+opening_hours: 09:30-18:00
+website: https://schmittjewelers.com/

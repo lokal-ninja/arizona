@@ -1,11 +1,11 @@
 id: 218827103
-type: way
+type: node
 latitude: 33.4262
 longitude: -111.98305
 postcode: "85034"
 city: Phoenix
-street: "East Hilton Avenue"
-housenumber: 4601
+street: East Hilton Avenue
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

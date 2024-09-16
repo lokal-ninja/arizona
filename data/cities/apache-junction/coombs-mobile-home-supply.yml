@@ -1,11 +1,11 @@
 id: 164987979
-type: way
+type: node
 latitude: 33.41224
 longitude: -111.58033
 postcode: "85120"
 city: Apache Junction
-street: "South Meridian Drive"
-housenumber: 303
-phone: "+1 480 325 0494"
+street: South Meridian Drive
+housenumber: "303"
+phone: +1 480 325 0494
 opening_hours: ""
-website: "https://www.coombsmhs.com/"
+website: https://www.coombsmhs.com/

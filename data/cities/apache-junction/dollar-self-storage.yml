@@ -1,11 +1,11 @@
 id: 253093338
-type: way
+type: node
 latitude: 33.38874
 longitude: -111.54099
 postcode: "85119"
 city: Apache Junction
-street: "South Winchester Road"
-housenumber: 2901
-phone: "+1 480 288 8299"
+street: South Winchester Road
+housenumber: "2901"
+phone: +1 480 288 8299
 opening_hours: ""
-website: "https://www.dollarselfstorage.com/"
+website: https://www.dollarselfstorage.com/

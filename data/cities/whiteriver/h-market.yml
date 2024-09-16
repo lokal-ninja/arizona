@@ -1,11 +1,11 @@
 id: 547988302
-type: way
+type: node
 latitude: 33.83804
 longitude: -109.96394
 postcode: "85941"
 city: Whiteriver
-street: "North Chief Avenue"
-housenumber: 506
+street: North Chief Avenue
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

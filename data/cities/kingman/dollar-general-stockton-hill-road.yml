@@ -1,11 +1,11 @@
 id: 1276293730
-type: way
+type: node
 latitude: 35.20509
 longitude: -114.03463
 postcode: "86401"
 city: Kingman
-street: "Stockton Hill Road"
-housenumber: 1915
-phone: "+1-480-561-5596"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/az/kingman/23902"
+street: Stockton Hill Road
+housenumber: "1915"
+phone: +1-480-561-5596
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/az/kingman/23902

@@ -1,11 +1,11 @@
 id: 610073401
-type: way
+type: node
 latitude: 35.18968
 longitude: -111.66926
 postcode: "86001"
 city: Flagstaff
-street: "West Kaibab Lane"
-housenumber: 1200
+street: West Kaibab Lane
+housenumber: "1200"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

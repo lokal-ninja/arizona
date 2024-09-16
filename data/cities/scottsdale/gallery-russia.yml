@@ -4,8 +4,8 @@ latitude: 33.49297
 longitude: -111.92811
 postcode: "85251"
 city: Scottsdale
-street: "East Main Street"
-housenumber: 7103
+street: East Main Street
+housenumber: "7103"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00; Su by appointment"
-website: "https://galleryrussia.com"
+opening_hours: Mo-Sa 11:00-17:00; Su "by appointment"
+website: https://galleryrussia.com

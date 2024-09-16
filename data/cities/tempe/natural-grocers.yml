@@ -1,11 +1,11 @@
 id: 317674442
-type: way
+type: node
 latitude: 33.31961
 longitude: -111.9418
 postcode: "85226"
 city: Tempe
-street: "West Ray Road"
-housenumber: 5805
+street: West Ray Road
+housenumber: "5805"
 phone: "+14808938000"
-opening_hours: "Mo-Sa 09:00-21:06; Su 09:00-19:35"
+opening_hours: Mo-Sa 09:00-21:06; Su 09:00-19:35
 website: ""

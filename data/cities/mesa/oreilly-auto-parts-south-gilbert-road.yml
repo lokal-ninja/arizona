@@ -1,11 +1,11 @@
 id: 550363262
-type: way
+type: node
 latitude: 33.39535
 longitude: -111.78944
 postcode: "85204"
 city: Mesa
-street: "South Gilbert Road"
-housenumber: 1110
+street: South Gilbert Road
+housenumber: "1110"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/mesa/autoparts-2896.html"
+website: https://locations.oreillyauto.com/az/mesa/autoparts-2896.html

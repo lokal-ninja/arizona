@@ -1,11 +1,11 @@
 id: 858287052
-type: way
+type: node
 latitude: 33.65752
 longitude: -111.92646
 postcode: "85054"
 city: Phoenix
-street: "East Mayo Boulevard"
-housenumber: 7000
-phone: "+1 480 588 8802"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://c2tactical.com/"
+street: East Mayo Boulevard
+housenumber: "7000"
+phone: +1 480 588 8802
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-18:00
+website: https://c2tactical.com/

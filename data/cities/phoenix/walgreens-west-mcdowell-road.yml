@@ -1,11 +1,11 @@
 id: 130102502
-type: way
+type: node
 latitude: 33.4656
 longitude: -112.15329
 postcode: "85035"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 4315
+street: West McDowell Road
+housenumber: "4315"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4315+w+mcdowell+rd-phoenix-az-85035/id=5937"
+website: https://www.walgreens.com/locator/walgreens-4315+w+mcdowell+rd-phoenix-az-85035/id=5937

@@ -1,11 +1,11 @@
 id: 278510139
-type: way
+type: node
 latitude: 33.58327
 longitude: -112.26222
 postcode: "85345"
 city: Peoria
-street: "North 95th Avenue"
-housenumber: 10857
+street: North 95th Avenue
+housenumber: "10857"
 phone: ""
 opening_hours: ""
 website: ""

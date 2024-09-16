@@ -1,11 +1,11 @@
 id: 351748858
-type: way
+type: node
 latitude: 34.86374
 longitude: -111.78542
 postcode: "86336"
 city: Sedona
-street: "State Route 89A"
-housenumber: 1420
-phone: "+1 928-282-6311"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/sedona"
+street: State Route 89A
+housenumber: "1420"
+phone: +1 928-282-6311
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/sedona

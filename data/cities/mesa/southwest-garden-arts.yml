@@ -1,11 +1,11 @@
 id: 1075234335
-type: way
+type: node
 latitude: 33.41478
 longitude: -111.65385
 postcode: "85207"
 city: Mesa
-street: "East Apache Trail"
-housenumber: 8215
+street: East Apache Trail
+housenumber: "8215"
 phone: "+14809860587"
 opening_hours: ""
-website: "https://southwestgardenarts.com/"
+website: https://southwestgardenarts.com/

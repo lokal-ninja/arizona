@@ -1,11 +1,11 @@
 id: 237599062
-type: way
+type: node
 latitude: 33.62735
 longitude: -111.89928
 postcode: "85260"
 city: Scottsdale
-street: "North 84th Street"
-housenumber: 15455
+street: North 84th Street
+housenumber: "15455"
 phone: ""
 opening_hours: ""
 website: ""

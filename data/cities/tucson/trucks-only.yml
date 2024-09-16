@@ -1,11 +1,11 @@
 id: 1288578836
-type: way
+type: node
 latitude: 32.13515
 longitude: -110.92729
 postcode: "85706"
 city: Tucson
-street: "East Valencia Road"
-housenumber: 3085
+street: East Valencia Road
+housenumber: "3085"
 phone: ""
 opening_hours: ""
-website: "https://www.trucksonlysales.com/"
+website: https://www.trucksonlysales.com/

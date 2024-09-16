@@ -1,11 +1,11 @@
 id: 807428633
-type: way
+type: node
 latitude: 33.41377
 longitude: -111.68406
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 6821
+street: East Main Street
+housenumber: "6821"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543898843
-type: way
+type: node
 latitude: 33.28766
 longitude: -111.75914
 postcode: "85297"
 city: Gilbert
-street: "East Motorplex Loop"
-housenumber: 1465
+street: East Motorplex Loop
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

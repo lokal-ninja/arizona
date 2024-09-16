@@ -1,11 +1,11 @@
 id: 827225431
-type: way
+type: node
 latitude: 33.41108
 longitude: -111.83967
 postcode: "85210"
 city: Mesa
-street: "West 2nd Avenue"
-housenumber: 162
+street: West 2nd Avenue
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

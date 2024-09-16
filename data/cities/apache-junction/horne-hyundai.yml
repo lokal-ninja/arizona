@@ -1,11 +1,11 @@
 id: 164545479
-type: way
+type: node
 latitude: 33.38514
 longitude: -111.53115
 postcode: "85119"
 city: Apache Junction
-street: "East Auto Center Drive"
-housenumber: 1360
+street: East Auto Center Drive
+housenumber: "1360"
 phone: ""
 opening_hours: ""
-website: "https://www.hornehyundai.com/"
+website: https://www.hornehyundai.com/

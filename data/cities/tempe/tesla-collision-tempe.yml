@@ -1,11 +1,11 @@
 id: 221109279
-type: way
+type: node
 latitude: 33.35625
 longitude: -111.96612
 postcode: "85283"
 city: Tempe
-street: "South Harl Avenue"
-housenumber: 7015
-phone: "+1 480-444-3327"
+street: South Harl Avenue
+housenumber: "7015"
+phone: +1 480-444-3327
 opening_hours: ""
-website: "https://www.tesla.com/en_US/findus/location/bodyshop/tempebodyrepair"
+website: https://www.tesla.com/en_US/findus/location/bodyshop/tempebodyrepair

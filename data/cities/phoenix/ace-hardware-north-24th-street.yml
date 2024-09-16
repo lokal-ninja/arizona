@@ -1,11 +1,11 @@
 id: 572182160
-type: way
+type: node
 latitude: 33.47268
 longitude: -112.03076
 postcode: "85008"
 city: Phoenix
-street: "North 24th Street"
-housenumber: 2242
-phone: "+1 602-244-8031"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://www.acehardware.com/store-details/06234"
+street: North 24th Street
+housenumber: "2242"
+phone: +1 602-244-8031
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 08:00-17:00
+website: https://www.acehardware.com/store-details/06234

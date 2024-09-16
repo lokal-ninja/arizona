@@ -1,11 +1,11 @@
 id: 314522179
-type: way
+type: node
 latitude: 32.22937
 longitude: -110.87367
 postcode: "85711"
 city: Tucson
-street: "East 5th Street"
-housenumber: 5595
+street: East 5th Street
+housenumber: "5595"
 phone: ""
 opening_hours: ""
 website: ""

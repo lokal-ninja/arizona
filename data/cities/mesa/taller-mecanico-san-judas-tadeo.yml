@@ -1,11 +1,11 @@
 id: 1282641038
-type: way
+type: node
 latitude: 33.40746
 longitude: -111.82549
 postcode: "85210"
 city: Mesa
-street: "East Broadway Road"
-housenumber: 249
+street: East Broadway Road
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

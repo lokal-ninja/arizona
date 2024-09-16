@@ -1,11 +1,11 @@
 id: 737131948
-type: way
+type: node
 latitude: 32.21783
 longitude: -110.9846
 postcode: "85745"
 city: Tucson
-street: "South Avenida del Convento"
-housenumber: 267
+street: South Avenida del Convento
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

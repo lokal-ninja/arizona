@@ -1,11 +1,11 @@
 id: 1303832878
-type: way
+type: node
 latitude: 33.79974
 longitude: -112.12609
 postcode: "85086"
 city: Phoenix
-street: "W Carefree HWY"
-housenumber: 3120
-phone: "480 318 1025"
-opening_hours: "Mo-Fr 09:00-18:00, Sat 09:00-17:00, Sun Closed"
-website: "https://kcshomefragrances.com/"
+street: W Carefree HWY
+housenumber: "3120"
+phone: 480 318 1025
+opening_hours: Mo-Fr 09:00-18:00, Sat 09:00-17:00, Sun Closed
+website: https://kcshomefragrances.com/

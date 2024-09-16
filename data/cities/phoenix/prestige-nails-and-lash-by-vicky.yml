@@ -1,11 +1,11 @@
 id: 1303970517
-type: way
+type: node
 latitude: 33.79932
 longitude: -112.13114
 postcode: "85086"
 city: Phoenix
-street: "N. Valley Parkway"
-housenumber: 34640
-phone: "623 582 2056"
-opening_hours: "Mo-Fr 09:00-18:30 Sat 9:00-18:00, Sun 10:00-17:00"
-website: "https://prestigenailsandlashbyvickyphoenix.com/"
+street: N. Valley Parkway
+housenumber: "34640"
+phone: 623 582 2056
+opening_hours: Mo-Fr 09:00-18:30 Sat 9:00-18:00, Sun 10:00-17:00
+website: https://prestigenailsandlashbyvickyphoenix.com/

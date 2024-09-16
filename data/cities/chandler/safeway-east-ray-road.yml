@@ -1,11 +1,11 @@
 id: 821669973
-type: way
+type: node
 latitude: 33.32169
 longitude: -111.82212
 postcode: "85225"
 city: Chandler
-street: "East Ray Road"
-housenumber: 1060
-phone: "+1 480-855-5005"
+street: East Ray Road
+housenumber: "1060"
+phone: +1 480-855-5005
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/chandler/1060-e-ray-rd.html"
+website: https://local.safeway.com/safeway/az/chandler/1060-e-ray-rd.html

@@ -1,11 +1,11 @@
 id: 775645807
-type: way
+type: node
 latitude: 33.63814
 longitude: -112.41665
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 16641
-phone: "+1-623-223-1035"
+street: West Bell Road
+housenumber: "16641"
+phone: +1-623-223-1035
 opening_hours: ""
-website: "https://www.greulichs.com/address/surprise/"
+website: https://www.greulichs.com/address/surprise/

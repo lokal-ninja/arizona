@@ -1,11 +1,11 @@
 id: 1132371498
-type: way
+type: node
 latitude: 33.38264
 longitude: -111.80285
 postcode: "85204"
 city: Mesa
-street: "South Stapley Drive"
-housenumber: 1721
-phone: "+1 480-347-0069"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/mesa/5065"
+street: South Stapley Drive
+housenumber: "1721"
+phone: +1 480-347-0069
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/mesa/5065

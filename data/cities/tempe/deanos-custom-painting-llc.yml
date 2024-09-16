@@ -1,11 +1,11 @@
 id: 1196170486
-type: way
+type: node
 latitude: 33.43944
 longitude: -111.92385
 postcode: "85281"
 city: Tempe
-street: "North Mary Street"
-housenumber: 850
+street: North Mary Street
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1160378982
-type: way
+type: node
 latitude: 35.20349
 longitude: -114.02435
 postcode: "86401"
 city: Kingman
-street: "Kingman Avenue"
-housenumber: 2310
-phone: "+1-928-757-1172"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.apexautoglassandtint.com/"
+street: Kingman Avenue
+housenumber: "2310"
+phone: +1-928-757-1172
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.apexautoglassandtint.com/

@@ -1,11 +1,11 @@
 id: 952157222
-type: way
+type: node
 latitude: 33.40219
 longitude: -112.00767
 postcode: "85040"
 city: Phoenix
-street: "South 35th Street"
-housenumber: 4832
+street: South 35th Street
+housenumber: "4832"
 phone: ""
 opening_hours: ""
 website: ""

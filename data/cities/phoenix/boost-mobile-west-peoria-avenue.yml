@@ -1,11 +1,11 @@
 id: 405251140
-type: way
+type: node
 latitude: 33.5824
 longitude: -112.13342
 postcode: "85029"
 city: Phoenix
-street: "West Peoria Avenue"
-housenumber: 3434
+street: West Peoria Avenue
+housenumber: "3434"
 phone: ""
 opening_hours: ""
 website: ""

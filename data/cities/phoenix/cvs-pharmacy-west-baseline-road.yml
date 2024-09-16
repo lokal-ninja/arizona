@@ -1,11 +1,11 @@
 id: 155766519
-type: way
+type: node
 latitude: 33.37851
 longitude: -112.16753
 postcode: "85339"
 city: Phoenix
-street: "West Baseline Road"
-housenumber: 5050
+street: West Baseline Road
+housenumber: "5050"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/laveen-az-pharmacies/5050-w-baseline-rd-laveen-az-85339/storeid=5892"
+website: https://www.cvs.com/store-locator/laveen-az-pharmacies/5050-w-baseline-rd-laveen-az-85339/storeid=5892

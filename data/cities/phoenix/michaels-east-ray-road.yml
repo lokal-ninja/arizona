@@ -4,8 +4,8 @@ latitude: 33.31761
 longitude: -111.98109
 postcode: "85044"
 city: Phoenix
-street: "East Ray Road"
-housenumber: 4735
-phone: "+1 480-705-9426"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/phoenix/5050"
+street: East Ray Road
+housenumber: "4735"
+phone: +1 480-705-9426
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/phoenix/5050

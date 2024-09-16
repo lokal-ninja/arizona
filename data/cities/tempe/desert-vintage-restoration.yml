@@ -1,11 +1,11 @@
 id: 871714478
-type: way
+type: node
 latitude: 33.42917
 longitude: -111.8947
 postcode: "85281"
 city: Tempe
-street: "South River Drive"
-housenumber: 103
+street: South River Drive
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

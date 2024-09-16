@@ -4,8 +4,8 @@ latitude: 33.47919
 longitude: -111.98415
 postcode: "85018"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 4505
-phone: "+1 602-952-1491"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/44th-st-thomas/660/00135"
+street: East Thomas Road
+housenumber: "4505"
+phone: +1 602-952-1491
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/44th-st-thomas/660/00135

@@ -1,11 +1,11 @@
 id: 663628173
-type: way
+type: node
 latitude: 32.20931
 longitude: -110.85749
 postcode: "85710"
 city: Tucson
-street: "East 22nd Street"
-housenumber: 6307
+street: East 22nd Street
+housenumber: "6307"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/tucson/6307-e-22nd-st.html"
+website: https://www.autozone.com/locations/az/tucson/6307-e-22nd-st.html

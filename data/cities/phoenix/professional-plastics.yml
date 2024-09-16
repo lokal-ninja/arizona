@@ -1,11 +1,11 @@
 id: 158948752
-type: way
+type: node
 latitude: 33.40541
 longitude: -111.99858
 postcode: "85040"
 city: Phoenix
-street: "South 38th Place"
-housenumber: 4449
+street: South 38th Place
+housenumber: "4449"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153285995
-type: way
+type: node
 latitude: 33.50901
 longitude: -112.20371
 postcode: "85033"
 city: Phoenix
-street: "West Camelback Road"
-housenumber: 6701
-phone: "+1 623-846-5777"
+street: West Camelback Road
+housenumber: "6701"
+phone: +1 623-846-5777
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/4840-n-67th-ave-27518"
+website: https://www.7-eleven.com/locations/az/phoenix/4840-n-67th-ave-27518

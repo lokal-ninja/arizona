@@ -4,8 +4,8 @@ latitude: 33.45885
 longitude: -112.07346
 postcode: "85004"
 city: Phoenix
-street: "North Central Avenue"
-housenumber: 1001
-phone: "+1-480-676-0076"
+street: North Central Avenue
+housenumber: "1001"
+phone: +1-480-676-0076
 opening_hours: ""
-website: "nowornever.shop"
+website: nowornever.shop

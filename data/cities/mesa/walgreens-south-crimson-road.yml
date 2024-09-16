@@ -1,11 +1,11 @@
 id: 280404748
-type: way
+type: node
 latitude: 33.39376
 longitude: -111.6164
 postcode: "85208"
 city: Mesa
-street: "South Crimson Road"
-housenumber: 1158
+street: South Crimson Road
+housenumber: "1158"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1158+s+crismon+rd-mesa-az-85208/id=5701"
+website: https://www.walgreens.com/locator/walgreens-1158+s+crismon+rd-mesa-az-85208/id=5701

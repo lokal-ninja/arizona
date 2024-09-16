@@ -1,11 +1,11 @@
 id: 306191693
-type: way
+type: node
 latitude: 33.36779
 longitude: -111.839
 postcode: "85233"
 city: Gilbert
-street: "North Colorado Street"
-housenumber: 1019
+street: North Colorado Street
+housenumber: "1019"
 phone: ""
 opening_hours: ""
 website: ""

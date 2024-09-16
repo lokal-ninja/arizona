@@ -1,11 +1,11 @@
 id: 834838704
-type: way
+type: node
 latitude: 33.33681
 longitude: -111.8596
 postcode: "85224"
 city: Chandler
-street: "North Alma School Road"
-housenumber: 2050
+street: North Alma School Road
+housenumber: "2050"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/chandler/6311/"
+website: https://www.dollartree.com/locations/az/chandler/6311/

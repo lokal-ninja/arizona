@@ -1,11 +1,11 @@
 id: 211707812
-type: way
+type: node
 latitude: 33.38218
 longitude: -111.59831
 postcode: "85209"
 city: Mesa
-street: "South Signal Butte Road"
-housenumber: 1855
+street: South Signal Butte Road
+housenumber: "1855"
 phone: ""
 opening_hours: ""
 website: ""

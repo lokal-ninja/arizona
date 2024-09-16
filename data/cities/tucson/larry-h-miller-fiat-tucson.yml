@@ -1,11 +1,11 @@
 id: 477136590
-type: way
+type: node
 latitude: 32.28723
 longitude: -110.98992
 postcode: "85705"
 city: Tucson
-street: "West Wetmore Road"
-housenumber: 1000
-phone: "888-718-4177"
-opening_hours: "Mo-Fr 08:30-20:00, Sa 08:30-19:00, Su closed"
-website: "https://www.fiatusaoftucson.com/"
+street: West Wetmore Road
+housenumber: "1000"
+phone: 888-718-4177
+opening_hours: Mo-Fr 08:30-20:00, Sa 08:30-19:00, Su closed
+website: https://www.fiatusaoftucson.com/

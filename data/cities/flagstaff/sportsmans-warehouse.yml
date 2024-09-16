@@ -1,11 +1,11 @@
 id: 561330839
-type: way
+type: node
 latitude: 35.20396
 longitude: -111.61494
 postcode: "86004"
 city: Flagstaff
-street: "East Route 66"
-housenumber: 2231
+street: East Route 66
+housenumber: "2231"
 phone: ""
 opening_hours: ""
 website: ""

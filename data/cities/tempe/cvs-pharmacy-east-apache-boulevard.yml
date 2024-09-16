@@ -1,11 +1,11 @@
 id: 594121607
-type: way
+type: node
 latitude: 33.41454
 longitude: -111.92605
 postcode: "85281"
 city: Tempe
-street: "East Apache Boulevard"
-housenumber: 909
+street: East Apache Boulevard
+housenumber: "909"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/tempe-az-pharmacies/909-east-apache-blvd-tempe-az-85281/storeid=10928"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/tempe-az-pharmacies/909-east-apache-blvd-tempe-az-85281/storeid=10928

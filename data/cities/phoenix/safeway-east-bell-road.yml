@@ -1,11 +1,11 @@
 id: 145092098
-type: way
+type: node
 latitude: 33.6415
 longitude: -112.06694
 postcode: "85022"
 city: Phoenix
-street: "East Bell Road"
-housenumber: 550
-phone: "+1 602-863-4194"
+street: East Bell Road
+housenumber: "550"
+phone: +1 602-863-4194
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/550-e-bell-rd.html"
+website: https://local.safeway.com/safeway/az/phoenix/550-e-bell-rd.html

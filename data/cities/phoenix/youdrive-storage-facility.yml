@@ -1,11 +1,11 @@
 id: 218962632
-type: way
+type: node
 latitude: 33.42258
 longitude: -111.99296
 postcode: "85034"
 city: Phoenix
-street: "East Magnolia Street"
-housenumber: 4105
+street: East Magnolia Street
+housenumber: "4105"
 phone: ""
 opening_hours: ""
 website: ""

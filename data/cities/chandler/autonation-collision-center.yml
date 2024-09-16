@@ -1,11 +1,11 @@
 id: 881757989
-type: way
+type: node
 latitude: 33.27277
 longitude: -111.79733
 postcode: "85286"
 city: Chandler
-street: "South Dogulas Drive"
-housenumber: 2190
+street: South Dogulas Drive
+housenumber: "2190"
 phone: ""
 opening_hours: ""
 website: ""

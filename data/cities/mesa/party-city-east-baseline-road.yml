@@ -1,11 +1,11 @@
 id: 1132374081
-type: way
+type: node
 latitude: 33.37966
 longitude: -111.80539
 postcode: "85204"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 1236
-phone: "+1 623-257-4010"
+street: East Baseline Road
+housenumber: "1236"
+phone: +1 623-257-4010
 opening_hours: ""
-website: "https://stores.partycity.com/us/az/mesa/party-store-pc950.html"
+website: https://stores.partycity.com/us/az/mesa/party-store-pc950.html

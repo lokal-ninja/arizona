@@ -1,11 +1,11 @@
 id: 979697616
-type: way
+type: node
 latitude: 33.29596
 longitude: -111.89901
 postcode: "85226"
 city: Chandler
-street: "West Frye Road"
-housenumber: 3425
-phone: "+1 480-281-0007"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/chandler-fashion-center/1838"
+street: West Frye Road
+housenumber: "3425"
+phone: +1 480-281-0007
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/chandler-fashion-center/1838

@@ -1,11 +1,11 @@
 id: 541994976
-type: way
+type: node
 latitude: 32.21966
 longitude: -110.85756
 postcode: "85710"
 city: Tucson
-street: "South Wilmot Road"
-housenumber: 203
+street: South Wilmot Road
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 237860632
-type: way
+type: node
 latitude: 33.62091
 longitude: -111.90849
 postcode: "85260"
 city: Scottsdale
-street: "North 78th Way"
-housenumber: 14855
+street: North 78th Way
+housenumber: "14855"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1123224504
-type: way
+type: node
 latitude: 33.37857
 longitude: -112.17366
 postcode: "85339"
 city: Phoenix
-street: "West Baseline Road"
-housenumber: 5250
+street: West Baseline Road
+housenumber: "5250"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/laveen/3538/"
+website: https://www.dollartree.com/locations/az/laveen/3538/

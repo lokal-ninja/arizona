@@ -1,11 +1,11 @@
 id: 262461744
-type: way
+type: node
 latitude: 32.26458
 longitude: -110.91396
 postcode: "85716"
 city: Tucson
-street: "North Dodge Boulevard"
-housenumber: 3138
+street: North Dodge Boulevard
+housenumber: "3138"
 phone: ""
 opening_hours: ""
-website: "https://www.ramsowersauto.com/"
+website: https://www.ramsowersauto.com/

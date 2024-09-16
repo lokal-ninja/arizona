@@ -1,11 +1,11 @@
 id: 993527662
-type: way
+type: node
 latitude: 33.36416
 longitude: -111.60188
 postcode: "85212"
 city: Mesa
-street: "East Guadalupe Road"
-housenumber: 
+street: East Guadalupe Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/az/mesa/oil-change-090049.html"
+website: https://store.vioc.com/az/mesa/oil-change-090049.html

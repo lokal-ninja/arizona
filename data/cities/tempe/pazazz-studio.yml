@@ -1,11 +1,11 @@
 id: 1126391062
-type: way
+type: node
 latitude: 33.37527
 longitude: -111.92015
 postcode: "85283"
 city: Tempe
-street: "South Lakeshore Drive"
-housenumber: 5430
+street: South Lakeshore Drive
+housenumber: "5430"
 phone: ""
 opening_hours: ""
 website: ""

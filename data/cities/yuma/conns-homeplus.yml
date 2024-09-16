@@ -1,11 +1,11 @@
 id: 183939196
-type: way
+type: node
 latitude: 32.70599
 longitude: -114.60902
 postcode: "85365"
 city: Yuma
-street: "South Castle Dome Avenue"
-housenumber: 1190
-phone: "928-782-5613"
+street: South Castle Dome Avenue
+housenumber: "1190"
+phone: 928-782-5613
 opening_hours: ""
-website: "https://www.conns.com/az/yuma/1190-s-castle-dome-ave-85364"
+website: https://www.conns.com/az/yuma/1190-s-castle-dome-ave-85364

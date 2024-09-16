@@ -1,11 +1,11 @@
 id: 986389429
-type: way
+type: node
 latitude: 33.33395
 longitude: -111.96144
 postcode: "85284"
 city: Tempe
-street: "West Warner Road"
-housenumber: 1325
-phone: "+1-480-765-2235"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/tempe/az/3500/"
+street: West Warner Road
+housenumber: "1325"
+phone: +1-480-765-2235
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/tempe/az/3500/

@@ -1,11 +1,11 @@
 id: 839175349
-type: way
+type: node
 latitude: 33.33422
 longitude: -111.72224
 postcode: "85296"
 city: Gilbert
-street: "South Higley Road"
-housenumber: 888
+street: South Higley Road
+housenumber: "888"
 phone: ""
 opening_hours: ""
 website: ""

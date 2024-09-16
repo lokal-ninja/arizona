@@ -1,11 +1,11 @@
 id: 1227040435
-type: way
+type: node
 latitude: 33.46351
 longitude: -112.11845
 postcode: "85009"
 city: Phoenix
-street: "West Willetta Street"
-housenumber: 2721
+street: West Willetta Street
+housenumber: "2721"
 phone: ""
 opening_hours: ""
 website: ""

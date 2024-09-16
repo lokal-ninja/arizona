@@ -1,11 +1,11 @@
 id: 188702475
-type: way
+type: node
 latitude: 34.56739
 longitude: -112.48322
 postcode: "86301"
 city: Prescott
-street: "Willow Creek Road"
-housenumber: 1310
-phone: "+1 (928) 227-9965"
-opening_hours: "Mo-Su 8:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-1310+willow+creek+rd-prescott-az-86301/id=9292"
+street: Willow Creek Road
+housenumber: "1310"
+phone: +1 (928) 227-9965
+opening_hours: Mo-Su 8:00-20:00
+website: https://www.walgreens.com/locator/walgreens-1310+willow+creek+rd-prescott-az-86301/id=9292

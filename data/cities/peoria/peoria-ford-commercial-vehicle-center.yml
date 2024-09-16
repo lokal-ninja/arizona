@@ -1,11 +1,11 @@
 id: 906418693
-type: way
+type: node
 latitude: 33.6414
 longitude: -112.25663
 postcode: "85382"
 city: Peoria
-street: "North 92nd Avenue"
-housenumber: 17388
+street: North 92nd Avenue
+housenumber: "17388"
 phone: ""
 opening_hours: ""
 website: ""

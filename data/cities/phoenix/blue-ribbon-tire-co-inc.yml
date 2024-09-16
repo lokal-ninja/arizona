@@ -1,11 +1,11 @@
 id: 956118219
-type: way
+type: node
 latitude: 33.46485
 longitude: -112.1114
 postcode: "85009"
 city: Phoenix
-street: "North 24th Avenue"
-housenumber: 1402
+street: North 24th Avenue
+housenumber: "1402"
 phone: ""
 opening_hours: ""
 website: ""

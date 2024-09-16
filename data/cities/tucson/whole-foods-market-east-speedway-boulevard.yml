@@ -1,11 +1,11 @@
 id: 236029203
-type: way
+type: node
 latitude: 32.2358
 longitude: -110.92165
 postcode: "85716"
 city: Tucson
-street: "East Speedway Boulevard"
-housenumber: 3360
-phone: "+1 520-795-9844"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/speedway"
+street: East Speedway Boulevard
+housenumber: "3360"
+phone: +1 520-795-9844
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/speedway

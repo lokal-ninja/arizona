@@ -1,11 +1,11 @@
 id: 387333538
-type: way
+type: node
 latitude: 34.25947
 longitude: -110.01326
 postcode: "85901"
 city: Show Low
-street: "North Automall Parkway"
-housenumber: 1051
+street: North Automall Parkway
+housenumber: "1051"
 phone: ""
 opening_hours: ""
 website: ""

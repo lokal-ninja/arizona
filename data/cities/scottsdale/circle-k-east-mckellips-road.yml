@@ -1,11 +1,11 @@
 id: 1017726534
-type: way
+type: node
 latitude: 33.45182
 longitude: -111.91732
 postcode: "85257"
 city: Scottsdale
-street: "East McKellips Road"
-housenumber: 7602
+street: East McKellips Road
+housenumber: "7602"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1029688237
-type: way
+type: node
 latitude: 31.71297
 longitude: -110.06435
 postcode: "85638"
 city: Tombstone
-street: "East Fremont Street"
-housenumber: 600
+street: East Fremont Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

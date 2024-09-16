@@ -1,11 +1,11 @@
 id: 546186507
-type: way
+type: node
 latitude: 33.48892
 longitude: -111.92807
 postcode: "85251"
 city: Scottsdale
-street: "North Goldwater Boulevard"
-housenumber: 3550
+street: North Goldwater Boulevard
+housenumber: "3550"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://stores.staples.com/az/scottsdale/3550-north-goldwater-blvd"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00
+website: https://stores.staples.com/az/scottsdale/3550-north-goldwater-blvd

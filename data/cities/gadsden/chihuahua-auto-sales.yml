@@ -1,11 +1,11 @@
 id: 736271295
-type: way
+type: node
 latitude: 32.55981
 longitude: -114.78484
 postcode: "85336"
 city: Gadsden
-street: "Colorado Street"
-housenumber: 18321
+street: Colorado Street
+housenumber: "18321"
 phone: ""
 opening_hours: ""
 website: ""

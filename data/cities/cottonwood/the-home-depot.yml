@@ -1,11 +1,11 @@
 id: 193817838
-type: way
+type: node
 latitude: 34.72105
 longitude: -112.00526
 postcode: "86326"
 city: Cottonwood
-street: "Highway 260"
-housenumber: 1030
-phone: "+1 928-649-3758"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/cottonwood/az/cottonwood/86326/423"
+street: Highway 260
+housenumber: "1030"
+phone: +1 928-649-3758
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/cottonwood/az/cottonwood/86326/423

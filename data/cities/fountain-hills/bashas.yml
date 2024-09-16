@@ -1,11 +1,11 @@
 id: 520942175
-type: way
+type: node
 latitude: 33.60846
 longitude: -111.72208
 postcode: "85268"
 city: Fountain Hills
-street: "East Palisades Boulevard"
-housenumber: 16605
+street: East Palisades Boulevard
+housenumber: "16605"
 phone: "+14803914020"
-opening_hours: "Su-Sa 05:00-23:00"
+opening_hours: Su-Sa 05:00-23:00
 website: ""

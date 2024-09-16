@@ -1,11 +1,11 @@
 id: 1017726580
-type: way
+type: node
 latitude: 33.43927
 longitude: -111.92146
 postcode: "85281"
 city: Tempe
-street: "East Curry Road"
-housenumber: 1127
+street: East Curry Road
+housenumber: "1127"
 phone: ""
 opening_hours: ""
 website: ""

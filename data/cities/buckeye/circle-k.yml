@@ -1,11 +1,11 @@
 id: 302427382
-type: way
+type: node
 latitude: 33.44224
 longitude: -112.55549
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 537
+street: South Watson Road
+housenumber: "537"
 phone: ""
 opening_hours: ""
 website: ""

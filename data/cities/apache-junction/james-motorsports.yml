@@ -1,11 +1,11 @@
 id: 165396202
-type: way
+type: node
 latitude: 33.41445
 longitude: -111.56513
 postcode: "85120"
 city: Apache Junction
-street: "South Saguaro Drive"
-housenumber: 75
-phone: "+1 480 983 3928"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://jamesmotorsport.com/"
+street: South Saguaro Drive
+housenumber: "75"
+phone: +1 480 983 3928
+opening_hours: Mo-Fr 08:00-17:00
+website: https://jamesmotorsport.com/

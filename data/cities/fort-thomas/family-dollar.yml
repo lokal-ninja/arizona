@@ -1,11 +1,11 @@
 id: 541081819
-type: way
+type: node
 latitude: 33.03869
 longitude: -109.96828
 postcode: "85536"
 city: Fort Thomas
-street: "West US 70"
-housenumber: 15822
-phone: "+1 928 485 8594"
-opening_hours: "08:00-22:00"
-website: "https://locations.familydollar.com/az/ft.-thomas/30218/"
+street: West US 70
+housenumber: "15822"
+phone: +1 928 485 8594
+opening_hours: 08:00-22:00
+website: https://locations.familydollar.com/az/ft.-thomas/30218/

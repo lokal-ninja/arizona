@@ -1,11 +1,11 @@
 id: 1119071066
-type: way
+type: node
 latitude: 32.71266
 longitude: -114.65217
 postcode: "85364"
 city: Yuma
-street: "West 8th Street"
-housenumber: 2675
-phone: "+1 928-261-4120"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7320/yuma-az/whats-new"
+street: West 8th Street
+housenumber: "2675"
+phone: +1 928-261-4120
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7320/yuma-az/whats-new

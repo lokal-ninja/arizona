@@ -1,11 +1,11 @@
 id: 244780341
-type: way
+type: node
 latitude: 31.71369
 longitude: -110.06833
 postcode: "85638"
 city: Tombstone
-street: "South 3rd Street"
-housenumber: 69
+street: South 3rd Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

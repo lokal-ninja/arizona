@@ -1,11 +1,11 @@
 id: 239919538
-type: way
+type: node
 latitude: 33.46559
 longitude: -112.18692
 postcode: "85035"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 5901
-phone: "+1 623-247-7555"
+street: West McDowell Road
+housenumber: "5901"
+phone: +1 623-247-7555
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/5901-west-mcdowell-rd-19158"
+website: https://www.7-eleven.com/locations/az/phoenix/5901-west-mcdowell-rd-19158

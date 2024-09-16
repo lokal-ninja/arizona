@@ -4,8 +4,8 @@ latitude: 33.5098
 longitude: -112.07407
 postcode: ""
 city: Phoenix
-street: "North Central Avenue"
-housenumber: 5024
+street: North Central Avenue
+housenumber: "5024"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 858675080
-type: way
+type: node
 latitude: 33.65393
 longitude: -111.9268
 postcode: "85054"
 city: Phoenix
-street: "East Mayo Boulevard"
-housenumber: 7111
-phone: "+1 480-515-3777"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/scottsdale"
+street: East Mayo Boulevard
+housenumber: "7111"
+phone: +1 480-515-3777
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/scottsdale

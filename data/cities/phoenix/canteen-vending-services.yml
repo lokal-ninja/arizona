@@ -1,11 +1,11 @@
 id: 1246196792
-type: way
+type: node
 latitude: 33.42238
 longitude: -112.0551
 postcode: "85034"
 city: Phoenix
-street: "South 12th Place"
-housenumber: 2675
+street: South 12th Place
+housenumber: "2675"
 phone: ""
 opening_hours: ""
 website: ""

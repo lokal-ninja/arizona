@@ -1,11 +1,11 @@
 id: 1157119059
-type: way
+type: node
 latitude: 33.60496
 longitude: -112.41739
 postcode: "85388"
 city: Surprise
-street: "North Prasada Parkway"
-housenumber: 13230
+street: North Prasada Parkway
+housenumber: "13230"
 phone: ""
 opening_hours: ""
-website: "https://www.flooranddecor.com/store?storeID=297"
+website: https://www.flooranddecor.com/store?storeID=297

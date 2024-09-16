@@ -4,8 +4,8 @@ latitude: 33.41486
 longitude: -111.62794
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 9333
-phone: "+1 480 258 5122"
-opening_hours: "Mo-Sa 10:00-19:30; Su 11:30-15:30"
+street: East Main Street
+housenumber: "9333"
+phone: +1 480 258 5122
+opening_hours: Mo-Sa 10:00-19:30; Su 11:30-15:30
 website: ""

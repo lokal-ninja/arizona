@@ -1,11 +1,11 @@
 id: 849390859
-type: way
+type: node
 latitude: 33.29945
 longitude: -111.74146
 postcode: "85295"
 city: Gilbert
-street: "South Market Street"
-housenumber: 2779
-phone: "+1 480-726-3777"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/gilbert-az-183"
+street: South Market Street
+housenumber: "2779"
+phone: +1 480-726-3777
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/gilbert-az-183

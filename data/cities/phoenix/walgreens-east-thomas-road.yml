@@ -1,11 +1,11 @@
 id: 137598734
-type: way
+type: node
 latitude: 33.48011
 longitude: -112.00382
 postcode: "85018"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 3605
+street: East Thomas Road
+housenumber: "3605"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3605+e+thomas+rd-phoenix-az-85018/id=3789"
+website: https://www.walgreens.com/locator/walgreens-3605+e+thomas+rd-phoenix-az-85018/id=3789

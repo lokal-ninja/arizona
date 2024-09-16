@@ -1,11 +1,11 @@
 id: 733373696
-type: way
+type: node
 latitude: 32.71265
 longitude: -114.63359
 postcode: "85364"
 city: Yuma
-street: "South Avenue A"
-housenumber: 812
+street: South Avenue A
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

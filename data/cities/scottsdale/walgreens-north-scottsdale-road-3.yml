@@ -1,11 +1,11 @@
 id: 857926001
-type: way
+type: node
 latitude: 33.67449
 longitude: -111.92413
 postcode: "85255"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 20631
+street: North Scottsdale Road
+housenumber: "20631"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20631+n+scottsdale+rd-scottsdale-az-85255/id=6534"
+website: https://www.walgreens.com/locator/walgreens-20631+n+scottsdale+rd-scottsdale-az-85255/id=6534

@@ -1,11 +1,11 @@
 id: 481080207
-type: way
+type: node
 latitude: 32.69921
 longitude: -114.61869
 postcode: "85364"
 city: Yuma
-street: "East 16th Street"
-housenumber: 276
-phone: "+1 928 329 9985"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.smartandfinal.com/"
+street: East 16th Street
+housenumber: "276"
+phone: +1 928 329 9985
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.smartandfinal.com/

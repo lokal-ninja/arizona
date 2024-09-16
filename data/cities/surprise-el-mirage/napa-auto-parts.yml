@@ -1,11 +1,11 @@
 id: 872835433
-type: way
+type: node
 latitude: 33.62266
 longitude: -112.33146
 postcode: "85335"
 city: Surprise;El Mirage
-street: "Northwest Grand Avenue"
-housenumber: 12555
+street: Northwest Grand Avenue
+housenumber: "12555"
 phone: ""
 opening_hours: ""
 website: ""

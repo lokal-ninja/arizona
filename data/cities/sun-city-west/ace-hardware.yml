@@ -1,11 +1,11 @@
 id: 256815229
-type: way
+type: node
 latitude: 33.65685
 longitude: -112.36073
 postcode: "85375"
 city: Sun City West
-street: "West Camino del Sol"
-housenumber: 13850
-phone: "+1 623-544-1020"
-opening_hours: "Mo-Sa 08:00-17:30; Su 09:00-16:00"
+street: West Camino del Sol
+housenumber: "13850"
+phone: +1 623-544-1020
+opening_hours: Mo-Sa 08:00-17:30; Su 09:00-16:00
 website: ""

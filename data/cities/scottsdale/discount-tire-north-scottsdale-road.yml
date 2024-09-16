@@ -1,11 +1,11 @@
 id: 714672158
-type: way
+type: node
 latitude: 33.47343
 longitude: -111.92584
 postcode: ""
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 2301
+street: North Scottsdale Road
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 419819939
-type: way
+type: node
 latitude: 33.49597
 longitude: -112.25846
 postcode: "85037"
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 9220
+street: West Indian School Road
+housenumber: "9220"
 phone: ""
 opening_hours: ""
-website: "https://primestorage.com/locations/AZ/phoenix/AZ01/"
+website: https://primestorage.com/locations/AZ/phoenix/AZ01/

@@ -1,11 +1,11 @@
 id: 510715982
-type: way
+type: node
 latitude: 33.38962
 longitude: -111.67309
 postcode: "85209"
 city: Mesa
-street: "East Hampton Avenue"
-housenumber: 7427
+street: East Hampton Avenue
+housenumber: "7427"
 phone: ""
 opening_hours: ""
 website: ""

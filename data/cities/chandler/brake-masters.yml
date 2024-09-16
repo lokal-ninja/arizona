@@ -1,11 +1,11 @@
 id: 520244665
-type: way
+type: node
 latitude: 33.28032
 longitude: -111.79606
 postcode: "85286"
 city: Chandler
-street: "East Germann Road"
-housenumber: 2600
+street: East Germann Road
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

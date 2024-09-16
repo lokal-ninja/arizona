@@ -1,11 +1,11 @@
 id: 719059104
-type: way
+type: node
 latitude: 33.46351
 longitude: -112.11453
 postcode: "85009"
 city: Phoenix
-street: "North 26th Avenue"
-housenumber: 1401
+street: North 26th Avenue
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 152606869
-type: way
+type: node
 latitude: 33.42457
 longitude: -112.24001
 postcode: "85043"
 city: Phoenix
-street: "South 83rd Avenue"
-housenumber: 2626
-phone: "+1 623-907-2434"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/83rd-ave-lower-buckeye/660/00079"
+street: South 83rd Avenue
+housenumber: "2626"
+phone: +1 623-907-2434
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/83rd-ave-lower-buckeye/660/00079

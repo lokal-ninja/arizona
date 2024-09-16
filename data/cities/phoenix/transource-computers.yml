@@ -1,11 +1,11 @@
 id: 155739341
-type: way
+type: node
 latitude: 33.66073
 longitude: -112.11054
 postcode: "85027"
 city: Phoenix
-street: "West Utopia Road"
-housenumber: 2405
+street: West Utopia Road
+housenumber: "2405"
 phone: ""
 opening_hours: ""
 website: ""

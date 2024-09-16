@@ -1,11 +1,11 @@
 id: 222511122
-type: way
+type: node
 latitude: 33.53789
 longitude: -112.17927
 postcode: "85301"
 city: Glendale
-street: "North 55th Drive"
-housenumber: 6826
+street: North 55th Drive
+housenumber: "6826"
 phone: ""
 opening_hours: ""
 website: ""

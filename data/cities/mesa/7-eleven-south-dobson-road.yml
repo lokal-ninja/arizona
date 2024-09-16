@@ -1,11 +1,11 @@
 id: 669882454
-type: way
+type: node
 latitude: 33.40006
 longitude: -111.87407
 postcode: "85202"
 city: Mesa
-street: "South Dobson Road"
-housenumber: 815
-phone: "+1 480-898-1077"
+street: South Dobson Road
+housenumber: "815"
+phone: +1 480-898-1077
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/mesa/815-s-dobson-rd-27036"
+website: https://www.7-eleven.com/locations/az/mesa/815-s-dobson-rd-27036

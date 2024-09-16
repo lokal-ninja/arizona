@@ -1,11 +1,11 @@
 id: 807428630
-type: way
+type: node
 latitude: 33.41403
 longitude: -111.68366
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 6839
-phone: "+1 480-832-6697"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/az/mesa/6839-e-main-st"
+street: East Main Street
+housenumber: "6839"
+phone: +1 480-832-6697
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/az/mesa/6839-e-main-st

@@ -1,11 +1,11 @@
 id: 1073637253
-type: way
+type: node
 latitude: 33.42314
 longitude: -111.63216
 postcode: "85207"
 city: Mesa
-street: "East University Drive"
-housenumber: 9230
+street: East University Drive
+housenumber: "9230"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.circlek.com/"
+opening_hours: 24/7
+website: https://www.circlek.com/

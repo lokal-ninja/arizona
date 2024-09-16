@@ -1,11 +1,11 @@
 id: 672725319
-type: way
+type: node
 latitude: 33.72777
 longitude: -111.85312
 postcode: "85262"
 city: Scottsdale
-street: "East Jomax Road"
-housenumber: 10482
+street: East Jomax Road
+housenumber: "10482"
 phone: ""
 opening_hours: ""
 website: ""

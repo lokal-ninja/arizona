@@ -1,11 +1,11 @@
 id: 318476245
-type: way
+type: node
 latitude: 33.39428
 longitude: -111.8278
 postcode: "85210"
 city: Mesa
-street: "South Sirrine"
-housenumber: 1146
+street: South Sirrine
+housenumber: "1146"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 668787776
-type: way
+type: node
 latitude: 32.22869
 longitude: -110.96587
 postcode: "85705"
 city: Tucson
-street: "North 4th Avenue"
-housenumber: 549
+street: North 4th Avenue
+housenumber: "549"
 phone: ""
 opening_hours: ""
 website: ""

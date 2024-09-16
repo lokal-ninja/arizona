@@ -1,11 +1,11 @@
 id: 476670385
-type: way
+type: node
 latitude: 32.29124
 longitude: -110.98112
 postcode: "85705"
 city: Tucson
-street: "North Circuit Road"
-housenumber: 4670
+street: North Circuit Road
+housenumber: "4670"
 phone: ""
 opening_hours: ""
-website: "https://www.royaltucson.com/"
+website: https://www.royaltucson.com/

@@ -1,11 +1,11 @@
 id: 833100623
-type: way
+type: node
 latitude: 32.22854
 longitude: -110.91001
-postcode: "85716-5145"
+postcode: 85716-5145
 city: Tucson
-street: "East 5th Street"
-housenumber: 3856
-phone: "+1 520-326-3282"
+street: East 5th Street
+housenumber: "3856"
+phone: +1 520-326-3282
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tucson/3856-east-fifth-st-23347"
+website: https://www.7-eleven.com/locations/az/tucson/3856-east-fifth-st-23347

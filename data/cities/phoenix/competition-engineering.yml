@@ -1,11 +1,11 @@
 id: 244490816
-type: way
+type: node
 latitude: 33.40949
 longitude: -112.00635
 postcode: "85040"
 city: Phoenix
-street: "East Wood Street"
-housenumber: 3442
+street: East Wood Street
+housenumber: "3442"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 779249127
-type: way
+type: node
 latitude: 33.37752
 longitude: -111.63472
 postcode: "85209"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 9221
+street: East Baseline Road
+housenumber: "9221"
 phone: ""
 opening_hours: ""
 website: ""

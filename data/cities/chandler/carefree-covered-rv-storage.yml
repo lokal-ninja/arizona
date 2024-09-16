@@ -1,11 +1,11 @@
 id: 560612942
-type: way
+type: node
 latitude: 33.27916
 longitude: -111.96119
 postcode: "85226"
 city: Chandler
-street: "South Nelson Drive"
-housenumber: 1575
-phone: "+1 (480) 488-9504"
+street: South Nelson Drive
+housenumber: "1575"
+phone: +1 (480) 488-9504
 opening_hours: ""
-website: "http://rvsuperstorage.com"
+website: http://rvsuperstorage.com

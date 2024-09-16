@@ -1,11 +1,11 @@
 id: 382975196
-type: way
+type: node
 latitude: 34.24684
 longitude: -110.05284
 postcode: "85901"
 city: Show Low
-street: "West Deuce Of Clubs"
-housenumber: 900
-phone: "+1 928-532-5656"
+street: West Deuce Of Clubs
+housenumber: "900"
+phone: +1 928-532-5656
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/show-low/900-w-deuce-of-clubs.html"
+website: https://local.safeway.com/safeway/az/show-low/900-w-deuce-of-clubs.html

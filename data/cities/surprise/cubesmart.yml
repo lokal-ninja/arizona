@@ -1,11 +1,11 @@
 id: 355581661
-type: way
+type: node
 latitude: 33.64187
 longitude: -112.35889
 postcode: "85374"
 city: Surprise
-street: "North Litchfield Road"
-housenumber: 17275
-phone: "+1-623-776-8100"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00"
+street: North Litchfield Road
+housenumber: "17275"
+phone: +1-623-776-8100
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00
 website: ""

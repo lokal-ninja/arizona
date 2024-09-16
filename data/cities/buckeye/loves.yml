@@ -1,11 +1,11 @@
 id: 223537900
-type: way
+type: node
 latitude: 33.43112
 longitude: -112.59193
 postcode: "85326"
 city: Buckeye
-street: "South Miller Road"
-housenumber: 1610
-phone: "+1 623 386 6926"
+street: South Miller Road
+housenumber: "1610"
+phone: +1 623 386 6926
 opening_hours: ""
 website: ""

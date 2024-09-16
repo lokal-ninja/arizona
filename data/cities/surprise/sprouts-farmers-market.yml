@@ -1,11 +1,11 @@
 id: 358325023
-type: way
+type: node
 latitude: 33.63718
 longitude: -112.3565
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13759
-phone: "+1 623-544-3121"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://www.sprouts.com/store/az/surprise/w-bell-rd/"
+street: West Bell Road
+housenumber: "13759"
+phone: +1 623-544-3121
+opening_hours: Su-Sa 07:00-22:00
+website: https://www.sprouts.com/store/az/surprise/w-bell-rd/

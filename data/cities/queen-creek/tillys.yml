@@ -1,11 +1,11 @@
 id: 853091252
-type: way
+type: node
 latitude: 33.25256
 longitude: -111.64032
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Loop Road"
-housenumber: 21536
+street: South Ellsworth Loop Road
+housenumber: "21536"
 phone: "+14808887913"
 opening_hours: ""
-website: "https://www.tillys.com/store/?StoreID=0083&utm_source=Google&utm_medium=Local_Directory"
+website: https://www.tillys.com/store/?StoreID=0083&utm_source=Google&utm_medium=Local_Directory

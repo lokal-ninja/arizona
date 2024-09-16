@@ -1,11 +1,11 @@
 id: 156723207
-type: way
+type: node
 latitude: 33.50635
 longitude: -112.04684
 postcode: "85016"
 city: Phoenix
-street: "North 16th Street"
-housenumber: 1610
+street: North 16th Street
+housenumber: "1610"
 phone: ""
 opening_hours: ""
 website: ""

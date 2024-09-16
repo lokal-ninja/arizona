@@ -1,11 +1,11 @@
 id: 992962615
-type: way
+type: node
 latitude: 33.03808
 longitude: -111.37821
 postcode: "85132"
 city: Florence
-street: "North Pinal Parkway"
-housenumber: 649
+street: North Pinal Parkway
+housenumber: "649"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Florence/649-N-Pinal-Parkway"
+website: https://www.speedway.com/locations/AZ/Florence/649-N-Pinal-Parkway

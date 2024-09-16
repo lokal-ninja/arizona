@@ -1,11 +1,11 @@
 id: 46684122
-type: way
+type: node
 latitude: 33.42228
 longitude: -111.77068
 postcode: "85213"
 city: Mesa
-street: "East University Drive"
-housenumber: 2815
+street: East University Drive
+housenumber: "2815"
 phone: ""
 opening_hours: ""
 website: ""

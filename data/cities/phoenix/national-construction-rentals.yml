@@ -1,11 +1,11 @@
 id: 497328384
-type: way
+type: node
 latitude: 33.45806
 longitude: -112.10533
 postcode: "85009"
 city: Phoenix
-street: "West Roosevelt Street"
-housenumber: 2131
+street: West Roosevelt Street
+housenumber: "2131"
 phone: ""
 opening_hours: ""
 website: ""

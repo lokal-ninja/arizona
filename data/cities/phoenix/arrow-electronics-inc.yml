@@ -1,11 +1,11 @@
 id: 126987070
-type: way
+type: node
 latitude: 33.44103
 longitude: -112.04063
 postcode: "85032"
 city: Phoenix
-street: "East Sky Harbor Circle North"
-housenumber: 1955
+street: East Sky Harbor Circle North
+housenumber: "1955"
 phone: ""
 opening_hours: ""
 website: ""

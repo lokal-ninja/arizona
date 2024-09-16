@@ -1,11 +1,11 @@
 id: 343708766
-type: way
+type: node
 latitude: 33.43665
 longitude: -112.06936
 postcode: "85004"
 city: Phoenix
-street: "East Buckeye Road"
-housenumber: 307
+street: East Buckeye Road
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

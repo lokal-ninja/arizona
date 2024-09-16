@@ -1,11 +1,11 @@
 id: 848184626
-type: way
+type: node
 latitude: 33.3853
 longitude: -111.74022
 postcode: "85206"
 city: Mesa
-street: "South Greenfield Road"
-housenumber: 1710
-phone: "+1 480-892-3814"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5428-mesa-az"
+street: South Greenfield Road
+housenumber: "1710"
+phone: +1 480-892-3814
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5428-mesa-az

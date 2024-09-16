@@ -1,11 +1,11 @@
 id: 830164367
-type: way
+type: node
 latitude: 33.24541
 longitude: -111.84425
 postcode: "85248"
 city: Chandler
-street: "South Arizona Avenue"
-housenumber: 4220
-phone: "+1 480-802-4504"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/chandler/pet-supplies-chandler-az-1151.html"
+street: South Arizona Avenue
+housenumber: "4220"
+phone: +1 480-802-4504
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/chandler/pet-supplies-chandler-az-1151.html

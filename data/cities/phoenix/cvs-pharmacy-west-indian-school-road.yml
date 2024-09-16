@@ -1,11 +1,11 @@
 id: 424212624
-type: way
+type: node
 latitude: 33.49468
 longitude: -112.18574
 postcode: "85031"
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 5845
+street: West Indian School Road
+housenumber: "5845"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/5835-w-indian-school-rd-phoenix-az-85031/storeid=6718"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/5835-w-indian-school-rd-phoenix-az-85031/storeid=6718

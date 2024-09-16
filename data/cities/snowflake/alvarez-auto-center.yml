@@ -1,11 +1,11 @@
 id: 625715396
-type: way
+type: node
 latitude: 34.51048
 longitude: -110.07859
 postcode: "85937"
 city: Snowflake
-street: "North Main Street"
-housenumber: 81
+street: North Main Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

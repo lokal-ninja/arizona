@@ -1,11 +1,11 @@
 id: 443127856
-type: way
+type: node
 latitude: 33.38209
 longitude: -111.82182
 postcode: "85204"
 city: Mesa
-street: "East Juanita Avenue"
-housenumber: 440
+street: East Juanita Avenue
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 879040840
-type: way
+type: node
 latitude: 35.1902
 longitude: -114.05564
 postcode: "86401"
 city: Kingman
-street: "Beale Street"
-housenumber: 201
+street: Beale Street
+housenumber: "201"
 phone: "+19287533700"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://pawnworldaz.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://pawnworldaz.com/

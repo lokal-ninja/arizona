@@ -1,11 +1,11 @@
 id: 1228349795
-type: way
+type: node
 latitude: 33.45856
 longitude: -112.10418
 postcode: "85009"
 city: Phoenix
-street: "North 21st Avenue"
-housenumber: 1001
+street: North 21st Avenue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

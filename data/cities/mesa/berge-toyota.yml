@@ -1,11 +1,11 @@
 id: 175176776
-type: way
+type: node
 latitude: 33.43527
 longitude: -111.87117
 postcode: "85201"
 city: Mesa
-street: "West Riverview Auto Drive"
-housenumber: 2020
+street: West Riverview Auto Drive
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

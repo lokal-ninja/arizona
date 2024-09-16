@@ -1,11 +1,11 @@
 id: 935156905
-type: way
+type: node
 latitude: 33.39497
 longitude: -111.90099
 postcode: "85282"
 city: Tempe
-street: "South Country Club Way"
-housenumber: 3200
+street: South Country Club Way
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

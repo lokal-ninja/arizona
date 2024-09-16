@@ -1,11 +1,11 @@
 id: 79794658
-type: way
+type: node
 latitude: 33.62653
 longitude: -111.89298
 postcode: "85260"
 city: Scottsdale
-street: "North Hayden Road"
-housenumber: 15449
-phone: "+1 480-556-6707"
-opening_hours: "11:00-19:00"
-website: "https://stores.bestbuy.com/az/scottsdale/15449-n-hayden-rd-870.html"
+street: North Hayden Road
+housenumber: "15449"
+phone: +1 480-556-6707
+opening_hours: 11:00-19:00
+website: https://stores.bestbuy.com/az/scottsdale/15449-n-hayden-rd-870.html

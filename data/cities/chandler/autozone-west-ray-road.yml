@@ -1,11 +1,11 @@
 id: 954549764
-type: way
+type: node
 latitude: 33.32076
 longitude: -111.90959
 postcode: "85226"
 city: Chandler
-street: "West Ray Road"
-housenumber: 3920
+street: West Ray Road
+housenumber: "3920"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/chandler/3920-w-ray-rd.html"
+website: https://www.autozone.com/locations/az/chandler/3920-w-ray-rd.html

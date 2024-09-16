@@ -1,11 +1,11 @@
 id: 839775313
-type: way
+type: node
 latitude: 32.22361
 longitude: -110.91654
 postcode: "85716"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 3595
-phone: "+1 520-323-5043"
-opening_hours: "09:00-23:00"
-website: "https://stores.burlington.com/az/tucson/754"
+street: East Broadway Boulevard
+housenumber: "3595"
+phone: +1 520-323-5043
+opening_hours: 09:00-23:00
+website: https://stores.burlington.com/az/tucson/754

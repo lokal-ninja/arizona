@@ -1,11 +1,11 @@
 id: 1155676354
-type: way
+type: node
 latitude: 33.58468
 longitude: -111.89262
 postcode: ""
 city: Scottsdale
-street: "East Shea Boulevard"
-housenumber: 8710
+street: East Shea Boulevard
+housenumber: "8710"
 phone: ""
 opening_hours: ""
 website: ""

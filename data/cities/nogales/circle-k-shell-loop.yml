@@ -1,11 +1,11 @@
 id: 1232091394
-type: way
+type: node
 latitude: 31.36461
 longitude: -110.94881
 postcode: "85621"
 city: Nogales
-street: "Shell Loop"
-housenumber: 1680
+street: Shell Loop
+housenumber: "1680"
 phone: ""
 opening_hours: ""
 website: ""

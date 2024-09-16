@@ -1,11 +1,11 @@
 id: 384793534
-type: way
+type: node
 latitude: 33.49523
 longitude: -112.05195
 postcode: ""
 city: Phoenix
-street: "East Indian School Road"
-housenumber: 1400
+street: East Indian School Road
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.goodmans.com/"
+website: https://www.goodmans.com/

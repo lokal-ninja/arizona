@@ -1,11 +1,11 @@
 id: 638022385
-type: way
+type: node
 latitude: 32.87989
 longitude: -111.75652
 postcode: "85122"
 city: Casa Grande
-street: "West Florence Boulevard"
-housenumber: 304
+street: West Florence Boulevard
+housenumber: "304"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

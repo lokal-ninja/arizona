@@ -1,11 +1,11 @@
 id: 164987975
-type: way
+type: node
 latitude: 33.41404
 longitude: -111.57463
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 2555
-phone: "+1 480-380-3800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1381-apache-junction-az"
+street: West Apache Trail
+housenumber: "2555"
+phone: +1 480-380-3800
+opening_hours: 24/7
+website: https://www.walmart.com/store/1381-apache-junction-az

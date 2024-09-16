@@ -1,11 +1,11 @@
 id: 79794686
-type: way
+type: node
 latitude: 33.62276
 longitude: -111.89879
 postcode: "85260"
 city: Scottsdale
-street: "East Butherus Drive"
-housenumber: 8480
+street: East Butherus Drive
+housenumber: "8480"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/scottsdale/autoparts-3564.html"
+website: https://locations.oreillyauto.com/az/scottsdale/autoparts-3564.html

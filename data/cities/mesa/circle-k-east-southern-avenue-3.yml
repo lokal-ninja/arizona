@@ -1,11 +1,11 @@
 id: 932696598
-type: way
+type: node
 latitude: 33.39293
 longitude: -111.81388
 postcode: "85204"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 809
+street: East Southern Avenue
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

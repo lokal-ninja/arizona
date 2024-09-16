@@ -1,11 +1,11 @@
 id: 556858590
-type: way
+type: node
 latitude: 33.39317
 longitude: -111.93934
 postcode: "85282"
 city: Tempe
-street: "South Mill Avenue"
-housenumber: 3233
+street: South Mill Avenue
+housenumber: "3233"
 phone: ""
 opening_hours: ""
 website: ""

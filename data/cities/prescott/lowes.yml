@@ -1,11 +1,11 @@
 id: 187144862
-type: way
+type: node
 latitude: 34.55498
 longitude: -112.42354
 postcode: "86301"
 city: Prescott
-street: "East State Route 69"
-housenumber: 2300
-phone: "+1 928-541-8640"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-prescott/1157"
+street: East State Route 69
+housenumber: "2300"
+phone: +1 928-541-8640
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-prescott/1157

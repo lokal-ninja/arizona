@@ -1,11 +1,11 @@
 id: 452111738
-type: way
+type: node
 latitude: 33.59647
 longitude: -112.21972
 postcode: "85381"
 city: Peoria
-street: "West Cactus Road"
-housenumber: 7460
+street: West Cactus Road
+housenumber: "7460"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1106214294
-type: way
+type: node
 latitude: 32.16536
 longitude: -110.9888
 postcode: "85714"
 city: Tucson
-street: "South Landing Way"
-housenumber: 4800
-phone: "+1 520-524-0290"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/tucson/47-tucson-irvington-rd/"
+street: South Landing Way
+housenumber: "4800"
+phone: +1 520-524-0290
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/tucson/47-tucson-irvington-rd/

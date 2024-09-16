@@ -1,11 +1,11 @@
 id: 318476237
-type: way
+type: node
 latitude: 33.39421
 longitude: -111.82507
 postcode: "85210"
 city: Mesa
-street: "South Wilbur"
-housenumber: 1138
+street: South Wilbur
+housenumber: "1138"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 68295603
-type: way
+type: node
 latitude: 33.56844
 longitude: -112.11878
 postcode: "85051"
 city: Phoenix
-street: "West Dunlap Avenue"
-housenumber: 2820
-phone: "602-943-1853"
+street: West Dunlap Avenue
+housenumber: "2820"
+phone: 602-943-1853
 opening_hours: ""
-website: "https://www.conns.com/az/phoenix/2820-w-dunlap-ave-85051"
+website: https://www.conns.com/az/phoenix/2820-w-dunlap-ave-85051

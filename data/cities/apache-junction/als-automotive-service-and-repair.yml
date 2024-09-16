@@ -1,11 +1,11 @@
 id: 931169981
-type: way
+type: node
 latitude: 33.3953
 longitude: -111.54647
 postcode: "85119"
 city: Apache Junction
-street: "South Idaho Road"
-housenumber: 2220
+street: South Idaho Road
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

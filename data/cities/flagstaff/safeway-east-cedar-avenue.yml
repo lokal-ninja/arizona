@@ -1,11 +1,11 @@
 id: 532832501
-type: way
+type: node
 latitude: 35.22027
 longitude: -111.62236
 postcode: "86004"
 city: Flagstaff
-street: "East Cedar Avenue"
-housenumber: 1500
-phone: "+1 928-774-3774"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/az/flagstaff/1500-e-cedar-ave.html"
+street: East Cedar Avenue
+housenumber: "1500"
+phone: +1 928-774-3774
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/az/flagstaff/1500-e-cedar-ave.html

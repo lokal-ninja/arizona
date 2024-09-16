@@ -1,11 +1,11 @@
 id: 289126948
-type: way
+type: node
 latitude: 33.46513
 longitude: -111.9791
 postcode: "85008"
 city: Phoenix
-street: "North 48th Street"
-housenumber: 1524
+street: North 48th Street
+housenumber: "1524"
 phone: ""
 opening_hours: ""
 website: ""

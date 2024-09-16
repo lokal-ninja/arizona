@@ -1,11 +1,11 @@
 id: 882198083
-type: way
+type: node
 latitude: 33.327
 longitude: -111.67254
 postcode: "85212"
 city: Mesa
-street: "East Ray Road"
-housenumber: 7447
+street: East Ray Road
+housenumber: "7447"
 phone: ""
 opening_hours: ""
-website: "https://basscabinet.com/"
+website: https://basscabinet.com/

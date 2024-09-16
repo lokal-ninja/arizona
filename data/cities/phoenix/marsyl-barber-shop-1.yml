@@ -1,11 +1,11 @@
 id: 153436769
-type: way
+type: node
 latitude: 33.45785
 longitude: -112.06791
 postcode: "85004"
 city: Phoenix
-street: "North 5th Street"
-housenumber: 902
+street: North 5th Street
+housenumber: "902"
 phone: "+16023669508"
 opening_hours: ""
-website: "https://marsylbarbershop1.business.site/?utm_source=gmb&utm_medium=referral"
+website: https://marsylbarbershop1.business.site/?utm_source=gmb&utm_medium=referral

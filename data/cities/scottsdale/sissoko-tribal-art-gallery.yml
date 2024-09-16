@@ -4,8 +4,8 @@ latitude: 33.49296
 longitude: -111.928
 postcode: "85251"
 city: Scottsdale
-street: "East Main Street"
-housenumber: 7113
-phone: "+1 623-764-0227;+1 623-606-4378;+1 480-251-1644"
-opening_hours: "Tu,We,Fr,Sa 11:00-18:00; Th 11:00-21:00; Su-Mo by appointment"
+street: East Main Street
+housenumber: "7113"
+phone: +1 623-764-0227;+1 623-606-4378;+1 480-251-1644
+opening_hours: Tu,We,Fr,Sa 11:00-18:00; Th 11:00-21:00; Su-Mo "by appointment"
 website: ""

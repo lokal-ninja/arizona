@@ -1,11 +1,11 @@
 id: 1061544625
-type: way
+type: node
 latitude: 32.3225
 longitude: -111.04367
 postcode: "85741"
 city: Tucson
-street: "West River Road"
-housenumber: 3860
-phone: "+1 520-204-1787"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/tucson/tucson-river-rd/"
+street: West River Road
+housenumber: "3860"
+phone: +1 520-204-1787
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/tucson/tucson-river-rd/

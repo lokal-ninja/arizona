@@ -1,11 +1,11 @@
 id: 764517053
-type: way
+type: node
 latitude: 33.21865
 longitude: -111.85994
 postcode: "85248"
 city: Sun Lakes
-street: "East Riggs Road"
-housenumber: 10324
+street: East Riggs Road
+housenumber: "10324"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10324+e+riggs+rd-sun+lakes-az-85248/id=3669"
+website: https://www.walgreens.com/locator/walgreens-10324+e+riggs+rd-sun+lakes-az-85248/id=3669

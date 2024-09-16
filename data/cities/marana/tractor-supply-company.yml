@@ -1,11 +1,11 @@
 id: 506836831
-type: way
+type: node
 latitude: 32.34684
 longitude: -111.07878
 postcode: "85743"
 city: Marana
-street: "North Casa Grande Highway"
-housenumber: 7735
-phone: "+1 520-579-4303"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Casa Grande Highway
+housenumber: "7735"
+phone: +1 520-579-4303
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 482258204
-type: way
+type: node
 latitude: 33.56501
 longitude: -112.17037
 postcode: "85302"
 city: Glendale
-street: "West Olive Avenue"
-housenumber: 5137
-phone: "+1 623-939-4237"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3844/glendale-az/whats-new"
+street: West Olive Avenue
+housenumber: "5137"
+phone: +1 623-939-4237
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3844/glendale-az/whats-new

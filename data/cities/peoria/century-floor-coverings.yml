@@ -1,11 +1,11 @@
 id: 230588018
-type: way
+type: node
 latitude: 33.59157
 longitude: -112.25685
 postcode: "85345"
 city: Peoria
-street: "West Scotland Avenue"
-housenumber: 9133
+street: West Scotland Avenue
+housenumber: "9133"
 phone: ""
 opening_hours: ""
 website: ""

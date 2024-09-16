@@ -1,11 +1,11 @@
 id: 62263648
-type: way
+type: node
 latitude: 33.58209
 longitude: -112.01262
 postcode: "85028"
 city: Phoenix
-street: "East Shea Boulevard"
-housenumber: 3201
-phone: "+1 602-953-8003"
+street: East Shea Boulevard
+housenumber: "3201"
+phone: +1 602-953-8003
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/3201-e.-shea-blvd-26086"
+website: https://www.7-eleven.com/locations/az/phoenix/3201-e.-shea-blvd-26086

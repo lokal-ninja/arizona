@@ -1,11 +1,11 @@
 id: 256672140
-type: way
+type: node
 latitude: 33.36231
 longitude: -111.94563
 postcode: ""
 city: Tempe
-street: "West Vaughn Street"
-housenumber: 480
+street: West Vaughn Street
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

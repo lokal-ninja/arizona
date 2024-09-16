@@ -1,11 +1,11 @@
 id: 1132341147
-type: way
+type: node
 latitude: 33.37642
 longitude: -111.81882
 postcode: "85233"
 city: Gilbert
-street: "West Boxwood Avenue"
-housenumber: 1330
+street: West Boxwood Avenue
+housenumber: "1330"
 phone: ""
 opening_hours: ""
 website: ""

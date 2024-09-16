@@ -1,11 +1,11 @@
 id: 188282443
-type: way
+type: node
 latitude: 32.26478
 longitude: -109.83987
 postcode: "85643"
 city: Willcox
-street: "West Rex Allen Drive"
-housenumber: 1005
-phone: "+1 520 384 0007"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/az/willcox/1005-w-rex-allen-dr.html"
+street: West Rex Allen Drive
+housenumber: "1005"
+phone: +1 520 384 0007
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/az/willcox/1005-w-rex-allen-dr.html

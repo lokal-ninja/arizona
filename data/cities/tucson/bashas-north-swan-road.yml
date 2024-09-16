@@ -1,11 +1,11 @@
 id: 236156100
-type: way
+type: node
 latitude: 32.26693
 longitude: -110.89425
 postcode: "85712"
 city: Tucson
-street: "North Swan Road"
-housenumber: 3275
+street: North Swan Road
+housenumber: "3275"
 phone: ""
 opening_hours: ""
-website: "https://www.bashas.com/"
+website: https://www.bashas.com/

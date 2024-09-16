@@ -1,11 +1,11 @@
 id: 286062990
-type: way
+type: node
 latitude: 33.65919
 longitude: -112.38554
 postcode: "85374"
 city: Surprise
-street: "West Yorkshire Drive"
-housenumber: 14924
+street: West Yorkshire Drive
+housenumber: "14924"
 phone: ""
 opening_hours: ""
-website: "www.surestorage.com"
+website: www.surestorage.com

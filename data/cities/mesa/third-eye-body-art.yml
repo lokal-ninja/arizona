@@ -4,8 +4,8 @@ latitude: 33.41672
 longitude: -111.63439
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 9124
-phone: "+1 480 848 0740"
-opening_hours: "Su-Mo 12:00-17:00; Tu-Th 12:00-20:00; Fr-Sa 12:00-22:00"
-website: "https://www.thirdeyebodyart.com/"
+street: East Main Street
+housenumber: "9124"
+phone: +1 480 848 0740
+opening_hours: Su-Mo 12:00-17:00; Tu-Th 12:00-20:00; Fr-Sa 12:00-22:00
+website: https://www.thirdeyebodyart.com/

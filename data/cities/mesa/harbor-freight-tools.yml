@@ -4,8 +4,8 @@ latitude: 33.41357
 longitude: -111.60225
 postcode: "85120"
 city: Mesa
-street: "East Main Street"
-housenumber: 10603
-phone: "+1 480-354-1593"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/10603-e-apache-trail-ste-109-apache-junction-85120?number=252"
+street: East Main Street
+housenumber: "10603"
+phone: +1 480-354-1593
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/10603-e-apache-trail-ste-109-apache-junction-85120?number=252

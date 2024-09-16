@@ -1,11 +1,11 @@
 id: 33881740
-type: way
+type: node
 latitude: 33.56749
 longitude: -112.07349
 postcode: "85020"
 city: Phoenix
-street: "North Central Avenue"
-housenumber: 8937
+street: North Central Avenue
+housenumber: "8937"
 phone: ""
 opening_hours: ""
 website: ""

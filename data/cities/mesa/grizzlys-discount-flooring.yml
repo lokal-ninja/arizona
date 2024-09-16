@@ -1,11 +1,11 @@
 id: 1074673068
-type: way
+type: node
 latitude: 33.41484
 longitude: -111.6672
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 7601
+street: East Main Street
+housenumber: "7601"
 phone: "+14802882771"
-opening_hours: "Mo-Fr 08:30-16:00"
-website: "https://www.flooringstoremesaaz.com/"
+opening_hours: Mo-Fr 08:30-16:00
+website: https://www.flooringstoremesaaz.com/

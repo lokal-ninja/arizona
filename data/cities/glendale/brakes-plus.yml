@@ -1,11 +1,11 @@
 id: 916861703
-type: way
+type: node
 latitude: 33.6381
 longitude: -112.19971
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 6635
-phone: "+1-623-878-7790"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: West Bell Road
+housenumber: "6635"
+phone: +1-623-878-7790
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

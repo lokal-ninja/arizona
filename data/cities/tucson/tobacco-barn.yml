@@ -1,11 +1,11 @@
 id: 971500396
-type: way
+type: node
 latitude: 32.1192
 longitude: -110.96137
 postcode: "85706"
 city: Tucson
-street: "S. Nogales Highway"
-housenumber: 7310
+street: S. Nogales Highway
+housenumber: "7310"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
-website: "https://tobaccobarntucson.com"
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
+website: https://tobaccobarntucson.com

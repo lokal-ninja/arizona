@@ -1,11 +1,11 @@
 id: 199755747
-type: way
+type: node
 latitude: 33.30475
 longitude: -112.05604
 postcode: "85048"
 city: Phoenix
-street: "South Desert Foothills Parkway"
-housenumber: 15629
-phone: "(480) 460-2400"
+street: South Desert Foothills Parkway
+housenumber: "15629"
+phone: (480) 460-2400
 opening_hours: ""
 website: ""

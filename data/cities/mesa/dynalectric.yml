@@ -1,11 +1,11 @@
 id: 1177397520
-type: way
+type: node
 latitude: 33.35353
 longitude: -111.63956
 postcode: "85212"
 city: Mesa
-street: "East Peterson Avenue"
-housenumber: 9029
+street: East Peterson Avenue
+housenumber: "9029"
 phone: ""
 opening_hours: ""
 website: ""

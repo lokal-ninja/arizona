@@ -1,11 +1,11 @@
 id: 853100451
-type: way
+type: node
 latitude: 33.25386
 longitude: -111.63565
 postcode: "85142"
 city: Queen Creek
-street: "East Maya Road"
-housenumber: 20767
+street: East Maya Road
+housenumber: "20767"
 phone: ""
 opening_hours: ""
 website: ""

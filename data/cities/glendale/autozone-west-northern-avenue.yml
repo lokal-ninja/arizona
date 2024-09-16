@@ -1,11 +1,11 @@
 id: 916544595
-type: way
+type: node
 latitude: 33.55376
 longitude: -112.18833
 postcode: "85301"
 city: Glendale
-street: "West Northern Avenue"
-housenumber: 5940
+street: West Northern Avenue
+housenumber: "5940"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/glendale/5940-w-northern-ave.html"
+website: https://www.autozone.com/locations/az/glendale/5940-w-northern-ave.html

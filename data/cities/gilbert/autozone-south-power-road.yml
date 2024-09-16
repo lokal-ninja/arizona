@@ -1,11 +1,11 @@
 id: 805467170
-type: way
+type: node
 latitude: 33.27684
 longitude: -111.68716
 postcode: "85297"
 city: Gilbert
-street: "South Power Road"
-housenumber: 7686
+street: South Power Road
+housenumber: "7686"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/gilbert/7686-s-power-rd.html"
+website: https://www.autozone.com/locations/az/gilbert/7686-s-power-rd.html

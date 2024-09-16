@@ -1,11 +1,11 @@
 id: 1159804370
-type: way
+type: node
 latitude: 33.6209
 longitude: -111.90562
 postcode: "85260"
 city: Scottsdale
-street: "East Butherus Drive"
-housenumber: 8140
+street: East Butherus Drive
+housenumber: "8140"
 phone: ""
 opening_hours: ""
 website: ""

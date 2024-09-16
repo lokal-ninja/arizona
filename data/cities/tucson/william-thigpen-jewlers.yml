@@ -1,11 +1,11 @@
 id: 839203454
-type: way
+type: node
 latitude: 32.22692
 longitude: -110.85751
 postcode: "85711"
 city: Tucson
-street: "North Wilmot Road"
-housenumber: 442
+street: North Wilmot Road
+housenumber: "442"
 phone: ""
 opening_hours: ""
 website: ""

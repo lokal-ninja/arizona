@@ -1,11 +1,11 @@
 id: 846742277
-type: way
+type: node
 latitude: 33.46885
 longitude: -111.7421
 postcode: "85215"
 city: Mesa
-street: "North Norwalk"
-housenumber: 2863
+street: North Norwalk
+housenumber: "2863"
 phone: ""
 opening_hours: ""
 website: ""

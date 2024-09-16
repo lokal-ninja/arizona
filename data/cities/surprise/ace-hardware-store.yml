@@ -1,11 +1,11 @@
 id: 1236142866
-type: way
+type: node
 latitude: 33.61058
 longitude: -112.35562
 postcode: "85379"
 city: Surprise
-street: "West Waddell Road"
-housenumber: 13724
+street: West Waddell Road
+housenumber: "13724"
 phone: "000000000"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-16:00"
-website: "https://www.acehardware.com/"
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-16:00
+website: https://www.acehardware.com/

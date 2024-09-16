@@ -1,11 +1,11 @@
 id: 222236310
-type: way
+type: node
 latitude: 33.5051
 longitude: -112.08171
 postcode: "85013"
 city: Phoenix
-street: "West Coolidge Street"
-housenumber: 648
+street: West Coolidge Street
+housenumber: "648"
 phone: ""
 opening_hours: ""
 website: ""

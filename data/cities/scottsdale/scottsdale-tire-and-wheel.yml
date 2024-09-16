@@ -1,11 +1,11 @@
 id: 1254446222
-type: way
+type: node
 latitude: 33.46067
 longitude: -111.92592
 postcode: "85257"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 1117
+street: North Scottsdale Road
+housenumber: "1117"
 phone: ""
 opening_hours: ""
 website: ""

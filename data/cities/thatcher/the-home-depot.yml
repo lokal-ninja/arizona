@@ -1,11 +1,11 @@
 id: 164768385
-type: way
+type: node
 latitude: 32.83216
 longitude: -109.7343
 postcode: "85552"
 city: Thatcher
-street: "South 20th Avenue"
-housenumber: 750
-phone: "+1 928-348-3287"
-opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-18:00"
-website: "https://www.homedepot.com/l/Thatcher/AZ/Thatcher/85552/445"
+street: South 20th Avenue
+housenumber: "750"
+phone: +1 928-348-3287
+opening_hours: Mo-Sa 06:00-20:00; Su 08:00-18:00
+website: https://www.homedepot.com/l/Thatcher/AZ/Thatcher/85552/445

@@ -1,11 +1,11 @@
 id: 985444552
-type: way
+type: node
 latitude: 33.66553
 longitude: -112.10968
 postcode: "85027"
 city: Phoenix
-street: "West Behrend Drive"
-housenumber: 2323
+street: West Behrend Drive
+housenumber: "2323"
 phone: ""
 opening_hours: ""
 website: ""

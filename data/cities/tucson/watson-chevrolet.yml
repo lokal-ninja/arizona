@@ -1,11 +1,11 @@
 id: 476670418
-type: way
+type: node
 latitude: 32.28914
 longitude: -110.98283
 postcode: "85705"
 city: Tucson
-street: "West Auto Mall Drive"
-housenumber: 625
+street: West Auto Mall Drive
+housenumber: "625"
 phone: ""
 opening_hours: ""
-website: "https://www.watsonchevrolet.com/"
+website: https://www.watsonchevrolet.com/

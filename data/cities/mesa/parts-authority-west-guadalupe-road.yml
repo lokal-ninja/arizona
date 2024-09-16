@@ -1,11 +1,11 @@
 id: 452950339
-type: way
+type: node
 latitude: 33.36504
 longitude: -111.85726
 postcode: "85210"
 city: Mesa
-street: "West Guadalupe Road"
-housenumber: 1104
-phone: "+1 480 820 5969"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://partsauthority.com/"
+street: West Guadalupe Road
+housenumber: "1104"
+phone: +1 480 820 5969
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://partsauthority.com/

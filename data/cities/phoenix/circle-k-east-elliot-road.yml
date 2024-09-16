@@ -1,11 +1,11 @@
 id: 224025818
-type: way
+type: node
 latitude: 33.34872
 longitude: -111.9754
 postcode: "85044"
 city: Phoenix
-street: "East Elliot Road"
-housenumber: 5105
+street: East Elliot Road
+housenumber: "5105"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

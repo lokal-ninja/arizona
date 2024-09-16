@@ -1,11 +1,11 @@
 id: 934088450
-type: way
+type: node
 latitude: 33.37025
 longitude: -112.58111
 postcode: "85326"
 city: Buckeye
-street: "East Monroe Avenue"
-housenumber: 705
+street: East Monroe Avenue
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

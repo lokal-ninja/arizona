@@ -4,8 +4,9 @@ latitude: 33.38126
 longitude: -111.72839
 postcode: "85206"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 4856
-phone: "+1-480-969-4700"
-opening_hours: "Monday - Friday: 9:00AM to 5:00PM Saturday: By Appointment Sunday: Closed"
-website: "https://premierkitchenandbath.com/"
+street: East Baseline Road
+housenumber: "4856"
+phone: +1-480-969-4700
+opening_hours: 'Monday - Friday: 9:00AM to 5:00PM Saturday: By Appointment Sunday:
+    Closed'
+website: https://premierkitchenandbath.com/

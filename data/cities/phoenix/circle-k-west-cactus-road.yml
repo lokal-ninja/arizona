@@ -1,11 +1,11 @@
 id: 455229959
-type: way
+type: node
 latitude: 33.59613
 longitude: -112.10033
 postcode: "85029"
 city: Phoenix
-street: "West Cactus Road"
-housenumber: 1901
+street: West Cactus Road
+housenumber: "1901"
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/phoenix/1901-w-cactus-rd/2708518"
+website: https://www.circlek.com/store-locator/US/phoenix/1901-w-cactus-rd/2708518

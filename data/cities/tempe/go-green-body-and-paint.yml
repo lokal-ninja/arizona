@@ -1,11 +1,11 @@
 id: 871532662
-type: way
+type: node
 latitude: 33.42735
 longitude: -111.89242
 postcode: "85281"
 city: Tempe
-street: "South Price Road"
-housenumber: 304
+street: South Price Road
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

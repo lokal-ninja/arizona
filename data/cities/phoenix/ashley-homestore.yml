@@ -1,11 +1,11 @@
 id: 858287049
-type: way
+type: node
 latitude: 33.65719
 longitude: -111.92815
 postcode: "85054"
 city: Phoenix
-street: "East Mayo Boulevard"
-housenumber: 7000
-phone: "+1 480-812-4663"
+street: East Mayo Boulevard
+housenumber: "7000"
+phone: +1 480-812-4663
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/arizona/phoenix/7710000028/"
+website: https://stores.ashleyfurniture.com/store/us/arizona/phoenix/7710000028/

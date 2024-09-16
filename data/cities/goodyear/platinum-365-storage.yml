@@ -1,11 +1,11 @@
 id: 507904220
-type: way
+type: node
 latitude: 33.44833
 longitude: -112.35774
 postcode: "85338"
 city: Goodyear
-street: "North Litchfield Road"
-housenumber: 211
+street: North Litchfield Road
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

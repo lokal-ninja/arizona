@@ -1,11 +1,11 @@
 id: 828533640
-type: way
+type: node
 latitude: 34.64097
 longitude: -111.8166
 postcode: "86335"
 city: Rimrock
-street: "East Cornville Road"
-housenumber: 1955
+street: East Cornville Road
+housenumber: "1955"
 phone: ""
 opening_hours: ""
 website: ""

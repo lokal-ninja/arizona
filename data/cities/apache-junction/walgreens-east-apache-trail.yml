@@ -1,11 +1,11 @@
 id: 262802474
-type: way
+type: node
 latitude: 33.41435
 longitude: -111.5815
 postcode: "85120"
 city: Apache Junction
-street: "East Apache Trail"
-housenumber: 11545
+street: East Apache Trail
+housenumber: "11545"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11545+e+apache+trl-apache+junction-az-85120/id=2963"
+website: https://www.walgreens.com/locator/walgreens-11545+e+apache+trl-apache+junction-az-85120/id=2963

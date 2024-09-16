@@ -1,11 +1,11 @@
 id: 1212815439
-type: way
+type: node
 latitude: 33.46263
 longitude: -112.33926
 postcode: "85392"
 city: Avondale
-street: "North Dysart Road"
-housenumber: 1575
-phone: "+1 623-687-9883"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/avondale/dysart-mcdowell/660/00112;https://www.frysfood.com/health-services/clinic/details/851/00104"
+street: North Dysart Road
+housenumber: "1575"
+phone: +1 623-687-9883
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/avondale/dysart-mcdowell/660/00112;https://www.frysfood.com/health-services/clinic/details/851/00104

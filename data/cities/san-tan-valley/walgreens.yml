@@ -1,11 +1,11 @@
 id: 709382093
-type: way
+type: node
 latitude: 33.24823
 longitude: -111.56277
 postcode: "85140"
 city: San Tan Valley
-street: "North Gantzel Road"
-housenumber: 40663
+street: North Gantzel Road
+housenumber: "40663"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-40663+n+gantzel+rd-san+tan+valley-az-85140/id=9460"
+website: https://www.walgreens.com/locator/walgreens-40663+n+gantzel+rd-san+tan+valley-az-85140/id=9460

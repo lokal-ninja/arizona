@@ -1,11 +1,11 @@
 id: 529588647
-type: way
+type: node
 latitude: 34.06729
 longitude: -112.15197
 postcode: "85324"
 city: Black Canyon City
-street: "East K Field Road"
-housenumber: 19135
-phone: "(623) 374-5450"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
+street: East K Field Road
+housenumber: "19135"
+phone: (623) 374-5450
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
 website: ""

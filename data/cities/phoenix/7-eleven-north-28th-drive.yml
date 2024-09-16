@@ -1,11 +1,11 @@
 id: 505523928
-type: way
+type: node
 latitude: 33.59623
 longitude: -112.11968
 postcode: "85029"
 city: Phoenix
-street: "North 28th Drive"
-housenumber: 12033
-phone: "+1 602-993-1587"
+street: North 28th Drive
+housenumber: "12033"
+phone: +1 602-993-1587
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/12033-north-28th-dr.-20433"
+website: https://www.7-eleven.com/locations/az/phoenix/12033-north-28th-dr.-20433

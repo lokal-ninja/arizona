@@ -1,11 +1,11 @@
 id: 1251797490
-type: way
+type: node
 latitude: 33.45134
 longitude: -111.82852
 postcode: "85201"
 city: Mesa
-street: "East McKellips Road"
-housenumber: 135
+street: East McKellips Road
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

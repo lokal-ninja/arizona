@@ -1,11 +1,11 @@
 id: 1074968190
-type: way
+type: node
 latitude: 33.41461
 longitude: -111.65225
 postcode: "85207"
 city: Mesa
-street: "East Apache Trail"
-housenumber: 8315
+street: East Apache Trail
+housenumber: "8315"
 phone: "+14809866114"
 opening_hours: ""
-website: "https://www.castlemegastore.com/"
+website: https://www.castlemegastore.com/

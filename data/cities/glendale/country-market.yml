@@ -1,11 +1,11 @@
 id: 235251576
-type: way
+type: node
 latitude: 33.55338
 longitude: -112.1911
 postcode: "85301"
 city: Glendale
-street: "West Northern Avenue"
-housenumber: 6108
+street: West Northern Avenue
+housenumber: "6108"
 phone: ""
 opening_hours: ""
 website: ""

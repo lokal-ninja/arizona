@@ -1,11 +1,11 @@
 id: 1230181384
-type: way
+type: node
 latitude: 33.4534
 longitude: -112.09963
 postcode: "85009"
 city: Phoenix
-street: "West Polk Street"
-housenumber: 1832
+street: West Polk Street
+housenumber: "1832"
 phone: ""
 opening_hours: ""
 website: ""

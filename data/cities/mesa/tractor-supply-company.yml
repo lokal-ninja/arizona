@@ -1,11 +1,11 @@
 id: 349378625
-type: way
+type: node
 latitude: 33.41413
 longitude: -111.60448
 postcode: "85120"
 city: Mesa
-street: "East Apache Trail"
-housenumber: 10545
-phone: "+1 480-986-0848"
-opening_hours: "Mo, We-Sa 08:00-21:00; Tu 08:00-18:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/"
+street: East Apache Trail
+housenumber: "10545"
+phone: +1 480-986-0848
+opening_hours: Mo, We-Sa 08:00-21:00; Tu 08:00-18:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/

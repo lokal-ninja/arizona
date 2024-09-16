@@ -1,11 +1,11 @@
 id: 263812836
-type: way
+type: node
 latitude: 33.46647
 longitude: -112.11859
 postcode: "85009"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 2726
+street: West McDowell Road
+housenumber: "2726"
 phone: ""
 opening_hours: ""
 website: ""

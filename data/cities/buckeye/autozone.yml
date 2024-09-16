@@ -1,11 +1,11 @@
 id: 302427381
-type: way
+type: node
 latitude: 33.43789
 longitude: -112.55699
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 
+street: South Watson Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/buckeye/976-s-watson-rd.html"
+website: https://www.autozone.com/locations/az/buckeye/976-s-watson-rd.html

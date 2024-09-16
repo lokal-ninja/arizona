@@ -1,11 +1,11 @@
 id: 849041419
-type: way
+type: node
 latitude: 33.36425
 longitude: -111.73987
 postcode: "85234"
 city: Gilbert
-street: "East Guadalupe Road"
-housenumber: 2371
+street: East Guadalupe Road
+housenumber: "2371"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/gilbert-az-pharmacies/2371-e-guadalupe-rd-gilbert-az-85234/storeid=3272"
+website: https://www.cvs.com/store-locator/gilbert-az-pharmacies/2371-e-guadalupe-rd-gilbert-az-85234/storeid=3272

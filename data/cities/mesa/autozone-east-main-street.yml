@@ -1,11 +1,11 @@
 id: 45272573
-type: way
+type: node
 latitude: 33.41503
 longitude: -111.74118
 postcode: "85205"
 city: Mesa
-street: "East Main Street"
-housenumber: 4155
+street: East Main Street
+housenumber: "4155"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/4155-e-main.html"
+website: https://www.autozone.com/locations/az/mesa/4155-e-main.html

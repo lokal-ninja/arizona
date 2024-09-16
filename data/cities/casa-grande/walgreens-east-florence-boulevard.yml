@@ -1,11 +1,11 @@
 id: 530519340
-type: way
+type: node
 latitude: 32.8803
 longitude: -111.72226
 postcode: "85122"
 city: Casa Grande
-street: "East Florence Boulevard"
-housenumber: 1514
+street: East Florence Boulevard
+housenumber: "1514"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1514+e+florence+blvd-casa+grande-az-85122/id=4344"
+website: https://www.walgreens.com/locator/walgreens-1514+e+florence+blvd-casa+grande-az-85122/id=4344

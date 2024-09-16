@@ -1,11 +1,11 @@
 id: 824385565
-type: way
+type: node
 latitude: 33.22208
 longitude: -111.82359
 postcode: "85249"
 city: Chandler
-street: "South McQueen Road"
-housenumber: 24809
+street: South McQueen Road
+housenumber: "24809"
 phone: ""
 opening_hours: ""
 website: ""

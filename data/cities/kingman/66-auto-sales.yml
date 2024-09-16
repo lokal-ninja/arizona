@@ -1,11 +1,11 @@
 id: 1197544308
-type: way
+type: node
 latitude: 35.19508
 longitude: -114.03225
 postcode: "86401"
 city: Kingman
-street: "Andy Devine Avenue"
-housenumber: 1945
+street: Andy Devine Avenue
+housenumber: "1945"
 phone: ""
 opening_hours: ""
 website: ""

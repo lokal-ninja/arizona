@@ -1,11 +1,11 @@
 id: 946638367
-type: way
+type: node
 latitude: 33.27946
 longitude: -111.68216
 postcode: "85142"
 city: Queen Creek
-street: "East Business Park Drive"
-housenumber: 18631
+street: East Business Park Drive
+housenumber: "18631"
 phone: ""
 opening_hours: ""
 website: ""

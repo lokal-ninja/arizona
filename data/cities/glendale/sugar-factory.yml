@@ -1,11 +1,11 @@
 id: 490447213
-type: way
+type: node
 latitude: 33.53283
 longitude: -112.261
 postcode: "85305"
 city: Glendale
-street: "West Entertainment Boulevard"
-housenumber: 9375
+street: West Entertainment Boulevard
+housenumber: "9375"
 phone: ""
 opening_hours: ""
 website: ""

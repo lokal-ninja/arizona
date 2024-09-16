@@ -1,11 +1,11 @@
 id: 1191719740
-type: way
+type: node
 latitude: 33.62051
 longitude: -112.32883
 postcode: "85335"
 city: El Mirage
-street: "Northwest Grand Avenue"
-housenumber: 12495
+street: Northwest Grand Avenue
+housenumber: "12495"
 phone: ""
 opening_hours: ""
-website: "https://www.rvarizona.net/"
+website: https://www.rvarizona.net/

@@ -1,11 +1,11 @@
 id: 1292765364
-type: way
+type: node
 latitude: 33.4064
 longitude: -112.04891
 postcode: "85040"
 city: Phoenix
-street: "East Broadway Road"
-housenumber: 1505
+street: East Broadway Road
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

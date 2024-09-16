@@ -1,11 +1,11 @@
 id: 734285866
-type: way
+type: node
 latitude: 33.60879
 longitude: -112.3199
 postcode: "85335"
 city: El Mirage
-street: "West Thunderbird Road"
-housenumber: 12101
+street: West Thunderbird Road
+housenumber: "12101"
 phone: ""
 opening_hours: ""
 website: ""

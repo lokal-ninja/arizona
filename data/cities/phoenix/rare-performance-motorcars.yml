@@ -1,11 +1,11 @@
 id: 875372077
-type: way
+type: node
 latitude: 33.67565
 longitude: -112.10214
 postcode: "85027"
 city: Phoenix
-street: "North 20th Avenue"
-housenumber: 20817
+street: North 20th Avenue
+housenumber: "20817"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313143198
-type: way
+type: node
 latitude: 33.44357
 longitude: -112.55518
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 393
+street: South Watson Road
+housenumber: "393"
 phone: ""
 opening_hours: ""
-website: "https://www.discounttire.com/"
+website: https://www.discounttire.com/

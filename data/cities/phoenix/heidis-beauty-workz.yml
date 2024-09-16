@@ -1,11 +1,11 @@
 id: 238000091
-type: way
+type: node
 latitude: 33.57165
 longitude: -112.08317
 postcode: "85021"
 city: Phoenix
-street: "West Hatcher Road"
-housenumber: 
+street: West Hatcher Road
+housenumber: ""
 phone: "+16028073771"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 858675081
-type: way
+type: node
 latitude: 33.654
 longitude: -111.92781
 postcode: "85054"
 city: Phoenix
-street: "East Mayo Boulevard"
-housenumber: 7077
+street: East Mayo Boulevard
+housenumber: "7077"
 phone: ""
 opening_hours: ""
 website: ""

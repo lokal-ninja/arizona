@@ -1,11 +1,11 @@
 id: 497753466
-type: way
+type: node
 latitude: 33.37426
 longitude: -111.83577
 postcode: "85233"
 city: Gilbert
-street: "North Fiesta Boulevard"
-housenumber: 1325
+street: North Fiesta Boulevard
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

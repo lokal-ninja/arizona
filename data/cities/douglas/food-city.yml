@@ -1,11 +1,11 @@
 id: 862370709
-type: way
+type: node
 latitude: 31.34787
 longitude: -109.53369
 postcode: ""
 city: Douglas
-street: "San Antonio Avenue"
-housenumber: 1300
+street: San Antonio Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

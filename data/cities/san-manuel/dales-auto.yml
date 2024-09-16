@@ -1,11 +1,11 @@
 id: 342580971
-type: way
+type: node
 latitude: 32.61486
 longitude: -110.63036
 postcode: "85631"
 city: San Manuel
-street: "West 8th Avenue"
-housenumber: 140
-phone: "+1 520 385 0300"
+street: West 8th Avenue
+housenumber: "140"
+phone: +1 520 385 0300
 opening_hours: ""
 website: ""

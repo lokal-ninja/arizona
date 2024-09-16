@@ -1,11 +1,11 @@
 id: 253413729
-type: way
+type: node
 latitude: 32.20481
 longitude: -110.84293
 postcode: "85710"
 city: Tucson
-street: "East 22nd Street"
-housenumber: 7050
-phone: "+1 520-790-9492"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/tucson/22nd-st-kolb/660/00137"
+street: East 22nd Street
+housenumber: "7050"
+phone: +1 520-790-9492
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/tucson/22nd-st-kolb/660/00137

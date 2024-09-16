@@ -1,11 +1,11 @@
 id: 1108429864
-type: way
+type: node
 latitude: 33.16121
 longitude: -111.56018
 postcode: "85143"
 city: San Tan Valley
-street: "East Hunt Highway"
-housenumber: 542
-phone: "+1 480-888-1781"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/san-tan-valley/bella-vista-hunt-hwy/660/00084"
+street: East Hunt Highway
+housenumber: "542"
+phone: +1 480-888-1781
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/san-tan-valley/bella-vista-hunt-hwy/660/00084

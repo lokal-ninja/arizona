@@ -1,11 +1,11 @@
 id: 224030657
-type: way
+type: node
 latitude: 33.34873
 longitude: -111.96743
 postcode: "85284"
 city: Tempe
-street: "South Autoplex Loop"
-housenumber: 7710
+street: South Autoplex Loop
+housenumber: "7710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 546697669
-type: way
+type: node
 latitude: 33.57827
 longitude: -111.88831
 postcode: "85258"
 city: Scottsdale
-street: "North 90th Street"
-housenumber: 10100
+street: North 90th Street
+housenumber: "10100"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/az/scottsdale/officemax-6188"
+website: https://www.officedepot.com/storelocator/az/scottsdale/officemax-6188

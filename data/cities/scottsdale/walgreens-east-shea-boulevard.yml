@@ -1,11 +1,11 @@
 id: 907778408
-type: way
+type: node
 latitude: 33.58136
 longitude: -111.9294
 postcode: "85253"
 city: Scottsdale
-street: "East Shea Boulevard"
-housenumber: 7011
+street: East Shea Boulevard
+housenumber: "7011"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7011+e+shea+blvd-scottsdale-az-85254/id=3177"
+website: https://www.walgreens.com/locator/walgreens-7011+e+shea+blvd-scottsdale-az-85254/id=3177

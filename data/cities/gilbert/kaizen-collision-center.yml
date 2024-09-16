@@ -1,11 +1,11 @@
 id: 306355481
-type: way
+type: node
 latitude: 33.35477
 longitude: -111.82859
 postcode: "85233"
 city: Gilbert
-street: "North Pasadena Street"
-housenumber: 250
+street: North Pasadena Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

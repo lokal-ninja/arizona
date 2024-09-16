@@ -1,11 +1,11 @@
 id: 93160831
-type: way
+type: node
 latitude: 33.53903
 longitude: -111.88897
 postcode: "85250"
 city: Scottsdale
-street: "East Talking Stick Way"
-housenumber: 8910
-phone: "+1 480-368-8015"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/scottsdale/pet-supplies-scottsdale-az-1109.html"
+street: East Talking Stick Way
+housenumber: "8910"
+phone: +1 480-368-8015
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/scottsdale/pet-supplies-scottsdale-az-1109.html

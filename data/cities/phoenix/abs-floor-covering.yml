@@ -1,11 +1,11 @@
 id: 1227035834
-type: way
+type: node
 latitude: 33.46479
 longitude: -112.12165
 postcode: "85009"
 city: Phoenix
-street: "North 29th Avenue"
-housenumber: 1430
+street: North 29th Avenue
+housenumber: "1430"
 phone: ""
 opening_hours: ""
 website: ""

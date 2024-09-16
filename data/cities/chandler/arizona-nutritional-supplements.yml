@@ -1,11 +1,11 @@
 id: 824264140
-type: way
+type: node
 latitude: 33.35646
 longitude: -111.83653
 postcode: "85225"
 city: Chandler
-street: "East Chilton Drive"
-housenumber: 380
+street: East Chilton Drive
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 158926421
-type: way
+type: node
 latitude: 33.41607
 longitude: -111.56994
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 2162
-phone: "+1 480 671 0928"
+street: West Apache Trail
+housenumber: "2162"
+phone: +1 480 671 0928
 opening_hours: ""
-website: "https://www.1stautoandmarine.com/"
+website: https://www.1stautoandmarine.com/

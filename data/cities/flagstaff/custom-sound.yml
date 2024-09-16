@@ -1,11 +1,11 @@
 id: 202780719
-type: way
+type: node
 latitude: 35.19604
 longitude: -111.65116
 postcode: "86001"
 city: Flagstaff
-street: "South Beaver Street"
-housenumber: 23
-phone: "+1 928 779 1000"
-opening_hours: "Mo-Fr 11:00-17:30"
-website: "https://www.customsoundinstruments.com/"
+street: South Beaver Street
+housenumber: "23"
+phone: +1 928 779 1000
+opening_hours: Mo-Fr 11:00-17:30
+website: https://www.customsoundinstruments.com/

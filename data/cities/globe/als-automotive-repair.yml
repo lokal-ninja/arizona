@@ -1,11 +1,11 @@
 id: 958749879
-type: way
+type: node
 latitude: 33.40506
 longitude: -110.79344
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1028
-phone: "+1 928 425 3558"
+street: North Broad Street
+housenumber: "1028"
+phone: +1 928 425 3558
 opening_hours: ""
-website: "http://alsautomotiverepair.com/"
+website: http://alsautomotiverepair.com/

@@ -1,11 +1,11 @@
 id: 934086340
-type: way
+type: node
 latitude: 33.39397
 longitude: -111.87258
 postcode: "85202"
 city: Mesa
-street: "South Dobson Road"
-housenumber: 1137
+street: South Dobson Road
+housenumber: "1137"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/mesa-az-pharmacies/1137-s-dobson-rd-10-mesa-az-85202/storeid=9218"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/mesa-az-pharmacies/1137-s-dobson-rd-10-mesa-az-85202/storeid=9218

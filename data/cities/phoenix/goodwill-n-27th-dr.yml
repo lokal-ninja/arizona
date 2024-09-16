@@ -1,11 +1,11 @@
 id: 1303954674
-type: way
+type: node
 latitude: 33.79736
 longitude: -112.11765
 postcode: "85085"
 city: Phoenix
-street: "N 27th Dr"
-housenumber: 34455
-phone: "623 582 1384"
-opening_hours: "Mo-Sat 10:00-18:00, Sun 9:00-18:00"
+street: N 27th Dr
+housenumber: "34455"
+phone: 623 582 1384
+opening_hours: Mo-Sat 10:00-18:00, Sun 9:00-18:00
 website: ""

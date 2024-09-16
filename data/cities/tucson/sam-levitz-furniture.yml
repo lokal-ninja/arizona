@@ -1,11 +1,11 @@
 id: 403985718
-type: way
+type: node
 latitude: 32.32511
 longitude: -111.04562
 postcode: "85741"
 city: Tucson
-street: "West Orange Grove Road"
-housenumber: 3750
+street: West Orange Grove Road
+housenumber: "3750"
 phone: ""
 opening_hours: ""
-website: "http://samlevitz.com/"
+website: http://samlevitz.com/

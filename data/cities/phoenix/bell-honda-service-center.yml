@@ -1,11 +1,11 @@
 id: 261953219
-type: way
+type: node
 latitude: 33.63856
 longitude: -112.0842
 postcode: "85023"
 city: Phoenix
-street: "West Phelps Road"
-housenumber: 705
+street: West Phelps Road
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

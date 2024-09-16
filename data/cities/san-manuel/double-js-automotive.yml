@@ -1,11 +1,11 @@
 id: 342580943
-type: way
+type: node
 latitude: 32.59979
 longitude: -110.63103
 postcode: "85631"
 city: San Manuel
-street: "South McNab Parkway"
-housenumber: 590
+street: South McNab Parkway
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

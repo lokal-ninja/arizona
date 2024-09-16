@@ -1,11 +1,11 @@
 id: 932247688
-type: way
+type: node
 latitude: 33.39499
 longitude: -111.75178
 postcode: "85206"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 3622
-phone: "+1 480-807-0447"
+street: East Southern Avenue
+housenumber: "3622"
+phone: +1 480-807-0447
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/mesa/3622-e-southern-ave.html"
+website: https://local.safeway.com/safeway/az/mesa/3622-e-southern-ave.html

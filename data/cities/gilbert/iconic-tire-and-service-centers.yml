@@ -1,11 +1,11 @@
 id: 810585744
-type: way
+type: node
 latitude: 33.32064
 longitude: -111.804
 postcode: "85233"
 city: Gilbert
-street: "West Ray Road"
-housenumber: 703
+street: West Ray Road
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

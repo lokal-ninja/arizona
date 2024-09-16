@@ -1,11 +1,11 @@
 id: 734275659
-type: way
+type: node
 latitude: 33.62311
 longitude: -112.34155
 postcode: "85374"
 city: El Mirage
-street: "North Dysart Road"
-housenumber: 15385
+street: North Dysart Road
+housenumber: "15385"
 phone: ""
 opening_hours: ""
 website: ""

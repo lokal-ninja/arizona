@@ -1,11 +1,11 @@
 id: 374750460
-type: way
+type: node
 latitude: 33.37772
 longitude: -111.78234
 postcode: "85234"
 city: Gilbert
-street: "North Burk Street"
-housenumber: 1535
+street: North Burk Street
+housenumber: "1535"
 phone: ""
 opening_hours: ""
 website: ""

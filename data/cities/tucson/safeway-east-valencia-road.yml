@@ -1,11 +1,11 @@
 id: 435905709
-type: way
+type: node
 latitude: 32.11823
 longitude: -110.79932
 postcode: "85747"
 city: Tucson
-street: "East Valencia Road"
-housenumber: 9050
-phone: "+1 520-663-0009"
+street: East Valencia Road
+housenumber: "9050"
+phone: +1 520-663-0009
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/tucson/9050-e-valencia-rd.html"
+website: https://local.safeway.com/safeway/az/tucson/9050-e-valencia-rd.html

@@ -1,11 +1,11 @@
 id: 244492210
-type: way
+type: node
 latitude: 33.40163
 longitude: -112.01244
 postcode: "85040"
 city: Phoenix
-street: "South 32nd Street"
-housenumber: 4835
+street: South 32nd Street
+housenumber: "4835"
 phone: ""
 opening_hours: ""
 website: ""

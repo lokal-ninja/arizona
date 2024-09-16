@@ -1,11 +1,11 @@
 id: 872777375
-type: way
+type: node
 latitude: 33.41492
 longitude: -111.79398
 postcode: "85203"
 city: Mesa
-street: "East Main Street"
-housenumber: 1705
+street: East Main Street
+housenumber: "1705"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/1705-e-main-st.html"
+website: https://www.autozone.com/locations/az/mesa/1705-e-main-st.html

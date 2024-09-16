@@ -1,11 +1,11 @@
 id: 750274550
-type: way
+type: node
 latitude: 33.56752
 longitude: -112.05525
 postcode: "85020"
 city: Phoenix
-street: "East Dunlap Avenue"
-housenumber: 1235
+street: East Dunlap Avenue
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

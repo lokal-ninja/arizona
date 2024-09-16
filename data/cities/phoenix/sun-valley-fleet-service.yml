@@ -1,11 +1,11 @@
 id: 956118209
-type: way
+type: node
 latitude: 33.46348
 longitude: -112.112
 postcode: "85009"
 city: Phoenix
-street: "North 25th Avenue"
-housenumber: 1351
+street: North 25th Avenue
+housenumber: "1351"
 phone: ""
 opening_hours: ""
 website: ""

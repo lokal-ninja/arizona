@@ -1,11 +1,11 @@
 id: 72793460
-type: way
+type: node
 latitude: 33.46636
 longitude: -112.2239
 postcode: "85035"
 city: Phoenix
-street: "North 75th Avenue"
-housenumber: 1620
-phone: "+1 623-845-6292"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-phoenix/1042"
+street: North 75th Avenue
+housenumber: "1620"
+phone: +1 623-845-6292
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-phoenix/1042

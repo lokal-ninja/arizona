@@ -4,8 +4,8 @@ latitude: 33.47374
 longitude: -111.98664
 postcode: "85008"
 city: Phoenix
-street: "North 44th Street"
-housenumber: 2303
+street: North 44th Street
+housenumber: "2303"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
 website: ""

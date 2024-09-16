@@ -1,11 +1,11 @@
 id: 352012999
-type: way
+type: node
 latitude: 34.78058
 longitude: -111.76236
 postcode: "86351"
 city: Sedona
-street: "Highway 179"
-housenumber: 6509
+street: Highway 179
+housenumber: "6509"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Sedona/6509-HWY-179"
+website: https://www.speedway.com/locations/AZ/Sedona/6509-HWY-179

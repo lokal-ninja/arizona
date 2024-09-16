@@ -1,11 +1,11 @@
 id: 1189924907
-type: way
+type: node
 latitude: 33.67887
 longitude: -111.97321
 postcode: "85050"
 city: Phoenix
-street: "North Tatum Boulevard"
-housenumber: 21001
-phone: "+1 480-513-7400"
-opening_hours: "Mo-Sa 09:30-22:00; Su 10:00-22:00"
+street: North Tatum Boulevard
+housenumber: "21001"
+phone: +1 480-513-7400
+opening_hours: Mo-Sa 09:30-22:00; Su 10:00-22:00
 website: ""

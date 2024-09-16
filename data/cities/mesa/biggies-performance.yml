@@ -1,11 +1,11 @@
 id: 995030953
-type: way
+type: node
 latitude: 33.40529
 longitude: -111.83734
 postcode: "85210"
 city: Mesa
-street: "South Lebaron"
-housenumber: 529
+street: South Lebaron
+housenumber: "529"
 phone: ""
 opening_hours: ""
 website: ""

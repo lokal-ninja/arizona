@@ -1,11 +1,11 @@
 id: 256702232
-type: way
+type: node
 latitude: 33.63666
 longitude: -112.35021
 postcode: "85374"
 city: Surprise
-street: "West Grand Avenue"
-housenumber: 13363
-phone: "+1 623-975-6020"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-surprise/1607"
+street: West Grand Avenue
+housenumber: "13363"
+phone: +1 623-975-6020
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-surprise/1607

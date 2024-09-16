@@ -1,11 +1,11 @@
 id: 183525160
-type: way
+type: node
 latitude: 33.50802
 longitude: -112.23826
 postcode: "85037"
 city: Phoenix
-street: "West Camelback Road"
-housenumber: 8301
-phone: "623-849-4278"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-8301+w+camelback+rd-phoenix-az-85037/id=5668"
+street: West Camelback Road
+housenumber: "8301"
+phone: 623-849-4278
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-8301+w+camelback+rd-phoenix-az-85037/id=5668

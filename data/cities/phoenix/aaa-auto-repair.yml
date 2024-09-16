@@ -1,11 +1,11 @@
 id: 71277419
-type: way
+type: node
 latitude: 33.62782
 longitude: -111.99552
 postcode: "85032"
 city: Phoenix
-street: "North 40th Street"
-housenumber: 15439
+street: North 40th Street
+housenumber: "15439"
 phone: ""
 opening_hours: ""
 website: ""

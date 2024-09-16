@@ -1,11 +1,11 @@
 id: 426089314
-type: way
+type: node
 latitude: 33.58109
 longitude: -112.17044
 postcode: "85302"
 city: Glendale
-street: "North 51st Avenue"
-housenumber: 10550
+street: North 51st Avenue
+housenumber: "10550"
 phone: ""
 opening_hours: ""
-website: "https://www.dollarselfstorage.com/"
+website: https://www.dollarselfstorage.com/

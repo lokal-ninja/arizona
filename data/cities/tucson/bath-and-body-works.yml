@@ -4,8 +4,8 @@ latitude: 32.34278
 longitude: -111.01406
 postcode: "85741"
 city: Tucson
-street: "North La Cholla Boulevard"
-housenumber: 7475
-phone: "+1-520-219-2444"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.bathandbodyworks.com"
+street: North La Cholla Boulevard
+housenumber: "7475"
+phone: +1-520-219-2444
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.bathandbodyworks.com

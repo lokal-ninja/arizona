@@ -1,11 +1,11 @@
 id: 245992168
-type: way
+type: node
 latitude: 33.40062
 longitude: -112.0102
 postcode: "85040"
 city: Phoenix
-street: "South 33rd Street"
-housenumber: 5035
+street: South 33rd Street
+housenumber: "5035"
 phone: ""
 opening_hours: ""
 website: ""

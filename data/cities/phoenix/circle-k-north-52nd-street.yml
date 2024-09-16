@@ -1,11 +1,11 @@
 id: 137491645
-type: way
+type: node
 latitude: 33.45135
 longitude: -111.97023
 postcode: "85008"
 city: Phoenix
-street: "North 52nd Street"
-housenumber: 302
+street: North 52nd Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

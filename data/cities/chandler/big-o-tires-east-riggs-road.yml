@@ -1,11 +1,11 @@
 id: 1040069590
-type: way
+type: node
 latitude: 33.21973
 longitude: -111.8177
 postcode: "85249"
 city: Chandler
-street: "East Riggs Road"
-housenumber: 1350
+street: East Riggs Road
+housenumber: "1350"
 phone: ""
 opening_hours: ""
 website: ""

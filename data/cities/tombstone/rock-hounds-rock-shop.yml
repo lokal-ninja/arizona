@@ -1,11 +1,11 @@
 id: 946175960
-type: way
+type: node
 latitude: 31.71624
 longitude: -110.07039
 postcode: "85638"
 city: Tombstone
-street: "East Safford Street"
-housenumber: 2
+street: East Safford Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

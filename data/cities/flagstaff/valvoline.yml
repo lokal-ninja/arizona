@@ -1,11 +1,11 @@
 id: 605775626
-type: way
+type: node
 latitude: 35.19081
 longitude: -111.66377
 postcode: "86001"
 city: Flagstaff
-street: "West Historic Route 66"
-housenumber: 1061
+street: West Historic Route 66
+housenumber: "1061"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://store.vioc.com/az/flagstaff/oil-change-090033.html"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://store.vioc.com/az/flagstaff/oil-change-090033.html

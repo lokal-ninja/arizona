@@ -1,11 +1,11 @@
 id: 705631109
-type: way
+type: node
 latitude: 31.50208
 longitude: -110.25651
 postcode: "85650"
 city: Sierra Vista
-street: "Golden Acres Drive"
-housenumber: 4029
+street: Golden Acres Drive
+housenumber: "4029"
 phone: ""
 opening_hours: ""
 website: ""

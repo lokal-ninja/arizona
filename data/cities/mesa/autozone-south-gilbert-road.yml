@@ -1,11 +1,11 @@
 id: 550363252
-type: way
+type: node
 latitude: 33.39639
 longitude: -111.787
 postcode: "85204"
 city: Mesa
-street: "South Gilbert Road"
-housenumber: 1045
+street: South Gilbert Road
+housenumber: "1045"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/1045-s-gilbert-rd--ste-101.html"
+website: https://www.autozone.com/locations/az/mesa/1045-s-gilbert-rd--ste-101.html

@@ -1,11 +1,11 @@
 id: 419642868
-type: way
+type: node
 latitude: 33.53918
 longitude: -112.118
 postcode: "85051"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 2714
+street: West Glendale Avenue
+housenumber: "2714"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-2548.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-2548.html

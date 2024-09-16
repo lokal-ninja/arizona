@@ -1,11 +1,11 @@
 id: 880849133
-type: way
+type: node
 latitude: 33.29485
 longitude: -111.75075
-postcode: "85295-2207"
+postcode: 85295-2207
 city: Gilbert
-street: "East Pecos Road"
-housenumber: 1801
-phone: "+1 833-479-7165"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/az/gilbert/1801-e-pecos-rd"
+street: East Pecos Road
+housenumber: "1801"
+phone: +1 833-479-7165
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/az/gilbert/1801-e-pecos-rd

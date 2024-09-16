@@ -1,11 +1,11 @@
 id: 546697668
-type: way
+type: node
 latitude: 33.57737
 longitude: -111.8889
 postcode: "85258"
 city: Scottsdale
-street: "North 90th Street"
-housenumber: 10080
+street: North 90th Street
+housenumber: "10080"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-19:00"
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 480970526
-type: way
+type: node
 latitude: 33.5977
 longitude: -112.14967
 postcode: "85029"
 city: Phoenix
-street: "West Cactus Road"
-housenumber: 4202
-phone: "+1 602-439-9045"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/43rd-ave-cactus/660/00127"
+street: West Cactus Road
+housenumber: "4202"
+phone: +1 602-439-9045
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/43rd-ave-cactus/660/00127

@@ -1,11 +1,11 @@
 id: 65716522
-type: way
+type: node
 latitude: 33.53985
 longitude: -112.0625
 postcode: "85020"
 city: Phoenix
-street: "East Glendale Avenue"
-housenumber: 810
-phone: "+1 602-331-0134"
+street: East Glendale Avenue
+housenumber: "810"
+phone: +1 602-331-0134
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/810-e-glendale-ave.html"
+website: https://local.safeway.com/safeway/az/phoenix/810-e-glendale-ave.html

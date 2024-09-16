@@ -1,11 +1,11 @@
 id: 229559654
-type: way
+type: node
 latitude: 32.28805
 longitude: -110.9635
 postcode: "85705"
 city: Tucson
-street: "East Wetmore Road"
-housenumber: 575
-phone: "+1 520-696-3442"
+street: East Wetmore Road
+housenumber: "575"
+phone: +1 520-696-3442
 opening_hours: ""
-website: "https://stores.bestbuy.com/az/tucson/575-e-wetmore-rd-123.html"
+website: https://stores.bestbuy.com/az/tucson/575-e-wetmore-rd-123.html

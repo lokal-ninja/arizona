@@ -1,11 +1,11 @@
 id: 828356891
-type: way
+type: node
 latitude: 33.32127
 longitude: -111.83971
 postcode: "85225"
 city: Chandler
-street: "North Arizona Avenue"
-housenumber: 1005
+street: North Arizona Avenue
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

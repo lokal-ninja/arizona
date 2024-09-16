@@ -1,11 +1,11 @@
 id: 200742454
-type: way
+type: node
 latitude: 33.06939
 longitude: -112.04681
 postcode: "85139"
 city: Maricopa
-street: "North John Wayne Parkway"
-housenumber: 20886
+street: North John Wayne Parkway
+housenumber: "20886"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/maricopa/20886-n-john-wayne-hwy.html"
+website: https://www.autozone.com/locations/az/maricopa/20886-n-john-wayne-hwy.html

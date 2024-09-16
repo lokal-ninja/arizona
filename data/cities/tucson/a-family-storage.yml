@@ -1,11 +1,11 @@
 id: 309665258
-type: way
+type: node
 latitude: 32.11835
 longitude: -110.81578
 postcode: "85747"
 city: Tucson
-street: "East Valencia Road"
-housenumber: 8300
-phone: "+1 520 664 1060"
+street: East Valencia Road
+housenumber: "8300"
+phone: +1 520 664 1060
 opening_hours: ""
-website: "https://afamilystorage.com/locations/valencia-storage/"
+website: https://afamilystorage.com/locations/valencia-storage/

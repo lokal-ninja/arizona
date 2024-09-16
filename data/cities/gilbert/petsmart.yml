@@ -1,11 +1,11 @@
 id: 807968786
-type: way
+type: node
 latitude: 33.36562
 longitude: -111.75481
 postcode: "85234"
 city: Gilbert
-street: "North Val Vista Drive"
-housenumber: 857
-phone: "+1 480-503-0934"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/gilbert-store1900.html"
+street: North Val Vista Drive
+housenumber: "857"
+phone: +1 480-503-0934
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/gilbert-store1900.html

@@ -1,11 +1,11 @@
 id: 931177384
-type: way
+type: node
 latitude: 33.39294
 longitude: -111.56392
 postcode: "85120"
 city: Apache Junction
-street: "South Ironwood Drive"
-housenumber: 2440
+street: South Ironwood Drive
+housenumber: "2440"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2440+s+ironwood+dr-apache+junction-az-85120/id=6333"
+website: https://www.walgreens.com/locator/walgreens-2440+s+ironwood+dr-apache+junction-az-85120/id=6333

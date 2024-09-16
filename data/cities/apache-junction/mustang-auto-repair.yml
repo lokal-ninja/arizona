@@ -1,11 +1,11 @@
 id: 316474392
-type: way
+type: node
 latitude: 33.39515
 longitude: -111.54805
 postcode: "85120"
 city: Apache Junction
-street: "West 22nd Avenue"
-housenumber: 174
+street: West 22nd Avenue
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

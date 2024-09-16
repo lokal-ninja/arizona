@@ -1,11 +1,11 @@
 id: 562082602
-type: way
+type: node
 latitude: 33.39256
 longitude: -111.75457
 postcode: "85206"
 city: Mesa
-street: "South Val Vista Drive"
-housenumber: 1244
+street: South Val Vista Drive
+housenumber: "1244"
 phone: ""
 opening_hours: ""
 website: ""

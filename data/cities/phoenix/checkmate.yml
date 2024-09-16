@@ -1,11 +1,11 @@
 id: 33184420
-type: way
+type: node
 latitude: 33.59646
 longitude: -112.03768
 postcode: "85020"
 city: Phoenix
-street: "North Cave Creek Road"
-housenumber: 12041
+street: North Cave Creek Road
+housenumber: "12041"
 phone: ""
 opening_hours: ""
 website: ""

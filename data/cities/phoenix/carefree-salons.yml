@@ -1,11 +1,11 @@
 id: 1303829755
-type: way
+type: node
 latitude: 33.79977
 longitude: -112.12632
 postcode: "85086"
 city: Phoenix
-street: "W Carefree Hwy"
-housenumber: 3120
-phone: "(623) 780-3540"
-opening_hours: "Mon 10:00-17:00,Tues-Fri 09:00-18:00, Sat 09:00-15:00, Sun Closed"
+street: W Carefree Hwy
+housenumber: "3120"
+phone: (623) 780-3540
+opening_hours: Mon 10:00-17:00,Tues-Fri 09:00-18:00, Sat 09:00-15:00, Sun Closed
 website: ""

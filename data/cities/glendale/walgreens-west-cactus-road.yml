@@ -1,11 +1,11 @@
 id: 574682572
-type: way
+type: node
 latitude: 33.59699
 longitude: -112.15317
 postcode: "85304"
 city: Glendale
-street: "West Cactus Road"
-housenumber: 4402
+street: West Cactus Road
+housenumber: "4402"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4410+w+cactus+rd-glendale-az-85304/id=6736"
+website: https://www.walgreens.com/locator/walgreens-4410+w+cactus+rd-glendale-az-85304/id=6736

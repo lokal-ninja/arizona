@@ -1,11 +1,11 @@
 id: 969688503
-type: way
+type: node
 latitude: 33.34682
 longitude: -111.67026
 postcode: "85212"
 city: Mesa
-street: "South Sossaman Road"
-housenumber: 3815
-phone: "+1 480 900 6500"
-opening_hours: "Mo-Sa 09:00-16:00"
-website: "https://www.happywifestorage.com/"
+street: South Sossaman Road
+housenumber: "3815"
+phone: +1 480 900 6500
+opening_hours: Mo-Sa 09:00-16:00
+website: https://www.happywifestorage.com/

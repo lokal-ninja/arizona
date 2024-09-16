@@ -1,11 +1,11 @@
 id: 297103062
-type: way
+type: node
 latitude: 32.49903
 longitude: -110.92508
 postcode: "85739"
 city: Catalina
-street: "North Oracle Road"
-housenumber: 16120
-phone: "+1 520-825-8200"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-17:00"
+street: North Oracle Road
+housenumber: "16120"
+phone: +1 520-825-8200
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-17:00
 website: ""

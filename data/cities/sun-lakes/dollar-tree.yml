@@ -1,11 +1,11 @@
 id: 550021795
-type: way
+type: node
 latitude: 33.2163
 longitude: -111.84295
 postcode: "85248"
 city: Sun Lakes
-street: "South Arizona Avenue"
-housenumber: 25410
+street: South Arizona Avenue
+housenumber: "25410"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/sun-lakes/7090/"
+website: https://www.dollartree.com/locations/az/sun-lakes/7090/

@@ -1,11 +1,11 @@
 id: 738553099
-type: way
+type: node
 latitude: 33.53626
 longitude: -111.89091
 postcode: "85250"
 city: Scottsdale
-street: "North Pima Road"
-housenumber: 6877
-phone: "480-606-1507"
-opening_hours: "Mo-Sa 07:30-21:00, Su 08:00-20:00"
-website: "https://www.autozone.com/locations/az/scottsdale/6877-n-pima-rd.html"
+street: North Pima Road
+housenumber: "6877"
+phone: 480-606-1507
+opening_hours: Mo-Sa 07:30-21:00, Su 08:00-20:00
+website: https://www.autozone.com/locations/az/scottsdale/6877-n-pima-rd.html

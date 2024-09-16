@@ -1,11 +1,11 @@
 id: 164936211
-type: way
+type: node
 latitude: 33.41687
 longitude: -111.55071
 postcode: "85120"
 city: Apache Junction
-street: "North Plaza Drive"
-housenumber: 100
-phone: "+1 480 982 2239"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-17:00"
-website: "http://www.thegoodapple.com/"
+street: North Plaza Drive
+housenumber: "100"
+phone: +1 480 982 2239
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-17:00
+website: http://www.thegoodapple.com/

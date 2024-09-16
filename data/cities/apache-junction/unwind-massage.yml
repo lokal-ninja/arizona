@@ -4,8 +4,8 @@ latitude: 33.41662
 longitude: -111.54786
 postcode: "85120"
 city: Apache Junction
-street: "North Apache Trail"
-housenumber: 185
-phone: "+1 480 232 3193"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: North Apache Trail
+housenumber: "185"
+phone: +1 480 232 3193
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

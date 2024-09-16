@@ -1,11 +1,11 @@
 id: 413046113
-type: way
+type: node
 latitude: 33.61207
 longitude: -112.42144
 postcode: "85388"
 city: Surprise
-street: "North Prasada Gateway Avenue"
-housenumber: 14111
-phone: "+1 623-282-3208"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5429/surprise-az/whats-new"
+street: North Prasada Gateway Avenue
+housenumber: "14111"
+phone: +1 623-282-3208
+opening_hours: 24/7
+website: https://www.walmart.com/store/5429/surprise-az/whats-new

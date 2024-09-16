@@ -1,11 +1,11 @@
 id: 132995682
-type: way
+type: node
 latitude: 35.19187
 longitude: -111.64139
 postcode: "86001"
 city: Flagstaff
-street: "South Cambridge Lane"
-housenumber: 320
-phone: "+1 928-774-5747"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/flagstaff"
+street: South Cambridge Lane
+housenumber: "320"
+phone: +1 928-774-5747
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/flagstaff

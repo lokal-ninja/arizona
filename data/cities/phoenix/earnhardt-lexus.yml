@@ -1,11 +1,11 @@
 id: 534138050
-type: way
+type: node
 latitude: 33.51069
 longitude: -112.06372
 postcode: "85014"
 city: Phoenix
-street: "East Camelback Road"
-housenumber: 800
+street: East Camelback Road
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 131891090
-type: way
+type: node
 latitude: 33.42436
 longitude: -112.06738
 postcode: "85004"
 city: Phoenix
-street: "South 6th Street"
-housenumber: 2432
+street: South 6th Street
+housenumber: "2432"
 phone: ""
 opening_hours: ""
 website: ""

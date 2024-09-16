@@ -1,11 +1,11 @@
 id: 476670402
-type: way
+type: node
 latitude: 32.28972
 longitude: -110.98051
 postcode: "85705"
 city: Tucson
-street: "West Auto Mall Drive"
-housenumber: 497
+street: West Auto Mall Drive
+housenumber: "497"
 phone: ""
 opening_hours: ""
 website: ""

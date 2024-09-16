@@ -1,11 +1,11 @@
 id: 506257696
-type: way
+type: node
 latitude: 32.98053
 longitude: -111.52421
 postcode: "85128"
 city: Coolidge
-street: "North Arizona Boulevard"
-housenumber: 388
-phone: "+1 520 723 1068"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.per-automotive.com/"
+street: North Arizona Boulevard
+housenumber: "388"
+phone: +1 520 723 1068
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.per-automotive.com/

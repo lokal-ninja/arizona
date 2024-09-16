@@ -1,11 +1,11 @@
 id: 924967465
-type: way
+type: node
 latitude: 33.44646
 longitude: -111.68605
 postcode: "85205"
 city: Mesa
-street: "East Ivyglen Street"
-housenumber: 6723
+street: East Ivyglen Street
+housenumber: "6723"
 phone: ""
 opening_hours: ""
 website: ""

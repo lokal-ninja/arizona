@@ -1,11 +1,11 @@
 id: 1157119058
-type: way
+type: node
 latitude: 33.60607
 longitude: -112.41696
 postcode: "85388"
 city: Surprise
-street: "North Prasada Parkway"
-housenumber: 13380
+street: North Prasada Parkway
+housenumber: "13380"
 phone: ""
 opening_hours: ""
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+website: https://tjmaxx.tjx.com/store/index.jsp

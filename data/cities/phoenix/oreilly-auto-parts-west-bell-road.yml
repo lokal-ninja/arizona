@@ -1,11 +1,11 @@
 id: 258243227
-type: way
+type: node
 latitude: 33.63966
 longitude: -112.09882
 postcode: "85023"
 city: Phoenix
-street: "West Bell Road"
-housenumber: 1811
+street: West Bell Road
+housenumber: "1811"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-3640.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-3640.html

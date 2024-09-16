@@ -1,11 +1,11 @@
 id: 847275286
-type: way
+type: node
 latitude: 33.44801
 longitude: -111.73124
 postcode: "85205"
 city: Mesa
-street: "East Ingram Street"
-housenumber: 4638
+street: East Ingram Street
+housenumber: "4638"
 phone: ""
 opening_hours: ""
 website: ""

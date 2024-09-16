@@ -1,11 +1,11 @@
 id: 634063804
-type: way
+type: node
 latitude: 34.15127
 longitude: -114.28909
 postcode: "85344"
 city: Parker
-street: "South California Avenue"
-housenumber: 921
+street: South California Avenue
+housenumber: "921"
 phone: ""
 opening_hours: ""
 website: ""

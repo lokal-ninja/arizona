@@ -1,11 +1,11 @@
 id: 667354769
-type: way
+type: node
 latitude: 32.21257
 longitude: -110.96885
 postcode: "85701"
 city: Tucson
-street: "South Stone Avenue"
-housenumber: 738
+street: South Stone Avenue
+housenumber: "738"
 phone: ""
 opening_hours: ""
 website: ""

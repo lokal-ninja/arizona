@@ -1,11 +1,11 @@
 id: 262802459
-type: way
+type: node
 latitude: 33.41549
 longitude: -111.58448
 postcode: "85120"
 city: Apache Junction
-street: "North 114th Street"
-housenumber: 7
-phone: "+1 480 984 3568"
-opening_hours: "Mo-Sa 07:30-18:30; Su 08:00-17:30"
-website: "https://www.superstitionranchmarket.com/"
+street: North 114th Street
+housenumber: "7"
+phone: +1 480 984 3568
+opening_hours: Mo-Sa 07:30-18:30; Su 08:00-17:30
+website: https://www.superstitionranchmarket.com/

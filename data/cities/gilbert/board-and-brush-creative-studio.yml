@@ -4,8 +4,8 @@ latitude: 33.34013
 longitude: -111.79087
 postcode: "85296"
 city: Gilbert
-street: "South Gilbert Road"
-housenumber: 538
-phone: "+1 480 486 6151"
-opening_hours: "By Appointment"
-website: "https://boardandbrush.com/gilbert/"
+street: South Gilbert Road
+housenumber: "538"
+phone: +1 480 486 6151
+opening_hours: '"By Appointment"'
+website: https://boardandbrush.com/gilbert/

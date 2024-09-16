@@ -1,11 +1,11 @@
 id: 813276395
-type: way
+type: node
 latitude: 33.38081
 longitude: -111.78713
 postcode: "85204"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 2060
-phone: "+1 480-401-3758"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/mesa/mesa-baseline-rd/"
+street: East Baseline Road
+housenumber: "2060"
+phone: +1 480-401-3758
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/mesa/mesa-baseline-rd/

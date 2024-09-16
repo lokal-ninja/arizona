@@ -1,11 +1,11 @@
 id: 573328538
-type: way
+type: node
 latitude: 32.20696
 longitude: -110.8416
 postcode: "85710"
 city: Tucson
-street: "East 22nd Street"
-housenumber: 7095
+street: East 22nd Street
+housenumber: "7095"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 695901547
-type: way
+type: node
 latitude: 34.5747
 longitude: -112.37
 postcode: "86314"
 city: Prescott Valley
-street: "Cordes Junction-Prescott Highway"
-housenumber: 5500
-phone: "+1 928-777-2400"
-opening_hours: "Mo-Sa 09:00-18:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Prescott-Valley/AZ/Prescott-Valley/86314/446"
+street: Cordes Junction-Prescott Highway
+housenumber: "5500"
+phone: +1 928-777-2400
+opening_hours: Mo-Sa 09:00-18:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Prescott-Valley/AZ/Prescott-Valley/86314/446

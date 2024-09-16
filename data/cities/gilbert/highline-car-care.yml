@@ -1,11 +1,11 @@
 id: 819666602
-type: way
+type: node
 latitude: 33.37487
 longitude: -111.8108
 postcode: "85233"
 city: Gilbert
-street: "North Marvin Street"
-housenumber: 1372
+street: North Marvin Street
+housenumber: "1372"
 phone: ""
 opening_hours: ""
 website: ""

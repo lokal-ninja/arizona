@@ -1,11 +1,11 @@
 id: 256675778
-type: way
+type: node
 latitude: 32.70913
 longitude: -114.61657
 postcode: "85364"
 city: Yuma
-street: "East 10th Street"
-housenumber: 495
+street: East 10th Street
+housenumber: "495"
 phone: "+19283296664"
 opening_hours: ""
 website: ""

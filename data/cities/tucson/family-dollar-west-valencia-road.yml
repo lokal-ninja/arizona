@@ -1,11 +1,11 @@
 id: 707133079
-type: way
+type: node
 latitude: 32.13399
 longitude: -111.06091
 postcode: ""
 city: Tucson
-street: "West Valencia Road"
-housenumber: 194
+street: West Valencia Road
+housenumber: "194"
 phone: ""
 opening_hours: ""
 website: ""

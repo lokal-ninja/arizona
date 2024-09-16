@@ -1,11 +1,11 @@
 id: 830532681
-type: way
+type: node
 latitude: 33.21231
 longitude: -111.842
 postcode: "85248"
 city: Sun Lakes
-street: "South Arizona Avenue"
-housenumber: 25820
+street: South Arizona Avenue
+housenumber: "25820"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 857696216
-type: way
+type: node
 latitude: 33.68959
 longitude: -111.92009
 postcode: "85255"
 city: Scottsdale
-street: "East Adobe Drive"
-housenumber: 7452
+street: East Adobe Drive
+housenumber: "7452"
 phone: ""
 opening_hours: ""
 website: ""

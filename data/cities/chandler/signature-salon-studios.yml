@@ -1,11 +1,11 @@
 id: 979905976
-type: way
+type: node
 latitude: 33.30789
 longitude: -111.89566
 postcode: "85226"
 city: Chandler
-street: "North Federal Street"
-housenumber: 265
+street: North Federal Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

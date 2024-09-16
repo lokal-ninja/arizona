@@ -1,11 +1,11 @@
 id: 993342734
-type: way
+type: node
 latitude: 32.68302
 longitude: -114.64971
 postcode: "85364"
 city: Yuma
-street: "West 24th Street"
-housenumber: 2491
+street: West 24th Street
+housenumber: "2491"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2491+w+24th+st-yuma-az-85364/id=9742"
+website: https://www.walgreens.com/locator/walgreens-2491+w+24th+st-yuma-az-85364/id=9742

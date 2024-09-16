@@ -1,11 +1,11 @@
 id: 313012284
-type: way
+type: node
 latitude: 33.46429
 longitude: -111.73885
 postcode: "85215"
 city: Mesa
-street: "North Ogden"
-housenumber: 2661
+street: North Ogden
+housenumber: "2661"
 phone: ""
 opening_hours: ""
 website: ""

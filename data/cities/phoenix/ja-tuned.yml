@@ -1,11 +1,11 @@
 id: 1227504133
-type: way
+type: node
 latitude: 33.47134
 longitude: -112.10993
 postcode: "85009"
 city: Phoenix
-street: "West Holly Street"
-housenumber: 2342
+street: West Holly Street
+housenumber: "2342"
 phone: ""
 opening_hours: ""
 website: ""

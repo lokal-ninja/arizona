@@ -1,11 +1,11 @@
 id: 150740378
-type: way
+type: node
 latitude: 33.48809
 longitude: -112.07445
-postcode: "85013;85012"
+postcode: 85013;85012
 city: Phoenix
-street: "West Osborn Road;North Central Avenue"
-housenumber: 3402
+street: West Osborn Road;North Central Avenue
+housenumber: "3402"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3402+n+central+ave-phoenix-az-85012/id=3464"
+website: https://www.walgreens.com/locator/walgreens-3402+n+central+ave-phoenix-az-85012/id=3464

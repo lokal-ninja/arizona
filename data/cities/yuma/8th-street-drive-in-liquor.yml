@@ -1,11 +1,11 @@
 id: 733373705
-type: way
+type: node
 latitude: 32.7134
 longitude: -114.63339
 postcode: "85364"
 city: Yuma
-street: "West 8th Street"
-housenumber: 1100
+street: West 8th Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

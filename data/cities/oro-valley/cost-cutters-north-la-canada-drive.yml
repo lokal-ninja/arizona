@@ -1,11 +1,11 @@
 id: 1021340351
-type: way
+type: node
 latitude: 32.396
 longitude: -110.99388
 postcode: "85737"
 city: Oro Valley
-street: "North La Cañada Drive"
-housenumber: 10420
-phone: "+1-520-544-5554"
-opening_hours: "Mo-Sa 9:00-19:00; Su 11:00-16:00"
-website: "https://www.costcutters.com/locations/az/oro-valley/canada-hills-marketplace-haircuts-15912.html"
+street: North La Cañada Drive
+housenumber: "10420"
+phone: +1-520-544-5554
+opening_hours: Mo-Sa 9:00-19:00; Su 11:00-16:00
+website: https://www.costcutters.com/locations/az/oro-valley/canada-hills-marketplace-haircuts-15912.html

@@ -1,11 +1,11 @@
 id: 770239867
-type: way
+type: node
 latitude: 33.59785
 longitude: -112.01366
 postcode: "85032"
 city: Phoenix
-street: "North 32nd Street"
-housenumber: 12222
-phone: "+1-602-992-5211"
+street: North 32nd Street
+housenumber: "12222"
+phone: +1-602-992-5211
 opening_hours: ""
 website: ""

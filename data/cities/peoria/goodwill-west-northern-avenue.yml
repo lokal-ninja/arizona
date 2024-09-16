@@ -1,11 +1,11 @@
 id: 447161258
-type: way
+type: node
 latitude: 33.55221
 longitude: -112.25283
 postcode: "85305"
 city: Peoria
-street: "West Northern Avenue"
-housenumber: 9000
+street: West Northern Avenue
+housenumber: "9000"
 phone: ""
 opening_hours: ""
 website: ""

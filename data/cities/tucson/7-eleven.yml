@@ -1,11 +1,11 @@
 id: 34822377
-type: way
+type: node
 latitude: 32.23648
 longitude: -110.95662
 postcode: "85719"
 city: Tucson
-street: "East Speedway Boulevard"
-housenumber: 1001
-phone: "+1 520-628-1612"
+street: East Speedway Boulevard
+housenumber: "1001"
+phone: +1 520-628-1612
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tucson/1001-e.-speedway-23823"
+website: https://www.7-eleven.com/locations/az/tucson/1001-e.-speedway-23823

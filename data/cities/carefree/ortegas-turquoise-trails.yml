@@ -1,11 +1,11 @@
 id: 963305853
-type: way
+type: node
 latitude: 33.82538
 longitude: -111.92298
 postcode: "85377"
 city: Carefree
-street: "East Easy Street"
-housenumber: 46
+street: East Easy Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

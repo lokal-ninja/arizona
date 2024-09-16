@@ -1,11 +1,11 @@
 id: 183939145
-type: way
+type: node
 latitude: 32.70336
 longitude: -114.60836
 postcode: "85365"
 city: Yuma
-street: "South Castle Dome Avenue"
-housenumber: 1350
-phone: "+1 928-783-0224"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/yuma-34.shtml"
+street: South Castle Dome Avenue
+housenumber: "1350"
+phone: +1 928-783-0224
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/yuma-34.shtml

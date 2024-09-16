@@ -1,11 +1,11 @@
 id: 672226721
-type: way
+type: node
 latitude: 32.20796
 longitude: -110.84187
 postcode: "85710"
 city: Tucson
-street: "East 21st Street"
-housenumber: 7075
+street: East 21st Street
+housenumber: "7075"
 phone: ""
 opening_hours: ""
 website: ""

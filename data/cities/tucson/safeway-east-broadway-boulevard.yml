@@ -1,11 +1,11 @@
 id: 32979093
-type: way
+type: node
 latitude: 32.22026
 longitude: -110.94343
 postcode: "85719"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 1940
-phone: "+1 520-206-9047"
+street: East Broadway Boulevard
+housenumber: "1940"
+phone: +1 520-206-9047
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/tucson/1940-e-broadway-blvd.html"
+website: https://local.safeway.com/safeway/az/tucson/1940-e-broadway-blvd.html

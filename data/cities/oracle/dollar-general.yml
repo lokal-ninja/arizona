@@ -1,11 +1,11 @@
 id: 249376783
-type: way
+type: node
 latitude: 32.62057
 longitude: -110.79957
 postcode: "85623"
 city: Oracle
-street: "West American Avenue"
-housenumber: 2406
-phone: "+1 520 896 3893"
+street: West American Avenue
+housenumber: "2406"
+phone: +1 520 896 3893
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/oracle/10333"
+website: https://www.dollargeneral.com/store-directory/az/oracle/10333

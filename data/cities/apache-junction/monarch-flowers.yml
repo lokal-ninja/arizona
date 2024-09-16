@@ -1,11 +1,11 @@
 id: 316474382
-type: way
+type: node
 latitude: 33.39475
 longitude: -111.54801
 postcode: "85120"
 city: Apache Junction
-street: "South Coconino Drive"
-housenumber: 2226
+street: South Coconino Drive
+housenumber: "2226"
 phone: ""
 opening_hours: ""
 website: ""

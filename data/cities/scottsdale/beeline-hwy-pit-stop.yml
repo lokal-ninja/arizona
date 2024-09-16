@@ -1,11 +1,11 @@
 id: 328097611
-type: way
+type: node
 latitude: 33.46646
 longitude: -111.84251
 postcode: "85256"
 city: Scottsdale
-street: "North Beeline Highway"
-housenumber: 1601
+street: North Beeline Highway
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

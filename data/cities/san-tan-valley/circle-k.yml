@@ -1,11 +1,11 @@
 id: 339640085
-type: way
+type: node
 latitude: 33.1623
 longitude: -111.56277
 postcode: "85143"
 city: San Tan Valley
-street: "East Hunt Highway"
-housenumber: 320
+street: East Hunt Highway
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

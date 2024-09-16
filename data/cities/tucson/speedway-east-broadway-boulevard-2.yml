@@ -1,11 +1,11 @@
 id: 847008168
-type: way
+type: node
 latitude: 32.22149
 longitude: -110.84153
 postcode: "85710"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 7085
+street: East Broadway Boulevard
+housenumber: "7085"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Tucson/7085-E-Broadway"
+website: https://www.speedway.com/locations/AZ/Tucson/7085-E-Broadway

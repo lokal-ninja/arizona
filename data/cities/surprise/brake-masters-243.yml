@@ -1,11 +1,11 @@
 id: 1250912342
-type: way
+type: node
 latitude: 33.61065
 longitude: -112.42595
 postcode: "85388"
 city: Surprise
-street: "West Waddell Road"
-housenumber: 17060
+street: West Waddell Road
+housenumber: "17060"
 phone: ""
 opening_hours: ""
 website: ""

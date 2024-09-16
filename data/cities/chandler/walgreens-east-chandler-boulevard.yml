@@ -1,11 +1,11 @@
 id: 631124126
-type: way
+type: node
 latitude: 33.30522
 longitude: -111.80787
 postcode: "85225"
 city: Chandler
-street: "East Chandler Boulevard"
-housenumber: 1985
+street: East Chandler Boulevard
+housenumber: "1985"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1985+e+chandler+blvd-chandler-az-85225/id=3726"
+website: https://www.walgreens.com/locator/walgreens-1985+e+chandler+blvd-chandler-az-85225/id=3726

@@ -1,11 +1,11 @@
 id: 156541225
-type: way
+type: node
 latitude: 33.63803
 longitude: -112.21644
 postcode: "85382"
 city: Peoria
-street: "West Bell Road"
-housenumber: 7311
+street: West Bell Road
+housenumber: "7311"
 phone: ""
 opening_hours: ""
 website: ""

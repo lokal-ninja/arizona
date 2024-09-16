@@ -1,11 +1,11 @@
 id: 591431031
-type: way
+type: node
 latitude: 33.29758
 longitude: -111.89015
 postcode: "85224"
 city: Chandler
-street: "West Frye Road"
-housenumber: 2805
+street: West Frye Road
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

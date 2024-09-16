@@ -1,11 +1,11 @@
 id: 988703982
-type: way
+type: node
 latitude: 33.40717
 longitude: -112.0689
 postcode: "85040"
 city: Phoenix
-street: "East Broadway Road"
-housenumber: 326
+street: East Broadway Road
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

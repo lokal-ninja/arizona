@@ -1,11 +1,11 @@
 id: 150740407
-type: way
+type: node
 latitude: 33.48818
 longitude: -112.07578
 postcode: "85013"
 city: Phoenix
-street: "West Osborn Road"
-housenumber: 106
-phone: "+1 602-248-8122"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/az/phoenix/106-west-osborn/"
+street: West Osborn Road
+housenumber: "106"
+phone: +1 602-248-8122
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/az/phoenix/106-west-osborn/

@@ -1,11 +1,11 @@
 id: 867892481
-type: way
+type: node
 latitude: 33.38427
 longitude: -111.69134
 postcode: "85206"
 city: Mesa
-street: "East Test Drive"
-housenumber: 6442
+street: East Test Drive
+housenumber: "6442"
 phone: ""
 opening_hours: ""
 website: ""

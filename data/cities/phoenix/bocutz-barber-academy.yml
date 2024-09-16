@@ -1,11 +1,11 @@
 id: 952151236
-type: way
+type: node
 latitude: 33.40654
 longitude: -112.07437
 postcode: "85041"
 city: Phoenix
-street: "West Broadway Road"
-housenumber: 19
+street: West Broadway Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.bocutzbarberacademy.com"
+website: https://www.bocutzbarberacademy.com

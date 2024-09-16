@@ -1,11 +1,11 @@
 id: 708323506
-type: way
+type: node
 latitude: 33.21872
 longitude: -111.87691
 postcode: "85248"
 city: Sun Lakes
-street: "East Riggs Road"
-housenumber: 9546
+street: East Riggs Road
+housenumber: "9546"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sun-lakes-az-pharmacies/9546-e-riggs-rd-sun-lakes-az-85248/storeid=3491"
+website: https://www.cvs.com/store-locator/sun-lakes-az-pharmacies/9546-e-riggs-rd-sun-lakes-az-85248/storeid=3491

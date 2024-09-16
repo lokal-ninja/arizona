@@ -1,11 +1,11 @@
 id: 942028618
-type: way
+type: node
 latitude: 33.49588
 longitude: -112.00443
 postcode: "85018"
 city: Phoenix
-street: "North 36th Street"
-housenumber: 4112
+street: North 36th Street
+housenumber: "4112"
 phone: ""
 opening_hours: ""
 website: ""

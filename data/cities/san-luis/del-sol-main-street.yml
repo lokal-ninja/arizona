@@ -1,11 +1,11 @@
 id: 239367332
-type: way
+type: node
 latitude: 32.48981
 longitude: -114.7834
 postcode: "85349"
 city: San Luis
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

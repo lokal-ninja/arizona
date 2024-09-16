@@ -1,11 +1,11 @@
 id: 938579257
-type: way
+type: node
 latitude: 33.43641
 longitude: -112.41358
 postcode: "85338"
 city: Goodyear
-street: "West Yuma Road"
-housenumber: 16490
+street: West Yuma Road
+housenumber: "16490"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/goodyear/16490-w-yuma-rd.html"
+website: https://www.autozone.com/locations/az/goodyear/16490-w-yuma-rd.html

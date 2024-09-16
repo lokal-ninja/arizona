@@ -1,11 +1,11 @@
 id: 327171418
-type: way
+type: node
 latitude: 32.44251
 longitude: -110.93927
 postcode: "85755"
 city: Oro Valley
-street: "East Ranch Vistoso Boulevard"
-housenumber: 2285
-phone: "520-544-2285"
+street: East Ranch Vistoso Boulevard
+housenumber: "2285"
+phone: 520-544-2285
 opening_hours: ""
-website: "https://www.vistosofuneralhome.com/"
+website: https://www.vistosofuneralhome.com/

@@ -1,11 +1,11 @@
 id: 630342351
-type: way
+type: node
 latitude: 33.36642
 longitude: -111.82278
 postcode: "85233"
 city: Gilbert
-street: "West Scott Avenue"
-housenumber: 1508
+street: West Scott Avenue
+housenumber: "1508"
 phone: ""
 opening_hours: ""
 website: ""

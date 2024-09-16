@@ -1,11 +1,11 @@
 id: 818285589
-type: way
+type: node
 latitude: 33.41343
 longitude: -111.82361
 postcode: "85210"
 city: Mesa
-street: "South Mesa Drive"
-housenumber: 52
+street: South Mesa Drive
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

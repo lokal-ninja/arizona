@@ -1,11 +1,11 @@
 id: 1230181377
-type: way
+type: node
 latitude: 33.45919
 longitude: -112.09975
 postcode: "85007"
 city: Phoenix
-street: "West Linden Street"
-housenumber: 1841
+street: West Linden Street
+housenumber: "1841"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 477228524
-type: way
+type: node
 latitude: 33.49309
 longitude: -112.29322
 postcode: "85392"
 city: Avondale
-street: "West Indian School Road"
-housenumber: 10815
+street: West Indian School Road
+housenumber: "10815"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/avondale/10815-w-indian-school-rd.html"
+website: https://www.autozone.com/locations/az/avondale/10815-w-indian-school-rd.html

@@ -1,11 +1,11 @@
 id: 714119647
-type: way
+type: node
 latitude: 33.63875
 longitude: -112.16831
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 4965
-phone: "602-843-2305"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://www.walgreens.com/locator/walgreens-4965+w+bell+rd-glendale-az-85308/id=3049"
+street: West Bell Road
+housenumber: "4965"
+phone: 602-843-2305
+opening_hours: Mo-Su 06:00-00:00
+website: https://www.walgreens.com/locator/walgreens-4965+w+bell+rd-glendale-az-85308/id=3049

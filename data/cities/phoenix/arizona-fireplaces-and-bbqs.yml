@@ -1,11 +1,11 @@
 id: 82162158
-type: way
+type: node
 latitude: 33.67651
 longitude: -112.02736
 postcode: "85050"
 city: Phoenix
-street: "North 25th Place"
-housenumber: 20835
+street: North 25th Place
+housenumber: "20835"
 phone: ""
 opening_hours: ""
 website: ""

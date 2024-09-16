@@ -1,11 +1,11 @@
 id: 237616119
-type: way
+type: node
 latitude: 33.41184
 longitude: -111.54578
 postcode: "85119"
 city: Apache Junction
-street: "East Old West Highway"
-housenumber: 21
+street: East Old West Highway
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

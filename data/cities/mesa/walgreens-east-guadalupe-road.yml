@@ -1,11 +1,11 @@
 id: 762181034
-type: way
+type: node
 latitude: 33.36408
 longitude: -111.63516
 postcode: "85212"
 city: Mesa
-street: "East Guadalupe Road"
-housenumber: 9233
+street: East Guadalupe Road
+housenumber: "9233"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9233+e+guadalupe+rd-mesa-az-85212/id=7558"
+website: https://www.walgreens.com/locator/walgreens-9233+e+guadalupe+rd-mesa-az-85212/id=7558

@@ -1,11 +1,11 @@
 id: 1005979842
-type: way
+type: node
 latitude: 34.54764
 longitude: -112.47749
 postcode: "86301"
 city: Prescott
-street: "Miller Valley Rd"
-housenumber: 420
+street: Miller Valley Rd
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

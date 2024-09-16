@@ -1,11 +1,11 @@
 id: 807885647
-type: way
+type: node
 latitude: 33.37895
 longitude: -111.93911
 postcode: "85282"
 city: Tempe
-street: "South Mill Avenue"
-housenumber: 5125
-phone: "+1 480-820-2154"
+street: South Mill Avenue
+housenumber: "5125"
+phone: +1 480-820-2154
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tempe/5125-south-mill-avenue-26096"
+website: https://www.7-eleven.com/locations/az/tempe/5125-south-mill-avenue-26096

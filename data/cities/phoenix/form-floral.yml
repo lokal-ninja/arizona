@@ -1,11 +1,11 @@
 id: 1308680499
-type: way
+type: node
 latitude: 33.42145
 longitude: -111.99841
 postcode: "85040"
 city: Phoenix
-street: "East Winslow Avenue"
-housenumber: 3832
+street: East Winslow Avenue
+housenumber: "3832"
 phone: ""
 opening_hours: ""
 website: ""

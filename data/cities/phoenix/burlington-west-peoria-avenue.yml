@@ -1,11 +1,11 @@
 id: 68295762
-type: way
+type: node
 latitude: 33.58323
 longitude: -112.11776
-postcode: "85029-5202"
+postcode: 85029-5202
 city: Phoenix
-street: "West Peoria Avenue"
-housenumber: 2728
-phone: "+1 602-866-2628"
-opening_hours: "09:00-22:00"
-website: "https://stores.burlington.com/az/phoenix/181"
+street: West Peoria Avenue
+housenumber: "2728"
+phone: +1 602-866-2628
+opening_hours: 09:00-22:00
+website: https://stores.burlington.com/az/phoenix/181

@@ -1,11 +1,11 @@
 id: 154827917
-type: way
+type: node
 latitude: 33.58442
 longitude: -111.92468
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 10773
-phone: "+1 480-948-6446"
-opening_hours: "Mo-Su 03:00-22:00"
-website: "https://local.safeway.com/safeway/az/scottsdale/10773-n-scottsdale-rd.html"
+street: North Scottsdale Road
+housenumber: "10773"
+phone: +1 480-948-6446
+opening_hours: Mo-Su 03:00-22:00
+website: https://local.safeway.com/safeway/az/scottsdale/10773-n-scottsdale-rd.html

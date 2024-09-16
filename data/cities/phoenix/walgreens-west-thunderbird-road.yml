@@ -1,11 +1,11 @@
 id: 68295671
-type: way
+type: node
 latitude: 33.61174
 longitude: -112.11165
 postcode: "85023"
 city: Phoenix
-street: "West Thunderbird Road"
-housenumber: 2610
+street: West Thunderbird Road
+housenumber: "2610"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2610+w+thunderbird+rd-phoenix-az-85023/id=3593"
+website: https://www.walgreens.com/locator/walgreens-2610+w+thunderbird+rd-phoenix-az-85023/id=3593

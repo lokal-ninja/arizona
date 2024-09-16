@@ -1,11 +1,11 @@
 id: 28712045
-type: way
+type: node
 latitude: 33.33424
 longitude: -111.9101
 postcode: "85284"
 city: Tempe
-street: "East Warner Road"
-housenumber: 1825
+street: East Warner Road
+housenumber: "1825"
 phone: ""
-opening_hours: "Sa-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1825+e+warner+rd-tempe-az-85284/id=4376"
+opening_hours: Sa-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1825+e+warner+rd-tempe-az-85284/id=4376

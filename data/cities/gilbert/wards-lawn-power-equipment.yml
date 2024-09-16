@@ -1,11 +1,11 @@
 id: 306353960
-type: way
+type: node
 latitude: 33.34479
 longitude: -111.83123
 postcode: "85233"
 city: Gilbert
-street: "West Rawhide Avenue"
-housenumber: 1916
+street: West Rawhide Avenue
+housenumber: "1916"
 phone: ""
 opening_hours: ""
 website: ""

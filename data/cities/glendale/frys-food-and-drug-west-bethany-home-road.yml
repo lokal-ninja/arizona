@@ -1,11 +1,11 @@
 id: 229848694
-type: way
+type: node
 latitude: 33.5223
 longitude: -112.15395
 postcode: "85301"
 city: Glendale
-street: "West Bethany Home Road"
-housenumber: 4353
-phone: "+1 623-435-7197"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/glendale/43rd-ave-bethany-home/660/00010"
+street: West Bethany Home Road
+housenumber: "4353"
+phone: +1 623-435-7197
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/glendale/43rd-ave-bethany-home/660/00010

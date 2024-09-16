@@ -1,11 +1,11 @@
 id: 1118660468
-type: way
+type: node
 latitude: 33.2407
 longitude: -111.74303
 postcode: "85298"
 city: Gilbert
-street: "East Aris Drive"
-housenumber: 2180
-phone: "480-382-9900"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://varsitytermiteandpestcontrol.com/gilbert-pest-control/"
+street: East Aris Drive
+housenumber: "2180"
+phone: 480-382-9900
+opening_hours: Mo-Sa 08:00-18:00
+website: https://varsitytermiteandpestcontrol.com/gilbert-pest-control/

@@ -1,11 +1,11 @@
 id: 745242088
-type: way
+type: node
 latitude: 33.41481
 longitude: -111.62607
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 9505
-phone: "+1 480 984 2127"
+street: East Main Street
+housenumber: "9505"
+phone: +1 480 984 2127
 opening_hours: ""
-website: "https://www.kerbysfurniture.com/"
+website: https://www.kerbysfurniture.com/

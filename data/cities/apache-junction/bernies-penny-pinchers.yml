@@ -1,11 +1,11 @@
 id: 158926403
-type: way
+type: node
 latitude: 33.42215
 longitude: -111.5772
 postcode: "85120"
 city: Apache Junction
-street: "West Superstition Boulevard"
-housenumber: 2885
+street: West Superstition Boulevard
+housenumber: "2885"
 phone: ""
 opening_hours: ""
 website: ""

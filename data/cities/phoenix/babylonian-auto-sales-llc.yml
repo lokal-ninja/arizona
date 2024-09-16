@@ -1,11 +1,11 @@
 id: 155109519
-type: way
+type: node
 latitude: 33.47332
 longitude: -112.10633
 postcode: "85009"
 city: Phoenix
-street: "West Encanto Boulevard"
-housenumber: 2148
+street: West Encanto Boulevard
+housenumber: "2148"
 phone: ""
 opening_hours: ""
 website: ""

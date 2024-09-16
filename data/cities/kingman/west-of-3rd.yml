@@ -1,11 +1,11 @@
 id: 1027561613
-type: way
+type: node
 latitude: 35.1897
 longitude: -114.05534
 postcode: "86401"
 city: Kingman
-street: "Beale Street"
-housenumber: 224
-phone: "928.235.8950"
+street: Beale Street
+housenumber: "224"
+phone: 928.235.8950
 opening_hours: ""
-website: "https://www.westofthird.com/"
+website: https://www.westofthird.com/

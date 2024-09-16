@@ -1,11 +1,11 @@
 id: 653674424
-type: way
+type: node
 latitude: 33.50517
 longitude: -112.05665
 postcode: "85014"
 city: Phoenix
-street: "North 12th Street"
-housenumber: 4644
+street: North 12th Street
+housenumber: "4644"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 295768853
-type: way
+type: node
 latitude: 33.63925
 longitude: -112.06103
 postcode: "85022"
 city: Phoenix
-street: "North 9th Street"
-housenumber: 16809
+street: North 9th Street
+housenumber: "16809"
 phone: ""
 opening_hours: ""
 website: ""

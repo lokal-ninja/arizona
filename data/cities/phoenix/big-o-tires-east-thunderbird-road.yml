@@ -1,11 +1,11 @@
 id: 66604712
-type: way
+type: node
 latitude: 33.61175
 longitude: -111.98015
 postcode: "85032"
 city: Phoenix
-street: "East Thunderbird Road"
-housenumber: 4702
+street: East Thunderbird Road
+housenumber: "4702"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 246677460
-type: way
+type: node
 latitude: 33.61053
 longitude: -112.09924
 postcode: "85023"
 city: Phoenix
-street: "West Thunderbird Road"
-housenumber: 1855
+street: West Thunderbird Road
+housenumber: "1855"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/1855-w-thunderbird-rd-phoenix-az-85023/storeid=7116"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/1855-w-thunderbird-rd-phoenix-az-85023/storeid=7116

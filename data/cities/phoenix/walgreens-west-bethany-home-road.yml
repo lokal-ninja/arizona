@@ -1,11 +1,11 @@
 id: 151813214
-type: way
+type: node
 latitude: 33.52341
 longitude: -112.09864
 postcode: "85015"
 city: Phoenix
-street: "West Bethany Home Road"
-housenumber: 1825
+street: West Bethany Home Road
+housenumber: "1825"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1825+w+bethany+home+rd-phoenix-az-85015/id=6063"
+website: https://www.walgreens.com/locator/walgreens-1825+w+bethany+home+rd-phoenix-az-85015/id=6063

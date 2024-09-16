@@ -1,11 +1,11 @@
 id: 690352949
-type: way
+type: node
 latitude: 33.44952
 longitude: -111.73462
 postcode: "85205"
 city: Mesa
-street: "East McKellips Road"
-housenumber: 4505
-phone: "+1 480-641-6728"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2767-mesa-az"
+street: East McKellips Road
+housenumber: "4505"
+phone: +1 480-641-6728
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2767-mesa-az

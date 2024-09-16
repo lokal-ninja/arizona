@@ -1,11 +1,11 @@
 id: 824001115
-type: way
+type: node
 latitude: 33.21904
 longitude: -111.85927
 postcode: "85248"
 city: Sun Lakes
-street: "East Riggs Road"
-housenumber: 10356
+street: East Riggs Road
+housenumber: "10356"
 phone: ""
 opening_hours: ""
 website: ""

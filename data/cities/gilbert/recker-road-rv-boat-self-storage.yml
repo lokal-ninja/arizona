@@ -1,11 +1,11 @@
 id: 919612489
-type: way
+type: node
 latitude: 33.37757
 longitude: -111.70415
 postcode: "85234"
 city: Gilbert
-street: "North Recker Road"
-housenumber: 1501
+street: North Recker Road
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

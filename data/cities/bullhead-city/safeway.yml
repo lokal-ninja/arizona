@@ -1,11 +1,11 @@
 id: 144971205
-type: way
+type: node
 latitude: 35.12151
 longitude: -114.58881
 postcode: "86442"
 city: Bullhead City
-street: "AZ 95"
-housenumber: 1751
-phone: "+1 928-763-3555"
+street: AZ 95
+housenumber: "1751"
+phone: +1 928-763-3555
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/bullhead-city/1751-hwy-95.html"
+website: https://local.safeway.com/safeway/az/bullhead-city/1751-hwy-95.html

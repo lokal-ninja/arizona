@@ -1,11 +1,11 @@
 id: 734275662
-type: way
+type: node
 latitude: 33.60934
 longitude: -112.31337
 postcode: "85335"
 city: El Mirage
-street: "West Grand Avenue"
-housenumber: 11717
+street: West Grand Avenue
+housenumber: "11717"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1126393006
-type: way
+type: node
 latitude: 33.3781
 longitude: -111.90574
 postcode: "85283"
 city: Tempe
-street: "East Baseline Road"
-housenumber: 1831
+street: East Baseline Road
+housenumber: "1831"
 phone: ""
 opening_hours: ""
 website: ""

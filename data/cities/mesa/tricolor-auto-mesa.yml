@@ -1,11 +1,11 @@
 id: 832359299
-type: way
+type: node
 latitude: 33.40849
 longitude: -111.8621
 postcode: "85202"
 city: Mesa
-street: "West Broadway Road"
-housenumber: 1426
+street: West Broadway Road
+housenumber: "1426"
 phone: ""
 opening_hours: ""
 website: ""

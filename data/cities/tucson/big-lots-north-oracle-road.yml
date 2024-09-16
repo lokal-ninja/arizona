@@ -1,11 +1,11 @@
 id: 476670405
-type: way
+type: node
 latitude: 32.28885
 longitude: -110.98024
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 4525
-phone: "+1 520-416-4924"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/az/tucson/4525-n-oracle-rd"
+street: North Oracle Road
+housenumber: "4525"
+phone: +1 520-416-4924
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/az/tucson/4525-n-oracle-rd

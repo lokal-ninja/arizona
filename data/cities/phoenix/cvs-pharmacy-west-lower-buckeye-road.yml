@@ -1,11 +1,11 @@
 id: 604432304
-type: way
+type: node
 latitude: 33.42371
 longitude: -112.20299
 postcode: "85043"
 city: Phoenix
-street: "West Lower Buckeye Road"
-housenumber: 6650
+street: West Lower Buckeye Road
+housenumber: "6650"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/6650-w-lower-buckeye-rd-phoenix-az-85043/storeid=1744"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/6650-w-lower-buckeye-rd-phoenix-az-85043/storeid=1744

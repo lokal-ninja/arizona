@@ -1,11 +1,11 @@
 id: 664263251
-type: way
+type: node
 latitude: 34.25277
 longitude: -110.02836
 postcode: "85901"
 city: Show Low
-street: "North White Mountain Road"
-housenumber: 401
+street: North White Mountain Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

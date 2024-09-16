@@ -1,11 +1,11 @@
 id: 179382215
-type: way
+type: node
 latitude: 33.43172
 longitude: -111.87063
 postcode: "85201"
 city: Mesa
-street: "North Dobson Road"
-housenumber: 829
+street: North Dobson Road
+housenumber: "829"
 phone: ""
 opening_hours: ""
 website: ""

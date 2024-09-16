@@ -1,11 +1,11 @@
 id: 896001262
-type: way
+type: node
 latitude: 33.66789
 longitude: -112.28065
 postcode: "85382"
 city: Peoria
-street: "North Lake Pleasant Road"
-housenumber: 20266
+street: North Lake Pleasant Road
+housenumber: "20266"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20266+n+lake+pleasant+rd-peoria-az-85382/id=5353"
+website: https://www.walgreens.com/locator/walgreens-20266+n+lake+pleasant+rd-peoria-az-85382/id=5353

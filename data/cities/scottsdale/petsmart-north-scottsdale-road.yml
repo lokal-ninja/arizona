@@ -1,11 +1,11 @@
 id: 858775885
-type: way
+type: node
 latitude: 33.6351
 longitude: -111.92053
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 16257
-phone: "+1 480-607-1038"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/scottsdale-store0130.html"
+street: North Scottsdale Road
+housenumber: "16257"
+phone: +1 480-607-1038
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/scottsdale-store0130.html

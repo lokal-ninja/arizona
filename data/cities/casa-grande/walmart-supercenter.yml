@@ -1,11 +1,11 @@
 id: 530440912
-type: way
+type: node
 latitude: 32.87671
 longitude: -111.7132
 postcode: "85122"
 city: Casa Grande
-street: "East Florence Boulevard"
-housenumber: 1741
-phone: "+1 520-421-1200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1218/casa-grande-az/whats-new"
+street: East Florence Boulevard
+housenumber: "1741"
+phone: +1 520-421-1200
+opening_hours: 24/7
+website: https://www.walmart.com/store/1218/casa-grande-az/whats-new

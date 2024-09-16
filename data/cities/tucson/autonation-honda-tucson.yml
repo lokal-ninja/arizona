@@ -1,11 +1,11 @@
 id: 476670413
-type: way
+type: node
 latitude: 32.28733
 longitude: -110.98611
 postcode: "85705"
 city: Tucson
-street: "West Wetmore Road"
-housenumber: 810
+street: West Wetmore Road
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://www.autonationhondatucsonautomall.com/"
+website: https://www.autonationhondatucsonautomall.com/

@@ -1,11 +1,11 @@
 id: 559627887
-type: way
+type: node
 latitude: 33.42952
 longitude: -112.07573
 postcode: "85004"
 city: Phoenix
-street: "West Maricopa Freeway"
-housenumber: 112
+street: West Maricopa Freeway
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

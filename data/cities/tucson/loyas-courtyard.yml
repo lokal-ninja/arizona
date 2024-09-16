@@ -1,11 +1,11 @@
 id: 441737020
-type: way
+type: node
 latitude: 32.26037
 longitude: -110.9791
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2925
+street: North Oracle Road
+housenumber: "2925"
 phone: ""
 opening_hours: ""
-website: "https://www.loyascourtyard.com/"
+website: https://www.loyascourtyard.com/

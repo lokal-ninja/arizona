@@ -1,11 +1,11 @@
 id: 130102507
-type: way
+type: node
 latitude: 33.46562
 longitude: -112.15401
 postcode: "85035"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 4335
+street: West McDowell Road
+housenumber: "4335"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/4335-w-mcdowell-rd.html"
+website: https://www.autozone.com/locations/az/phoenix/4335-w-mcdowell-rd.html

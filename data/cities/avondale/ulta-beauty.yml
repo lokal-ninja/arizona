@@ -1,11 +1,11 @@
 id: 1226325155
-type: way
+type: node
 latitude: 33.4677
 longitude: -112.27626
 postcode: "85392"
 city: Avondale
-street: "West McDowell Road"
-housenumber: 10050
-phone: "+1 480-770-3880"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/avondale-az-1132"
+street: West McDowell Road
+housenumber: "10050"
+phone: +1 480-770-3880
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/avondale-az-1132

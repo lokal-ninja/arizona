@@ -1,11 +1,11 @@
 id: 1220653101
-type: way
+type: node
 latitude: 33.93293
 longitude: -114.0068
 postcode: "85325"
 city: Bouse
-street: "Broadway Avenue"
-housenumber: 27646
+street: Broadway Avenue
+housenumber: "27646"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544842350
-type: way
+type: node
 latitude: 33.24408
 longitude: -111.84395
 postcode: "85248"
 city: Chandler
-street: "South Arizona Avenue"
-housenumber: 4030
-phone: "+1 480-883-2200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-chandler/2582"
+street: South Arizona Avenue
+housenumber: "4030"
+phone: +1 480-883-2200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-chandler/2582

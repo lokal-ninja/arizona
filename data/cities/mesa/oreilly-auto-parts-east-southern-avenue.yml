@@ -1,11 +1,11 @@
 id: 819198874
-type: way
+type: node
 latitude: 33.39375
 longitude: -111.82034
 postcode: "85204"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 514
+street: East Southern Avenue
+housenumber: "514"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/mesa/autoparts-2643.html"
+website: https://locations.oreillyauto.com/az/mesa/autoparts-2643.html

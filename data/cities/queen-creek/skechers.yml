@@ -1,11 +1,11 @@
 id: 853016859
-type: way
+type: node
 latitude: 33.25458
 longitude: -111.64244
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Loop Road"
-housenumber: 21308
+street: South Ellsworth Loop Road
+housenumber: "21308"
 phone: "+14808947080"
 opening_hours: ""
-website: "https://local.skechers.com/az/queen-creek/1041/?utm_source=Google&utm_medium=Maps&utm_campaign=Google_Places"
+website: https://local.skechers.com/az/queen-creek/1041/?utm_source=Google&utm_medium=Maps&utm_campaign=Google_Places

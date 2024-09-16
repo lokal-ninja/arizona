@@ -1,11 +1,11 @@
 id: 170998300
-type: way
+type: node
 latitude: 33.38828
 longitude: -111.61495
 postcode: "85209"
 city: Mesa
-street: "South Crismon Road"
-housenumber: 1553
+street: South Crismon Road
+housenumber: "1553"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 07:00-16:00"
-website: "http://www.fletcherstireandauto.net/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 07:00-16:00
+website: http://www.fletcherstireandauto.net/

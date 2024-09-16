@@ -1,11 +1,11 @@
 id: 1299892024
-type: way
+type: node
 latitude: 33.26426
 longitude: -111.8602
 postcode: "85286"
 city: Chandler
-street: "South Alma School Road"
-housenumber: 2844
+street: South Alma School Road
+housenumber: "2844"
 phone: ""
 opening_hours: ""
 website: ""

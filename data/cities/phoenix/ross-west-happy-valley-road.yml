@@ -1,11 +1,11 @@
 id: 870540945
-type: way
+type: node
 latitude: 33.71072
 longitude: -112.11488
 postcode: "85085"
 city: Phoenix
-street: "West Happy Valley Road"
-housenumber: 2501
-phone: "+1 623-869-6549"
-opening_hours: "09:00-22:00"
+street: West Happy Valley Road
+housenumber: "2501"
+phone: +1 623-869-6549
+opening_hours: 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 603871703
-type: way
+type: node
 latitude: 33.28181
 longitude: -111.68576
 postcode: "85142"
 city: Queen Creek
-street: "South Power Road"
-housenumber: 7385
+street: South Power Road
+housenumber: "7385"
 phone: ""
 opening_hours: ""
 website: ""

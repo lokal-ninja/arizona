@@ -1,11 +1,11 @@
 id: 347132479
-type: way
+type: node
 latitude: 33.64826
 longitude: -112.23435
 postcode: "85308"
 city: Glendale
-street: "North 83rd Avenue"
-housenumber: 18495
-phone: "+1 623-825-9257"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/glendale-az-sams-club/4732"
+street: North 83rd Avenue
+housenumber: "18495"
+phone: +1 623-825-9257
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/glendale-az-sams-club/4732

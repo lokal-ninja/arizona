@@ -1,11 +1,11 @@
 id: 490378405
-type: way
+type: node
 latitude: 32.19135
 longitude: -110.8416
 postcode: "85730"
 city: Tucson
-street: "East Golf Links Road"
-housenumber: 7060
+street: East Golf Links Road
+housenumber: "7060"
 phone: ""
 opening_hours: ""
 website: ""

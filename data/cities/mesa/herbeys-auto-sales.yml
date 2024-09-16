@@ -1,11 +1,11 @@
 id: 933115957
-type: way
+type: node
 latitude: 33.39566
 longitude: -111.82894
 postcode: "85210"
 city: Mesa
-street: "South Lewis"
-housenumber: 1049
+street: South Lewis
+housenumber: "1049"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 186004196
-type: way
+type: node
 latitude: 32.27109
 longitude: -109.24456
 postcode: "85632"
 city: San Simon
-street: "West Business I 10"
-housenumber: 2521
+street: West Business I 10
+housenumber: "2521"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1227709104
-type: way
+type: node
 latitude: 33.46772
 longitude: -112.1094
 postcode: "85009"
 city: Phoenix
-street: "North 23rd Avenue"
-housenumber: 1700
+street: North 23rd Avenue
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 690352953
-type: way
+type: node
 latitude: 33.44592
 longitude: -111.7261
 postcode: "85205"
 city: Mesa
-street: "East Indigo Street"
-housenumber: 4863
+street: East Indigo Street
+housenumber: "4863"
 phone: ""
 opening_hours: ""
 website: ""

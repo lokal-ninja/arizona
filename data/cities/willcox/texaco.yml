@@ -1,11 +1,11 @@
 id: 186669679
-type: way
+type: node
 latitude: 32.26595
 longitude: -109.84202
 postcode: "85643"
 city: Willcox
-street: "West Rex Allen Drive"
-housenumber: 1203
-phone: "+1 520 384 1332"
-opening_hours: "24/7"
+street: West Rex Allen Drive
+housenumber: "1203"
+phone: +1 520 384 1332
+opening_hours: 24/7
 website: ""

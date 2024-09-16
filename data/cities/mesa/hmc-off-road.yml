@@ -1,11 +1,11 @@
 id: 1074948609
-type: way
+type: node
 latitude: 33.41491
 longitude: -111.65821
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 8007
+street: East Main Street
+housenumber: "8007"
 phone: "+14804549397"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.hmcoffroad.com/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.hmcoffroad.com/

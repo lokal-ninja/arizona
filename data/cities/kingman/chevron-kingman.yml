@@ -1,11 +1,11 @@
 id: 168948140
-type: way
+type: node
 latitude: 35.22257
 longitude: -114.0367
 postcode: "86409"
 city: Kingman
-street: "Stockton Hill Avenue"
-housenumber: 3401
+street: Stockton Hill Avenue
+housenumber: "3401"
 phone: ""
 opening_hours: ""
 website: ""

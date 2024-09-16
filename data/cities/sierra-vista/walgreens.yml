@@ -1,11 +1,11 @@
 id: 387016752
-type: way
+type: node
 latitude: 31.5542
 longitude: -110.27833
 postcode: "85635"
 city: Sierra Vista
-street: "East Fry Boulevard"
-housenumber: 1950
+street: East Fry Boulevard
+housenumber: "1950"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1950+e+fry+blvd-sierra+vista-az-85635/id=5027"
+website: https://www.walgreens.com/locator/walgreens-1950+e+fry+blvd-sierra+vista-az-85635/id=5027

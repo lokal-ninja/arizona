@@ -1,11 +1,11 @@
 id: 229968596
-type: way
+type: node
 latitude: 32.28469
 longitude: -110.97508
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 4368
-phone: "+1 520-888-0806"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/tucson-az-199"
+street: North Oracle Road
+housenumber: "4368"
+phone: +1 520-888-0806
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/tucson-az-199

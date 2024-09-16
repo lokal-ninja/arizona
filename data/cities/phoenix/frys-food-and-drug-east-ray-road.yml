@@ -1,11 +1,11 @@
 id: 958728597
-type: way
+type: node
 latitude: 33.31694
 longitude: -112.00605
 postcode: "85044"
 city: Phoenix
-street: "East Ray Road"
-housenumber: 3616
-phone: "+1 480-706-0609"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/ray-rd-ranch-circle/660/00027"
+street: East Ray Road
+housenumber: "3616"
+phone: +1 480-706-0609
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/ray-rd-ranch-circle/660/00027

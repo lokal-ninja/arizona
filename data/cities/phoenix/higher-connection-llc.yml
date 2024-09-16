@@ -1,11 +1,11 @@
 id: 263812840
-type: way
+type: node
 latitude: 33.46513
 longitude: -112.12049
 postcode: "85009"
 city: Phoenix
-street: "North 29th Avenue"
-housenumber: 1505
+street: North 29th Avenue
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

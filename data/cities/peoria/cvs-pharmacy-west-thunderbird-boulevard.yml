@@ -1,11 +1,11 @@
 id: 600562551
-type: way
+type: node
 latitude: 33.60885
 longitude: -112.26947
 postcode: "85351"
 city: Peoria
-street: "West Thunderbird Boulevard"
-housenumber: 9901
+street: West Thunderbird Boulevard
+housenumber: "9901"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sun-city-az-pharmacies/9901b-w-thunderbird-blvd-sun-city-az-85351/storeid=7"
+website: https://www.cvs.com/store-locator/sun-city-az-pharmacies/9901b-w-thunderbird-blvd-sun-city-az-85351/storeid=7

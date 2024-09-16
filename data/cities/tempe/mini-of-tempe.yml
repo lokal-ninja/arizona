@@ -1,11 +1,11 @@
 id: 224030634
-type: way
+type: node
 latitude: 33.3458
 longitude: -111.96499
 postcode: "85284"
 city: Tempe
-street: "South Test Drive"
-housenumber: 7855
+street: South Test Drive
+housenumber: "7855"
 phone: ""
 opening_hours: ""
 website: ""

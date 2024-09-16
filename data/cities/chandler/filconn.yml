@@ -1,11 +1,11 @@
 id: 827917522
-type: way
+type: node
 latitude: 33.3534
 longitude: -111.84477
 postcode: "85225"
 city: Chandler
-street: "North San Marcos Place"
-housenumber: 3324
+street: North San Marcos Place
+housenumber: "3324"
 phone: ""
 opening_hours: ""
 website: ""

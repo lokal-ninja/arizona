@@ -1,11 +1,11 @@
 id: 1075645504
-type: way
+type: node
 latitude: 31.90873
 longitude: -110.97938
 postcode: "85614"
 city: Green Valley
-street: "South Nogales Highway"
-housenumber: 18755
-phone: "+1 520-729-3370"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/green-valley/sahuarita/"
+street: South Nogales Highway
+housenumber: "18755"
+phone: +1 520-729-3370
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/green-valley/sahuarita/

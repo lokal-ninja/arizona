@@ -1,11 +1,11 @@
 id: 237975703
-type: way
+type: node
 latitude: 33.63992
 longitude: -112.03919
 postcode: "85022"
 city: Phoenix
-street: "East Bell Road"
-housenumber: 2021
+street: East Bell Road
+housenumber: "2021"
 phone: ""
 opening_hours: ""
 website: ""

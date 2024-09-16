@@ -1,11 +1,11 @@
 id: 165396212
-type: way
+type: node
 latitude: 33.41457
 longitude: -111.56651
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 1881
-phone: "+1 480 525 4299"
+street: West Apache Trail
+housenumber: "1881"
+phone: +1 480 525 4299
 opening_hours: ""
-website: "http://www.bluebirdhaulaway.com/thrift-store/"
+website: http://www.bluebirdhaulaway.com/thrift-store/

@@ -1,11 +1,11 @@
 id: 129675968
-type: way
+type: node
 latitude: 33.4597
 longitude: -112.1609
 postcode: "85043"
 city: Phoenix
-street: "North 47th Avenue"
-housenumber: 1010
+street: North 47th Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28732098
-type: way
+type: node
 latitude: 33.33392
 longitude: -111.94478
 postcode: "85284"
 city: Tempe
-street: "West Warner Road"
-housenumber: 485
+street: West Warner Road
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

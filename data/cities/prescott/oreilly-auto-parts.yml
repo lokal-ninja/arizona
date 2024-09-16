@@ -1,11 +1,11 @@
 id: 187900573
-type: way
+type: node
 latitude: 34.5472
 longitude: -112.47673
 postcode: "86301"
 city: Prescott
-street: "Miller Valley Rd"
-housenumber: 342
+street: Miller Valley Rd
+housenumber: "342"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/prescott/autoparts-2958.html"
+website: https://locations.oreillyauto.com/az/prescott/autoparts-2958.html

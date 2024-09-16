@@ -1,11 +1,11 @@
 id: 827504130
-type: way
+type: node
 latitude: 33.40654
 longitude: -111.84753
 postcode: "85210"
 city: Mesa
-street: "West Crescent Avenue"
-housenumber: 741
+street: West Crescent Avenue
+housenumber: "741"
 phone: ""
 opening_hours: ""
 website: ""

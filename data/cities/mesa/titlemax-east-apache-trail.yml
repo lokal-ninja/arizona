@@ -1,11 +1,11 @@
 id: 264116764
-type: way
+type: node
 latitude: 33.41478
 longitude: -111.6322
 postcode: "85207"
 city: Mesa
-street: "East Apache Trail"
-housenumber: 9205
+street: East Apache Trail
+housenumber: "9205"
 phone: ""
 opening_hours: ""
 website: ""

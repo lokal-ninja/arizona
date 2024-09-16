@@ -1,11 +1,11 @@
 id: 1065759599
-type: way
+type: node
 latitude: 34.48322
 longitude: -110.08306
 postcode: "85937"
 city: Snowflake
-street: "Show Low-Holbrook Highway"
-housenumber: 1885
-phone: "+1-928-536-2777"
-opening_hours: "Mo-Su 07:30-20:00"
-website: "https://locations.oreillyauto.com/az/snowflake/autoparts-4784.html"
+street: Show Low-Holbrook Highway
+housenumber: "1885"
+phone: +1-928-536-2777
+opening_hours: Mo-Su 07:30-20:00
+website: https://locations.oreillyauto.com/az/snowflake/autoparts-4784.html

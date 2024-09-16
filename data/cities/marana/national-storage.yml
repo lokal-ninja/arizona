@@ -1,11 +1,11 @@
 id: 592188448
-type: way
+type: node
 latitude: 32.42584
 longitude: -111.04766
 postcode: "85658"
 city: Marana
-street: "North Thornydale Road"
-housenumber: 12071
+street: North Thornydale Road
+housenumber: "12071"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 830070859
-type: way
+type: node
 latitude: 32.20693
 longitude: -110.77345
 postcode: "85748"
 city: Tucson
-street: "East 22nd Street"
-housenumber: 10275
+street: East 22nd Street
+housenumber: "10275"
 phone: ""
 opening_hours: ""
-website: "https://houghtonmeatmarket.com/"
+website: https://houghtonmeatmarket.com/

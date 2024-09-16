@@ -1,11 +1,11 @@
 id: 478888786
-type: way
+type: node
 latitude: 32.6824
 longitude: -114.64656
 postcode: "85364"
 city: Yuma
-street: "South Avenue B"
-housenumber: 2501
-phone: "+1 928-317-2776"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5342/yuma-az/whats-new"
+street: South Avenue B
+housenumber: "2501"
+phone: +1 928-317-2776
+opening_hours: 24/7
+website: https://www.walmart.com/store/5342/yuma-az/whats-new

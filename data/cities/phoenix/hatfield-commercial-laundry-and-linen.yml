@@ -4,8 +4,8 @@ latitude: 33.4485
 longitude: -112.04573
 postcode: "85034"
 city: Phoenix
-street: "E Washington St"
-housenumber: 1646
-phone: "602-254-7325"
-opening_hours: "Monday To Friday : 08.00am - 03.00pm"
-website: "https://www.hatfieldlaundry.com/"
+street: E Washington St
+housenumber: "1646"
+phone: 602-254-7325
+opening_hours: 'Monday To Friday : 08.00am - 03.00pm'
+website: https://www.hatfieldlaundry.com/

@@ -1,11 +1,11 @@
 id: 274666147
-type: way
+type: node
 latitude: 32.65664
 longitude: -114.59004
 postcode: "85364"
 city: MCAS Yuma
-street: "Narr Avenue"
-housenumber: 3930
+street: Narr Avenue
+housenumber: "3930"
 phone: "+19282692245"
-opening_hours: "Tu-Fr 09:00-19:00, Sa 08:00-17:00, Su 11:00-16:00, Mo closed"
-website: "https://www.commissaries.com/stores/html/store.cfm?dodaac=HQCKM5"
+opening_hours: Tu-Fr 09:00-19:00, Sa 08:00-17:00, Su 11:00-16:00, Mo closed
+website: https://www.commissaries.com/stores/html/store.cfm?dodaac=HQCKM5

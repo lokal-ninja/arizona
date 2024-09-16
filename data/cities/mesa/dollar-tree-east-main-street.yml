@@ -1,11 +1,11 @@
 id: 807428637
-type: way
+type: node
 latitude: 33.41428
 longitude: -111.68272
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 6865
+street: East Main Street
+housenumber: "6865"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/mesa/2621/"
+website: https://www.dollartree.com/locations/az/mesa/2621/

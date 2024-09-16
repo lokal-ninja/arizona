@@ -1,11 +1,11 @@
 id: 127013604
-type: way
+type: node
 latitude: 33.63775
 longitude: -112.0992
 postcode: "85023"
 city: Phoenix
-street: "West Bell Road"
-housenumber: 1825
-phone: "+1 602-942-4138"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2512/phoenix-az/whats-new"
+street: West Bell Road
+housenumber: "1825"
+phone: +1 602-942-4138
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2512/phoenix-az/whats-new

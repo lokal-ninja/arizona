@@ -1,11 +1,11 @@
 id: 807951098
-type: way
+type: node
 latitude: 33.32193
 longitude: -111.75764
 postcode: "85296"
 city: Gilbert
-street: "East Ray Road"
-housenumber: 1514
+street: East Ray Road
+housenumber: "1514"
 phone: ""
 opening_hours: ""
 website: ""

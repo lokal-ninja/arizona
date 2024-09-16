@@ -1,11 +1,11 @@
 id: 879319845
-type: way
+type: node
 latitude: 33.39237
 longitude: -111.5993
 postcode: "85209"
 city: Mesa
-street: "South Signal Butte Road"
-housenumber: 1240
-phone: "+1 480-586-3710"
-opening_hours: "PH,Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/mesa/mesa-signal-butte/"
+street: South Signal Butte Road
+housenumber: "1240"
+phone: +1 480-586-3710
+opening_hours: PH,Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/mesa/mesa-signal-butte/

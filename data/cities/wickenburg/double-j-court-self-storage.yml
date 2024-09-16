@@ -1,11 +1,11 @@
 id: 1067285741
-type: way
+type: node
 latitude: 33.95866
 longitude: -112.77164
 postcode: "85390"
 city: Wickenburg
-street: "South Vulture Mine Road"
-housenumber: 500
-phone: "+1-928-684-6388"
+street: South Vulture Mine Road
+housenumber: "500"
+phone: +1-928-684-6388
 opening_hours: ""
-website: "https://www.doublejrvstorage.com/"
+website: https://www.doublejrvstorage.com/

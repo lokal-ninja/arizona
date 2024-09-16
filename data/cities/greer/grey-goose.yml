@@ -4,8 +4,8 @@ latitude: 34.01092
 longitude: -109.45806
 postcode: "85927"
 city: Greer
-street: "Main Street"
-housenumber: 90
+street: Main Street
+housenumber: "90"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

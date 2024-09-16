@@ -1,11 +1,11 @@
 id: 906612748
-type: way
+type: node
 latitude: 33.6535
 longitude: -112.25453
 postcode: "85382"
 city: Peoria
-street: "West Union Hills Drive"
-housenumber: 9050
+street: West Union Hills Drive
+housenumber: "9050"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9050+w+union+hills+dr-peoria-az-85382/id=3048"
+website: https://www.walgreens.com/locator/walgreens-9050+w+union+hills+dr-peoria-az-85382/id=3048

@@ -1,11 +1,11 @@
 id: 759653245
-type: way
+type: node
 latitude: 33.60996
 longitude: -112.20099
 postcode: "85306"
 city: Glendale
-street: "West Thunderbird Road"
-housenumber: 6615
-phone: "+1 623 487 9277"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 10:00-16:00; PH off"
-website: "https://thestockshop.org/locations/1023/the-stock-shop"
+street: West Thunderbird Road
+housenumber: "6615"
+phone: +1 623 487 9277
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 10:00-16:00; PH off
+website: https://thestockshop.org/locations/1023/the-stock-shop

@@ -1,11 +1,11 @@
 id: 1215100713
-type: way
+type: node
 latitude: 35.25435
 longitude: -114.02067
 postcode: "86409"
 city: Kingman
-street: "Northern Avenue"
-housenumber: 2445
+street: Northern Avenue
+housenumber: "2445"
 phone: ""
 opening_hours: ""
 website: ""

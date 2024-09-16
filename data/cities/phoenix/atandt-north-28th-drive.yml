@@ -1,11 +1,11 @@
 id: 237171035
-type: way
+type: node
 latitude: 33.58152
 longitude: -112.12273
 postcode: "85051"
 city: Phoenix
-street: "North 28th Drive"
-housenumber: 10460
+street: North 28th Drive
+housenumber: "10460"
 phone: ""
 opening_hours: ""
 website: ""

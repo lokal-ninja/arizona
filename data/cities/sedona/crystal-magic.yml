@@ -1,11 +1,11 @@
 id: 351352499
-type: way
+type: node
 latitude: 34.86253
 longitude: -111.81215
 postcode: "86336"
 city: Sedona
-street: "West State Route 89A"
-housenumber: 2978
-phone: "(928) 282-1622"
+street: West State Route 89A
+housenumber: "2978"
+phone: (928) 282-1622
 opening_hours: ""
 website: ""

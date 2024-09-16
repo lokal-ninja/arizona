@@ -1,11 +1,11 @@
 id: 1217660557
-type: way
+type: node
 latitude: 33.57513
 longitude: -112.25626
 postcode: "85345"
 city: Peoria
-street: "North 91st Avenue"
-housenumber: 9960
-phone: "+1 623-486-8700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/peoria-store1041.html"
+street: North 91st Avenue
+housenumber: "9960"
+phone: +1 623-486-8700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/peoria-store1041.html

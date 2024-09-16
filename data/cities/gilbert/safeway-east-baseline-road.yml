@@ -1,11 +1,11 @@
 id: 838321559
-type: way
+type: node
 latitude: 33.37789
 longitude: -111.72409
 postcode: "85234"
 city: Gilbert
-street: "East Baseline Road"
-housenumber: 5137
-phone: "+1 480-325-5807"
+street: East Baseline Road
+housenumber: "5137"
+phone: +1 480-325-5807
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/gilbert/5137-e-baseline-rd.html"
+website: https://local.safeway.com/safeway/az/gilbert/5137-e-baseline-rd.html

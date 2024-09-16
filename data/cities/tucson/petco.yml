@@ -1,11 +1,11 @@
 id: 254095716
-type: way
+type: node
 latitude: 32.42402
 longitude: -110.93805
 postcode: "85737"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 11985
-phone: "+1 520-297-0019"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/tucson/pet-supplies-tucson-az-1175.html"
+street: North Oracle Road
+housenumber: "11985"
+phone: +1 520-297-0019
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/tucson/pet-supplies-tucson-az-1175.html

@@ -1,11 +1,11 @@
 id: 345004026
-type: way
+type: node
 latitude: 33.51681
 longitude: -112.27127
 postcode: "85305"
 city: Glendale
-street: "North 99th Avenue"
-housenumber: 5801
+street: North 99th Avenue
+housenumber: "5801"
 phone: ""
 opening_hours: ""
 website: ""

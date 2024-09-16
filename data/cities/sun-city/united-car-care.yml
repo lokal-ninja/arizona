@@ -1,11 +1,11 @@
 id: 292435150
-type: way
+type: node
 latitude: 33.61875
 longitude: -112.29058
 postcode: "85351"
 city: Sun City
-street: "North Del Webb Boulevard"
-housenumber: 15001
+street: North Del Webb Boulevard
+housenumber: "15001"
 phone: ""
 opening_hours: ""
 website: ""

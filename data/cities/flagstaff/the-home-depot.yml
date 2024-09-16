@@ -1,11 +1,11 @@
 id: 112128026
-type: way
+type: node
 latitude: 35.22254
 longitude: -111.57211
 postcode: "86004"
 city: Flagstaff
-street: "East Marketplace Drive"
-housenumber: 5005
-phone: "+1 928-526-1692"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/flagstaff-east/az/flagstaff/86004/421"
+street: East Marketplace Drive
+housenumber: "5005"
+phone: +1 928-526-1692
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/flagstaff-east/az/flagstaff/86004/421

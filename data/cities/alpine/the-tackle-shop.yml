@@ -1,11 +1,11 @@
 id: 979871312
-type: way
+type: node
 latitude: 33.84841
 longitude: -109.14701
 postcode: "85920"
 city: Alpine
-street: "US 191"
-housenumber: 25373
-phone: "+1-928-339-4338"
-opening_hours: "Mo-Th 06:30-19:30; Fr-Sa 06:30-20:00; Su 07:00-19:00"
+street: US 191
+housenumber: "25373"
+phone: +1-928-339-4338
+opening_hours: Mo-Th 06:30-19:30; Fr-Sa 06:30-20:00; Su 07:00-19:00
 website: ""

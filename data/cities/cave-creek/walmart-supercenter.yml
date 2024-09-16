@@ -1,11 +1,11 @@
 id: 469948876
-type: way
+type: node
 latitude: 33.79604
 longitude: -111.96264
 postcode: "85331"
 city: Cave Creek
-street: "North Cave Creek Road"
-housenumber: 34399
-phone: "+1 480-296-7398"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5835/cave-creek-az/whats-new"
+street: North Cave Creek Road
+housenumber: "34399"
+phone: +1 480-296-7398
+opening_hours: 24/7
+website: https://www.walmart.com/store/5835/cave-creek-az/whats-new

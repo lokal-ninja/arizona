@@ -4,8 +4,8 @@ latitude: 35.19593
 longitude: -111.62743
 postcode: "86004"
 city: Flagstaff
-street: "East Route 66"
-housenumber: 1700
-phone: "+1 928-266-0061"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.flagstaffliquor.com/"
+street: East Route 66
+housenumber: "1700"
+phone: +1 928-266-0061
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.flagstaffliquor.com/

@@ -1,11 +1,11 @@
 id: 288755259
-type: way
+type: node
 latitude: 33.53923
 longitude: -112.26157
 postcode: "85305"
 city: Glendale
-street: "West Glendale Avenue"
-housenumber: 9380
-phone: "+623-872-6700"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.basspro.com/shop/en"
+street: West Glendale Avenue
+housenumber: "9380"
+phone: +623-872-6700
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.basspro.com/shop/en

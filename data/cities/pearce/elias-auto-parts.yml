@@ -1,11 +1,11 @@
 id: 1271913415
-type: way
+type: node
 latitude: 31.93487
 longitude: -109.8287
 postcode: "85625"
 city: Pearce
-street: "North Frontage Road"
-housenumber: 101
+street: North Frontage Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

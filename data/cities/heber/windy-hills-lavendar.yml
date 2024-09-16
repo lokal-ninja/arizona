@@ -1,11 +1,11 @@
 id: 990533200
-type: way
+type: node
 latitude: 34.42665
 longitude: -110.5857
 postcode: "85928"
 city: Heber
-street: "Stone Bridge Trail"
-housenumber: 3380
+street: Stone Bridge Trail
+housenumber: "3380"
 phone: ""
 opening_hours: ""
 website: ""

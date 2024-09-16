@@ -1,11 +1,11 @@
 id: 680758766
-type: way
+type: node
 latitude: 33.46612
 longitude: -112.0439
 postcode: "85006"
 city: Phoenix
-street: "East McDowell Road"
-housenumber: 1738
+street: East McDowell Road
+housenumber: "1738"
 phone: ""
-opening_hours: "Tu-Sa 08:00-19:00, Su 11:00-15:00"
-website: "https://www.palabrasbookstore.com/"
+opening_hours: Tu-Sa 08:00-19:00, Su 11:00-15:00
+website: https://www.palabrasbookstore.com/

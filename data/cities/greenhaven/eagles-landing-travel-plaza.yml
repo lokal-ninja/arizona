@@ -1,11 +1,11 @@
 id: 387787673
-type: way
+type: node
 latitude: 36.99567
 longitude: -111.56443
 postcode: "86040"
 city: Greenhaven
-street: "West Glen Drive"
-housenumber: 101
-phone: "+1-928-353-4821"
+street: West Glen Drive
+housenumber: "101"
+phone: +1-928-353-4821
 opening_hours: ""
-website: "https://www.eagleslandingtravelplaza.com/locations/lake-powell-pilot"
+website: https://www.eagleslandingtravelplaza.com/locations/lake-powell-pilot

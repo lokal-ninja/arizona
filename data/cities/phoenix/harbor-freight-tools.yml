@@ -4,8 +4,8 @@ latitude: 33.64001
 longitude: -112.0104
 postcode: "85032"
 city: Phoenix
-street: "East Bell Road"
-housenumber: 3329
-phone: "+1 602-482-3027"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3329-east-bell-rd-ste-9-phoenix-85032?number=309"
+street: East Bell Road
+housenumber: "3329"
+phone: +1 602-482-3027
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3329-east-bell-rd-ste-9-phoenix-85032?number=309

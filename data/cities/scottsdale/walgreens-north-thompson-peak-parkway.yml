@@ -1,11 +1,11 @@
 id: 536746561
-type: way
+type: node
 latitude: 33.62178
 longitude: -111.87412
 postcode: "85260"
 city: Scottsdale
-street: "North Thompson Peak Parkway"
-housenumber: 15025
+street: North Thompson Peak Parkway
+housenumber: "15025"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15025+n+thompson+peak+pkwy-scottsdale-az-85260/id=4507"
+website: https://www.walgreens.com/locator/walgreens-15025+n+thompson+peak+pkwy-scottsdale-az-85260/id=4507

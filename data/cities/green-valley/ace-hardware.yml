@@ -1,11 +1,11 @@
 id: 409620557
-type: way
+type: node
 latitude: 31.86915
 longitude: -110.99254
-postcode: "85614-2626"
+postcode: 85614-2626
 city: Green Valley
-street: "West Esperanza Boulevard"
-housenumber: 115
-phone: "+1 520-625-4772"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:00-16:00"
+street: West Esperanza Boulevard
+housenumber: "115"
+phone: +1 520-625-4772
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:00-16:00
 website: ""

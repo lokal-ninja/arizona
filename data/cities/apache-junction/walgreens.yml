@@ -1,11 +1,11 @@
 id: 164936235
-type: way
+type: node
 latitude: 33.41229
 longitude: -111.54695
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 55
-phone: "+1 480 288 1271"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-55+w+apache+trl-apache+junction-az-85120/id=4188"
+street: West Apache Trail
+housenumber: "55"
+phone: +1 480 288 1271
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-55+w+apache+trl-apache+junction-az-85120/id=4188

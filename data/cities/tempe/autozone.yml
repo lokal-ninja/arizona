@@ -1,11 +1,11 @@
 id: 223862409
-type: way
+type: node
 latitude: 33.40698
 longitude: -111.94463
 postcode: "85282"
 city: Tempe
-street: "West Broadway Road"
-housenumber: 433
+street: West Broadway Road
+housenumber: "433"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/tempe/433-w-broadway.html"
+website: https://www.autozone.com/locations/az/tempe/433-w-broadway.html

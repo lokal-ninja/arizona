@@ -1,11 +1,11 @@
 id: 943004208
-type: way
+type: node
 latitude: 33.45999
 longitude: -112.15275
 postcode: "85043"
 city: Phoenix
-street: "North 43rd Avenue"
-housenumber: 1100
+street: North 43rd Avenue
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

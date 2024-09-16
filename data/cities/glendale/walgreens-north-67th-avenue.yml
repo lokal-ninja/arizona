@@ -1,11 +1,11 @@
 id: 405247833
-type: way
+type: node
 latitude: 33.56794
 longitude: -112.20243
 postcode: "85302"
 city: Glendale
-street: "North 67th Avenue"
-housenumber: 9009
+street: North 67th Avenue
+housenumber: "9009"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9009+n+67th+ave-glendale-az-85302/id=6065"
+website: https://www.walgreens.com/locator/walgreens-9009+n+67th+ave-glendale-az-85302/id=6065

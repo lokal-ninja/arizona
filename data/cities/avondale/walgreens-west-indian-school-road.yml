@@ -1,11 +1,11 @@
 id: 477228521
-type: way
+type: node
 latitude: 33.49314
 longitude: -112.29106
 postcode: "85392"
 city: Avondale
-street: "West Indian School Road"
-housenumber: 10705
+street: West Indian School Road
+housenumber: "10705"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-10705+w+indian+school+rd-avondale-az-85392/id=3387"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-10705+w+indian+school+rd-avondale-az-85392/id=3387

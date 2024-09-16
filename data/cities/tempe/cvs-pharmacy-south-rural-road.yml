@@ -1,11 +1,11 @@
 id: 807586069
-type: way
+type: node
 latitude: 33.39242
 longitude: -111.92608
 postcode: "85282"
 city: Tempe
-street: "South Rural Road"
-housenumber: 3303
+street: South Rural Road
+housenumber: "3303"
 phone: ""
 opening_hours: ""
 website: ""

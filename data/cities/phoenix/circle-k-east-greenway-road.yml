@@ -1,11 +1,11 @@
 id: 71277416
-type: way
+type: node
 latitude: 33.62692
 longitude: -111.99661
 postcode: "85032"
 city: Phoenix
-street: "East Greenway Road"
-housenumber: 
+street: East Greenway Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

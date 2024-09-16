@@ -1,11 +1,11 @@
 id: 963312243
-type: way
+type: node
 latitude: 33.63983
 longitude: -112.23029
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 7974
+street: West Bell Road
+housenumber: "7974"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/az/glendale/officemax-6171"
+website: https://www.officedepot.com/storelocator/az/glendale/officemax-6171

@@ -1,11 +1,11 @@
 id: 709380263
-type: way
+type: node
 latitude: 33.16012
 longitude: -111.56311
 postcode: "85143"
 city: San Tan Valley
-street: "East Hunt Highway"
-housenumber: 525
+street: East Hunt Highway
+housenumber: "525"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/san-tan-valley/525-e-hunt-hwy.html"
+website: https://www.autozone.com/locations/az/san-tan-valley/525-e-hunt-hwy.html

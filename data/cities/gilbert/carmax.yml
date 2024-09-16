@@ -1,11 +1,11 @@
 id: 543898832
-type: way
+type: node
 latitude: 33.29007
 longitude: -111.76006
 postcode: "85297"
 city: Gilbert
-street: "East Motorplex Loop"
-housenumber: 1480
+street: East Motorplex Loop
+housenumber: "1480"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7662"
+website: https://www.carmax.com/stores/7662

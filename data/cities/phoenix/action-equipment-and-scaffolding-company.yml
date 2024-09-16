@@ -1,11 +1,11 @@
 id: 213325137
-type: way
+type: node
 latitude: 33.42677
 longitude: -112.04765
 postcode: "85034"
 city: Phoenix
-street: "South 16th Street"
-housenumber: 2229
+street: South 16th Street
+housenumber: "2229"
 phone: ""
 opening_hours: ""
 website: ""

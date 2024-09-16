@@ -1,11 +1,11 @@
 id: 433775653
-type: way
+type: node
 latitude: 33.47002
 longitude: -112.06544
 postcode: "85006"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 2014
-phone: "+1 602 2586264"
+street: North 7th Street
+housenumber: "2014"
+phone: +1 602 2586264
 opening_hours: ""
-website: "https://www.tsoynami.com"
+website: https://www.tsoynami.com

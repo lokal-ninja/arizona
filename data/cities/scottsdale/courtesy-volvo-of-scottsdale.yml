@@ -1,11 +1,11 @@
 id: 780722011
-type: way
+type: node
 latitude: 33.4941
 longitude: -111.88955
 postcode: "85251"
 city: Scottsdale
-street: "North 89th Street"
-housenumber: 4001
+street: North 89th Street
+housenumber: "4001"
 phone: ""
 opening_hours: ""
 website: ""

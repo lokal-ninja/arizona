@@ -1,11 +1,11 @@
 id: 434957375
-type: way
+type: node
 latitude: 32.97856
 longitude: -111.52385
 postcode: "85128"
 city: Coolidge
-street: "North Arizona Boulevard"
-housenumber: 197
+street: North Arizona Boulevard
+housenumber: "197"
 phone: ""
 opening_hours: ""
-website: "https://www.garrettmotors.com/"
+website: https://www.garrettmotors.com/

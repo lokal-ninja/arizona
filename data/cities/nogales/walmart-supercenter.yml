@@ -1,11 +1,11 @@
 id: 478952881
-type: way
+type: node
 latitude: 31.36071
 longitude: -110.93348
 postcode: "85621"
 city: Nogales
-street: "West White Park Drive"
-housenumber: 100
-phone: "+1 520-281-4974"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1324/nogales-az/whats-new"
+street: West White Park Drive
+housenumber: "100"
+phone: +1 520-281-4974
+opening_hours: 24/7
+website: https://www.walmart.com/store/1324/nogales-az/whats-new

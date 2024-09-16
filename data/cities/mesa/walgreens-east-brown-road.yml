@@ -1,11 +1,11 @@
 id: 847341269
-type: way
+type: node
 latitude: 33.43776
 longitude: -111.73584
 postcode: "85205"
 city: Mesa
-street: "East Brown Road"
-housenumber: 4420
+street: East Brown Road
+housenumber: "4420"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4420+e+brown+rd-mesa-az-85205/id=4435"
+website: https://www.walgreens.com/locator/walgreens-4420+e+brown+rd-mesa-az-85205/id=4435

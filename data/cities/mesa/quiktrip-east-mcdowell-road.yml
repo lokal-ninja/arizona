@@ -1,11 +1,11 @@
 id: 434746982
-type: way
+type: node
 latitude: 33.466
 longitude: -111.70212
 postcode: "85215"
 city: Mesa
-street: "East McDowell Road"
-housenumber: 5957
+street: East McDowell Road
+housenumber: "5957"
 phone: ""
 opening_hours: ""
 website: ""

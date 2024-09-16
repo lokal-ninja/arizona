@@ -1,11 +1,11 @@
 id: 348818649
-type: way
+type: node
 latitude: 33.49116
 longitude: -112.25663
 postcode: ""
 city: Phoenix
-street: "North 91st Avenue"
-housenumber: 3802
+street: North 91st Avenue
+housenumber: "3802"
 phone: ""
 opening_hours: ""
 website: ""

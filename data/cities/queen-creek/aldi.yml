@@ -1,11 +1,11 @@
 id: 1017265131
-type: way
+type: node
 latitude: 33.26498
 longitude: -111.63401
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Road"
-housenumber: 20229
-phone: "+1 877-479-1153"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/az/queen-creek/20229-s-ellsworth-rd"
+street: South Ellsworth Road
+housenumber: "20229"
+phone: +1 877-479-1153
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/az/queen-creek/20229-s-ellsworth-rd

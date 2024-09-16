@@ -1,11 +1,11 @@
 id: 1214221618
-type: way
+type: node
 latitude: 33.58222
 longitude: -112.26635
 postcode: "85345"
 city: Peoria
-street: "North 96th Avenue"
-housenumber: 10712
+street: North 96th Avenue
+housenumber: "10712"
 phone: ""
 opening_hours: ""
 website: ""

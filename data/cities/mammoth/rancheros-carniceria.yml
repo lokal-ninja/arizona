@@ -1,11 +1,11 @@
 id: 816708752
-type: way
+type: node
 latitude: 32.73329
 longitude: -110.64878
 postcode: "85618"
 city: Mammoth
-street: "North Highway 77"
-housenumber: 337
-phone: "+1 520 487 0173"
-opening_hours: "09:00-20:00"
-website: "http://www.rancheroscarniceria.com/"
+street: North Highway 77
+housenumber: "337"
+phone: +1 520 487 0173
+opening_hours: 09:00-20:00
+website: http://www.rancheroscarniceria.com/

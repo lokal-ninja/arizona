@@ -1,11 +1,11 @@
 id: 31527052
-type: way
+type: node
 latitude: 31.33898
 longitude: -109.56612
 postcode: "85607"
 city: Douglas
-street: "West 5th Street"
-housenumber: 199
-phone: "+1 520-364-1281"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1846/douglas-az/whats-new"
+street: West 5th Street
+housenumber: "199"
+phone: +1 520-364-1281
+opening_hours: 24/7
+website: https://www.walmart.com/store/1846/douglas-az/whats-new

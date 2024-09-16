@@ -1,11 +1,11 @@
 id: 222448476
-type: way
+type: node
 latitude: 33.53538
 longitude: -112.18152
 postcode: "85301"
 city: Glendale
-street: "West Grand Avenue"
-housenumber: 5714
+street: West Grand Avenue
+housenumber: "5714"
 phone: ""
 opening_hours: ""
 website: ""

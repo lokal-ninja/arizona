@@ -1,11 +1,11 @@
 id: 727507435
-type: way
+type: node
 latitude: 33.44919
 longitude: -112.30717
 postcode: "85323"
 city: Avondale
-street: "West Van Buren Street"
-housenumber: 280
+street: West Van Buren Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/avondale-az-pharmacies/280-n-avondale-blvd-avondale-az-85323/storeid=10229"
+website: https://www.cvs.com/store-locator/avondale-az-pharmacies/280-n-avondale-blvd-avondale-az-85323/storeid=10229

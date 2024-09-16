@@ -1,11 +1,11 @@
 id: 357953939
-type: way
+type: node
 latitude: 33.48073
 longitude: -112.25349
 postcode: "85037"
 city: Phoenix
-street: "West Thomas Road"
-housenumber: 9020
+street: West Thomas Road
+housenumber: "9020"
 phone: ""
 opening_hours: ""
 website: ""

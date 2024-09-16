@@ -1,11 +1,11 @@
 id: 691644940
-type: way
+type: node
 latitude: 33.64014
 longitude: -112.21558
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 7290
-phone: "+1 623-334-3600"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/glendale-store0157.html"
+street: West Bell Road
+housenumber: "7290"
+phone: +1 623-334-3600
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/glendale-store0157.html

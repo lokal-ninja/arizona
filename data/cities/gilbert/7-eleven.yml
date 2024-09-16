@@ -1,11 +1,11 @@
 id: 692684172
-type: way
+type: node
 latitude: 33.34935
 longitude: -111.80617
 postcode: "85233"
 city: Gilbert
-street: "West Elliot Road"
-housenumber: 785
+street: West Elliot Road
+housenumber: "785"
 phone: ""
 opening_hours: ""
 website: ""

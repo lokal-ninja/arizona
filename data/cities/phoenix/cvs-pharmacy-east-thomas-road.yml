@@ -1,11 +1,11 @@
 id: 983445175
-type: way
+type: node
 latitude: 33.4807
 longitude: -112.02982
 postcode: "85016"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 2406
+street: East Thomas Road
+housenumber: "2406"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/2406-east-thomas-rd-phoenix-az-85016/storeid=9225"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/2406-east-thomas-rd-phoenix-az-85016/storeid=9225

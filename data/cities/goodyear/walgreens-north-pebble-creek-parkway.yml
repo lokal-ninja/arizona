@@ -1,11 +1,11 @@
 id: 717576695
-type: way
+type: node
 latitude: 33.4653
 longitude: -112.39308
 postcode: "85395"
 city: Goodyear
-street: "North Pebble Creek Parkway"
-housenumber: 1654
+street: North Pebble Creek Parkway
+housenumber: "1654"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1654+n+pebble+creek+pkwy-goodyear-az-85395/id=12334"
+website: https://www.walgreens.com/locator/walgreens-1654+n+pebble+creek+pkwy-goodyear-az-85395/id=12334

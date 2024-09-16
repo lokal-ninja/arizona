@@ -1,11 +1,11 @@
 id: 443199605
-type: way
+type: node
 latitude: 33.45473
 longitude: -112.27158
 postcode: "85353"
 city: Tolleson
-street: "North 99th Avenue"
-housenumber: 789
-phone: "+1 623-478-5439"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North 99th Avenue
+housenumber: "789"
+phone: +1 623-478-5439
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

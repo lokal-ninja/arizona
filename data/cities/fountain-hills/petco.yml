@@ -1,11 +1,11 @@
 id: 1209849646
-type: way
+type: node
 latitude: 33.5728
 longitude: -111.71695
 postcode: "85268"
 city: Fountain Hills
-street: "East Shea Boulevard"
-housenumber: 16835
-phone: "+1 480-836-8919"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/fountainhills/pet-supplies-fountainhills-az-1129.html"
+street: East Shea Boulevard
+housenumber: "16835"
+phone: +1 480-836-8919
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/fountainhills/pet-supplies-fountainhills-az-1129.html

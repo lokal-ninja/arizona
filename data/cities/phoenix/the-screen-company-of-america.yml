@@ -1,11 +1,11 @@
 id: 1230191503
-type: way
+type: node
 latitude: 33.46035
 longitude: -112.09521
 postcode: "85007"
 city: Phoenix
-street: "North 17th Avenue"
-housenumber: 1105
+street: North 17th Avenue
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

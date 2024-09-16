@@ -1,11 +1,11 @@
 id: 351464572
-type: way
+type: node
 latitude: 33.52436
 longitude: -112.13489
 postcode: "85017"
 city: Phoenix
-street: "North 35th Avenue"
-housenumber: 6002
+street: North 35th Avenue
+housenumber: "6002"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-3549.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-3549.html

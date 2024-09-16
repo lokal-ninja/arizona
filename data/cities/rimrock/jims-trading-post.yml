@@ -1,11 +1,11 @@
 id: 828533636
-type: way
+type: node
 latitude: 34.63766
 longitude: -111.81414
 postcode: "86335"
 city: Rimrock
-street: "East Beaver Creek Road"
-housenumber: 2115
-phone: "+1 928 554 5526"
-opening_hours: "10:00-17:00"
+street: East Beaver Creek Road
+housenumber: "2115"
+phone: +1 928 554 5526
+opening_hours: 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1312895112
-type: way
+type: node
 latitude: 33.42141
 longitude: -111.99499
 postcode: "85040"
 city: Phoenix
-street: "South 40th Street"
-housenumber: 2811
+street: South 40th Street
+housenumber: "2811"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153932316
-type: way
+type: node
 latitude: 33.53904
 longitude: -112.11631
 postcode: "85051"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 2650
+street: West Glendale Avenue
+housenumber: "2650"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/phoenix/25371"
+website: https://www.dollargeneral.com/store-directory/az/phoenix/25371

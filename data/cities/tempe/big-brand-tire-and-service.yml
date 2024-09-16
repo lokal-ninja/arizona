@@ -1,11 +1,11 @@
 id: 1077455287
-type: way
+type: node
 latitude: 33.40633
 longitude: -111.95145
 postcode: "85282"
 city: Tempe
-street: "South Hardy Drive"
-housenumber: 2077
+street: South Hardy Drive
+housenumber: "2077"
 phone: ""
 opening_hours: ""
 website: ""

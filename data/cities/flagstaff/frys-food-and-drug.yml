@@ -1,11 +1,11 @@
 id: 786388374
-type: way
+type: node
 latitude: 35.19557
 longitude: -111.63515
 postcode: "86001"
 city: Flagstaff
-street: "North Switzer Canyon Drive"
-housenumber: 201
-phone: "+1 928-774-3389"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/flagstaff/switzer-canyon-route-66/660/00104"
+street: North Switzer Canyon Drive
+housenumber: "201"
+phone: +1 928-774-3389
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/flagstaff/switzer-canyon-route-66/660/00104

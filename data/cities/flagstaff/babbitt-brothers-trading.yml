@@ -1,11 +1,11 @@
 id: 172828619
-type: way
+type: node
 latitude: 35.19848
 longitude: -111.64782
 postcode: "86001"
 city: Flagstaff
-street: "East Aspen Avenue"
-housenumber: 12
-phone: "+1-928-774-4775"
+street: East Aspen Avenue
+housenumber: "12"
+phone: +1-928-774-4775
 opening_hours: ""
-website: "https://babbittsbackcountry.com/"
+website: https://babbittsbackcountry.com/

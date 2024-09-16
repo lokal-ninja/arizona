@@ -1,11 +1,11 @@
 id: 1157806110
-type: way
+type: node
 latitude: 31.71703
 longitude: -110.07103
 postcode: "85638"
 city: Tombstone
-street: "West Bruce Street"
-housenumber: 15
-phone: "+1-520-412-3144"
+street: West Bruce Street
+housenumber: "15"
+phone: +1-520-412-3144
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/tombstone/15-w-bruce-st/2709536"
+website: https://www.circlek.com/store-locator/US/tombstone/15-w-bruce-st/2709536

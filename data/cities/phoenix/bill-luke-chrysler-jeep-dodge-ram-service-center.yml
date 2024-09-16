@@ -1,11 +1,11 @@
 id: 151887259
-type: way
+type: node
 latitude: 33.50797
 longitude: -112.11185
 postcode: "85015"
 city: Phoenix
-street: "West Camelback Road"
-housenumber: 2425
+street: West Camelback Road
+housenumber: "2425"
 phone: ""
 opening_hours: ""
 website: ""

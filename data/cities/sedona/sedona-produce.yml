@@ -1,11 +1,11 @@
 id: 348128169
-type: way
+type: node
 latitude: 34.86331
 longitude: -111.80727
 postcode: "86336"
 city: Sedona
-street: "Harmony Drive"
-housenumber: 45
-phone: "(928) 282-9209"
+street: Harmony Drive
+housenumber: "45"
+phone: (928) 282-9209
 opening_hours: ""
 website: ""

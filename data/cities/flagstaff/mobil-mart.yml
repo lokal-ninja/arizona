@@ -1,11 +1,11 @@
 id: 786969572
-type: way
+type: node
 latitude: 35.19255
 longitude: -111.61899
 postcode: "86004"
 city: Flagstaff
-street: "East Butler Avenue"
-housenumber: 2500
+street: East Butler Avenue
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

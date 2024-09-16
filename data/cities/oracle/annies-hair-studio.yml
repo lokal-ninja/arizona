@@ -1,11 +1,11 @@
 id: 296694817
-type: way
+type: node
 latitude: 32.61152
 longitude: -110.77013
 postcode: ""
 city: Oracle
-street: "East American Avenue"
-housenumber: 360
+street: East American Avenue
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

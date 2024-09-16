@@ -1,11 +1,11 @@
 id: 341356503
-type: way
+type: node
 latitude: 32.25218
 longitude: -109.83258
 postcode: ""
 city: Willcox
-street: "South Haskell Avenue"
-housenumber: 111
+street: South Haskell Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

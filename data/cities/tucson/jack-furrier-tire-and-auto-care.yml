@@ -1,11 +1,11 @@
 id: 444302689
-type: way
+type: node
 latitude: 32.25051
 longitude: -110.97735
 postcode: "85705"
 city: Tucson
-street: "West Grant Road"
-housenumber: 370
+street: West Grant Road
+housenumber: "370"
 phone: ""
 opening_hours: ""
-website: "https://www.jackfurrier.com/"
+website: https://www.jackfurrier.com/

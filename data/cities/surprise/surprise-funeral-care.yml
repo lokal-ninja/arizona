@@ -1,11 +1,11 @@
 id: 732510460
-type: way
+type: node
 latitude: 33.6383
 longitude: -112.40543
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 16063
+street: West Bell Road
+housenumber: "16063"
 phone: ""
 opening_hours: ""
-website: "https://www.dignitymemorial.com/"
+website: https://www.dignitymemorial.com/

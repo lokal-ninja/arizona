@@ -1,11 +1,11 @@
 id: 384942679
-type: way
+type: node
 latitude: 33.48086
 longitude: -112.04678
 postcode: "85016"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 1616
-phone: "602-263-8307"
+street: East Thomas Road
+housenumber: "1616"
+phone: 602-263-8307
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1616+e+thomas+rd-phoenix-az-85016/id=3769"
+website: https://www.walgreens.com/locator/walgreens-1616+e+thomas+rd-phoenix-az-85016/id=3769

@@ -1,11 +1,11 @@
 id: 366200217
-type: way
+type: node
 latitude: 33.6551
 longitude: -112.37572
 postcode: "85374"
 city: Surprise
-street: "North Reems Road"
-housenumber: 18808
-phone: "623-882-8990"
-opening_hours: "Mo-Fr 07:00-17:30"
+street: North Reems Road
+housenumber: "18808"
+phone: 623-882-8990
+opening_hours: Mo-Fr 07:00-17:30
 website: ""

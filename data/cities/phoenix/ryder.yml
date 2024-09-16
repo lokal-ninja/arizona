@@ -1,11 +1,11 @@
 id: 152640502
-type: way
+type: node
 latitude: 33.47395
 longitude: -112.11218
 postcode: "85009"
 city: Phoenix
-street: "North Black Canyon Highway"
-housenumber: 2301
+street: North Black Canyon Highway
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

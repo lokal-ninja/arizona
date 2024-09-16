@@ -1,11 +1,11 @@
 id: 45284747
-type: way
+type: node
 latitude: 33.41503
 longitude: -111.76861
 postcode: "85213"
 city: Mesa
-street: "East Main Street"
-housenumber: 2937
-phone: "+1-480-832-5050"
+street: East Main Street
+housenumber: "2937"
+phone: +1-480-832-5050
 opening_hours: ""
-website: "https://www.seatcoversunlimited.com/"
+website: https://www.seatcoversunlimited.com/

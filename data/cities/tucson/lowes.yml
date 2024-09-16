@@ -1,11 +1,11 @@
 id: 233320704
-type: way
+type: node
 latitude: 32.28254
 longitude: -110.98048
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 4151
-phone: "+1 520-887-1003"
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-tucson/1638"
+street: North Oracle Road
+housenumber: "4151"
+phone: +1 520-887-1003
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-tucson/1638

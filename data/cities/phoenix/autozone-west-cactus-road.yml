@@ -1,11 +1,11 @@
 id: 255378535
-type: way
+type: node
 latitude: 33.59593
 longitude: -112.15111
 postcode: "85029"
 city: Phoenix
-street: "West Cactus Road"
-housenumber: 4221
+street: West Cactus Road
+housenumber: "4221"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.autozone.com/locations/az/phoenix/4229-w-cactus-rd.html"
+opening_hours: 24/7
+website: https://www.autozone.com/locations/az/phoenix/4229-w-cactus-rd.html

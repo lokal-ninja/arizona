@@ -1,11 +1,11 @@
 id: 577343217
-type: way
+type: node
 latitude: 35.19147
 longitude: -111.70943
 postcode: "86001"
 city: Flagstaff
-street: "West Dark Sky Road"
-housenumber: 5524
+street: West Dark Sky Road
+housenumber: "5524"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153932311
-type: way
+type: node
 latitude: 33.52424
 longitude: -112.15101
 postcode: "85301"
 city: Phoenix
-street: "West Bethany Home Road"
-housenumber: 4252
+street: West Bethany Home Road
+housenumber: "4252"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 530519338
-type: way
+type: node
 latitude: 32.88213
 longitude: -111.72166
 postcode: "85122"
 city: Casa Grande
-street: "East Florence Boulevard"
-housenumber: 1546
-phone: "+1 520-836-1028"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/casa-grande/az/casa-grande/85122/408"
+street: East Florence Boulevard
+housenumber: "1546"
+phone: +1 520-836-1028
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/casa-grande/az/casa-grande/85122/408

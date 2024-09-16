@@ -1,11 +1,11 @@
 id: 263642909
-type: way
+type: node
 latitude: 32.49261
 longitude: -114.7805
 postcode: "85349"
 city: San Luis
-street: "D Street"
-housenumber: 784
+street: D Street
+housenumber: "784"
 phone: ""
 opening_hours: ""
 website: ""

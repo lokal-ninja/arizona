@@ -1,11 +1,11 @@
 id: 188247629
-type: way
+type: node
 latitude: 31.96891
 longitude: -110.30597
-postcode: "85602-6501"
+postcode: 85602-6501
 city: Benson
-street: "West 4th Street"
-housenumber: 591
-phone: "+1 520-586-7345"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+street: West 4th Street
+housenumber: "591"
+phone: +1 520-586-7345
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

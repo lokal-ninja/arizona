@@ -4,8 +4,8 @@ latitude: 34.75094
 longitude: -112.11597
 postcode: "86331"
 city: Jerome
-street: "Main Street"
-housenumber: 208
-phone: "+1 928-639-3473"
+street: Main Street
+housenumber: "208"
+phone: +1 928-639-3473
 opening_hours: ""
-website: "https://fireflyjerome.com/"
+website: https://fireflyjerome.com/

@@ -1,11 +1,11 @@
 id: 979905975
-type: way
+type: node
 latitude: 33.30804
 longitude: -111.89566
 postcode: "85226"
 city: Chandler
-street: "North Federal Street"
-housenumber: 285
-phone: "+1 480-782-0333"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/chandler/9972"
+street: North Federal Street
+housenumber: "285"
+phone: +1 480-782-0333
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/chandler/9972

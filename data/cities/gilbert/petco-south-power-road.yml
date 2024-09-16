@@ -1,11 +1,11 @@
 id: 919612504
-type: way
+type: node
 latitude: 33.37757
 longitude: -111.69075
 postcode: "85206"
 city: Gilbert
-street: "South Power Road"
-housenumber: 2090
-phone: "+1 480-854-1550"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/mesa/pet-supplies-mesa-az-1119.html"
+street: South Power Road
+housenumber: "2090"
+phone: +1 480-854-1550
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/mesa/pet-supplies-mesa-az-1119.html

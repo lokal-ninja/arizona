@@ -1,11 +1,11 @@
 id: 521364057
-type: way
+type: node
 latitude: 33.60651
 longitude: -111.72082
 postcode: "85268"
 city: Fountain Hills
-street: "North La Montana Drive"
-housenumber: 13211
+street: North La Montana Drive
+housenumber: "13211"
 phone: "+14808369100"
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

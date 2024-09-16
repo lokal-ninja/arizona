@@ -1,11 +1,11 @@
 id: 828349551
-type: way
+type: node
 latitude: 33.3213
 longitude: -111.84651
 postcode: "85225"
 city: Chandler
-street: "West Ray Road"
-housenumber: 400
+street: West Ray Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/chandler/10200"
+website: https://www.dollargeneral.com/store-directory/az/chandler/10200

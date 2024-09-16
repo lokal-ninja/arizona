@@ -1,11 +1,11 @@
 id: 725443654
-type: way
+type: node
 latitude: 32.69921
 longitude: -114.62511
 postcode: "85364"
 city: Yuma
-street: "South 4th Avenue"
-housenumber: 1590
-phone: "+1 928-388-6016"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/yuma/4th-ave/"
+street: South 4th Avenue
+housenumber: "1590"
+phone: +1 928-388-6016
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/yuma/4th-ave/

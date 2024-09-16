@@ -1,11 +1,11 @@
 id: 556255726
-type: way
+type: node
 latitude: 35.00503
 longitude: -114.59518
 postcode: "86426"
 city: Fort Mohave
-street: "Mohave Valley Highway"
-housenumber: 5210
-phone: "+1 928-768-5988"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4203-fort-mohave-az"
+street: Mohave Valley Highway
+housenumber: "5210"
+phone: +1 928-768-5988
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4203-fort-mohave-az

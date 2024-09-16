@@ -1,11 +1,11 @@
 id: 256379516
-type: way
+type: node
 latitude: 33.41277
 longitude: -111.56298
 postcode: ""
 city: Apache Junction
-street: "South Ironwood Drive"
-housenumber: 255
-phone: "+1 480 982 8072"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.diamondbackpropane.com/"
+street: South Ironwood Drive
+housenumber: "255"
+phone: +1 480 982 8072
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.diamondbackpropane.com/

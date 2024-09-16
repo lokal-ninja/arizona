@@ -1,11 +1,11 @@
 id: 558678744
-type: way
+type: node
 latitude: 33.45489
 longitude: -111.68306
 postcode: "85215"
 city: Mesa
-street: "North Power Road"
-housenumber: 2151
-phone: "+1 480-830-2035"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/mesa-red-mountain/1386"
+street: North Power Road
+housenumber: "2151"
+phone: +1 480-830-2035
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/mesa-red-mountain/1386

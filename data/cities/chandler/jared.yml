@@ -1,11 +1,11 @@
 id: 521778656
-type: way
+type: node
 latitude: 33.31946
 longitude: -111.96728
 postcode: "85226"
 city: Chandler
-street: "West Ray Road"
-housenumber: 7181
+street: West Ray Road
+housenumber: "7181"
 phone: ""
 opening_hours: ""
 website: ""

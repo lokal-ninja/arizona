@@ -1,11 +1,11 @@
 id: 317922001
-type: way
+type: node
 latitude: 34.90285
 longitude: -110.16448
 postcode: "86025"
 city: Holbrook
-street: "West Hopi Drive"
-housenumber: 516
-phone: "+1 (928) 524-6946"
+street: West Hopi Drive
+housenumber: "516"
+phone: +1 (928) 524-6946
 opening_hours: ""
-website: "https://www.waltshardware.com/"
+website: https://www.waltshardware.com/

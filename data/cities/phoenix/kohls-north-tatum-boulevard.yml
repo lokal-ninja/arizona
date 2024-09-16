@@ -1,11 +1,11 @@
 id: 455580940
-type: way
+type: node
 latitude: 33.67425
 longitude: -111.97159
 postcode: "85050"
 city: Phoenix
-street: "North Tatum Boulevard"
-housenumber: 21001
-phone: "+1 480-538-1750"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/phoenix-615.shtml"
+street: North Tatum Boulevard
+housenumber: "21001"
+phone: +1 480-538-1750
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/phoenix-615.shtml

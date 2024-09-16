@@ -1,11 +1,11 @@
 id: 933119609
-type: way
+type: node
 latitude: 33.39942
 longitude: -111.83105
 postcode: "85210"
 city: Mesa
-street: "South Center Street"
-housenumber: 837
+street: South Center Street
+housenumber: "837"
 phone: ""
 opening_hours: ""
 website: ""

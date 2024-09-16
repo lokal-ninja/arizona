@@ -1,11 +1,11 @@
 id: 973340217
-type: way
+type: node
 latitude: 33.63761
 longitude: -112.24999
 postcode: "85382"
 city: Peoria
-street: "North 88th Drive"
-housenumber: 16900
+street: North 88th Drive
+housenumber: "16900"
 phone: ""
 opening_hours: ""
 website: ""

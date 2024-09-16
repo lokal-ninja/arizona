@@ -1,11 +1,11 @@
 id: 993322727
-type: way
+type: node
 latitude: 32.16317
 longitude: -111.09736
 postcode: "85735"
 city: Tucson
-street: "West Ajo Highway"
-housenumber: 6225
+street: West Ajo Highway
+housenumber: "6225"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Tucson/6225-W-Ajo-Hwy"
+website: https://www.speedway.com/locations/AZ/Tucson/6225-W-Ajo-Hwy

@@ -1,11 +1,11 @@
 id: 92482874
-type: way
+type: node
 latitude: 34.24406
 longitude: -111.32601
 postcode: "85541"
 city: Payson
-street: "North Beeline Highway"
-housenumber: 300
-phone: "+1 928-474-0029"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1369/payson-az/whats-new"
+street: North Beeline Highway
+housenumber: "300"
+phone: +1 928-474-0029
+opening_hours: 24/7
+website: https://www.walmart.com/store/1369/payson-az/whats-new

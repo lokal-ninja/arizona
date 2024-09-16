@@ -1,11 +1,11 @@
 id: 1124897325
-type: way
+type: node
 latitude: 33.37964
 longitude: -112.03544
 postcode: "85042"
 city: Phoenix
-street: "East Baseline Road"
-housenumber: 2060
+street: East Baseline Road
+housenumber: "2060"
 phone: ""
 opening_hours: ""
-website: "https://stores.rainbowshops.com/az/phoenix/1924/"
+website: https://stores.rainbowshops.com/az/phoenix/1924/

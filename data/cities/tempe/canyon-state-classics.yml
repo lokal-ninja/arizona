@@ -1,11 +1,11 @@
 id: 871714504
-type: way
+type: node
 latitude: 33.42681
 longitude: -111.89635
 postcode: "85281"
 city: Tempe
-street: "South Rockford Drive"
-housenumber: 329
+street: South Rockford Drive
+housenumber: "329"
 phone: ""
 opening_hours: ""
 website: ""

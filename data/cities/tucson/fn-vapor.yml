@@ -1,11 +1,11 @@
 id: 563501537
-type: way
+type: node
 latitude: 32.35446
 longitude: -111.08958
 postcode: "85743"
 city: Tucson
-street: "West Arizona Pavilions Dr"
-housenumber: 5860
+street: West Arizona Pavilions Dr
+housenumber: "5860"
 phone: ""
 opening_hours: ""
 website: ""

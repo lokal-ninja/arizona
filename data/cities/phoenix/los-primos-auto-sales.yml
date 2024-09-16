@@ -1,11 +1,11 @@
 id: 1124870380
-type: way
+type: node
 latitude: 33.37814
 longitude: -112.11697
 postcode: "85041"
 city: Phoenix
-street: "South 27th Avenue"
-housenumber: 7446
+street: South 27th Avenue
+housenumber: "7446"
 phone: ""
 opening_hours: ""
 website: ""

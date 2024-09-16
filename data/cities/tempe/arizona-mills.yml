@@ -1,11 +1,11 @@
 id: 29211930
-type: way
+type: node
 latitude: 33.38183
 longitude: -111.96288
 postcode: "85282"
 city: Tempe
-street: "South Arizona Mills Circle"
-housenumber: 5000
+street: South Arizona Mills Circle
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

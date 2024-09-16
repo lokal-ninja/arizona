@@ -1,11 +1,11 @@
 id: 211707766
-type: way
+type: node
 latitude: 33.38467
 longitude: -111.60216
 postcode: "85209"
 city: Mesa
-street: "South Signal Butte Road"
-housenumber: 1628
-phone: "+1 480-770-5515"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/mesa/5175"
+street: South Signal Butte Road
+housenumber: "1628"
+phone: +1 480-770-5515
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/mesa/5175

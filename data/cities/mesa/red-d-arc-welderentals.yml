@@ -1,11 +1,11 @@
 id: 517803623
-type: way
+type: node
 latitude: 33.38521
 longitude: -111.84539
 postcode: "85210"
 city: Mesa
-street: "West Iron Avenue"
-housenumber: 544
+street: West Iron Avenue
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

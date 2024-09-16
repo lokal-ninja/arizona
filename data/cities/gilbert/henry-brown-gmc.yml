@@ -1,11 +1,11 @@
 id: 543898827
-type: way
+type: node
 latitude: 33.29291
 longitude: -111.75763
 postcode: "85297"
 city: Gilbert
-street: "East Drivers Way"
-housenumber: 1550
+street: East Drivers Way
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

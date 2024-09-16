@@ -1,10 +1,10 @@
 id: 987467671
-type: way
+type: node
 latitude: 33.52088
 longitude: -112.06437
 postcode: "85014"
 city: Phoenix
-street: "North 7th Street"
+street: North 7th Street
 housenumber: 5707;5717
 phone: ""
 opening_hours: ""

@@ -1,11 +1,11 @@
 id: 679176394
-type: way
+type: node
 latitude: 33.46414
 longitude: -112.09704
 postcode: "85007"
 city: Phoenix
-street: "Grand Avenue"
-housenumber: 1746
+street: Grand Avenue
+housenumber: "1746"
 phone: ""
 opening_hours: ""
 website: ""

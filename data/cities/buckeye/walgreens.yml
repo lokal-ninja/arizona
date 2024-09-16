@@ -1,11 +1,11 @@
 id: 274121263
-type: way
+type: node
 latitude: 33.4348
 longitude: -112.55573
 postcode: "85326"
 city: Buckeye
-street: "West Yuma Road"
-housenumber: 23477
+street: West Yuma Road
+housenumber: "23477"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-23477+w+yuma+rd-buckeye-az-85326/id=9175"
+website: https://www.walgreens.com/locator/walgreens-23477+w+yuma+rd-buckeye-az-85326/id=9175

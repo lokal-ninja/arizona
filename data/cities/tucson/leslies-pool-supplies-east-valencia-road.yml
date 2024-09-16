@@ -1,11 +1,11 @@
 id: 835614747
-type: way
+type: node
 latitude: 32.11873
 longitude: -110.79882
 postcode: "85747"
 city: Tucson
-street: "East Valencia Road"
-housenumber: 9040
-phone: "520 664 2015"
+street: East Valencia Road
+housenumber: "9040"
+phone: 520 664 2015
 opening_hours: ""
 website: ""

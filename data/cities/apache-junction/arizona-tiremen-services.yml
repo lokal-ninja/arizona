@@ -1,11 +1,11 @@
 id: 376914958
-type: way
+type: node
 latitude: 33.40609
 longitude: -111.53581
 postcode: "85119"
 city: Apache Junction
-street: "East Old West Highway"
-housenumber: 991
-phone: "+1 480 671 9000"
+street: East Old West Highway
+housenumber: "991"
+phone: +1 480 671 9000
 opening_hours: ""
-website: "https://www.apachejunctiontireshop.com/"
+website: https://www.apachejunctiontireshop.com/

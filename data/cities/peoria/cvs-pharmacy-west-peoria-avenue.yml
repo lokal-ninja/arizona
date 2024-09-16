@@ -1,11 +1,11 @@
 id: 599981296
-type: way
+type: node
 latitude: 33.58094
 longitude: -112.27201
 postcode: "85345"
 city: Peoria
-street: "West Peoria Avenue"
-housenumber: 9856
+street: West Peoria Avenue
+housenumber: "9856"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/peoria-az-pharmacies/9856-w-peoria-ave-peoria-az-85345/storeid=9237"
+website: https://www.cvs.com/store-locator/peoria-az-pharmacies/9856-w-peoria-ave-peoria-az-85345/storeid=9237

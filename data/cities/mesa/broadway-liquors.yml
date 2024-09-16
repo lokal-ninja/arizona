@@ -1,11 +1,11 @@
 id: 818928594
-type: way
+type: node
 latitude: 33.40753
 longitude: -111.82272
 postcode: ""
 city: Mesa
-street: "East Broadway Road"
-housenumber: 405
+street: East Broadway Road
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

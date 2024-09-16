@@ -1,11 +1,11 @@
 id: 833215110
-type: way
+type: node
 latitude: 33.33711
 longitude: -111.60328
 postcode: "85212"
 city: Mesa
-street: "South Signal Butte Road"
-housenumber: 4316
-phone: "+1 480-296-7953"
+street: South Signal Butte Road
+housenumber: "4316"
+phone: +1 480-296-7953
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/mesa/4316-s-signal-butte-rd.html"
+website: https://local.safeway.com/safeway/az/mesa/4316-s-signal-butte-rd.html

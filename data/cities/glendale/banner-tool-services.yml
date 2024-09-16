@@ -1,11 +1,11 @@
 id: 222448016
-type: way
+type: node
 latitude: 33.53647
 longitude: -112.18094
 postcode: "85301"
 city: Glendale
-street: "West Lamar Road"
-housenumber: 
+street: West Lamar Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

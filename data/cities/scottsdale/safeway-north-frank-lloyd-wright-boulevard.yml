@@ -1,11 +1,11 @@
 id: 1167470079
-type: way
+type: node
 latitude: 33.61984
 longitude: -111.875
 postcode: "85260"
 city: Scottsdale
-street: "North Frank Lloyd Wright Boulevard"
-housenumber: 14696
-phone: "+1 480-391-1090"
+street: North Frank Lloyd Wright Boulevard
+housenumber: "14696"
+phone: +1 480-391-1090
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/scottsdale/14696-n-frank-lloyd-wright-blvd.html"
+website: https://local.safeway.com/safeway/az/scottsdale/14696-n-frank-lloyd-wright-blvd.html

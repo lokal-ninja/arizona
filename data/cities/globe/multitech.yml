@@ -1,11 +1,11 @@
 id: 958750398
-type: way
+type: node
 latitude: 33.40888
 longitude: -110.79425
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1316
-phone: "+1 928 425 3435"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.multitechaz.com/"
+street: North Broad Street
+housenumber: "1316"
+phone: +1 928 425 3435
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.multitechaz.com/

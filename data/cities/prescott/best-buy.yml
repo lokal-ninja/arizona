@@ -1,11 +1,11 @@
 id: 186405586
-type: way
+type: node
 latitude: 34.55044
 longitude: -112.41231
 postcode: "86303"
 city: Prescott
-street: "Gateway Boulevard"
-housenumber: 3085
-phone: "+1 928-776-7099"
+street: Gateway Boulevard
+housenumber: "3085"
+phone: +1 928-776-7099
 opening_hours: ""
-website: "https://stores.bestbuy.com/az/prescott/3085-gateway-blvd-377.html"
+website: https://stores.bestbuy.com/az/prescott/3085-gateway-blvd-377.html

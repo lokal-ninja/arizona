@@ -1,11 +1,11 @@
 id: 330467493
-type: way
+type: node
 latitude: 33.38074
 longitude: -111.82364
 postcode: "85210"
 city: Tempe;Mesa
-street: "South Mesa Drive"
-housenumber: 1861
+street: South Mesa Drive
+housenumber: "1861"
 phone: ""
 opening_hours: ""
 website: ""

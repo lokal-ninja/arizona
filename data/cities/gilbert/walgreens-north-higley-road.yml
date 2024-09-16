@@ -1,11 +1,11 @@
 id: 838379870
-type: way
+type: node
 latitude: 33.36434
 longitude: -111.72276
 postcode: "85234"
 city: Gilbert
-street: "North Higley Road"
-housenumber: 758
+street: North Higley Road
+housenumber: "758"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-754+n+higley+rd-gilbert-az-85234/id=5799"
+website: https://www.walgreens.com/locator/walgreens-754+n+higley+rd-gilbert-az-85234/id=5799

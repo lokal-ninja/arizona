@@ -1,11 +1,11 @@
 id: 298916230
-type: way
+type: node
 latitude: 32.40296
 longitude: -110.95539
 postcode: "85737"
 city: Oro Valley
-street: "North Oracle Road"
-housenumber: 10855
-phone: "+1 520-877-3533"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/n-tucson-oro-valley/az/oro-valley/85737/481"
+street: North Oracle Road
+housenumber: "10855"
+phone: +1 520-877-3533
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/n-tucson-oro-valley/az/oro-valley/85737/481

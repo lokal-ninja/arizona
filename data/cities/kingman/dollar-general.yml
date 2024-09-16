@@ -1,11 +1,11 @@
 id: 677679001
-type: way
+type: node
 latitude: 35.19143
 longitude: -114.06447
 postcode: "86401"
 city: Kingman
-street: "Beale Street"
-housenumber: 525
+street: Beale Street
+housenumber: "525"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/az/kingman/18114"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/az/kingman/18114

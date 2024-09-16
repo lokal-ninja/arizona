@@ -1,11 +1,11 @@
 id: 93099387
-type: way
+type: node
 latitude: 33.52429
 longitude: -111.89976
 postcode: "85250"
 city: Scottsdale
-street: "East McDonald Drive"
-housenumber: 8410
-phone: "+1 480-948-7363"
+street: East McDonald Drive
+housenumber: "8410"
+phone: +1 480-948-7363
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/scottsdale/8410-east-mcdonald-26411"
+website: https://www.7-eleven.com/locations/az/scottsdale/8410-east-mcdonald-26411

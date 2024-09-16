@@ -1,11 +1,11 @@
 id: 313165785
-type: way
+type: node
 latitude: 33.43481
 longitude: -112.55903
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 1300
-phone: "+1 623-691-6600"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/buckeye/yuma-st-watson-rd/660/00675;https://www.frysfood.com/health-services/clinic/details/851/00107"
+street: South Watson Road
+housenumber: "1300"
+phone: +1 623-691-6600
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/buckeye/yuma-st-watson-rd/660/00675;https://www.frysfood.com/health-services/clinic/details/851/00107

@@ -1,11 +1,11 @@
 id: 1112393454
-type: way
+type: node
 latitude: 33.53752
 longitude: -112.21856
 postcode: "85303"
 city: Glendale
-street: "West Glendale Avenue"
-housenumber: 
+street: West Glendale Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/glendale/autoparts-3777.html"
+website: https://locations.oreillyauto.com/az/glendale/autoparts-3777.html

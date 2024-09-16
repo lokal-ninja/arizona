@@ -1,11 +1,11 @@
 id: 919030946
-type: way
+type: node
 latitude: 33.50809
 longitude: -112.03823
 postcode: "85016"
 city: Phoenix
-street: "North 20th Street"
-housenumber: 4925
+street: North 20th Street
+housenumber: "4925"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.70451
 longitude: -114.58367
 postcode: "85365"
 city: Yuma
-street: "E 13th St"
-housenumber: 2868
-phone: "+1 928-314-1005"
-opening_hours: "Mo-Fr: 08:00-17:00"
-website: "https://chassisdynamicsyumaaz.com"
+street: E 13th St
+housenumber: "2868"
+phone: +1 928-314-1005
+opening_hours: 'Mo-Fr: 08:00-17:00'
+website: https://chassisdynamicsyumaaz.com

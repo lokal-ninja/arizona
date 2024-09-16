@@ -1,11 +1,11 @@
 id: 155728122
-type: way
+type: node
 latitude: 33.31874
 longitude: -111.97598
 postcode: "85044"
 city: Phoenix
-street: "East Ray Road"
-housenumber: 5011
-phone: "+1 480-893-3383"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/phoenix/pet-supplies-phoenix-az-597.html"
+street: East Ray Road
+housenumber: "5011"
+phone: +1 480-893-3383
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/phoenix/pet-supplies-phoenix-az-597.html

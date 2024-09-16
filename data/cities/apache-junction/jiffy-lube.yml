@@ -1,11 +1,11 @@
 id: 164936240
-type: way
+type: node
 latitude: 33.41529
 longitude: -111.55075
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 428
+street: West Apache Trail
+housenumber: "428"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 68295644
-type: way
+type: node
 latitude: 33.57665
 longitude: -112.11772
 postcode: "85051"
 city: Phoenix
-street: "North Metro Parkway East"
-housenumber: 10011
+street: North Metro Parkway East
+housenumber: "10011"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
 website: ""

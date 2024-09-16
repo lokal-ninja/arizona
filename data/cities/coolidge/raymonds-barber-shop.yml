@@ -1,11 +1,11 @@
 id: 506257705
-type: way
+type: node
 latitude: 32.98159
 longitude: -111.52377
 postcode: "85128"
 city: Coolidge
-street: "North Arizona Boulevard"
-housenumber: 495
+street: North Arizona Boulevard
+housenumber: "495"
 phone: ""
 opening_hours: ""
 website: ""

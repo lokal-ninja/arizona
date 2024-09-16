@@ -1,11 +1,11 @@
 id: 232880870
-type: way
+type: node
 latitude: 33.66136
 longitude: -112.35865
 postcode: "85375"
 city: Sun City West
-street: "North R H Johnson Boulevard"
-housenumber: 19602
-phone: "623-214-1015"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.cvs.com/store-locator/sun-city-west-az-pharmacies/19602-r-h-johnson-blvd-sun-city-west-az-85375/storeid=9230"
+street: North R H Johnson Boulevard
+housenumber: "19602"
+phone: 623-214-1015
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.cvs.com/store-locator/sun-city-west-az-pharmacies/19602-r-h-johnson-blvd-sun-city-west-az-85375/storeid=9230

@@ -1,11 +1,11 @@
 id: 134186771
-type: way
+type: node
 latitude: 33.30417
 longitude: -111.74142
 postcode: "85295"
 city: Gilbert
-street: "South Market Street"
-housenumber: 2501
-phone: "+1 480-224-6900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5186-gilbert-az"
+street: South Market Street
+housenumber: "2501"
+phone: +1 480-224-6900
+opening_hours: 24/7
+website: https://www.walmart.com/store/5186-gilbert-az

@@ -1,11 +1,11 @@
 id: 236365731
-type: way
+type: node
 latitude: 32.22409
 longitude: -110.82678
 postcode: "85710"
 city: Tucson
-street: "North Pantano Road"
-housenumber: 199
-phone: "+1 520-886-0848"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/tucson-688.shtml"
+street: North Pantano Road
+housenumber: "199"
+phone: +1 520-886-0848
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/tucson-688.shtml

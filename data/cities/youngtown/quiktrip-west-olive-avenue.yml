@@ -1,11 +1,11 @@
 id: 687713687
-type: way
+type: node
 latitude: 33.56613
 longitude: -112.31003
 postcode: "85363"
 city: Youngtown
-street: "West Olive Avenue"
-housenumber: 11604
+street: West Olive Avenue
+housenumber: "11604"
 phone: ""
 opening_hours: ""
 website: ""

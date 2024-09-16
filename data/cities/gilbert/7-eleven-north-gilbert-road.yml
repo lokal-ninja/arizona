@@ -1,11 +1,11 @@
 id: 813006798
-type: way
+type: node
 latitude: 33.3714
 longitude: -111.78943
-postcode: "85234-3391"
+postcode: 85234-3391
 city: Gilbert
-street: "North Gilbert Road"
-housenumber: 1157
-phone: "+1 480-926-4068"
+street: North Gilbert Road
+housenumber: "1157"
+phone: +1 480-926-4068
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/gilbert/1157-n.-gilbert-rd-26908"
+website: https://www.7-eleven.com/locations/az/gilbert/1157-n.-gilbert-rd-26908

@@ -1,11 +1,11 @@
 id: 561640802
-type: way
+type: node
 latitude: 33.62644
 longitude: -111.89849
 postcode: "85260"
 city: Scottsdale
-street: "North Hayden Road"
-housenumber: 15500
-phone: "+1 (480) 609-1800"
+street: North Hayden Road
+housenumber: "15500"
+phone: +1 (480) 609-1800
 opening_hours: ""
-website: "https://www.goaz.com/"
+website: https://www.goaz.com/

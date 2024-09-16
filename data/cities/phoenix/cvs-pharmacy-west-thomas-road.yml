@@ -1,11 +1,11 @@
 id: 130216524
-type: way
+type: node
 latitude: 33.47913
 longitude: -112.23676
 postcode: "85033"
 city: Phoenix
-street: "West Thomas Road"
-housenumber: 8245
+street: West Thomas Road
+housenumber: "8245"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/8245-w-thomas-rd-phoenix-az-85033/storeid=3625"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/8245-w-thomas-rd-phoenix-az-85033/storeid=3625

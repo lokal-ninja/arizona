@@ -1,11 +1,11 @@
 id: 842223723
-type: way
+type: node
 latitude: 33.63952
 longitude: -112.42127
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 16824
+street: West Bell Road
+housenumber: "16824"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/surprise/autoparts-3651.html"
+website: https://locations.oreillyauto.com/az/surprise/autoparts-3651.html

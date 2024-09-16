@@ -1,11 +1,11 @@
 id: 838366640
-type: way
+type: node
 latitude: 32.22125
 longitude: -110.87204
 postcode: "85784"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 5626
-phone: "520 428 8999"
+street: East Broadway Boulevard
+housenumber: "5626"
+phone: 520 428 8999
 opening_hours: ""
-website: "https://www.copperspoke.com/"
+website: https://www.copperspoke.com/

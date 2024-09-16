@@ -1,11 +1,11 @@
 id: 999298451
-type: way
+type: node
 latitude: 33.40929
 longitude: -111.88939
 postcode: "85281"
 city: Tempe
-street: "South Indian Bend Road"
-housenumber: 1865
+street: South Indian Bend Road
+housenumber: "1865"
 phone: ""
 opening_hours: ""
 website: ""

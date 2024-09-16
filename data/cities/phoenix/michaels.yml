@@ -2,10 +2,10 @@ id: 8320399831
 type: node
 latitude: 33.50766
 longitude: -112.04167
-postcode: "85016-4140"
+postcode: 85016-4140
 city: Phoenix
-street: "East Camelback Road"
-housenumber: 1925
-phone: "+1 602-241-9285"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/phoenix/9848"
+street: East Camelback Road
+housenumber: "1925"
+phone: +1 602-241-9285
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/phoenix/9848

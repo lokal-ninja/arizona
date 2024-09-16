@@ -1,11 +1,11 @@
 id: 675345095
-type: way
+type: node
 latitude: 33.41477
 longitude: -111.67884
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 7045
-phone: "+1 480 359 5814"
+street: East Main Street
+housenumber: "7045"
+phone: +1 480 359 5814
 opening_hours: ""
-website: "http://aplusautodoctor.com/"
+website: http://aplusautodoctor.com/

@@ -1,11 +1,11 @@
 id: 918949974
-type: way
+type: node
 latitude: 33.37395
 longitude: -111.68739
 postcode: "85209"
 city: Mesa
-street: "South Power Road"
-housenumber: 2323
+street: South Power Road
+housenumber: "2323"
 phone: ""
 opening_hours: ""
 website: ""

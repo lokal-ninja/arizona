@@ -1,11 +1,11 @@
 id: 1312895138
-type: way
+type: node
 latitude: 33.42167
 longitude: -111.99254
 postcode: "85034"
 city: Phoenix
-street: "East University Drive"
-housenumber: 4113
+street: East University Drive
+housenumber: "4113"
 phone: ""
 opening_hours: ""
 website: ""

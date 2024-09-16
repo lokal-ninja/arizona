@@ -1,11 +1,11 @@
 id: 1227709103
-type: way
+type: node
 latitude: 33.46774
 longitude: -112.11001
 postcode: "85009"
 city: Phoenix
-street: "North Black Canyon Highway"
-housenumber: 1801
+street: North Black Canyon Highway
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://branches.fleetpride.com/az/phoenix/truckparts-phx.html"
+website: https://branches.fleetpride.com/az/phoenix/truckparts-phx.html

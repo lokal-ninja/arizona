@@ -1,11 +1,11 @@
 id: 719019103
-type: way
+type: node
 latitude: 33.46543
 longitude: -112.04848
 postcode: "85006"
 city: Phoenix
-street: "East McDowell Road"
-housenumber: 1523
-phone: "602-716-0491"
+street: East McDowell Road
+housenumber: "1523"
+phone: 602-716-0491
 opening_hours: ""
 website: ""

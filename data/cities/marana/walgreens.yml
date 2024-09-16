@@ -1,11 +1,11 @@
 id: 247489006
-type: way
+type: node
 latitude: 32.42575
 longitude: -111.07797
 postcode: "85658"
 city: Marana
-street: "North Dove Mountain Boulevard"
-housenumber: 12050
+street: North Dove Mountain Boulevard
+housenumber: "12050"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12050+n+dove+mountain+blvd-marana-az-85658/id=9952"
+website: https://www.walgreens.com/locator/walgreens-12050+n+dove+mountain+blvd-marana-az-85658/id=9952

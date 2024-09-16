@@ -1,11 +1,11 @@
 id: 1245149611
-type: way
+type: node
 latitude: 32.69256
 longitude: -114.62491
 postcode: "85364"
 city: Yuma
-street: "South 4th Avenue"
-housenumber: 1910
+street: South 4th Avenue
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

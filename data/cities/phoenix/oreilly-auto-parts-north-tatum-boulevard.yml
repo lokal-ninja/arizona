@@ -1,11 +1,11 @@
 id: 71277525
-type: way
+type: node
 latitude: 33.6438
 longitude: -111.97654
 postcode: "85032"
 city: Phoenix
-street: "North Tatum Boulevard"
-housenumber: 17241
+street: North Tatum Boulevard
+housenumber: "17241"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-2831.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-2831.html

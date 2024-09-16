@@ -1,11 +1,11 @@
 id: 452111735
-type: way
+type: node
 latitude: 33.59454
 longitude: -112.21839
 postcode: "85381"
 city: Peoria
-street: "West Cactus Road"
-housenumber: 7455
-phone: "+1 623-486-0441"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/peoria/75th-ave-cactus/660/00045"
+street: West Cactus Road
+housenumber: "7455"
+phone: +1 623-486-0441
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/peoria/75th-ave-cactus/660/00045

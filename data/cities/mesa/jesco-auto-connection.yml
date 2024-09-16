@@ -1,11 +1,11 @@
 id: 1259560881
-type: way
+type: node
 latitude: 33.46919
 longitude: -111.74128
 postcode: "85215"
 city: Mesa
-street: "North Norfolk"
-housenumber: 2926
+street: North Norfolk
+housenumber: "2926"
 phone: ""
 opening_hours: ""
 website: ""

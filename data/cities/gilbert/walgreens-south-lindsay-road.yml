@@ -1,11 +1,11 @@
 id: 845807520
-type: way
+type: node
 latitude: 33.30768
 longitude: -111.77228
 postcode: "85295"
 city: Gilbert
-street: "South Lindsay Road"
-housenumber: 2363
+street: South Lindsay Road
+housenumber: "2363"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2363+s+lindsay+rd-gilbert-az-85295/id=5215"
+website: https://www.walgreens.com/locator/walgreens-2363+s+lindsay+rd-gilbert-az-85295/id=5215

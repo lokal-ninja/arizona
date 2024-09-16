@@ -1,11 +1,11 @@
 id: 982146842
-type: way
+type: node
 latitude: 33.34002
 longitude: -111.90009
 postcode: "85284"
 city: Tempe
-street: "East Centennial Circle"
-housenumber: 2055
+street: East Centennial Circle
+housenumber: "2055"
 phone: ""
 opening_hours: ""
 website: ""

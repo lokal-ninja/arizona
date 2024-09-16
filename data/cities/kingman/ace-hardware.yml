@@ -1,11 +1,11 @@
 id: 1215083066
-type: way
+type: node
 latitude: 35.25499
 longitude: -114.03709
 postcode: "86401"
 city: Kingman
-street: "Stockton Hill Road"
-housenumber: 4550
-phone: "+1 928-757-2154"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
-website: "https://www.acehardware.com/store-details/18312"
+street: Stockton Hill Road
+housenumber: "4550"
+phone: +1 928-757-2154
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
+website: https://www.acehardware.com/store-details/18312

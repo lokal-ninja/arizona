@@ -4,8 +4,8 @@ latitude: 33.39736
 longitude: -111.83891
 postcode: "85210"
 city: Mesa
-street: "West 10th Avenue"
-housenumber: 334
-phone: "480-248-8469"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-15:00; Su by appointment"
-website: "https://www.521automotive.com/"
+street: West 10th Avenue
+housenumber: "334"
+phone: 480-248-8469
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-15:00; Su "by appointment"
+website: https://www.521automotive.com/

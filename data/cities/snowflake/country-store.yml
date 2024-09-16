@@ -1,11 +1,11 @@
 id: 625217581
-type: way
+type: node
 latitude: 34.5578
 longitude: -109.96228
 postcode: "85937"
 city: Snowflake
-street: "Concho Highway"
-housenumber: 8750
-phone: "+1 928 536 2114"
-opening_hours: "Mo-Su 06:30-19:00"
+street: Concho Highway
+housenumber: "8750"
+phone: +1 928 536 2114
+opening_hours: Mo-Su 06:30-19:00
 website: ""

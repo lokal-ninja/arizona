@@ -1,11 +1,11 @@
 id: 34201027
-type: way
+type: node
 latitude: 33.57112
 longitude: -112.08312
 postcode: "85021"
 city: Phoenix
-street: "West Hatcher Road"
-housenumber: 712
+street: West Hatcher Road
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

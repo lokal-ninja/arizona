@@ -1,11 +1,11 @@
 id: 173911945
-type: way
+type: node
 latitude: 33.42185
 longitude: -111.6237
 postcode: "85207"
 city: Mesa
-street: "East University Drive"
-housenumber: 9615
+street: East University Drive
+housenumber: "9615"
 phone: ""
 opening_hours: ""
 website: ""

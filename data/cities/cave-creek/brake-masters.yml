@@ -1,11 +1,11 @@
 id: 761290848
-type: way
+type: node
 latitude: 33.79853
 longitude: -111.98199
 postcode: "85331"
 city: Cave Creek
-street: "East Carefree Highway"
-housenumber: 4603
-phone: "(480) 575-8777"
-opening_hours: "Mo-Sa 07:30-17:30"
-website: "https://www.brakemasters.com/stores/4603-e-carefree-hwy-phoenix-az/"
+street: East Carefree Highway
+housenumber: "4603"
+phone: (480) 575-8777
+opening_hours: Mo-Sa 07:30-17:30
+website: https://www.brakemasters.com/stores/4603-e-carefree-hwy-phoenix-az/

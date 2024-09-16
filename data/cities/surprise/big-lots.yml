@@ -1,11 +1,11 @@
 id: 312487646
-type: way
+type: node
 latitude: 33.65477
 longitude: -112.37389
 postcode: "85374"
 city: Surprise
-street: "West Grand Avenue"
-housenumber: 14537
-phone: "+1 623-214-0754"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/az/surprise/14537-w-grand-ave"
+street: West Grand Avenue
+housenumber: "14537"
+phone: +1 623-214-0754
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/az/surprise/14537-w-grand-ave

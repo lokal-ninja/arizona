@@ -1,11 +1,11 @@
 id: 1067285760
-type: way
+type: node
 latitude: 33.96666
 longitude: -112.7374
 postcode: "85390"
 city: Wickenburg
-street: "US 60"
-housenumber: 500
-phone: "+1-​928-684-2471"
+street: US 60
+housenumber: "500"
+phone: +1-​928-684-2471
 opening_hours: ""
-website: "https://www.doublejrvstorage.com/"
+website: https://www.doublejrvstorage.com/

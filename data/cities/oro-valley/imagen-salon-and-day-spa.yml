@@ -1,11 +1,11 @@
 id: 382025068
-type: way
+type: node
 latitude: 32.3982
 longitude: -110.96452
 postcode: "85737"
 city: Oro Valley
-street: "East Vuelta Caminata del Rio"
-housenumber: 475
-phone: "+1 520 742 0040"
+street: East Vuelta Caminata del Rio
+housenumber: "475"
+phone: +1 520 742 0040
 opening_hours: ""
-website: "https://imagensalonspa.com/"
+website: https://imagensalonspa.com/

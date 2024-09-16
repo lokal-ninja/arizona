@@ -1,11 +1,11 @@
 id: 664333845
-type: way
+type: node
 latitude: 34.24946
 longitude: -110.04569
 postcode: "85901"
 city: Show Low
-street: "West Deuce of Clubs"
-housenumber: 260
+street: West Deuce of Clubs
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

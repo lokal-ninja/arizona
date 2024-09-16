@@ -1,11 +1,11 @@
 id: 938224236
-type: way
+type: node
 latitude: 33.40063
 longitude: -111.94825
 postcode: "85282"
 city: Tempe
-street: "West Alameda Drive"
-housenumber: 610
+street: West Alameda Drive
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

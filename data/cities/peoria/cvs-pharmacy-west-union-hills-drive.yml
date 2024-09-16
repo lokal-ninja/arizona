@@ -1,11 +1,11 @@
 id: 906612750
-type: way
+type: node
 latitude: 33.65306
 longitude: -112.25591
 postcode: "85382"
 city: Peoria
-street: "West Union Hills Drive"
-housenumber: 9172
+street: West Union Hills Drive
+housenumber: "9172"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/peoria-az-pharmacies/9172-w-union-hills-dr-peoria-az-85382/storeid=9294"
+website: https://www.cvs.com/store-locator/peoria-az-pharmacies/9172-w-union-hills-dr-peoria-az-85382/storeid=9294

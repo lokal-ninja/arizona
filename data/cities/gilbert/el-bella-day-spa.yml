@@ -1,11 +1,11 @@
 id: 839741369
-type: way
+type: node
 latitude: 33.26273
 longitude: -111.71891
 postcode: "85297"
 city: Gilbert
-street: "East Queen Creek Road"
-housenumber: 3303
+street: East Queen Creek Road
+housenumber: "3303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1124331126
-type: way
+type: node
 latitude: 33.37893
 longitude: -112.13636
 postcode: "85339"
 city: Phoenix
-street: "West Baseline Road"
-housenumber: 3610
+street: West Baseline Road
+housenumber: "3610"
 phone: ""
 opening_hours: ""
 website: ""

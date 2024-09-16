@@ -1,11 +1,11 @@
 id: 232206909
-type: way
+type: node
 latitude: 33.39223
 longitude: -112.0469
 postcode: ""
 city: Phoenix
-street: "East Southern Avenue"
-housenumber: 1601
+street: East Southern Avenue
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 807428648
-type: way
+type: node
 latitude: 33.41773
 longitude: -111.68401
 postcode: "85207"
 city: Mesa
-street: "North Power Road"
-housenumber: 119
+street: North Power Road
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/119-n-power-rd.html"
+website: https://www.autozone.com/locations/az/mesa/119-n-power-rd.html

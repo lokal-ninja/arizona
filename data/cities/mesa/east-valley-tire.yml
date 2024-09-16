@@ -1,11 +1,11 @@
 id: 1074965593
-type: way
+type: node
 latitude: 33.41477
 longitude: -111.65729
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 8055
+street: East Main Street
+housenumber: "8055"
 phone: "+14809860106"
 opening_hours: ""
-website: "https://www.eastvalleytire.com/"
+website: https://www.eastvalleytire.com/

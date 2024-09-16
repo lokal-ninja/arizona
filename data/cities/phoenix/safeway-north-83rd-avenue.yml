@@ -1,11 +1,11 @@
 id: 351487015
-type: way
+type: node
 latitude: 33.50724
 longitude: -112.23613
 postcode: "85340"
 city: Phoenix
-street: "North 83rd Avenue"
-housenumber: 4811
-phone: "+1 623-247-4447"
+street: North 83rd Avenue
+housenumber: "4811"
+phone: +1 623-247-4447
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/4811-n-83rd-ave.html"
+website: https://local.safeway.com/safeway/az/phoenix/4811-n-83rd-ave.html

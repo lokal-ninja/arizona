@@ -1,11 +1,11 @@
 id: 82697470
-type: way
+type: node
 latitude: 33.64529
 longitude: -112.03119
 postcode: "85032"
 city: Phoenix
-street: "North Cave Creek Road"
-housenumber: 17434
+street: North Cave Creek Road
+housenumber: "17434"
 phone: "+16024935258"
-opening_hours: "Mo-Fr 08:00-18:00 Sat-Sun 8:00-17:00"
-website: "bigbrandtire.com"
+opening_hours: Mo-Fr 08:00-18:00 Sat-Sun 8:00-17:00
+website: bigbrandtire.com

@@ -1,11 +1,11 @@
 id: 232214463
-type: way
+type: node
 latitude: 32.25959
 longitude: -110.94321
 postcode: "85719"
 city: Tucson
-street: "North Campbell Avenue"
-housenumber: 2902
+street: North Campbell Avenue
+housenumber: "2902"
 phone: ""
 opening_hours: ""
 website: ""

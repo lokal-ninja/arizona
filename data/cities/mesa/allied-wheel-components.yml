@@ -1,11 +1,11 @@
 id: 215268436
-type: way
+type: node
 latitude: 33.28079
 longitude: -111.64209
 postcode: "85212"
 city: Mesa
-street: "South Atwood"
-housenumber: 7424
+street: South Atwood
+housenumber: "7424"
 phone: ""
 opening_hours: ""
 website: ""

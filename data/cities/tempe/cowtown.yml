@@ -4,8 +4,8 @@ latitude: 33.42159
 longitude: -111.94259
 postcode: "85281"
 city: Tempe
-street: "West University Drive"
-housenumber: 215
+street: West University Drive
+housenumber: "215"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00, Su 11:00-18:00"
-website: "https://www.cowtownskateboards.com/"
+opening_hours: Mo-Sa 11:00-20:00, Su 11:00-18:00
+website: https://www.cowtownskateboards.com/

@@ -1,11 +1,11 @@
 id: 713065532
-type: way
+type: node
 latitude: 33.55269
 longitude: -112.1261
 postcode: "85051"
 city: Phoenix
-street: "West Northern Avenue"
-housenumber: 3101
+street: West Northern Avenue
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

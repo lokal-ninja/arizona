@@ -1,11 +1,11 @@
 id: 525779130
-type: way
+type: node
 latitude: 33.41433
 longitude: -111.59038
 postcode: "85120"
 city: Apache Junction
-street: "East Apache Trail"
-housenumber: 11139
-phone: "+1 480 900 5999"
+street: East Apache Trail
+housenumber: "11139"
+phone: +1 480 900 5999
 opening_hours: ""
-website: "https://www.anytimestorage.com/self-storage/az/apache-junction/apache-trail-1/"
+website: https://www.anytimestorage.com/self-storage/az/apache-junction/apache-trail-1/

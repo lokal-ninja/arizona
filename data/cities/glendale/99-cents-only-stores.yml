@@ -1,11 +1,11 @@
 id: 221776145
-type: way
+type: node
 latitude: 33.53959
 longitude: -112.17432
 postcode: "85301"
 city: Glendale
-street: "West Glendale Avenue"
-housenumber: 5340
+street: West Glendale Avenue
+housenumber: "5340"
 phone: ""
 opening_hours: ""
-website: "https://locations.99only.com/az/glendale/discount-store-178.html"
+website: https://locations.99only.com/az/glendale/discount-store-178.html

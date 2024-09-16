@@ -1,11 +1,11 @@
 id: 616336251
-type: way
+type: node
 latitude: 34.47662
 longitude: -114.33471
 postcode: "86403"
 city: Lake Havasu City
-street: "McCulloch Boulevard"
-housenumber: 1980
-phone: "+1 928-854-5300"
+street: McCulloch Boulevard
+housenumber: "1980"
+phone: +1 928-854-5300
 opening_hours: ""
-website: "https://local.albertsons.com/az/lake-havasu-city/1980-mcculloch-blvd.html"
+website: https://local.albertsons.com/az/lake-havasu-city/1980-mcculloch-blvd.html

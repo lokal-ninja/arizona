@@ -1,11 +1,11 @@
 id: 152448046
-type: way
+type: node
 latitude: 33.52732
 longitude: -112.13163
 postcode: "85017"
 city: Phoenix
-street: "North 35th Avenue"
-housenumber: 6145
-phone: "+1 602-973-0774"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5330/phoenix-az/whats-new"
+street: North 35th Avenue
+housenumber: "6145"
+phone: +1 602-973-0774
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5330/phoenix-az/whats-new

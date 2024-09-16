@@ -1,11 +1,11 @@
 id: 975697810
-type: way
+type: node
 latitude: 32.23562
 longitude: -110.96947
 postcode: ""
 city: Tucson
-street: "East Speedway Boulevard"
-housenumber: 130
+street: East Speedway Boulevard
+housenumber: "130"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

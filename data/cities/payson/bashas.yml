@@ -1,11 +1,11 @@
 id: 1182136082
-type: way
+type: node
 latitude: 34.24246
 longitude: -111.32169
 postcode: "85541"
 city: Payson
-street: "East Az Highway 260"
-housenumber: 142
+street: East Az Highway 260
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 582086995
-type: way
+type: node
 latitude: 35.18853
 longitude: -111.6746
 postcode: "86001"
 city: Flagstaff
-street: "West Route 66"
-housenumber: 1690
+street: West Route 66
+housenumber: "1690"
 phone: ""
 opening_hours: ""
 website: ""

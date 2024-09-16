@@ -1,11 +1,11 @@
 id: 889993700
-type: way
+type: node
 latitude: 33.26212
 longitude: -111.79075
 postcode: "85286"
 city: Chandler
-street: "South Gilbert Road"
-housenumber: 3010
+street: South Gilbert Road
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

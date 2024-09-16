@@ -1,11 +1,11 @@
 id: 164936225
-type: way
+type: node
 latitude: 33.41461
 longitude: -111.55686
 postcode: ""
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 1015
-phone: "+1 480 982 3363"
+street: West Apache Trail
+housenumber: "1015"
+phone: +1 480 982 3363
 opening_hours: ""
-website: "https://www.arizonakawasaki.com/"
+website: https://www.arizonakawasaki.com/

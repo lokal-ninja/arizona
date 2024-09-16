@@ -1,11 +1,11 @@
 id: 965266573
-type: way
+type: node
 latitude: 33.31889
 longitude: -111.98344
 postcode: "85044"
 city: Phoenix
-street: "Ray Road"
-housenumber: 4609
-phone: "+1 480-718-6882"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/phoenix-store2474.html"
+street: Ray Road
+housenumber: "4609"
+phone: +1 480-718-6882
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/phoenix-store2474.html

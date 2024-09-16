@@ -1,11 +1,11 @@
 id: 903224072
-type: way
+type: node
 latitude: 31.71069
 longitude: -110.05987
 postcode: "85638"
 city: Tombstone
-street: "East Fremont Street"
-housenumber: 1067
-phone: "(520) 261-4461"
+street: East Fremont Street
+housenumber: "1067"
+phone: (520) 261-4461
 opening_hours: ""
-website: "https://cleandieselspecialists.com/cds-tombstone/"
+website: https://cleandieselspecialists.com/cds-tombstone/

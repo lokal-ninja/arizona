@@ -1,11 +1,11 @@
 id: 647553822
-type: way
+type: node
 latitude: 34.24823
 longitude: -111.32327
 postcode: "85541"
 city: Payson
-street: "North Beeline Highway"
-housenumber: 606
+street: North Beeline Highway
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 145091864
-type: way
+type: node
 latitude: 33.34775
 longitude: -111.98233
 postcode: "85044"
 city: Phoenix
-street: "East Elliot Road"
-housenumber: 4747
-phone: "+1 480-496-0076"
+street: East Elliot Road
+housenumber: "4747"
+phone: +1 480-496-0076
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/4747-e-elliot-rd.html"
+website: https://local.safeway.com/safeway/az/phoenix/4747-e-elliot-rd.html

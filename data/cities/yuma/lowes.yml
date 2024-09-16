@@ -1,11 +1,11 @@
 id: 240295837
-type: way
+type: node
 latitude: 32.66809
 longitude: -114.62204
 postcode: "85364"
 city: Yuma
-street: "West 32nd Street"
-housenumber: 115
-phone: "+1 928-317-0119"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-yuma/1082"
+street: West 32nd Street
+housenumber: "115"
+phone: +1 928-317-0119
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-yuma/1082

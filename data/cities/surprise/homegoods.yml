@@ -1,11 +1,11 @@
 id: 1157119053
-type: way
+type: node
 latitude: 33.60781
 longitude: -112.41688
 postcode: "85388"
 city: Surprise
-street: "North Prasada Parkway"
-housenumber: 13560
-phone: "+1 520-527-5477"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/us/store/stores/Surprise-AZ-85388/1136/aboutstore"
+street: North Prasada Parkway
+housenumber: "13560"
+phone: +1 520-527-5477
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/us/store/stores/Surprise-AZ-85388/1136/aboutstore

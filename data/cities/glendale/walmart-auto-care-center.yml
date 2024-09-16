@@ -1,11 +1,11 @@
 id: 575377055
-type: way
+type: node
 latitude: 33.65141
 longitude: -112.23402
 postcode: "85308"
 city: Glendale
-street: "North 83rd Avenue"
-housenumber: 18551
+street: North 83rd Avenue
+housenumber: "18551"
 phone: ""
 opening_hours: ""
 website: ""

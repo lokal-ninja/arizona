@@ -1,11 +1,11 @@
 id: 548034889
-type: way
+type: node
 latitude: 33.30528
 longitude: -111.87731
 postcode: "85224"
 city: Chandler
-street: "North Dobson Road"
-housenumber: 180
-phone: "+1-480-812-0149"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/chandler-az-pharmacies/180-n-dobson-rd-chandler-and-dobson-chandler-az-85224/storeid=9283"
+street: North Dobson Road
+housenumber: "180"
+phone: +1-480-812-0149
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/chandler-az-pharmacies/180-n-dobson-rd-chandler-and-dobson-chandler-az-85224/storeid=9283

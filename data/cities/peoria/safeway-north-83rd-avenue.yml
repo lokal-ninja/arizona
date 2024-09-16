@@ -1,11 +1,11 @@
 id: 922298210
-type: way
+type: node
 latitude: 33.59624
 longitude: -112.23963
 postcode: "85381"
 city: Peoria
-street: "North 83rd Avenue"
-housenumber: 12320
-phone: "+1 623-773-1109"
+street: North 83rd Avenue
+housenumber: "12320"
+phone: +1 623-773-1109
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/peoria/12320-n-83rd-ave.html"
+website: https://local.safeway.com/safeway/az/peoria/12320-n-83rd-ave.html

@@ -1,11 +1,11 @@
 id: 231612995
-type: way
+type: node
 latitude: 33.39264
 longitude: -112.12958
 postcode: "85041"
 city: Phoenix
-street: "West Southern Avenue"
-housenumber: 3310
+street: West Southern Avenue
+housenumber: "3310"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-3667.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-3667.html

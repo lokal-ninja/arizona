@@ -4,8 +4,8 @@ latitude: 33.44782
 longitude: -112.07295
 postcode: ""
 city: Phoenix
-street: "East Washington Street"
-housenumber: 1
+street: East Washington Street
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00
 website: ""

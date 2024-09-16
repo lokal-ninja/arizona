@@ -1,11 +1,11 @@
 id: 145087730
-type: way
+type: node
 latitude: 35.23867
 longitude: -114.03615
 postcode: "86401"
 city: Kingman
-street: "Stockton Hill Road"
-housenumber: 3970
-phone: "+1 928-681-4900"
+street: Stockton Hill Road
+housenumber: "3970"
+phone: +1 928-681-4900
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/kingman/3970-stockton-hill-rd.html"
+website: https://local.safeway.com/safeway/az/kingman/3970-stockton-hill-rd.html

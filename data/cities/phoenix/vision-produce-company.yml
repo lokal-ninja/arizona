@@ -1,11 +1,11 @@
 id: 130280871
-type: way
+type: node
 latitude: 33.45957
 longitude: -112.20938
 postcode: "85043"
 city: Phoenix
-street: "North 71st Avenue"
-housenumber: 1055
+street: North 71st Avenue
+housenumber: "1055"
 phone: ""
 opening_hours: ""
 website: ""

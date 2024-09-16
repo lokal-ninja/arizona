@@ -1,11 +1,11 @@
 id: 980239207
-type: way
+type: node
 latitude: 33.30769
 longitude: -111.89038
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 2820
-phone: "480-782-1332"
+street: West Chandler Boulevard
+housenumber: "2820"
+phone: 480-782-1332
 opening_hours: ""
-website: "https://www.conns.com/az/chandler/2820-w-chandler-blvd-85224"
+website: https://www.conns.com/az/chandler/2820-w-chandler-blvd-85224

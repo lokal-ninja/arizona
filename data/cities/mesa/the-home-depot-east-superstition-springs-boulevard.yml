@@ -1,11 +1,11 @@
 id: 878437600
-type: way
+type: node
 latitude: 33.38575
 longitude: -111.68403
 postcode: "85209"
 city: Mesa
-street: "East Superstition Springs Boulevard"
-housenumber: 6838
-phone: "+1 480-981-6405"
-opening_hours: "Mo-Sa 05:30-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/superstition/az/mesa/85209/456"
+street: East Superstition Springs Boulevard
+housenumber: "6838"
+phone: +1 480-981-6405
+opening_hours: Mo-Sa 05:30-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/superstition/az/mesa/85209/456

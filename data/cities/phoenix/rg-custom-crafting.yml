@@ -1,11 +1,11 @@
 id: 152640492
-type: way
+type: node
 latitude: 33.47142
 longitude: -112.11025
 postcode: "85009"
 city: Phoenix
-street: "West Cypress Street"
-housenumber: 2343
+street: West Cypress Street
+housenumber: "2343"
 phone: ""
 opening_hours: ""
 website: ""

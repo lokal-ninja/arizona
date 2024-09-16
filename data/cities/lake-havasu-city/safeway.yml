@@ -1,11 +1,11 @@
 id: 635150559
-type: way
+type: node
 latitude: 34.47409
 longitude: -114.34247
 postcode: "86403"
 city: Lake Havasu City
-street: "McCulloch Boulevard North"
-housenumber: 1650
-phone: "+1 928-855-7760"
+street: McCulloch Boulevard North
+housenumber: "1650"
+phone: +1 928-855-7760
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/lake-havasu-city/1650-mcculloch-blvd-n.html"
+website: https://local.safeway.com/safeway/az/lake-havasu-city/1650-mcculloch-blvd-n.html

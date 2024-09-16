@@ -1,11 +1,11 @@
 id: 130102501
-type: way
+type: node
 latitude: 33.4639
 longitude: -112.15255
 postcode: "85009"
 city: Phoenix
-street: "North 43rd Avenue"
-housenumber: 1450
-phone: "602-353-0591"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.smartandfinal.com/stores/phoenix-n-43rd-ave-499/8058"
+street: North 43rd Avenue
+housenumber: "1450"
+phone: 602-353-0591
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.smartandfinal.com/stores/phoenix-n-43rd-ave-499/8058

@@ -1,11 +1,11 @@
 id: 409043875
-type: way
+type: node
 latitude: 33.39475
 longitude: -111.85694
 postcode: "85210"
 city: Mesa
-street: "West Southern Avenue"
-housenumber: 1150
-phone: "+1-480-500-5006"
+street: West Southern Avenue
+housenumber: "1150"
+phone: +1-480-500-5006
 opening_hours: ""
-website: "https://www.bigotires.com/location/az-mesa-85210/004238"
+website: https://www.bigotires.com/location/az-mesa-85210/004238

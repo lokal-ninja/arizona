@@ -1,11 +1,11 @@
 id: 309663703
-type: way
+type: node
 latitude: 33.61369
 longitude: -111.91291
 postcode: "85260"
 city: Scottsdale
-street: "East Redfield Road"
-housenumber: 7755
+street: East Redfield Road
+housenumber: "7755"
 phone: ""
 opening_hours: ""
 website: ""

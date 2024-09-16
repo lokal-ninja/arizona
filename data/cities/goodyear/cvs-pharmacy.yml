@@ -1,11 +1,11 @@
 id: 685506854
-type: way
+type: node
 latitude: 33.47833
 longitude: -112.34198
 postcode: "85395"
 city: Goodyear
-street: "North Dysart Road"
-housenumber: 2840
+street: North Dysart Road
+housenumber: "2840"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/goodyear-az-pharmacies/2840-n-dysart-rd-goodyear-az-85395/storeid=3749"
+website: https://www.cvs.com/store-locator/goodyear-az-pharmacies/2840-n-dysart-rd-goodyear-az-85395/storeid=3749

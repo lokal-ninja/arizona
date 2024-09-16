@@ -1,11 +1,11 @@
 id: 378017037
-type: way
+type: node
 latitude: 32.35521
 longitude: -111.08893
 postcode: "85743"
 city: Tucson
-street: "West Arizona Pavilions Drive"
-housenumber: 5850
-phone: "+1 520-572-6890"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/tucson-685.shtml"
+street: West Arizona Pavilions Drive
+housenumber: "5850"
+phone: +1 520-572-6890
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/tucson-685.shtml

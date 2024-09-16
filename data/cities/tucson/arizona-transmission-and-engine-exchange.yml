@@ -1,11 +1,11 @@
 id: 1011566069
-type: way
+type: node
 latitude: 32.16522
 longitude: -110.92725
 postcode: "85714"
 city: Tucson
-street: "S Country Club Rd"
-housenumber: 4800
-phone: "+1 520-295-1392"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.aztranny.com/"
+street: S Country Club Rd
+housenumber: "4800"
+phone: +1 520-295-1392
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.aztranny.com/

@@ -1,11 +1,11 @@
 id: 496725692
-type: way
+type: node
 latitude: 31.55524
 longitude: -110.27964
 postcode: "85635"
 city: Sierra Vista
-street: "East Fry Boulevard"
-housenumber: 1725
+street: East Fry Boulevard
+housenumber: "1725"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/sierravista/autoparts-3090.html"
+website: https://locations.oreillyauto.com/az/sierravista/autoparts-3090.html

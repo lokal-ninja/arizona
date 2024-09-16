@@ -1,11 +1,11 @@
 id: 1106477145
-type: way
+type: node
 latitude: 33.21739
 longitude: -111.79138
 postcode: "85249"
 city: Chandler
-street: "East Riggs Road"
-housenumber: 2935
-phone: "+1 480-802-1970"
+street: East Riggs Road
+housenumber: "2935"
+phone: +1 480-802-1970
 opening_hours: ""
-website: "https://local.albertsons.com/az/chandler/2935-e-riggs-rd.html"
+website: https://local.albertsons.com/az/chandler/2935-e-riggs-rd.html

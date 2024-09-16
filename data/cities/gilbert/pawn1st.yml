@@ -1,11 +1,11 @@
 id: 257051269
-type: way
+type: node
 latitude: 33.36565
 longitude: -111.79074
 postcode: "85234"
 city: Gilbert
-street: "North Gilbert Road"
-housenumber: 848
+street: North Gilbert Road
+housenumber: "848"
 phone: ""
 opening_hours: ""
 website: ""

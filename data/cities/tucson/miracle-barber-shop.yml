@@ -1,11 +1,11 @@
 id: 444351465
-type: way
+type: node
 latitude: 32.25338
 longitude: -110.97789
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2580
+street: North Oracle Road
+housenumber: "2580"
 phone: ""
 opening_hours: ""
 website: ""

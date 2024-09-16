@@ -1,11 +1,11 @@
 id: 1226638032
-type: way
+type: node
 latitude: 33.46232
 longitude: -112.17515
 postcode: "85043"
 city: Phoenix
-street: "North 54th Avenue"
-housenumber: 1239
+street: North 54th Avenue
+housenumber: "1239"
 phone: ""
 opening_hours: ""
 website: ""

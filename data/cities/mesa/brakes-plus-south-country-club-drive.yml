@@ -1,11 +1,11 @@
 id: 630354352
-type: way
+type: node
 latitude: 33.3792
 longitude: -111.84044
 postcode: "85210"
 city: Mesa
-street: "South Country Club Drive"
-housenumber: 1961
-phone: "+1-480-969-9001"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: South Country Club Drive
+housenumber: "1961"
+phone: +1-480-969-9001
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.brakesplus.com

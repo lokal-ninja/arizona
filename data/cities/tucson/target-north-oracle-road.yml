@@ -1,11 +1,11 @@
 id: 229948926
-type: way
+type: node
 latitude: 32.28082
 longitude: -110.9767
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 4040
-phone: "+1 (520) 202-1501"
-opening_hours: "Mo-Sa 08:00-00:00; Su 08:00-23:00"
-website: "https://www.target.com/sl/tucson-north/2140"
+street: North Oracle Road
+housenumber: "4040"
+phone: +1 (520) 202-1501
+opening_hours: Mo-Sa 08:00-00:00; Su 08:00-23:00
+website: https://www.target.com/sl/tucson-north/2140

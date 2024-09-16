@@ -1,11 +1,11 @@
 id: 937361734
-type: way
+type: node
 latitude: 33.39327
 longitude: -111.94319
 postcode: "85282"
 city: Tempe
-street: "West Southern Avenue"
-housenumber: 242
+street: West Southern Avenue
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

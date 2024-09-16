@@ -1,11 +1,11 @@
 id: 510167786
-type: way
+type: node
 latitude: 33.3886
 longitude: -111.69995
 postcode: "85206"
 city: Mesa
-street: "East Auto Loop Avenue"
-housenumber: 6136
+street: East Auto Loop Avenue
+housenumber: "6136"
 phone: ""
 opening_hours: ""
 website: ""

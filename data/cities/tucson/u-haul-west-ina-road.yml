@@ -1,11 +1,11 @@
 id: 816705754
-type: way
+type: node
 latitude: 32.33817
 longitude: -111.05206
 postcode: "85741"
 city: Tucson
-street: "West Ina Road"
-housenumber: 4040
+street: West Ina Road
+housenumber: "4040"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 214485217
-type: way
+type: node
 latitude: 33.41873
 longitude: -112.01345
 postcode: "85034"
 city: Phoenix
-street: "East Elwood Street"
-housenumber: 3138
+street: East Elwood Street
+housenumber: "3138"
 phone: ""
 opening_hours: ""
 website: ""

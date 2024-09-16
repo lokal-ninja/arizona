@@ -1,11 +1,11 @@
 id: 123918290
-type: way
+type: node
 latitude: 33.4523
 longitude: -112.15566
 postcode: "85043"
 city: Phoenix
-street: "North 45th Avenue"
-housenumber: 301
+street: North 45th Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

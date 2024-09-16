@@ -1,11 +1,11 @@
 id: 810337775
-type: way
+type: node
 latitude: 33.3362
 longitude: -111.8059
 postcode: "85233"
 city: Gilbert
-street: "South Cooper Road"
-housenumber: 785
+street: South Cooper Road
+housenumber: "785"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-785+s+cooper+rd-gilbert-az-85233/id=3008"
+website: https://www.walgreens.com/locator/walgreens-785+s+cooper+rd-gilbert-az-85233/id=3008

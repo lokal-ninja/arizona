@@ -1,11 +1,11 @@
 id: 71076567
-type: way
+type: node
 latitude: 33.61153
 longitude: -111.99393
 postcode: "85032"
 city: Phoenix
-street: "East Thunderbird Road"
-housenumber: 4025
-phone: "+1 602-953-1615"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/40th-st-thunderbird/660/00121"
+street: East Thunderbird Road
+housenumber: "4025"
+phone: +1 602-953-1615
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/40th-st-thunderbird/660/00121

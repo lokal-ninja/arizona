@@ -1,11 +1,11 @@
 id: 1013256345
-type: way
+type: node
 latitude: 33.62168
 longitude: -112.42585
 postcode: "85388"
 city: Surprise
-street: "West Custer Lane"
-housenumber: 17050
-phone: "+1 623-546-0224"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Surprise-AZ-85388_2479"
+street: West Custer Lane
+housenumber: "17050"
+phone: +1 623-546-0224
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Surprise-AZ-85388_2479

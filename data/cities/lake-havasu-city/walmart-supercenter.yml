@@ -1,11 +1,11 @@
 id: 263938652
-type: way
+type: node
 latitude: 34.5725
 longitude: -114.36806
 postcode: "86404"
 city: Lake Havasu City
-street: "Highway 95 North"
-housenumber: 5695
-phone: "+1 928-764-3700"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1364/lake-havasu%20city-az/whats-new"
+street: Highway 95 North
+housenumber: "5695"
+phone: +1 928-764-3700
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1364/lake-havasu%20city-az/whats-new

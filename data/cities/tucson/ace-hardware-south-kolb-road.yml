@@ -1,11 +1,11 @@
 id: 573328537
-type: way
+type: node
 latitude: 32.20747
 longitude: -110.84185
 postcode: "85710"
 city: Tucson
-street: "South Kolb Road"
-housenumber: 1120
+street: South Kolb Road
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 778414517
-type: way
+type: node
 latitude: 33.40536
 longitude: -111.94437
 postcode: "85282"
 city: Tempe
-street: "South Wilson Street"
-housenumber: 2115
+street: South Wilson Street
+housenumber: "2115"
 phone: ""
 opening_hours: ""
 website: ""

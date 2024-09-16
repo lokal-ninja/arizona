@@ -4,8 +4,8 @@ latitude: 32.1336
 longitude: -111.00021
 postcode: "85711"
 city: Tucson
-street: "West Valencia Road"
-housenumber: 1610
-phone: "520-829-5552"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.cox.com/"
+street: West Valencia Road
+housenumber: "1610"
+phone: 520-829-5552
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.cox.com/

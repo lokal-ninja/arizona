@@ -1,11 +1,11 @@
 id: 155739336
-type: way
+type: node
 latitude: 33.66155
 longitude: -112.11591
 postcode: "85027"
 city: Phoenix
-street: "North 27th Avenue"
-housenumber: 19205
+street: North 27th Avenue
+housenumber: "19205"
 phone: ""
 opening_hours: ""
 website: ""

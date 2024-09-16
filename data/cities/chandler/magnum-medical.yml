@@ -1,11 +1,11 @@
 id: 827959323
-type: way
+type: node
 latitude: 33.35317
 longitude: -111.83396
 postcode: "85225"
 city: Chandler
-street: "North Nevada Street"
-housenumber: 3265
+street: North Nevada Street
+housenumber: "3265"
 phone: ""
 opening_hours: ""
 website: ""

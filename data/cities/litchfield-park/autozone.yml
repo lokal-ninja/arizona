@@ -1,11 +1,11 @@
 id: 990965661
-type: way
+type: node
 latitude: 33.50691
 longitude: -112.33864
 postcode: "85340"
 city: Litchfield Park
-street: "West Camelback Road"
-housenumber: 13007
+street: West Camelback Road
+housenumber: "13007"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/litchfield-park/13007-w-camelback.html"
+website: https://www.autozone.com/locations/az/litchfield-park/13007-w-camelback.html

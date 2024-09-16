@@ -1,11 +1,11 @@
 id: 129820012
-type: way
+type: node
 latitude: 33.46408
 longitude: -112.24815
 postcode: "85353"
 city: Tolleson
-street: "West McDowell Road"
-housenumber: 8701
+street: West McDowell Road
+housenumber: "8701"
 phone: ""
 opening_hours: ""
 website: ""

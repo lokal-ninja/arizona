@@ -1,11 +1,11 @@
 id: 1003826200
-type: way
+type: node
 latitude: 33.43798
 longitude: -111.7027
 postcode: "85205"
 city: Mesa
-street: "East Brown Road"
-housenumber: 5940
+street: East Brown Road
+housenumber: "5940"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/mesa/autoparts-3021.html"
+website: https://locations.oreillyauto.com/az/mesa/autoparts-3021.html

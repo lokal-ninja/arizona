@@ -1,11 +1,11 @@
 id: 387038317
-type: way
+type: node
 latitude: 32.40034
 longitude: -110.95904
 postcode: "85737"
 city: Oro Valley
-street: "North Oracle Road"
-housenumber: 10595
+street: North Oracle Road
+housenumber: "10595"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/az/oro-valley/officemax-6699/"
+website: https://www.officedepot.com/storelocator/az/oro-valley/officemax-6699/

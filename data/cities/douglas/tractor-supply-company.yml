@@ -1,11 +1,11 @@
 id: 505101831
-type: way
+type: node
 latitude: 31.34244
 longitude: -109.56701
 postcode: "85607"
 city: Douglas
-street: "West 9th Street"
-housenumber: 215
-phone: "+1 520-364-6181"
-opening_hours: "Mo, We-Sa 08:00-21:00; Tu 08:00-18:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/"
+street: West 9th Street
+housenumber: "215"
+phone: +1 520-364-6181
+opening_hours: Mo, We-Sa 08:00-21:00; Tu 08:00-18:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/

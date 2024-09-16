@@ -1,11 +1,11 @@
 id: 259078794
-type: way
+type: node
 latitude: 33.63974
 longitude: -112.08191
 postcode: "85023"
 city: Phoenix
-street: "West Bell Road"
-housenumber: 617
+street: West Bell Road
+housenumber: "617"
 phone: ""
 opening_hours: ""
 website: ""

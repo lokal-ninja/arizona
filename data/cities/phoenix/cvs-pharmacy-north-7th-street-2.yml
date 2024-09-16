@@ -1,11 +1,11 @@
 id: 714351914
-type: way
+type: node
 latitude: 33.65435
 longitude: -112.06633
 postcode: "85022"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 18460
+street: North 7th Street
+housenumber: "18460"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/18460-n-7th-st-phoenix-az-85022/storeid=7262"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/18460-n-7th-st-phoenix-az-85022/storeid=7262

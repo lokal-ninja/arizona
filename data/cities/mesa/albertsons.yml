@@ -1,11 +1,11 @@
 id: 337863712
-type: way
+type: node
 latitude: 33.37765
 longitude: -111.63422
 postcode: "85209"
 city: Mesa
-street: "East Baseline Road"
-housenumber: 9243
-phone: "+1 480-986-3060"
+street: East Baseline Road
+housenumber: "9243"
+phone: +1 480-986-3060
 opening_hours: ""
-website: "https://local.albertsons.com/az/mesa/9243-e-baseline-rd.html"
+website: https://local.albertsons.com/az/mesa/9243-e-baseline-rd.html

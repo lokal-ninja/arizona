@@ -1,11 +1,11 @@
 id: 871714499
-type: way
+type: node
 latitude: 33.42593
 longitude: -111.8961
 postcode: "85281"
 city: Tempe
-street: "East 5th Street"
-housenumber: 2114
+street: East 5th Street
+housenumber: "2114"
 phone: ""
 opening_hours: ""
 website: ""

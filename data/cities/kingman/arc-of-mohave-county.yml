@@ -1,11 +1,11 @@
 id: 1017036634
-type: way
+type: node
 latitude: 35.22415
 longitude: -114.0304
 postcode: "86409"
 city: Kingman
-street: "Airway Avenue"
-housenumber: 2050
-phone: "+1-928-757-4858"
-opening_hours: "Mo-Sa 09:00-15:00"
-website: "https://mohavecountyarc.org/"
+street: Airway Avenue
+housenumber: "2050"
+phone: +1-928-757-4858
+opening_hours: Mo-Sa 09:00-15:00
+website: https://mohavecountyarc.org/

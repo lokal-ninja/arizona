@@ -1,11 +1,11 @@
 id: 544841868
-type: way
+type: node
 latitude: 33.24531
 longitude: -111.8448
 postcode: "85248"
 city: Chandler
-street: "South Arizona Avenue"
-housenumber: 4220
+street: South Arizona Avenue
+housenumber: "4220"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/az/chandler/4258/"
+website: https://www.dollartree.com/locations/az/chandler/4258/

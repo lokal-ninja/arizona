@@ -1,11 +1,11 @@
 id: 207916454
-type: way
+type: node
 latitude: 32.94634
 longitude: -112.72418
 postcode: "85337"
 city: Gila Bend
-street: "West Pima Road"
-housenumber: 500
+street: West Pima Road
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

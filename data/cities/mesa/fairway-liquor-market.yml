@@ -1,11 +1,11 @@
 id: 169651992
-type: way
+type: node
 latitude: 33.43566
 longitude: -111.83907
 postcode: "85201"
 city: Mesa
-street: "West Brown Road"
-housenumber: 340
+street: West Brown Road
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

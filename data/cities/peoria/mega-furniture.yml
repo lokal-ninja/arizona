@@ -1,11 +1,11 @@
 id: 401372641
-type: way
+type: node
 latitude: 33.5806
 longitude: -112.20496
 postcode: "85345"
 city: Peoria
-street: "West Peoria Avenue"
-housenumber: 6815
+street: West Peoria Avenue
+housenumber: "6815"
 phone: ""
 opening_hours: ""
-website: "https://megafurnitureusa.com/"
+website: https://megafurnitureusa.com/

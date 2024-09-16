@@ -1,11 +1,11 @@
 id: 1007561366
-type: way
+type: node
 latitude: 32.16479
 longitude: -110.94141
 postcode: "85714"
 city: Tucson
-street: "East Irvington Road"
-housenumber: 2031
+street: East Irvington Road
+housenumber: "2031"
 phone: ""
 opening_hours: ""
 website: ""

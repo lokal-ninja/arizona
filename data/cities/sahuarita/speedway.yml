@@ -1,11 +1,11 @@
 id: 740818143
-type: way
+type: node
 latitude: 31.95727
 longitude: -110.98269
 postcode: "85629"
 city: Sahuarita
-street: "West Sahuarita Road"
-housenumber: 795
+street: West Sahuarita Road
+housenumber: "795"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Sahuarita/795-W-Via-Rancho-Sahuarita"
+website: https://www.speedway.com/locations/AZ/Sahuarita/795-W-Via-Rancho-Sahuarita

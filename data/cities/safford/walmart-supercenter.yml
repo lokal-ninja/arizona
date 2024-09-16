@@ -1,11 +1,11 @@
 id: 134368368
-type: way
+type: node
 latitude: 32.83346
 longitude: -109.73074
 postcode: "85546"
 city: Safford
-street: "South 20th Avenue"
-housenumber: 755
-phone: "+1 928-428-7990"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1149/safford-az/whats-new"
+street: South 20th Avenue
+housenumber: "755"
+phone: +1 928-428-7990
+opening_hours: 24/7
+website: https://www.walmart.com/store/1149/safford-az/whats-new

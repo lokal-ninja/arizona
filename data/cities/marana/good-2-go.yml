@@ -1,11 +1,11 @@
 id: 456131031
-type: way
+type: node
 latitude: 32.358
 longitude: -111.09213
 postcode: "85653"
 city: Marana
-street: "North Cortaro Road"
-housenumber: 8333
-phone: "520-744-4611"
+street: North Cortaro Road
+housenumber: "8333"
+phone: 520-744-4611
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1189453888
-type: way
+type: node
 latitude: 33.60663
 longitude: -112.4135
 postcode: "85388"
 city: Surprise
-street: "West Alexandria Way"
-housenumber: 16470
+street: West Alexandria Way
+housenumber: "16470"
 phone: ""
 opening_hours: ""
-website: "https://chwinery.com/locations/arizona/surprise-az"
+website: https://chwinery.com/locations/arizona/surprise-az

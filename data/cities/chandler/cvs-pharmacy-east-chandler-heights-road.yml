@@ -1,11 +1,11 @@
 id: 1081953139
-type: way
+type: node
 latitude: 33.2332
 longitude: -111.79038
 postcode: "85249"
 city: Chandler
-street: "East Chandler Heights Road"
-housenumber: 2995
-phone: "+1-480-895-8369"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/chandler-az-pharmacies/2995-e-chandler-heights-rd-chandler-az-85249/storeid=7075"
+street: East Chandler Heights Road
+housenumber: "2995"
+phone: +1-480-895-8369
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/chandler-az-pharmacies/2995-e-chandler-heights-rd-chandler-az-85249/storeid=7075

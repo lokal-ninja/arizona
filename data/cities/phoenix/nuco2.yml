@@ -1,11 +1,11 @@
 id: 679176157
-type: way
+type: node
 latitude: 33.46253
 longitude: -112.0983
 postcode: "85007"
 city: Phoenix
-street: "West Spruce Street"
-housenumber: 1810
+street: West Spruce Street
+housenumber: "1810"
 phone: ""
 opening_hours: ""
 website: ""

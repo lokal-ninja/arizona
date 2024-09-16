@@ -1,11 +1,11 @@
 id: 870984051
-type: way
+type: node
 latitude: 33.43252
 longitude: -111.90309
 postcode: "85281"
 city: Tempe
-street: "East Rio Salado Parkway"
-housenumber: 2010
+street: East Rio Salado Parkway
+housenumber: "2010"
 phone: ""
 opening_hours: ""
 website: ""

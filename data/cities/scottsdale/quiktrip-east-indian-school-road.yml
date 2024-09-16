@@ -1,11 +1,11 @@
 id: 975144189
-type: way
+type: node
 latitude: 33.49559
 longitude: -111.90796
 postcode: "85251"
 city: Scottsdale
-street: "East Indian School Road"
-housenumber: 8020
+street: East Indian School Road
+housenumber: "8020"
 phone: ""
 opening_hours: ""
 website: ""

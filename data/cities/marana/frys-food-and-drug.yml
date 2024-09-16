@@ -1,11 +1,11 @@
 id: 378027296
-type: way
+type: node
 latitude: 32.3504
 longitude: -111.10043
 postcode: "85743"
 city: Marana
-street: "North Silverbell Road"
-housenumber: 7870
-phone: "+1 520-744-7909"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/tucson/cortaro-silverbell/660/00057"
+street: North Silverbell Road
+housenumber: "7870"
+phone: +1 520-744-7909
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/tucson/cortaro-silverbell/660/00057

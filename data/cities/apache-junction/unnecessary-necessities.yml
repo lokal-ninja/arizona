@@ -1,11 +1,11 @@
 id: 256379760
-type: way
+type: node
 latitude: 33.41337
 longitude: -111.55255
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 565
+street: West Apache Trail
+housenumber: "565"
 phone: ""
 opening_hours: ""
-website: "https://www.jokeitem.com/"
+website: https://www.jokeitem.com/

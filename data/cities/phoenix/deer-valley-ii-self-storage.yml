@@ -1,11 +1,11 @@
 id: 298343034
-type: way
+type: node
 latitude: 33.67251
 longitude: -112.10027
 postcode: "85027"
 city: Phoenix
-street: "North 19th Avenue"
-housenumber: 
+street: North 19th Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

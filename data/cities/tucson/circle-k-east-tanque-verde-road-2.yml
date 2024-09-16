@@ -1,11 +1,11 @@
 id: 880042715
-type: way
+type: node
 latitude: 32.25178
 longitude: -110.75189
 postcode: "85749"
 city: Tucson
-street: "East Tanque Verde Road"
-housenumber: 11271
+street: East Tanque Verde Road
+housenumber: "11271"
 phone: ""
 opening_hours: ""
 website: ""

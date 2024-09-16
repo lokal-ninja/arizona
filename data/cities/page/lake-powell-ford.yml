@@ -1,11 +1,11 @@
 id: 217395162
-type: way
+type: node
 latitude: 36.90616
 longitude: -111.47462
 postcode: "86040"
 city: Page
-street: "South Lake Powell Boulevard"
-housenumber: 619
+street: South Lake Powell Boulevard
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

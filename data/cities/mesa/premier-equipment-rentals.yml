@@ -1,11 +1,11 @@
 id: 313029631
-type: way
+type: node
 latitude: 33.44583
 longitude: -111.73092
 postcode: "85205"
 city: Mesa
-street: "North 46th Street"
-housenumber: 1645
+street: North 46th Street
+housenumber: "1645"
 phone: ""
 opening_hours: ""
 website: ""

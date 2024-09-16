@@ -1,11 +1,11 @@
 id: 1160730595
-type: way
+type: node
 latitude: 33.49299
 longitude: -112.2896
 postcode: "85392"
 city: Avondale
-street: "North 107th Avenue"
-housenumber: 3925
+street: North 107th Avenue
+housenumber: "3925"
 phone: ""
 opening_hours: ""
 website: ""

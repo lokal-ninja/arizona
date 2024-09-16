@@ -1,11 +1,11 @@
 id: 963308127
-type: way
+type: node
 latitude: 33.64011
 longitude: -112.21658
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 7320
-phone: "+1 623-562-3700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/glendale/5138"
+street: West Bell Road
+housenumber: "7320"
+phone: +1 623-562-3700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/glendale/5138

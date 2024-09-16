@@ -1,11 +1,11 @@
 id: 900613152
-type: way
+type: node
 latitude: 33.2653
 longitude: -111.75768
 postcode: "85297"
 city: Gilbert
-street: "South Val Vista Drive"
-housenumber: 4700
+street: South Val Vista Drive
+housenumber: "4700"
 phone: ""
 opening_hours: ""
 website: ""

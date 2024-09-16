@@ -1,11 +1,11 @@
 id: 341357171
-type: way
+type: node
 latitude: 32.2526
 longitude: -109.83315
 postcode: "85643"
 city: Willcox
-street: "West Maley Street"
-housenumber: 124
-phone: "+1 520 766 2276"
+street: West Maley Street
+housenumber: "124"
+phone: +1 520 766 2276
 opening_hours: ""
 website: ""

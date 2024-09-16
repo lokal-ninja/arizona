@@ -4,8 +4,8 @@ latitude: 33.41357
 longitude: -111.60198
 postcode: "85120"
 city: Mesa
-street: "East Main Street"
-housenumber: 10603
-phone: "+1 480-984-7161"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/az/apache-junction/10603-e-apache-trail"
+street: East Main Street
+housenumber: "10603"
+phone: +1 480-984-7161
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/az/apache-junction/10603-e-apache-trail

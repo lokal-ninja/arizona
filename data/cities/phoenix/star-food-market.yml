@@ -1,11 +1,11 @@
 id: 223467683
-type: way
+type: node
 latitude: 33.5664
 longitude: -112.05636
 postcode: "85020"
 city: Phoenix
-street: "North 12th Street"
-housenumber: 8911
+street: North 12th Street
+housenumber: "8911"
 phone: ""
 opening_hours: ""
 website: ""

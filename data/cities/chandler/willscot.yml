@@ -1,11 +1,11 @@
 id: 828291399
-type: way
+type: node
 latitude: 33.3325
 longitude: -111.83657
 postcode: ""
 city: Chandler
-street: "North Delaware Street"
-housenumber: 1775
+street: North Delaware Street
+housenumber: "1775"
 phone: ""
 opening_hours: ""
-website: "https://www.willscot.com/locations/phoenix"
+website: https://www.willscot.com/locations/phoenix

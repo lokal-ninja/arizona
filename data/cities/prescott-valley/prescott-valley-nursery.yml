@@ -1,11 +1,11 @@
 id: 1243224821
-type: way
+type: node
 latitude: 34.579
 longitude: -112.35645
 postcode: "86314"
 city: Prescott Valley
-street: "E Hwy 69"
-housenumber: 6195
+street: E Hwy 69
+housenumber: "6195"
 phone: ""
 opening_hours: ""
 website: ""

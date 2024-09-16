@@ -1,11 +1,11 @@
 id: 470841068
-type: way
+type: node
 latitude: 33.37926
 longitude: -111.86016
 postcode: "85202"
 city: Mesa
-street: "West Baseline Road"
-housenumber: 1214
-phone: "(480) 576-8080"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: West Baseline Road
+housenumber: "1214"
+phone: (480) 576-8080
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

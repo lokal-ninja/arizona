@@ -1,11 +1,11 @@
 id: 65715375
-type: way
+type: node
 latitude: 33.5075
 longitude: -112.06519
 postcode: "85014"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 4802
-phone: "602.626.7297"
-opening_hours: "Mo-Sa 11:00-21:00; Su 11:00-19:00"
-website: "https://goldenruletattoo.com/"
+street: North 7th Street
+housenumber: "4802"
+phone: 602.626.7297
+opening_hours: Mo-Sa 11:00-21:00; Su 11:00-19:00
+website: https://goldenruletattoo.com/

@@ -1,11 +1,11 @@
 id: 491793458
-type: way
+type: node
 latitude: 33.41308
 longitude: -111.84944
 postcode: "85210"
 city: Mesa
-street: "South Extension Road"
-housenumber: 120
-phone: "+1 602 513 5902"
-opening_hours: "Mo-Sa 08:00-17:00; Su 08:00-16:00"
-website: "https://www.mypickapart.com/"
+street: South Extension Road
+housenumber: "120"
+phone: +1 602 513 5902
+opening_hours: Mo-Sa 08:00-17:00; Su 08:00-16:00
+website: https://www.mypickapart.com/

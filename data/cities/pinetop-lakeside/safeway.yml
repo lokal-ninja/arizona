@@ -1,11 +1,11 @@
 id: 230763982
-type: way
+type: node
 latitude: 34.14324
 longitude: -109.95477
 postcode: "85935"
 city: Pinetop-Lakeside
-street: "West White Mountain Boulevard"
-housenumber: 20
-phone: "+1 928-367-6677"
+street: West White Mountain Boulevard
+housenumber: "20"
+phone: +1 928-367-6677
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/pinetop-lakeside/20-w-white-mountain-blvd.html"
+website: https://local.safeway.com/safeway/az/pinetop-lakeside/20-w-white-mountain-blvd.html

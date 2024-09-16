@@ -1,11 +1,11 @@
 id: 95436912
-type: way
+type: node
 latitude: 33.46389
 longitude: -112.21847
 postcode: "85035"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 7333
-phone: "+1 623-849-1200"
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/mcdowell/az/phoenix/85035/455"
+street: West McDowell Road
+housenumber: "7333"
+phone: +1 623-849-1200
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/mcdowell/az/phoenix/85035/455

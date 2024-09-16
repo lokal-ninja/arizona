@@ -1,11 +1,11 @@
 id: 241863720
-type: way
+type: node
 latitude: 33.67147
 longitude: -112.18649
 postcode: "85308"
 city: Glendale
-street: "North 59th Avenue"
-housenumber: 20389
+street: North 59th Avenue
+housenumber: "20389"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/glendale/autoparts-3455.html"
+website: https://locations.oreillyauto.com/az/glendale/autoparts-3455.html

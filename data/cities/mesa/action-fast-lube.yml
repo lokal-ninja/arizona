@@ -1,11 +1,11 @@
 id: 46684120
-type: way
+type: node
 latitude: 33.4201
 longitude: -111.75395
 postcode: "85213"
 city: Mesa
-street: "North Val Vista Drive"
-housenumber: 240
+street: North Val Vista Drive
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

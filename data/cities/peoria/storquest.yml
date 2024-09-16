@@ -1,11 +1,11 @@
 id: 684031333
-type: way
+type: node
 latitude: 33.56986
 longitude: -112.20511
 postcode: "85302"
 city: Peoria
-street: "North 67th Avenue"
-housenumber: 9240
+street: North 67th Avenue
+housenumber: "9240"
 phone: ""
 opening_hours: ""
 website: ""

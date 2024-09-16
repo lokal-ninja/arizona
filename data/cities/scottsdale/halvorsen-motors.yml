@@ -1,11 +1,11 @@
 id: 926763739
-type: way
+type: node
 latitude: 33.46632
 longitude: -111.92365
 postcode: "85257"
 city: Scottsdale
-street: "East McDowell Road"
-housenumber: 7300
+street: East McDowell Road
+housenumber: "7300"
 phone: ""
 opening_hours: ""
 website: ""

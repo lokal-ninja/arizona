@@ -1,11 +1,11 @@
 id: 551162234
-type: way
+type: node
 latitude: 32.33924
 longitude: -111.04628
 postcode: "85741"
 city: Tucson
-street: "West Ina Road"
-housenumber: 3770
-phone: "+1 520-744-2472"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/tucson/ina-thornydale/660/00036"
+street: West Ina Road
+housenumber: "3770"
+phone: +1 520-744-2472
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/tucson/ina-thornydale/660/00036

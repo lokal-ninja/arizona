@@ -1,11 +1,11 @@
 id: 630342292
-type: way
+type: node
 latitude: 33.37133
 longitude: -111.82431
 postcode: "85233"
 city: Gilbert
-street: "West San Pedro Street"
-housenumber: 1528
+street: West San Pedro Street
+housenumber: "1528"
 phone: ""
 opening_hours: ""
 website: ""

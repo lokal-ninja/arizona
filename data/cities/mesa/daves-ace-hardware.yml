@@ -1,11 +1,11 @@
 id: 804800294
-type: way
+type: node
 latitude: 33.46766
 longitude: -111.68537
 postcode: "85215"
 city: Mesa
-street: "North Power Road"
-housenumber: 2842
-phone: "+1 480-854-7000"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-17:00"
+street: North Power Road
+housenumber: "2842"
+phone: +1 480-854-7000
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-17:00
 website: ""

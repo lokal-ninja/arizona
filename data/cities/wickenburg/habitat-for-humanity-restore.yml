@@ -1,11 +1,11 @@
 id: 1239287327
-type: way
+type: node
 latitude: 33.96533
 longitude: -112.73444
 postcode: "85390"
 city: Wickenburg
-street: "West Center Street"
-housenumber: 370
-phone: "+1-928-684-2220"
-opening_hours: "Th-Fr 08:00-16:00; Sa 08:00-13:00; Su off"
-website: "https://habitatwickenburg.org/restore/restore-location-and-hours/"
+street: West Center Street
+housenumber: "370"
+phone: +1-928-684-2220
+opening_hours: Th-Fr 08:00-16:00; Sa 08:00-13:00; Su off
+website: https://habitatwickenburg.org/restore/restore-location-and-hours/

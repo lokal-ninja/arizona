@@ -1,11 +1,11 @@
 id: 819579178
-type: way
+type: node
 latitude: 33.37663
 longitude: -111.8245
 postcode: "85233"
 city: Gilbert
-street: "North McQueen Road"
-housenumber: 1465
+street: North McQueen Road
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

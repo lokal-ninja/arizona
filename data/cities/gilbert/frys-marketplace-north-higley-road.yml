@@ -1,11 +1,11 @@
 id: 838314814
-type: way
+type: node
 latitude: 33.37612
 longitude: -111.72045
 postcode: "85234"
 city: Gilbert
-street: "North Higley Road"
-housenumber: 1465
-phone: "+1 480-428-7180"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/gilbert/frys-marketplace-gilbert/660/00615"
+street: North Higley Road
+housenumber: "1465"
+phone: +1 480-428-7180
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/gilbert/frys-marketplace-gilbert/660/00615

@@ -1,11 +1,11 @@
 id: 934447526
-type: way
+type: node
 latitude: 33.39376
 longitude: -111.87642
 postcode: "85202"
 city: Mesa
-street: "West Southern Avenue"
-housenumber: 2060
+street: West Southern Avenue
+housenumber: "2060"
 phone: ""
 opening_hours: ""
 website: ""

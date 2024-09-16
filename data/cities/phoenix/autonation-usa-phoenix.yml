@@ -1,11 +1,11 @@
 id: 842273840
-type: way
+type: node
 latitude: 33.63923
 longitude: -112.11298
 postcode: "85023"
 city: Phoenix
-street: "North 26th Avenue"
-housenumber: 
-phone: "+1 480-944-4527"
+street: North 26th Avenue
+housenumber: ""
+phone: +1 480-944-4527
 opening_hours: ""
-website: "https://www.autonation.com/dealers/usa-phoenix-az-85023"
+website: https://www.autonation.com/dealers/usa-phoenix-az-85023

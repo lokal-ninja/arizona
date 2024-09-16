@@ -1,11 +1,11 @@
 id: 96326160
-type: way
+type: node
 latitude: 33.65219
 longitude: -111.92629
 postcode: "85054"
 city: Phoenix
-street: "North Scottsdale Road"
-housenumber: 18530
+street: North Scottsdale Road
+housenumber: "18530"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 966082845
-type: way
+type: node
 latitude: 33.33303
 longitude: -111.94837
 postcode: "85284"
 city: Tempe
-street: "West Warner Road"
-housenumber: 725
-phone: "+1 480-496-9700"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Tempe/AZ/Tempe/85284/458"
+street: West Warner Road
+housenumber: "725"
+phone: +1 480-496-9700
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Tempe/AZ/Tempe/85284/458

@@ -1,11 +1,11 @@
 id: 121045799
-type: way
+type: node
 latitude: 33.64258
 longitude: -112.22841
 postcode: "85308"
 city: Glendale
-street: "West Arrowhead Towne Center"
-housenumber: 7700
-phone: "+1-623 979-7777"
+street: West Arrowhead Towne Center
+housenumber: "7700"
+phone: +1-623 979-7777
 opening_hours: ""
-website: "https://www.arrowheadtownecenter.com/"
+website: https://www.arrowheadtownecenter.com/

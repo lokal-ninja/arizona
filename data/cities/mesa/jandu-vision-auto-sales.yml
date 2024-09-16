@@ -1,11 +1,11 @@
 id: 827230577
-type: way
+type: node
 latitude: 33.40662
 longitude: -111.83944
 postcode: "85210"
 city: Mesa
-street: "South Morris"
-housenumber: 444
+street: South Morris
+housenumber: "444"
 phone: ""
 opening_hours: ""
 website: ""

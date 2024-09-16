@@ -1,11 +1,11 @@
 id: 237599026
-type: way
+type: node
 latitude: 33.6291
 longitude: -111.90116
 postcode: "85260"
 city: Scottsdale
-street: "North 83rd Way"
-housenumber: 15690
-phone: "+1-480-387-5580"
+street: North 83rd Way
+housenumber: "15690"
+phone: +1-480-387-5580
 opening_hours: ""
 website: ""

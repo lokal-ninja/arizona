@@ -1,11 +1,11 @@
 id: 872128678
-type: way
+type: node
 latitude: 33.42753
 longitude: -111.90013
 postcode: "85281"
 city: Tempe
-street: "South Smith Road"
-housenumber: 227
+street: South Smith Road
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 444347787
-type: way
+type: node
 latitude: 32.25226
 longitude: -110.97909
 postcode: "85705"
 city: Tucson
-street: "West Alturas Street"
-housenumber: 426
+street: West Alturas Street
+housenumber: "426"
 phone: ""
 opening_hours: ""
-website: "https://marjonceramics.com/"
+website: https://marjonceramics.com/

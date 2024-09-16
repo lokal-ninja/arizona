@@ -1,11 +1,11 @@
 id: 296117546
-type: way
+type: node
 latitude: 33.64372
 longitude: -112.35749
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13770
-phone: "+1 623-544-2200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2777/surprise-az/whats-new"
+street: West Bell Road
+housenumber: "13770"
+phone: +1 623-544-2200
+opening_hours: 24/7
+website: https://www.walmart.com/store/2777/surprise-az/whats-new

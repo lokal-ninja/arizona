@@ -1,11 +1,11 @@
 id: 164936245
-type: way
+type: node
 latitude: 33.41481
 longitude: -111.55665
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 951
-phone: "+1 480 982 6654"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.gbiprinting.net/"
+street: West Apache Trail
+housenumber: "951"
+phone: +1 480 982 6654
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.gbiprinting.net/

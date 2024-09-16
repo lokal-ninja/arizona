@@ -1,11 +1,11 @@
 id: 28878276
-type: way
+type: node
 latitude: 33.41814
 longitude: -111.93213
 postcode: ""
 city: Tempe
-street: "East Orange Street"
-housenumber: 525
-phone: "+1 480 965 3191"
-opening_hours: "Mo-Th 08:30-18:00, Fr 08:30-16:30, Sa,Su 11:00-15:00"
-website: "https://www.bkstr.com/arizonastatestore/home"
+street: East Orange Street
+housenumber: "525"
+phone: +1 480 965 3191
+opening_hours: Mo-Th 08:30-18:00, Fr 08:30-16:30, Sa,Su 11:00-15:00
+website: https://www.bkstr.com/arizonastatestore/home

@@ -1,11 +1,11 @@
 id: 211707785
-type: way
+type: node
 latitude: 33.3853
 longitude: -111.60216
 postcode: "85209"
 city: Mesa
-street: "South Signal Butte Road"
-housenumber: 1632
-phone: "+1 480-357-5259"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/mesa-1073.shtml"
+street: South Signal Butte Road
+housenumber: "1632"
+phone: +1 480-357-5259
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/mesa-1073.shtml

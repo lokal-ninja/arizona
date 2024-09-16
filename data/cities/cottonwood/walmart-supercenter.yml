@@ -1,11 +1,11 @@
 id: 171061884
-type: way
+type: node
 latitude: 34.712
 longitude: -112.0018
 postcode: "86326"
 city: Cottonwood
-street: "East Rodeo Drive"
-housenumber: 2003
-phone: "+1 928-634-0444"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1299/cottonwood-az/whats-new"
+street: East Rodeo Drive
+housenumber: "2003"
+phone: +1 928-634-0444
+opening_hours: 24/7
+website: https://www.walmart.com/store/1299/cottonwood-az/whats-new

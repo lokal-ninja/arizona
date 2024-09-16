@@ -1,11 +1,11 @@
 id: 925372497
-type: way
+type: node
 latitude: 33.43801
 longitude: -111.69394
 postcode: "85205"
 city: Mesa
-street: "East Brown Road"
-housenumber: 6344
+street: East Brown Road
+housenumber: "6344"
 phone: ""
 opening_hours: ""
 website: ""

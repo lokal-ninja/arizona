@@ -1,11 +1,11 @@
 id: 470869267
-type: way
+type: node
 latitude: 33.3651
 longitude: -111.84102
 postcode: "85233"
 city: Gilbert
-street: "North Arizona Avenue"
-housenumber: 847
+street: North Arizona Avenue
+housenumber: "847"
 phone: ""
 opening_hours: ""
 website: ""

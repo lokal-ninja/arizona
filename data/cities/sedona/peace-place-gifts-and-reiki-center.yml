@@ -1,11 +1,11 @@
 id: 352003231
-type: way
+type: node
 latitude: 34.87189
 longitude: -111.76156
 postcode: "86336"
 city: Sedona
-street: "Jordan Road"
-housenumber: 355
-phone: "(928) 203-7755"
+street: Jordan Road
+housenumber: "355"
+phone: (928) 203-7755
 opening_hours: ""
-website: "http://www.crystalsoundcenter.com/peaceplacegifts/"
+website: http://www.crystalsoundcenter.com/peaceplacegifts/

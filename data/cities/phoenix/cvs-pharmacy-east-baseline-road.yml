@@ -1,11 +1,11 @@
 id: 335303589
-type: way
+type: node
 latitude: 33.37737
 longitude: -112.04701
 postcode: "85042"
 city: Phoenix
-street: "East Baseline Road"
-housenumber: 1615
+street: East Baseline Road
+housenumber: "1615"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/1615-e-baseline-rd-phoenix-az-85042/storeid=7860"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/1615-e-baseline-rd-phoenix-az-85042/storeid=7860

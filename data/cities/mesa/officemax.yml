@@ -1,11 +1,11 @@
 id: 920552449
-type: way
+type: node
 latitude: 33.39277
 longitude: -111.68806
 postcode: "85206"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 6631
+street: East Southern Avenue
+housenumber: "6631"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/az/mesa/officemax-6189"
+website: https://www.officedepot.com/storelocator/az/mesa/officemax-6189

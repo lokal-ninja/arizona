@@ -1,11 +1,11 @@
 id: 497328393
-type: way
+type: node
 latitude: 33.4554
 longitude: -112.10597
 postcode: "85009"
 city: Phoenix
-street: "West Fillmore Street"
-housenumber: 2130
+street: West Fillmore Street
+housenumber: "2130"
 phone: ""
 opening_hours: ""
 website: ""

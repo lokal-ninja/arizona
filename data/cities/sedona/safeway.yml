@@ -1,11 +1,11 @@
 id: 141002702
-type: way
+type: node
 latitude: 34.86464
 longitude: -111.80007
 postcode: "86336"
 city: Sedona
-street: "West State Route 89A"
-housenumber: 2300
-phone: "+1 928-282-0118"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/az/sedona/2300-w-hwy-89a.html"
+street: West State Route 89A
+housenumber: "2300"
+phone: +1 928-282-0118
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/az/sedona/2300-w-hwy-89a.html

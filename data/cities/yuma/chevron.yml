@@ -1,11 +1,11 @@
 id: 274174832
-type: way
+type: node
 latitude: 32.67351
 longitude: -114.44332
 postcode: "85367"
 city: Yuma
-street: "South Fortuna Road"
-housenumber: 10747
+street: South Fortuna Road
+housenumber: "10747"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.5071
 longitude: -112.03779
 postcode: "85016"
 city: Phoenix
-street: "North 20th Street"
-housenumber: 4821
-phone: "+1 602-912-9022"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/az/phoenix/90/"
+street: North 20th Street
+housenumber: "4821"
+phone: +1 602-912-9022
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/az/phoenix/90/

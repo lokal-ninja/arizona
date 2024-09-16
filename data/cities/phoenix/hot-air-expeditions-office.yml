@@ -1,11 +1,11 @@
 id: 503491256
-type: way
+type: node
 latitude: 33.67849
 longitude: -112.03451
 postcode: "85024"
 city: Phoenix
-street: "East Rose Garden Loop"
-housenumber: 2243
+street: East Rose Garden Loop
+housenumber: "2243"
 phone: ""
 opening_hours: ""
 website: ""

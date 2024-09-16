@@ -1,11 +1,11 @@
 id: 1226630835
-type: way
+type: node
 latitude: 33.47275
 longitude: -112.22229
 postcode: "85035"
 city: Phoenix
-street: "West Encanto Boulevard"
-housenumber: 7515
-phone: "+1 623-259-1619"
+street: West Encanto Boulevard
+housenumber: "7515"
+phone: +1 623-259-1619
 opening_hours: ""
-website: "https://stores.partycity.com/us/az/phoenix/party-store-pc951.html"
+website: https://stores.partycity.com/us/az/phoenix/party-store-pc951.html

@@ -1,11 +1,11 @@
 id: 1074969225
-type: way
+type: node
 latitude: 33.41595
 longitude: -111.64113
 postcode: "85207"
 city: Mesa
-street: "East Main Street"
-housenumber: 8808
+street: East Main Street
+housenumber: "8808"
 phone: "+14808320707"
 opening_hours: ""
-website: "https://www.powerrvz.com/"
+website: https://www.powerrvz.com/

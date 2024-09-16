@@ -1,11 +1,11 @@
 id: 390868770
-type: way
+type: node
 latitude: 31.43903
 longitude: -110.24995
 postcode: "85650"
 city: Sierra Vista
-street: "S Hwy 92"
-housenumber: 1756
+street: S Hwy 92
+housenumber: "1756"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/az/hereford/16206"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/az/hereford/16206

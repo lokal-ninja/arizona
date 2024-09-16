@@ -1,11 +1,11 @@
 id: 1263550670
-type: way
+type: node
 latitude: 33.4653
 longitude: -112.01205
 postcode: ""
 city: Phoenix
 street: ""
-housenumber: 3231
+housenumber: "3231"
 phone: ""
 opening_hours: ""
 website: ""

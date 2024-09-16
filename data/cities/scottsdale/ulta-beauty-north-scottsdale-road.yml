@@ -1,11 +1,11 @@
 id: 858775878
-type: way
+type: node
 latitude: 33.63391
 longitude: -111.92211
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 16231
-phone: "+1 480-609-1009"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/scottsdale-az-77"
+street: North Scottsdale Road
+housenumber: "16231"
+phone: +1 480-609-1009
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/scottsdale-az-77

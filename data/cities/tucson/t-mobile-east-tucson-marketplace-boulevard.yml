@@ -1,11 +1,11 @@
 id: 368887997
-type: way
+type: node
 latitude: 32.18733
 longitude: -110.9554
 postcode: "85713"
 city: Tucson
-street: "East Tucson Marketplace Boulevard"
-housenumber: 1065
+street: East Tucson Marketplace Boulevard
+housenumber: "1065"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

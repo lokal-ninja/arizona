@@ -1,11 +1,11 @@
 id: 963308124
-type: way
+type: node
 latitude: 33.64006
 longitude: -112.21805
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 7360
+street: West Bell Road
+housenumber: "7360"
 phone: ""
 opening_hours: ""
-website: "https://www.pgatoursuperstore.com/stores/detail?StoreID=1207"
+website: https://www.pgatoursuperstore.com/stores/detail?StoreID=1207

@@ -1,11 +1,11 @@
 id: 1212413234
-type: way
+type: node
 latitude: 33.59256
 longitude: -112.25695
 postcode: "85345"
 city: Peoria
-street: "West Grand Avenue"
-housenumber: 9133
+street: West Grand Avenue
+housenumber: "9133"
 phone: ""
 opening_hours: ""
 website: ""

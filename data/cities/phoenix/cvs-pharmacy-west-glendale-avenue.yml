@@ -1,11 +1,11 @@
 id: 222122905
-type: way
+type: node
 latitude: 33.53925
 longitude: -112.13314
 postcode: "85017"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 3440
+street: West Glendale Avenue
+housenumber: "3440"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/3440-west-glendale-ave-phoenix-az-85051/storeid=9314"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/3440-west-glendale-ave-phoenix-az-85051/storeid=9314

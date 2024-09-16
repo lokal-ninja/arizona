@@ -1,11 +1,11 @@
 id: 603204540
-type: way
+type: node
 latitude: 33.30637
 longitude: -111.72051
 postcode: "85295"
 city: Gilbert
-street: "South Higley Road"
-housenumber: 2431
+street: South Higley Road
+housenumber: "2431"
 phone: "+14809884326"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2431+s+higley+rd-gilbert-az-85295/id=6880"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2431+s+higley+rd-gilbert-az-85295/id=6880

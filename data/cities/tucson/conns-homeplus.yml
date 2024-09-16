@@ -1,11 +1,11 @@
 id: 247568419
-type: way
+type: node
 latitude: 32.22036
 longitude: -110.87476
 postcode: "85711"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 5530
-phone: "520-747-1095"
+street: East Broadway Boulevard
+housenumber: "5530"
+phone: 520-747-1095
 opening_hours: ""
-website: "https://www.conns.com/az/tucson/5530-e-broadway-blvd-85711"
+website: https://www.conns.com/az/tucson/5530-e-broadway-blvd-85711

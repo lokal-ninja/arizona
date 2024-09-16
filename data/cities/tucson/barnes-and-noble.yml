@@ -1,11 +1,11 @@
 id: 1173201089
-type: way
+type: node
 latitude: 32.33953
 longitude: -111.01476
 postcode: "85741"
 city: Tucson
-street: "North La Cholla Boulevard"
-housenumber: 7325
-phone: "(520) 742-6402"
+street: North La Cholla Boulevard
+housenumber: "7325"
+phone: (520) 742-6402
 opening_hours: ""
 website: ""

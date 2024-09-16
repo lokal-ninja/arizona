@@ -1,11 +1,11 @@
 id: 236357005
-type: way
+type: node
 latitude: 33.43799
 longitude: -112.41193
 postcode: "85338"
 city: Goodyear
-street: "West Yuma Road"
-housenumber: 16380
-phone: "+1 623-925-4440"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-21:00; Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/goodyear/yuma-sarival-rd/660/00676"
+street: West Yuma Road
+housenumber: "16380"
+phone: +1 623-925-4440
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-21:00; Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/goodyear/yuma-sarival-rd/660/00676

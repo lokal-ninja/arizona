@@ -1,11 +1,11 @@
 id: 369955165
-type: way
+type: node
 latitude: 33.4956
 longitude: -112.15246
 postcode: "85031"
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 4310
+street: West Indian School Road
+housenumber: "4310"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/phoenix/autoparts-2614.html"
+website: https://locations.oreillyauto.com/az/phoenix/autoparts-2614.html

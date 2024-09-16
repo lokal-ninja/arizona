@@ -1,11 +1,11 @@
 id: 221299767
-type: way
+type: node
 latitude: 33.32422
 longitude: -111.97122
 postcode: "85226"
 city: Chandler
-street: "West Orchid Lane"
-housenumber: 7460
+street: West Orchid Lane
+housenumber: "7460"
 phone: ""
 opening_hours: ""
 website: ""

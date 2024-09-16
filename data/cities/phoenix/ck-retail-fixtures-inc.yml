@@ -1,11 +1,11 @@
 id: 945244939
-type: way
+type: node
 latitude: 33.46526
 longitude: -112.1193
 postcode: "85009"
 city: Phoenix
-street: "North 27th Lane"
-housenumber: 1442
+street: North 27th Lane
+housenumber: "1442"
 phone: ""
 opening_hours: ""
 website: ""

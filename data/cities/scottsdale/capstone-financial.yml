@@ -1,11 +1,11 @@
 id: 992745348
-type: way
+type: node
 latitude: 33.46655
 longitude: -111.90519
 postcode: "85257"
 city: Scottsdale
-street: "North 82nd Place"
-housenumber: 1620
+street: North 82nd Place
+housenumber: "1620"
 phone: ""
 opening_hours: ""
 website: ""

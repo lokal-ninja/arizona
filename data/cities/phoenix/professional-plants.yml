@@ -1,11 +1,11 @@
 id: 1077122006
-type: way
+type: node
 latitude: 33.42653
 longitude: -112.04807
 postcode: "85034"
 city: Phoenix
-street: "South 16th Street"
-housenumber: 2118
+street: South 16th Street
+housenumber: "2118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 842254979
-type: way
+type: node
 latitude: 33.63591
 longitude: -112.24792
 postcode: "85382"
 city: Peoria
-street: "West Kelton Lane"
-housenumber: 8746
+street: West Kelton Lane
+housenumber: "8746"
 phone: ""
 opening_hours: ""
 website: ""

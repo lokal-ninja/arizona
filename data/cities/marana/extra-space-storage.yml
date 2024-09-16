@@ -1,11 +1,11 @@
 id: 1106214301
-type: way
+type: node
 latitude: 32.36092
 longitude: -111.08752
 postcode: "85742"
 city: Marana
-street: "West Cortaro Farms Road"
-housenumber: 5710
+street: West Cortaro Farms Road
+housenumber: "5710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 858775890
-type: way
+type: node
 latitude: 33.63492
 longitude: -111.91703
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 16285
-phone: "+1 480-607-0246"
-opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-scottsdale/0792"
+street: North Scottsdale Road
+housenumber: "16285"
+phone: +1 480-607-0246
+opening_hours: Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-scottsdale/0792

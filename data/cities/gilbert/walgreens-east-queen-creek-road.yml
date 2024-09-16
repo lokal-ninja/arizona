@@ -1,11 +1,11 @@
 id: 429555298
-type: way
+type: node
 latitude: 33.26721
 longitude: -111.68716
 postcode: "85297"
 city: Gilbert
-street: "East Queen Creek Road"
-housenumber: 4766
+street: East Queen Creek Road
+housenumber: "4766"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4766+e+queen+creek+rd-gilbert-az-85297/id=6692"
+website: https://www.walgreens.com/locator/walgreens-4766+e+queen+creek+rd-gilbert-az-85297/id=6692

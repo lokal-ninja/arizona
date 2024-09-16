@@ -1,11 +1,11 @@
 id: 231841186
-type: way
+type: node
 latitude: 33.39142
 longitude: -112.07238
 postcode: "85042"
 city: Phoenix
-street: "South Central Avenue"
-housenumber: 6021
+street: South Central Avenue
+housenumber: "6021"
 phone: ""
 opening_hours: ""
 website: ""

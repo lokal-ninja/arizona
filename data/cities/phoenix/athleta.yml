@@ -4,8 +4,8 @@ latitude: 33.71526
 longitude: -112.11287
 postcode: "85085"
 city: Phoenix
-street: "W Happy Valley Rd"
-housenumber: 2480
+street: W Happy Valley Rd
+housenumber: "2480"
 phone: ""
-opening_hours: "Mon-Thu 10:00-19:00, Fri-Sat 10:00-20:00, Sun 11:00-18:00"
-website: "https://athleta.gap.com/"
+opening_hours: Mon-Thu 10:00-19:00, Fri-Sat 10:00-20:00, Sun 11:00-18:00
+website: https://athleta.gap.com/

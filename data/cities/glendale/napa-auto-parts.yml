@@ -1,11 +1,11 @@
 id: 337127944
-type: way
+type: node
 latitude: 33.54232
 longitude: -112.1894
 postcode: "85301"
 city: Glendale
-street: "West Myrtle Avenue"
-housenumber: 6020
+street: West Myrtle Avenue
+housenumber: "6020"
 phone: ""
 opening_hours: ""
 website: ""

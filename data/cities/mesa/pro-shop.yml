@@ -1,11 +1,11 @@
 id: 1093230009
-type: way
+type: node
 latitude: 33.38013
 longitude: -111.67204
 postcode: "85209"
 city: Mesa
-street: "South 74th Street"
-housenumber: 1922
+street: South 74th Street
+housenumber: "1922"
 phone: ""
 opening_hours: ""
 website: ""

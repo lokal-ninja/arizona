@@ -1,11 +1,11 @@
 id: 172747171
-type: way
+type: node
 latitude: 33.43655
 longitude: -111.63282
 postcode: "85207"
 city: Mesa
-street: "North Ellsworth Road"
-housenumber: 1126
+street: North Ellsworth Road
+housenumber: "1126"
 phone: ""
 opening_hours: ""
 website: ""

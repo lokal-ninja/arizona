@@ -1,11 +1,11 @@
 id: 157589716
-type: way
+type: node
 latitude: 35.19967
 longitude: -111.61354
 postcode: "86004"
 city: Flagstaff
-street: "East Huntington Drive"
-housenumber: 2601
-phone: "+1 928-774-3409"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4252/flagstaff-az/whats-new"
+street: East Huntington Drive
+housenumber: "2601"
+phone: +1 928-774-3409
+opening_hours: 24/7
+website: https://www.walmart.com/store/4252/flagstaff-az/whats-new

@@ -1,11 +1,11 @@
 id: 875865280
-type: way
+type: node
 latitude: 33.32574
 longitude: -111.68159
 postcode: "85212"
 city: Mesa
-street: "South 71st Street"
-housenumber: 4942
+street: South 71st Street
+housenumber: "4942"
 phone: ""
 opening_hours: ""
 website: ""

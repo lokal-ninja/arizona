@@ -1,11 +1,11 @@
 id: 616414193
-type: way
+type: node
 latitude: 33.63233
 longitude: -112.03001
 postcode: "85032"
 city: Phoenix
-street: "East Greenway Parkway"
-housenumber: 2420
+street: East Greenway Parkway
+housenumber: "2420"
 phone: ""
 opening_hours: ""
 website: ""

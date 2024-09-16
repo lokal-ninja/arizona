@@ -1,11 +1,11 @@
 id: 1284296381
-type: way
+type: node
 latitude: 33.4067
 longitude: -111.91051
 postcode: "85282"
 city: Tempe
-street: "East Broadway Road"
-housenumber: 1737
+street: East Broadway Road
+housenumber: "1737"
 phone: ""
 opening_hours: ""
 website: ""

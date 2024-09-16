@@ -1,11 +1,11 @@
 id: 656005921
-type: way
+type: node
 latitude: 32.72248
 longitude: -114.61911
 postcode: "85364"
 city: Yuma
-street: "West 3rd Street"
-housenumber: 50
+street: West 3rd Street
+housenumber: "50"
 phone: ""
-opening_hours: "We-Sa 09:30-17:30"
-website: "https://yumaschoolofbeauty.com/"
+opening_hours: We-Sa 09:30-17:30
+website: https://yumaschoolofbeauty.com/

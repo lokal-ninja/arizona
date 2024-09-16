@@ -1,11 +1,11 @@
 id: 803570550
-type: way
+type: node
 latitude: 33.39241
 longitude: -111.68187
 postcode: "85206"
 city: Mesa
-street: "East Hampton Avenue"
-housenumber: 6932
-phone: "+1 480-830-7282"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/mesa-store0154.html"
+street: East Hampton Avenue
+housenumber: "6932"
+phone: +1 480-830-7282
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/mesa-store0154.html

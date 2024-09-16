@@ -1,11 +1,11 @@
 id: 165396180
-type: way
+type: node
 latitude: 33.41165
 longitude: -111.56389
 postcode: "85120"
 city: Apache Junction
-street: "South Ironwood Drive"
-housenumber: 386
-phone: "+1 480 982 3087"
+street: South Ironwood Drive
+housenumber: "386"
+phone: +1 480 982 3087
 opening_hours: ""
-website: "http://raysprinting.net/"
+website: http://raysprinting.net/

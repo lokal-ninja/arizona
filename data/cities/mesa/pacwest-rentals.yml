@@ -1,11 +1,11 @@
 id: 846789725
-type: way
+type: node
 latitude: 33.4724
 longitude: -111.74538
 postcode: "85215"
 city: Mesa
-street: "North Maple"
-housenumber: 3105
+street: North Maple
+housenumber: "3105"
 phone: ""
 opening_hours: ""
 website: ""

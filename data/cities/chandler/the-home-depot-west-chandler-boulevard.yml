@@ -1,11 +1,11 @@
 id: 1254200330
-type: way
+type: node
 latitude: 33.3042
 longitude: -111.8623
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 1155
-phone: "+1 480-899-5013"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Chandler/AZ/Chandler/85224/470"
+street: West Chandler Boulevard
+housenumber: "1155"
+phone: +1 480-899-5013
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Chandler/AZ/Chandler/85224/470

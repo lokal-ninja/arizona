@@ -1,11 +1,11 @@
 id: 742342652
-type: way
+type: node
 latitude: 33.41167
 longitude: -111.997
 postcode: "85040"
 city: Phoenix
-street: "East Illini Street"
-housenumber: 3917
+street: East Illini Street
+housenumber: "3917"
 phone: ""
 opening_hours: ""
 website: ""

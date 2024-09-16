@@ -1,11 +1,11 @@
 id: 218827105
-type: way
+type: node
 latitude: 33.42553
 longitude: -111.98317
 postcode: "85034"
 city: Phoenix
-street: "East Hammond Lane"
-housenumber: 4602
+street: East Hammond Lane
+housenumber: "4602"
 phone: ""
 opening_hours: ""
 website: ""

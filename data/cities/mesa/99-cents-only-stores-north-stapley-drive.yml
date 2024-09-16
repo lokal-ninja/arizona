@@ -1,11 +1,11 @@
 id: 809382353
-type: way
+type: node
 latitude: 33.45224
 longitude: -111.80372
 postcode: "85203"
 city: Mesa
-street: "North Stapley Drive"
-housenumber: 2009
+street: North Stapley Drive
+housenumber: "2009"
 phone: ""
 opening_hours: ""
-website: "https://locations.99only.com/az/mesa/discount-store-419.html"
+website: https://locations.99only.com/az/mesa/discount-store-419.html

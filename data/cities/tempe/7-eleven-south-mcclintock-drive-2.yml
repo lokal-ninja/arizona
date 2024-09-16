@@ -1,11 +1,11 @@
 id: 596348719
-type: way
+type: node
 latitude: 33.41826
 longitude: -111.90962
 postcode: "85281"
 city: Tempe
-street: "South McClintock Drive"
-housenumber: 1006
-phone: "+1 480-967-7312"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/az/tempe/1006-s.-mcclintock-dr-13017"
+street: South McClintock Drive
+housenumber: "1006"
+phone: +1 480-967-7312
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/az/tempe/1006-s.-mcclintock-dr-13017

@@ -1,11 +1,11 @@
 id: 426089316
-type: way
+type: node
 latitude: 33.56786
 longitude: -112.16988
 postcode: "85302"
 city: Glendale
-street: "West Olive Avenue"
-housenumber: 5108
+street: West Olive Avenue
+housenumber: "5108"
 phone: ""
 opening_hours: ""
 website: ""

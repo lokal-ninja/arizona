@@ -4,8 +4,8 @@ latitude: 33.41619
 longitude: -111.5731
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 2540
-phone: "+1 480 380 4515"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://www.stvincentdepaul.net/thrift-stores/apache-junction-thrift-store"
+street: West Apache Trail
+housenumber: "2540"
+phone: +1 480 380 4515
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
+website: https://www.stvincentdepaul.net/thrift-stores/apache-junction-thrift-store

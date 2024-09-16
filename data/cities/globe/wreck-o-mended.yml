@@ -1,11 +1,11 @@
 id: 958750275
-type: way
+type: node
 latitude: 33.41821
 longitude: -110.80541
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1925
-phone: "+1 928 793 5987"
+street: North Broad Street
+housenumber: "1925"
+phone: +1 928 793 5987
 opening_hours: ""
-website: "https://wreckmend.com/"
+website: https://wreckmend.com/

@@ -1,11 +1,11 @@
 id: 713948709
-type: way
+type: node
 latitude: 32.29511
 longitude: -110.82513
 postcode: ""
 city: Tucson
-street: "East Snyder Road"
-housenumber: 7877
-phone: "+1 520 232 9364"
+street: East Snyder Road
+housenumber: "7877"
+phone: +1 520 232 9364
 opening_hours: ""
 website: ""

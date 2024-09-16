@@ -1,11 +1,11 @@
 id: 317520808
-type: way
+type: node
 latitude: 33.3194
 longitude: -111.94435
 postcode: "85226"
 city: Chandler
-street: "South Kyrene Road"
-housenumber: 5975
+street: South Kyrene Road
+housenumber: "5975"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5975+w+ray+rd-chandler-az-85226/id=11181"
+website: https://www.walgreens.com/locator/walgreens-5975+w+ray+rd-chandler-az-85226/id=11181

@@ -1,11 +1,11 @@
 id: 810368663
-type: way
+type: node
 latitude: 33.33665
 longitude: -111.80899
 postcode: "85233"
 city: Gilbert
-street: "South Cooper Road"
-housenumber: 730
-phone: "+1 480-240-3000"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-18:00"
+street: South Cooper Road
+housenumber: "730"
+phone: +1 480-240-3000
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-18:00
 website: ""

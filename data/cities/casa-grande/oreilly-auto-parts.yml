@@ -1,11 +1,11 @@
 id: 530519335
-type: way
+type: node
 latitude: 32.88013
 longitude: -111.72605
 postcode: "85122"
 city: Casa Grande
-street: "East Florence Boulevard"
-housenumber: 1426
+street: East Florence Boulevard
+housenumber: "1426"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/az/casagrande/autoparts-5536.html"
+website: https://locations.oreillyauto.com/az/casagrande/autoparts-5536.html

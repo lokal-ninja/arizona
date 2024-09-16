@@ -1,11 +1,11 @@
 id: 848247646
-type: way
+type: node
 latitude: 33.38022
 longitude: -111.7389
 postcode: "85206"
 city: Mesa
-street: "South Greenfield Road"
-housenumber: 1947
+street: South Greenfield Road
+housenumber: "1947"
 phone: ""
 opening_hours: ""
 website: ""

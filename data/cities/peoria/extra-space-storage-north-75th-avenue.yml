@@ -1,11 +1,11 @@
 id: 452111740
-type: way
+type: node
 latitude: 33.59382
 longitude: -112.22084
 postcode: "85345"
 city: Peoria
-street: "North 75th Avenue"
-housenumber: 11990
+street: North 75th Avenue
+housenumber: "11990"
 phone: ""
 opening_hours: ""
 website: ""

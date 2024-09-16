@@ -1,11 +1,11 @@
 id: 160182288
-type: way
+type: node
 latitude: 31.91398
 longitude: -109.14087
 postcode: "85632"
 city: Portal
-street: "South Rock House Road"
-housenumber: 2358
-phone: "+1-520-558-2223"
-opening_hours: "Mo-We 10:00-15:00; Th-Su 10:00-18:00"
-website: "https://www.portallodge.com/"
+street: South Rock House Road
+housenumber: "2358"
+phone: +1-520-558-2223
+opening_hours: Mo-We 10:00-15:00; Th-Su 10:00-18:00
+website: https://www.portallodge.com/

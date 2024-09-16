@@ -1,11 +1,11 @@
 id: 111088539
-type: way
+type: node
 latitude: 33.39213
 longitude: -111.69555
 postcode: "85206"
 city: Mesa
-street: "East Southern Avenue"
-housenumber: 6315
-phone: "+1 480-807-1900"
+street: East Southern Avenue
+housenumber: "6315"
+phone: +1 480-807-1900
 opening_hours: ""
-website: "https://stores.bestbuy.com/az/mesa/6315-e-southern-ave-254.html"
+website: https://stores.bestbuy.com/az/mesa/6315-e-southern-ave-254.html

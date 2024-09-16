@@ -1,11 +1,11 @@
 id: 214279983
-type: way
+type: node
 latitude: 33.3917
 longitude: -112.1001
 postcode: "85041"
 city: Phoenix
-street: "West Southern Avenue"
-housenumber: 1915
+street: West Southern Avenue
+housenumber: "1915"
 phone: ""
 opening_hours: ""
 website: ""

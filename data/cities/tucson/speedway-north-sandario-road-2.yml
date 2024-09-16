@@ -1,11 +1,11 @@
 id: 993338545
-type: way
+type: node
 latitude: 32.3294
 longitude: -111.2174
 postcode: "85743"
 city: Tucson
-street: "North Sandario Road"
-housenumber: 6890
+street: North Sandario Road
+housenumber: "6890"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Tucson/6890-N-Sandario-Rd"
+website: https://www.speedway.com/locations/AZ/Tucson/6890-N-Sandario-Rd

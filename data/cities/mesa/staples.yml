@@ -1,11 +1,11 @@
 id: 847024615
-type: way
+type: node
 latitude: 33.45121
 longitude: -111.73261
 postcode: "85215"
 city: Mesa
-street: "East McKellips Road"
-housenumber: 4535
+street: East McKellips Road
+housenumber: "4535"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/az/mesa/4535-e-mckellips-rd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/az/mesa/4535-e-mckellips-rd

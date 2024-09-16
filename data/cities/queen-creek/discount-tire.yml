@@ -1,11 +1,11 @@
 id: 218698796
-type: way
+type: node
 latitude: 33.25323
 longitude: -111.63716
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Loop Road"
-housenumber: 21505
-phone: "+1 480 677 2844"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/az/queen-creek/s/1795"
+street: South Ellsworth Loop Road
+housenumber: "21505"
+phone: +1 480 677 2844
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/store/az/queen-creek/s/1795

@@ -1,11 +1,11 @@
 id: 895263638
-type: way
+type: node
 latitude: 33.41039
 longitude: -111.88467
 postcode: "85202"
 city: Mesa
-street: "West Birchwood Avenue"
-housenumber: 2542
+street: West Birchwood Avenue
+housenumber: "2542"
 phone: ""
 opening_hours: ""
 website: ""

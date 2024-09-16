@@ -1,11 +1,11 @@
 id: 1287891870
-type: way
+type: node
 latitude: 32.33792
 longitude: -111.01497
 postcode: "85741"
 city: Tucson
-street: "West Ina Road"
-housenumber: 2220
-phone: "+1-520-297-4000"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.att.com/stores/arizona/tucson/110181"
+street: West Ina Road
+housenumber: "2220"
+phone: +1-520-297-4000
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.att.com/stores/arizona/tucson/110181

@@ -1,11 +1,11 @@
 id: 845461122
-type: way
+type: node
 latitude: 33.33382
 longitude: -111.77214
 postcode: "85296"
 city: Gilbert
-street: "East Warner Road"
-housenumber: 861
-phone: "+1 480-558-0105"
+street: East Warner Road
+housenumber: "861"
+phone: +1 480-558-0105
 opening_hours: ""
-website: "https://local.albertsons.com/az/gilbert/861-e-warner-rd.html"
+website: https://local.albertsons.com/az/gilbert/861-e-warner-rd.html

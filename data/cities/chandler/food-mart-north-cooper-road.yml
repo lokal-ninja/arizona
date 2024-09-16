@@ -1,11 +1,11 @@
 id: 810585720
-type: way
+type: node
 latitude: 33.32032
 longitude: -111.8079
 postcode: "85225"
 city: Chandler
-street: "North Cooper Road"
-housenumber: 980
+street: North Cooper Road
+housenumber: "980"
 phone: ""
 opening_hours: ""
 website: ""

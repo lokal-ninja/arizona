@@ -1,11 +1,11 @@
 id: 529830289
-type: way
+type: node
 latitude: 34.06716
 longitude: -112.15047
 postcode: "85324"
 city: Black Canyon City
-street: "South Old Black Canyon Highway"
-housenumber: 34361
-phone: "(602) 526-1224"
-opening_hours: "Tu-Sa 10:00-18:00; Su 11:00-17:00"
+street: South Old Black Canyon Highway
+housenumber: "34361"
+phone: (602) 526-1224
+opening_hours: Tu-Sa 10:00-18:00; Su 11:00-17:00
 website: ""

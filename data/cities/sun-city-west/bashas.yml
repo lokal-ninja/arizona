@@ -1,11 +1,11 @@
 id: 230333696
-type: way
+type: node
 latitude: 33.66056
 longitude: -112.36128
 postcode: "85375"
 city: Sun City West
-street: "West Meeker Boulevard"
-housenumber: 13940
-phone: "623-975-6220"
-opening_hours: "Mo-Su 05:00-21:00"
+street: West Meeker Boulevard
+housenumber: "13940"
+phone: 623-975-6220
+opening_hours: Mo-Su 05:00-21:00
 website: ""

@@ -1,11 +1,11 @@
-id: 156544854
-type: way
-latitude: 33.61026
-longitude: -112.17622
-postcode: "85306"
+id: 223915064
+type: node
+latitude: 33.52421
+longitude: -112.20513
+postcode: "85303"
 city: Glendale
-street: "West Thunderbird Road"
-housenumber: 5421
-phone: "602-547-9645"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-5421+w+thunderbird+rd-glendale-az-85306/id=3385"
+street: North 67th Avenue;West Bethany Home Road
+housenumber: "6006"
+phone: ""
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
+website: https://www.walgreens.com/locator/walgreens-6006+n+67th+ave-glendale-az-85301/id=1969

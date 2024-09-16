@@ -1,11 +1,11 @@
 id: 163407832
-type: way
+type: node
 latitude: 33.38415
 longitude: -111.5803
 postcode: "85120"
 city: Apache Junction
-street: "South Meridian Drive"
-housenumber: 3451
-phone: "+1 480 982 5303"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-16:00"
-website: "https://www.pioneersand.com/locations/30-az-a-j-signal-butte-baseline"
+street: South Meridian Drive
+housenumber: "3451"
+phone: +1 480 982 5303
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-16:00
+website: https://www.pioneersand.com/locations/30-az-a-j-signal-butte-baseline

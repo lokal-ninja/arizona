@@ -1,11 +1,11 @@
 id: 258237074
-type: way
+type: node
 latitude: 33.64056
 longitude: -112.10319
 postcode: "85023"
 city: Phoenix
-street: "West Bell Road"
-housenumber: 2020
+street: West Bell Road
+housenumber: "2020"
 phone: ""
 opening_hours: ""
-website: "https://www.bellroadtoyota.com"
+website: https://www.bellroadtoyota.com

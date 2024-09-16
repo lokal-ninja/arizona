@@ -1,11 +1,11 @@
 id: 558677406
-type: way
+type: node
 latitude: 33.46541
 longitude: -111.68217
 postcode: "85215"
 city: Mesa
-street: "North Power Road"
-housenumber: 2727
-phone: "+1 480-396-9282"
+street: North Power Road
+housenumber: "2727"
+phone: +1 480-396-9282
 opening_hours: ""
-website: "https://local.albertsons.com/az/mesa/2727-n-power-rd.html"
+website: https://local.albertsons.com/az/mesa/2727-n-power-rd.html

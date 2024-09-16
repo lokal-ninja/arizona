@@ -1,11 +1,11 @@
 id: 199753935
-type: way
+type: node
 latitude: 33.58177
 longitude: -111.88996
 postcode: "85258"
 city: Scottsdale
-street: "North 90th Street"
-housenumber: 10500
+street: North 90th Street
+housenumber: "10500"
 phone: ""
 opening_hours: ""
-website: "https://www.barnesandnoble.com/"
+website: https://www.barnesandnoble.com/

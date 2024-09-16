@@ -1,11 +1,11 @@
 id: 213325132
-type: way
+type: node
 latitude: 33.42749
 longitude: -112.07178
 postcode: "85004"
 city: Phoenix
-street: "East Maricopa Freeway"
-housenumber: 111
+street: East Maricopa Freeway
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

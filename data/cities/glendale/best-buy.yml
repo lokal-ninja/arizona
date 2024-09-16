@@ -1,11 +1,11 @@
 id: 963312239
-type: way
+type: node
 latitude: 33.64068
 longitude: -112.23245
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 8290
-phone: "+1 623-486-2600"
+street: West Bell Road
+housenumber: "8290"
+phone: +1 623-486-2600
 opening_hours: ""
-website: "https://stores.bestbuy.com/az/glendale/8290-w-bell-rd-251.html"
+website: https://stores.bestbuy.com/az/glendale/8290-w-bell-rd-251.html

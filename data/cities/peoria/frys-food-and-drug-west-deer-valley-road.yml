@@ -1,11 +1,11 @@
 id: 924868175
-type: way
+type: node
 latitude: 33.68068
 longitude: -112.23984
 postcode: "85382"
 city: Peoria
-street: "West Deer Valley Road"
-housenumber: 8375
-phone: "+1 623-561-5504"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/peoria/83rd-ave-deer-valley-rd/660/00074"
+street: West Deer Valley Road
+housenumber: "8375"
+phone: +1 623-561-5504
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/peoria/83rd-ave-deer-valley-rd/660/00074

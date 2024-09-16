@@ -1,11 +1,11 @@
 id: 416503067
-type: way
+type: node
 latitude: 33.56694
 longitude: -112.22284
 postcode: "85345"
 city: Peoria
-street: "West Olive Avenue"
-housenumber: 7590
+street: West Olive Avenue
+housenumber: "7590"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

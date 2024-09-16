@@ -1,11 +1,11 @@
 id: 515483797
-type: way
+type: node
 latitude: 33.37654
 longitude: -111.80789
 postcode: "85233"
 city: Gilbert
-street: "North Cooper Road"
-housenumber: 1464
-phone: "+1 480-497-3700"
+street: North Cooper Road
+housenumber: "1464"
+phone: +1 480-497-3700
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/az/gilbert/029020/"
+website: https://www.mattressfirm.com/en-us/stores/az/gilbert/029020/

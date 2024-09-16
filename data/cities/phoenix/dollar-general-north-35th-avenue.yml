@@ -1,11 +1,11 @@
 id: 1005018103
-type: way
+type: node
 latitude: 33.4538
 longitude: -112.13465
 postcode: "85009"
 city: Phoenix
-street: "North 35th Avenue"
-housenumber: 520
+street: North 35th Avenue
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/phoenix/19476"
+website: https://www.dollargeneral.com/store-directory/az/phoenix/19476

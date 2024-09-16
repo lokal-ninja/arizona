@@ -1,11 +1,11 @@
 id: 28782422
-type: way
+type: node
 latitude: 33.3027
 longitude: -111.89603
 postcode: "85224"
 city: Chandler
-street: "West Chandler Boulevard"
-housenumber: 3111
+street: West Chandler Boulevard
+housenumber: "3111"
 phone: ""
 opening_hours: ""
 website: ""

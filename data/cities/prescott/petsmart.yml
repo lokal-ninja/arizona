@@ -1,11 +1,11 @@
 id: 187138818
-type: way
+type: node
 latitude: 34.54772
 longitude: -112.39945
 postcode: "86301"
 city: Prescott
-street: "North Walker Road"
-housenumber: 277
-phone: "+1 928-776-9636"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/prescott-store0145.html"
+street: North Walker Road
+housenumber: "277"
+phone: +1 928-776-9636
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/prescott-store0145.html

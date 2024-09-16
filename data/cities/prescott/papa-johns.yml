@@ -1,11 +1,11 @@
 id: 188702473
-type: way
+type: node
 latitude: 34.55918
 longitude: -112.4835
-postcode: "86305-1622"
+postcode: 86305-1622
 city: Prescott
-street: "Iron Springs Road"
-housenumber: 1090
-phone: "+1 928-776-0600"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 10:00-22:30; Su 10:00-22:00"
-website: "https://locations.papajohns.com/united-states/az/86305/prescott/1090-iron-springs-rd"
+street: Iron Springs Road
+housenumber: "1090"
+phone: +1 928-776-0600
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 10:00-22:30; Su 10:00-22:00
+website: https://locations.papajohns.com/united-states/az/86305/prescott/1090-iron-springs-rd

@@ -1,11 +1,11 @@
 id: 505565564
-type: way
+type: node
 latitude: 33.46187
 longitude: -112.34419
 postcode: "85395"
 city: Goodyear
-street: "West McDowell Road"
-housenumber: 13191
-phone: "+1 623-935-9157"
-opening_hours: "Mo,Tu,Sa 06:00-21:00; We-Fr 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/AZ-Goodyear/1553"
+street: West McDowell Road
+housenumber: "13191"
+phone: +1 623-935-9157
+opening_hours: Mo,Tu,Sa 06:00-21:00; We-Fr 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/AZ-Goodyear/1553

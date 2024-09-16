@@ -1,11 +1,11 @@
 id: 262802460
-type: way
+type: node
 latitude: 33.41479
 longitude: -111.58324
 postcode: "85120"
 city: Apache Junction
-street: "East Apache Trail"
-housenumber: 11439
-phone: "+1 480 984 8088"
-opening_hours: "Mo-Sa 07:00-17:00"
-website: "http://allamericanrentalsaz.com/"
+street: East Apache Trail
+housenumber: "11439"
+phone: +1 480 984 8088
+opening_hours: Mo-Sa 07:00-17:00
+website: http://allamericanrentalsaz.com/

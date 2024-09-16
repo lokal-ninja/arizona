@@ -1,11 +1,11 @@
 id: 994992003
-type: way
+type: node
 latitude: 33.52724
 longitude: -112.17218
 postcode: "85301"
 city: Glendale
-street: "Grand Avenue"
-housenumber: 5256
+street: Grand Avenue
+housenumber: "5256"
 phone: ""
 opening_hours: ""
 website: ""

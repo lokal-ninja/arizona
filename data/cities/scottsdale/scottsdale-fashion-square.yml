@@ -1,11 +1,11 @@
 id: 61418695
-type: way
+type: node
 latitude: 33.50237
 longitude: -111.92881
 postcode: "85251"
 city: Scottsdale
-street: "East Camelback Road"
-housenumber: 7014
+street: East Camelback Road
+housenumber: "7014"
 phone: ""
 opening_hours: ""
 website: ""

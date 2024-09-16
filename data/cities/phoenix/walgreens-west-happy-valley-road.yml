@@ -1,11 +1,11 @@
 id: 678021181
-type: way
+type: node
 latitude: 33.71308
 longitude: -112.20258
 postcode: "85310"
 city: Phoenix
-street: "West Happy Valley Road"
-housenumber: 6640
+street: West Happy Valley Road
+housenumber: "6640"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6640+w+happy+valley+rd-glendale-az-85310/id=7110"
+website: https://www.walgreens.com/locator/walgreens-6640+w+happy+valley+rd-glendale-az-85310/id=7110

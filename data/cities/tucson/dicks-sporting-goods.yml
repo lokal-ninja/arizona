@@ -1,11 +1,11 @@
 id: 839203448
-type: way
+type: node
 latitude: 32.22285
 longitude: -110.85648
 postcode: "85710"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 6327
-phone: "+1 520-203-0016"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/az/tucson/1217/"
+street: East Broadway Boulevard
+housenumber: "6327"
+phone: +1 520-203-0016
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/az/tucson/1217/

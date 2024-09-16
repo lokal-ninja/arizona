@@ -1,11 +1,11 @@
 id: 432714104
-type: way
+type: node
 latitude: 33.50783
 longitude: -112.24032
 postcode: "85340"
 city: Phoenix
-street: "North 83rd Avenue"
-housenumber: 8301
+street: North 83rd Avenue
+housenumber: "8301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28715516
-type: way
+type: node
 latitude: 33.32201
 longitude: -111.91336
 postcode: "85226"
 city: Chandler
-street: "West Ray Road"
-housenumber: 4060
-phone: "+1 480-491-1026"
+street: West Ray Road
+housenumber: "4060"
+phone: +1 480-491-1026
 opening_hours: ""
-website: "https://local.albertsons.com/az/chandler/4060-w-ray-rd.html"
+website: https://local.albertsons.com/az/chandler/4060-w-ray-rd.html

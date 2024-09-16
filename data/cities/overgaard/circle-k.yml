@@ -1,11 +1,11 @@
 id: 990970423
-type: way
+type: node
 latitude: 34.4197
 longitude: -110.5789
 postcode: "85933"
 city: Overgaard
-street: "Highway 260"
-housenumber: 1953
+street: Highway 260
+housenumber: "1953"
 phone: ""
 opening_hours: ""
 website: ""

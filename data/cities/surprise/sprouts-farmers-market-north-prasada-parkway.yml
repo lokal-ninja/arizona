@@ -1,11 +1,11 @@
 id: 1157119051
-type: way
+type: node
 latitude: 33.60857
 longitude: -112.41685
 postcode: "85388"
 city: Surprise
-street: "North Prasada Parkway"
-housenumber: 13650
-phone: "+1 480-864-1358"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/az/surprise/n-prasada-pkwy/"
+street: North Prasada Parkway
+housenumber: "13650"
+phone: +1 480-864-1358
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/az/surprise/n-prasada-pkwy/

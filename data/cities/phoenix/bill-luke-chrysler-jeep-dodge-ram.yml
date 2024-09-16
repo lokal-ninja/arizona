@@ -1,11 +1,11 @@
 id: 151887249
-type: way
+type: node
 latitude: 33.50841
 longitude: -112.1099
 postcode: "85015"
 city: Phoenix
-street: "West Camelback Road"
-housenumber: 2425
-phone: "+1-866-723-2198"
+street: West Camelback Road
+housenumber: "2425"
+phone: +1-866-723-2198
 opening_hours: ""
-website: "https://www.billluke.com/"
+website: https://www.billluke.com/

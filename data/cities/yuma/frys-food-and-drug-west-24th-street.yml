@@ -1,11 +1,11 @@
 id: 722292868
-type: way
+type: node
 latitude: 32.68525
 longitude: -114.62543
 postcode: "85364"
 city: Yuma
-street: "West 24th Street"
-housenumber: 500
-phone: "+1 928-329-1055"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-17:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/yuma/24th-st-4th-ave/660/00107"
+street: West 24th Street
+housenumber: "500"
+phone: +1 928-329-1055
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-17:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/yuma/24th-st-4th-ave/660/00107

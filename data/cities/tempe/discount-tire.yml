@@ -1,11 +1,11 @@
 id: 28712035
-type: way
+type: node
 latitude: 33.33342
 longitude: -111.91037
 postcode: "85284"
 city: Tempe
-street: "South McClintock Drive"
-housenumber: 8835
+street: South McClintock Drive
+housenumber: "8835"
 phone: ""
 opening_hours: ""
 website: ""

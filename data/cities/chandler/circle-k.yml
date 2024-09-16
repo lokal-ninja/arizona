@@ -1,11 +1,11 @@
 id: 28715845
-type: way
+type: node
 latitude: 33.32053
 longitude: -111.92735
 postcode: "85226"
 city: Chandler
-street: "North Rural Road"
-housenumber: 1015
+street: North Rural Road
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

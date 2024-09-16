@@ -1,11 +1,11 @@
 id: 576071138
-type: way
+type: node
 latitude: 32.66667
 longitude: -114.4439
 postcode: "83567"
 city: Yuma
-street: "South Fortuna Road"
-housenumber: 11345
-phone: "+1-928-342-1036"
+street: South Fortuna Road
+housenumber: "11345"
+phone: +1-928-342-1036
 opening_hours: ""
 website: ""

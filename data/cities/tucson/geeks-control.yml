@@ -4,8 +4,8 @@ latitude: 32.35005
 longitude: -111.12182
 postcode: "85743"
 city: Tucson
-street: "North Coltrane Lane"
-housenumber: 7890
-phone: "520-333-7095"
-opening_hours: "24/7"
-website: "http://geekscontrol.com"
+street: North Coltrane Lane
+housenumber: "7890"
+phone: 520-333-7095
+opening_hours: 24/7
+website: http://geekscontrol.com

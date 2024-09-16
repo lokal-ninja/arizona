@@ -1,11 +1,11 @@
 id: 387027834
-type: way
+type: node
 latitude: 31.55492
 longitude: -110.28171
 postcode: "85635"
 city: Sierra Vista
-street: "East Fry Boulevard"
-housenumber: 1501
-phone: "+1 520 3358900"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.3kingsautomotive.com/"
+street: East Fry Boulevard
+housenumber: "1501"
+phone: +1 520 3358900
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.3kingsautomotive.com/

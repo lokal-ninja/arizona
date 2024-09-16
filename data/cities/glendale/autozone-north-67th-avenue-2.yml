@@ -1,11 +1,11 @@
 id: 916861705
-type: way
+type: node
 latitude: 33.63731
 longitude: -112.20363
 postcode: "85308"
 city: Glendale
-street: "North 67th Avenue"
-housenumber: 16740
+street: North 67th Avenue
+housenumber: "16740"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/glendale/16740-n-67th-ave.html"
+website: https://www.autozone.com/locations/az/glendale/16740-n-67th-ave.html

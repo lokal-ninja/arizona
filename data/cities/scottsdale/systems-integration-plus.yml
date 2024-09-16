@@ -1,11 +1,11 @@
 id: 309680113
-type: way
+type: node
 latitude: 33.61622
 longitude: -111.90392
 postcode: "85260"
 city: Scottsdale
-street: "East Evans Road"
-housenumber: 8221
+street: East Evans Road
+housenumber: "8221"
 phone: ""
 opening_hours: ""
 website: ""

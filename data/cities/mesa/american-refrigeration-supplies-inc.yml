@@ -4,8 +4,8 @@ latitude: 33.32582
 longitude: -111.66302
 postcode: "85212"
 city: Mesa
-street: "East Ray Road"
-housenumber: 7925
-phone: "+1 480 702 0005"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.arsnet.com/"
+street: East Ray Road
+housenumber: "7925"
+phone: +1 480 702 0005
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.arsnet.com/

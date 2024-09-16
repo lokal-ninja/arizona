@@ -4,8 +4,8 @@ latitude: 33.41307
 longitude: -111.85808
 postcode: "85201"
 city: Mesa
-street: "West Main Street"
-housenumber: 1245
-phone: "+1 480-833-8879"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/mesa/alma-school-rd-main-st/660/00113"
+street: West Main Street
+housenumber: "1245"
+phone: +1 480-833-8879
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/mesa/alma-school-rd-main-st/660/00113

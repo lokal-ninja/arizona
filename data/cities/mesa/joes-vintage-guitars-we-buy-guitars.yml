@@ -4,8 +4,8 @@ latitude: 33.41658
 longitude: -111.81053
 postcode: "85203"
 city: Mesa
-street: "North Fraser Drive East"
-housenumber: 47
-phone: "+1 602-900-6635"
-opening_hours: "24/7"
+street: North Fraser Drive East
+housenumber: "47"
+phone: +1 602-900-6635
+opening_hours: 24/7
 website: ""

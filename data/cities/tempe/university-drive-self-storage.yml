@@ -1,11 +1,11 @@
 id: 592242485
-type: way
+type: node
 latitude: 33.4218
 longitude: -111.92387
 postcode: "85281"
 city: Tempe
-street: "East University Drive"
-housenumber: 965
-phone: "+1-480-831-3075"
+street: East University Drive
+housenumber: "965"
+phone: +1-480-831-3075
 opening_hours: ""
-website: "https://www.uhaul.com/Locations/Truck-Rentals-near-Tempe-AZ-85281/036420/"
+website: https://www.uhaul.com/Locations/Truck-Rentals-near-Tempe-AZ-85281/036420/

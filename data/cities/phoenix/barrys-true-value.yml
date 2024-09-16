@@ -2,10 +2,10 @@ id: 2315537121
 type: node
 latitude: 33.55141
 longitude: -112.05819
-postcode: "85020-4223"
+postcode: 85020-4223
 city: Phoenix
-street: "North 12th Street"
-housenumber: 7820
-phone: "+1 602-707-6940"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: North 12th Street
+housenumber: "7820"
+phone: +1 602-707-6940
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

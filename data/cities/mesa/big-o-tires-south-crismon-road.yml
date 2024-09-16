@@ -1,11 +1,11 @@
 id: 294098474
-type: way
+type: node
 latitude: 33.38356
 longitude: -111.61669
 postcode: "85209"
 city: Mesa
-street: "South Crismon Road"
-housenumber: 1738
+street: South Crismon Road
+housenumber: "1738"
 phone: ""
 opening_hours: ""
 website: ""

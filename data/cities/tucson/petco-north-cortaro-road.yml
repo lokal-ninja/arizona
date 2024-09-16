@@ -1,11 +1,11 @@
 id: 1283052091
-type: way
+type: node
 latitude: 32.35286
 longitude: -111.0938
 postcode: "85743"
 city: Tucson
-street: "North Cortaro Road"
-housenumber: 8050
-phone: "+1 520-719-6110"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/tucson/pet-supplies-tucson-az-2142.html"
+street: North Cortaro Road
+housenumber: "8050"
+phone: +1 520-719-6110
+opening_hours: Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/tucson/pet-supplies-tucson-az-2142.html

@@ -1,11 +1,11 @@
 id: 1206956716
-type: way
+type: node
 latitude: 33.39309
 longitude: -112.09577
 postcode: ""
 city: Phoenix
-street: "West Southern Avenue"
-housenumber: 1706
-phone: "+1 480-207-3161"
+street: West Southern Avenue
+housenumber: "1706"
+phone: +1 480-207-3161
 opening_hours: ""
-website: "https://www.townestorage.com/self-storage/az/phoenix/southern-avenue/"
+website: https://www.townestorage.com/self-storage/az/phoenix/southern-avenue/

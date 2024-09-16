@@ -1,11 +1,11 @@
 id: 1132361042
-type: way
+type: node
 latitude: 33.37711
 longitude: -111.81061
 postcode: "85233"
 city: Gilbert
-street: "East Baseline Road"
-housenumber: 1035
+street: East Baseline Road
+housenumber: "1035"
 phone: ""
 opening_hours: ""
 website: ""

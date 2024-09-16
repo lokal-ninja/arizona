@@ -1,11 +1,11 @@
 id: 321146426
-type: way
+type: node
 latitude: 33.49448
 longitude: -112.9366
 postcode: "85354"
 city: Tonopah
-street: "North 411th Avenue"
-housenumber: 4217
+street: North 411th Avenue
+housenumber: "4217"
 phone: ""
 opening_hours: ""
 website: ""

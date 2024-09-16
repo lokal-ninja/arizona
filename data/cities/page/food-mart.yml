@@ -1,11 +1,11 @@
 id: 217272708
-type: way
+type: node
 latitude: 36.90436
 longitude: -111.48374
 postcode: "86040"
 city: Page
-street: "West US 89"
-housenumber: 901
+street: West US 89
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 687426701
-type: way
+type: node
 latitude: 33.59692
 longitude: -112.10006
 postcode: "85029"
 city: Phoenix
-street: "West Cactus Road"
-housenumber: 1902
+street: West Cactus Road
+housenumber: "1902"
 phone: ""
 opening_hours: ""
 website: ""

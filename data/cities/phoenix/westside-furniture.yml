@@ -1,11 +1,11 @@
 id: 1227032049
-type: way
+type: node
 latitude: 33.45254
 longitude: -112.132
 postcode: "85009"
 city: Phoenix
-street: "West Van Buren Street"
-housenumber: 3330
+street: West Van Buren Street
+housenumber: "3330"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1062474267
-type: way
+type: node
 latitude: 34.17198
 longitude: -110.00456
 postcode: "85929"
 city: Pinetop-Lakeside
-street: "West White Mountain Boulevard"
-housenumber: 4555
+street: West White Mountain Boulevard
+housenumber: "4555"
 phone: ""
 opening_hours: ""
 website: ""

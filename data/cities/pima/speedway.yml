@@ -1,11 +1,11 @@
 id: 729760373
-type: way
+type: node
 latitude: 32.89277
 longitude: -109.82056
 postcode: "85543"
 city: Pima
-street: "East US 70"
-housenumber: 325
+street: East US 70
+housenumber: "325"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/store/2981"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/store/2981

@@ -1,11 +1,11 @@
 id: 1155676357
-type: way
+type: node
 latitude: 33.58418
 longitude: -111.89298
 postcode: "85260"
 city: Scottsdale
-street: "East Shea Boulevard"
-housenumber: 8740
+street: East Shea Boulevard
+housenumber: "8740"
 phone: ""
 opening_hours: ""
-website: "https://www.pgatoursuperstore.com/stores/detail?StoreID=0502"
+website: https://www.pgatoursuperstore.com/stores/detail?StoreID=0502

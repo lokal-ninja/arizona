@@ -1,11 +1,11 @@
 id: 235779797
-type: way
+type: node
 latitude: 34.56373
 longitude: -112.48258
 postcode: ""
 city: Prescott
-street: "Willow Creek Road"
-housenumber: 1052
+street: Willow Creek Road
+housenumber: "1052"
 phone: ""
 opening_hours: ""
 website: ""

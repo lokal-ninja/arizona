@@ -1,11 +1,11 @@
 id: 1053417371
-type: way
+type: node
 latitude: 32.33719
 longitude: -111.05787
 postcode: "85741"
 city: Tucson
-street: "West Ina Road"
-housenumber: 4375
+street: West Ina Road
+housenumber: "4375"
 phone: ""
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.ridenowtucsonwest.com/"
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.ridenowtucsonwest.com/

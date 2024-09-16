@@ -2,10 +2,10 @@ id: 4601218487
 type: node
 latitude: 33.49375
 longitude: -112.17129
-postcode: "85031-2607"
+postcode: 85031-2607
 city: Phoenix
-street: "West Indian School Road"
-housenumber: 5127
-phone: "+1-623-845-1800"
+street: West Indian School Road
+housenumber: "5127"
+phone: +1-623-845-1800
 opening_hours: ""
-website: "http://lagranbota.net"
+website: http://lagranbota.net

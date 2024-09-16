@@ -1,11 +1,11 @@
 id: 828557769
-type: way
+type: node
 latitude: 33.317
 longitude: -111.8421
 postcode: "85225"
 city: Chandler
-street: "North Arizona Avenue"
-housenumber: 774
-phone: "+1 480-963-6956"
+street: North Arizona Avenue
+housenumber: "774"
+phone: +1 480-963-6956
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/chandler/774-north-arizona-ave-13011"
+website: https://www.7-eleven.com/locations/az/chandler/774-north-arizona-ave-13011

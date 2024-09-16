@@ -1,11 +1,11 @@
 id: 932634769
-type: way
+type: node
 latitude: 33.53797
 longitude: -112.17985
 postcode: "85301"
 city: Glendale
-street: "North 56th Avenue"
-housenumber: 6829
+street: North 56th Avenue
+housenumber: "6829"
 phone: ""
 opening_hours: ""
 website: ""

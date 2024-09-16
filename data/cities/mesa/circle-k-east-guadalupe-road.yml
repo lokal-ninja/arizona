@@ -1,11 +1,11 @@
 id: 687884721
-type: way
+type: node
 latitude: 33.36543
 longitude: -111.63533
 postcode: "85209"
 city: Mesa
-street: "East Guadalupe Road"
-housenumber: 9228
+street: East Guadalupe Road
+housenumber: "9228"
 phone: ""
 opening_hours: ""
 website: ""

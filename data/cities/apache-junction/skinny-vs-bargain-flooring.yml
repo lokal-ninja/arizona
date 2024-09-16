@@ -1,11 +1,11 @@
 id: 213440722
-type: way
+type: node
 latitude: 33.41575
 longitude: -111.56001
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 1286
-phone: "+1 480 297 8702"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://skinny-vs-bargain-flooring.business.site/"
+street: West Apache Trail
+housenumber: "1286"
+phone: +1 480 297 8702
+opening_hours: Mo-Fr 08:00-17:00
+website: https://skinny-vs-bargain-flooring.business.site/

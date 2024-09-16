@@ -1,11 +1,11 @@
 id: 905613300
-type: way
+type: node
 latitude: 33.34471
 longitude: -111.97085
 postcode: "85284"
 city: Tempe
-street: "South Autoplex Loop"
-housenumber: 7970
-phone: "+1 866-432-0697"
+street: South Autoplex Loop
+housenumber: "7970"
+phone: +1 866-432-0697
 opening_hours: ""
-website: "https://www.autonation.com/dealers/toyota-tempe-az"
+website: https://www.autonation.com/dealers/toyota-tempe-az

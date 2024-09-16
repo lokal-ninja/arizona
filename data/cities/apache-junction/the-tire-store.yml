@@ -1,11 +1,11 @@
 id: 525779106
-type: way
+type: node
 latitude: 33.41466
 longitude: -111.58682
 postcode: "85120"
 city: Apache Junction
-street: "East Apache Trail"
-housenumber: 11301
-phone: "+1 480 986 0646"
+street: East Apache Trail
+housenumber: "11301"
+phone: +1 480 986 0646
 opening_hours: ""
 website: ""

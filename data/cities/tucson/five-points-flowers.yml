@@ -1,11 +1,11 @@
 id: 667358306
-type: way
+type: node
 latitude: 32.21189
 longitude: -110.969
 postcode: "85701"
 city: Tucson
-street: "South 6th Avenue"
-housenumber: 804
+street: South 6th Avenue
+housenumber: "804"
 phone: ""
 opening_hours: ""
 website: ""

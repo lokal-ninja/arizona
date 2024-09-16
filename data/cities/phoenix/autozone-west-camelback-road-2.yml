@@ -1,11 +1,11 @@
 id: 311474794
-type: way
+type: node
 latitude: 33.5102
 longitude: -112.18154
 postcode: ""
 city: Phoenix
-street: "West Camelback Road"
-housenumber: 
+street: West Camelback Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/glendale/5686-w-camelback-rd.html"
+website: https://www.autozone.com/locations/az/glendale/5686-w-camelback-rd.html

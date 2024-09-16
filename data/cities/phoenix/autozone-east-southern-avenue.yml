@@ -1,11 +1,11 @@
 id: 233079879
-type: way
+type: node
 latitude: 33.39361
 longitude: -112.02896
 postcode: "85040"
 city: Phoenix
-street: "East Southern Avenue"
-housenumber: 2418
+street: East Southern Avenue
+housenumber: "2418"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/2418-e-southern-ave.html"
+website: https://www.autozone.com/locations/az/phoenix/2418-e-southern-ave.html

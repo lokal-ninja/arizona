@@ -1,11 +1,11 @@
 id: 131833646
-type: way
+type: node
 latitude: 33.46811
 longitude: -112.14994
 postcode: "85009"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 4230
-phone: "+1 602-415-5733"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/43rd-ave-mcdowell/660/00610"
+street: West McDowell Road
+housenumber: "4230"
+phone: +1 602-415-5733
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/43rd-ave-mcdowell/660/00610

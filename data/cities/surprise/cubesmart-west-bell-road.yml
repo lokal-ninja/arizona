@@ -1,11 +1,11 @@
 id: 775645800
-type: way
+type: node
 latitude: 33.63709
 longitude: -112.41365
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 16455
+street: West Bell Road
+housenumber: "16455"
 phone: ""
 opening_hours: ""
 website: ""

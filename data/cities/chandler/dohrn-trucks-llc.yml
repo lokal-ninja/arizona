@@ -1,11 +1,11 @@
 id: 829920493
-type: way
+type: node
 latitude: 33.27527
 longitude: -111.8406
 postcode: "85286"
 city: Chandler
-street: "South Arizona Avenue"
-housenumber: 19011
+street: South Arizona Avenue
+housenumber: "19011"
 phone: ""
 opening_hours: ""
 website: ""

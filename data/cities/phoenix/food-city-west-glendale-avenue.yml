@@ -1,11 +1,11 @@
 id: 240491225
-type: way
+type: node
 latitude: 33.54017
 longitude: -112.13591
 postcode: "85051"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 3514
+street: West Glendale Avenue
+housenumber: "3514"
 phone: "+16024209925"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://myfoodcity.com"
+opening_hours: Mo-Su 06:00-22:00
+website: https://myfoodcity.com

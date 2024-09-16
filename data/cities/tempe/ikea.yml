@@ -1,11 +1,11 @@
 id: 203922298
-type: way
+type: node
 latitude: 33.34145
 longitude: -111.97153
 postcode: "85284"
 city: Tempe
-street: "West Ikea Way"
-housenumber: 2110
+street: West Ikea Way
+housenumber: "2110"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.ikea.com/us/en/stores/tempe/"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.ikea.com/us/en/stores/tempe/

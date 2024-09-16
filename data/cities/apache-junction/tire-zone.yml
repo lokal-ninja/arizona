@@ -1,11 +1,11 @@
 id: 165396185
-type: way
+type: node
 latitude: 33.41256
 longitude: -111.56364
 postcode: "85120"
 city: Apache Junction
-street: "South Ironwood Drive"
-housenumber: 260
+street: South Ironwood Drive
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

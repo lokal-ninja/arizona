@@ -1,11 +1,11 @@
 id: 1206772726
-type: way
+type: node
 latitude: 33.63717
 longitude: -112.22519
 postcode: "85382"
 city: Peoria
-street: "North 77th Avenue"
-housenumber: 16840
+street: North 77th Avenue
+housenumber: "16840"
 phone: ""
 opening_hours: ""
 website: ""

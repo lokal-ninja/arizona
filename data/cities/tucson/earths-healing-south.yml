@@ -1,11 +1,11 @@
 id: 906971548
-type: way
+type: node
 latitude: 32.16746
 longitude: -110.94037
 postcode: "85714"
 city: Tucson
-street: "East Benson Highway"
-housenumber: 2075
+street: East Benson Highway
+housenumber: "2075"
 phone: ""
 opening_hours: ""
 website: ""

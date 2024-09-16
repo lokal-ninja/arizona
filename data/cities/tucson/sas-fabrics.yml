@@ -1,11 +1,11 @@
 id: 834365395
-type: way
+type: node
 latitude: 32.23597
 longitude: -110.87931
 postcode: ""
 city: Tucson
-street: "East Speedway Boulevard"
-housenumber: 5320
+street: East Speedway Boulevard
+housenumber: "5320"
 phone: "5203267252"
-opening_hours: "Mo-Sa 09:30-17:30"
+opening_hours: Mo-Sa 09:30-17:30
 website: ""

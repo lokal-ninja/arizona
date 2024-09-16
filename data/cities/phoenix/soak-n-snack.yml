@@ -1,11 +1,11 @@
 id: 1230191515
-type: way
+type: node
 latitude: 33.46012
 longitude: -112.09395
 postcode: "85007"
 city: Phoenix
-street: "West Latham Street"
-housenumber: 1605
+street: West Latham Street
+housenumber: "1605"
 phone: ""
 opening_hours: ""
 website: ""

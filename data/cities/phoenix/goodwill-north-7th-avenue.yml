@@ -1,11 +1,11 @@
 id: 259069731
-type: way
+type: node
 latitude: 33.64227
 longitude: -112.08201
 postcode: "85023"
 city: Phoenix
-street: "North 7th Avenue"
-housenumber: 17037
+street: North 7th Avenue
+housenumber: "17037"
 phone: ""
 opening_hours: ""
 website: ""

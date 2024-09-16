@@ -1,11 +1,11 @@
 id: 807685995
-type: way
+type: node
 latitude: 32.22101
 longitude: -110.89279
-postcode: "85711-3512"
+postcode: 85711-3512
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 4680
-phone: "+1 520-795-4480"
+street: East Broadway Boulevard
+housenumber: "4680"
+phone: +1 520-795-4480
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tucson/4680-e.-broadway-blvd.-21043"
+website: https://www.7-eleven.com/locations/az/tucson/4680-e.-broadway-blvd.-21043

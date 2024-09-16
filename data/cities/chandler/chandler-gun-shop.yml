@@ -4,8 +4,8 @@ latitude: 33.31714
 longitude: -111.84216
 postcode: "85225"
 city: Chandler
-street: "North Arizona Avenue"
-housenumber: 792
-phone: "(480) 923-9960"
-opening_hours: "Monday to Friday: 10:00AM - 6:00PM Saturday: 10:00AM - 5:00PM"
-website: "https://thepawnexperts.com/chandler-pawn-jewelry"
+street: North Arizona Avenue
+housenumber: "792"
+phone: (480) 923-9960
+opening_hours: 'Monday to Friday: 10:00AM - 6:00PM Saturday: 10:00AM - 5:00PM'
+website: https://thepawnexperts.com/chandler-pawn-jewelry

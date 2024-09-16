@@ -1,11 +1,11 @@
 id: 540889290
-type: way
+type: node
 latitude: 33.42005
 longitude: -110.81697
 postcode: "85539"
 city: Miami
-street: "East Highway 60"
-housenumber: 2115
-phone: "+1 928-425-3276"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-16:00"
-website: "https://www.frysfood.com/stores/grocery/az/miami/hwy-60-hwy-70/660/00109"
+street: East Highway 60
+housenumber: "2115"
+phone: +1 928-425-3276
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-16:00
+website: https://www.frysfood.com/stores/grocery/az/miami/hwy-60-hwy-70/660/00109

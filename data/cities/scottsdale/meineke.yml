@@ -1,11 +1,11 @@
 id: 393103321
-type: way
+type: node
 latitude: 33.48076
 longitude: -111.9094
 postcode: "85251"
 city: Scottsdale
-street: "East Thomas Road"
-housenumber: 7950
+street: East Thomas Road
+housenumber: "7950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 902875455
-type: way
+type: node
 latitude: 34.94092
 longitude: -111.65113
 postcode: "86017"
 city: Munds Park
-street: "Pinewood Boulevard"
-housenumber: 65
+street: Pinewood Boulevard
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

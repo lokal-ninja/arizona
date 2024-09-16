@@ -1,11 +1,11 @@
 id: 849390858
-type: way
+type: node
 latitude: 33.2996
 longitude: -111.74176
 postcode: "85295"
 city: Gilbert
-street: "South Market Street"
-housenumber: 2763
+street: South Market Street
+housenumber: "2763"
 phone: ""
 opening_hours: ""
 website: ""

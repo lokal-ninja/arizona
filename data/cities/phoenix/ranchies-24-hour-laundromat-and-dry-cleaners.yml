@@ -4,8 +4,8 @@ latitude: 33.45963
 longitude: -112.0454
 postcode: "85006"
 city: Phoenix
-street: "E Roosevelt St"
-housenumber: 1602
-phone: "602-254-1879"
-opening_hours: "24/7"
-website: "https://ranchieslaundromat.com/"
+street: E Roosevelt St
+housenumber: "1602"
+phone: 602-254-1879
+opening_hours: 24/7
+website: https://ranchieslaundromat.com/

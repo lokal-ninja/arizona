@@ -1,11 +1,11 @@
 id: 828557723
-type: way
+type: node
 latitude: 33.31929
 longitude: -111.8362
 postcode: "85225"
 city: Chandler
-street: "East Ray Road"
-housenumber: 411
+street: East Ray Road
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

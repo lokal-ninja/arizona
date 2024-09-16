@@ -1,11 +1,11 @@
 id: 893232571
-type: way
+type: node
 latitude: 33.46625
 longitude: -112.02183
 postcode: "85008"
 city: Phoenix
-street: "East McDowell Road"
-housenumber: 2746
+street: East McDowell Road
+housenumber: "2746"
 phone: ""
 opening_hours: ""
 website: ""

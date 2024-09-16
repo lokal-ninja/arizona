@@ -1,11 +1,11 @@
 id: 184503057
-type: way
+type: node
 latitude: 33.59751
 longitude: -112.01269
 postcode: "85032"
 city: Phoenix
-street: "East Cactus Road"
-housenumber: 3202
+street: East Cactus Road
+housenumber: "3202"
 phone: ""
 opening_hours: ""
 website: ""

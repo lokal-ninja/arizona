@@ -1,11 +1,11 @@
 id: 222389126
-type: way
+type: node
 latitude: 33.52456
 longitude: -112.18797
 postcode: "85301"
 city: Glendale
-street: "North 59th Avenue"
-housenumber: 6020
+street: North 59th Avenue
+housenumber: "6020"
 phone: ""
 opening_hours: ""
 website: ""

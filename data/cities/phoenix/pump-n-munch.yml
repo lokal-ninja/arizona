@@ -1,11 +1,11 @@
 id: 437306136
-type: way
+type: node
 latitude: 33.597
 longitude: -112.13457
 postcode: "85029"
 city: Phoenix
-street: "West Cactus Road;West Peoria Avenue"
-housenumber: 3502
+street: West Cactus Road;West Peoria Avenue
+housenumber: "3502"
 phone: ""
 opening_hours: ""
 website: ""

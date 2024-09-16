@@ -1,11 +1,11 @@
 id: 203281041
-type: way
+type: node
 latitude: 35.17713
 longitude: -111.66759
 postcode: "86001"
 city: Flagstaff
-street: "South Woodlands Village Boulevard"
-housenumber: 2700
+street: South Woodlands Village Boulevard
+housenumber: "2700"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

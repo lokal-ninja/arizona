@@ -1,11 +1,11 @@
 id: 220622996
-type: way
+type: node
 latitude: 33.42012
 longitude: -112.0073
 postcode: "85034"
 city: Phoenix
-street: "East Harbour Drive"
-housenumber: 3441
+street: East Harbour Drive
+housenumber: "3441"
 phone: ""
 opening_hours: ""
 website: ""

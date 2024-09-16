@@ -1,11 +1,11 @@
 id: 167221847
-type: way
+type: node
 latitude: 34.78867
 longitude: -111.76254
-postcode: "86351-7936"
+postcode: 86351-7936
 city: Sedona
-street: "State Route 179"
-housenumber: 6085
-phone: "+1 928-284-1177"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 09:00-16:00"
+street: State Route 179
+housenumber: "6085"
+phone: +1 928-284-1177
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 09:00-16:00
 website: ""

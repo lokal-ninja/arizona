@@ -1,11 +1,11 @@
 id: 306448563
-type: way
+type: node
 latitude: 33.37242
 longitude: -111.81807
 postcode: "85233"
 city: Gilbert
-street: "North Acacia Drive"
-housenumber: 1215
+street: North Acacia Drive
+housenumber: "1215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 666576537
-type: way
+type: node
 latitude: 33.20161
 longitude: -111.62177
 postcode: "85142"
 city: San Tan Valley
-street: "West Hunt Highway"
-housenumber: 5260
+street: West Hunt Highway
+housenumber: "5260"
 phone: ""
 opening_hours: ""
 website: ""

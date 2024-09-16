@@ -1,11 +1,11 @@
 id: 558668802
-type: way
+type: node
 latitude: 33.6664
 longitude: -112.12173
 postcode: "85027"
 city: Phoenix
-street: "West Agua Fria Freeway"
-housenumber: 2929
-phone: "+1 623-780-3277"
-opening_hours: "Mo-Th 09:30-21:00; Fr-Sa 09:00-22:00; Su 09:30-20:30"
+street: West Agua Fria Freeway
+housenumber: "2929"
+phone: +1 623-780-3277
+opening_hours: Mo-Th 09:30-21:00; Fr-Sa 09:00-22:00; Su 09:30-20:30
 website: ""

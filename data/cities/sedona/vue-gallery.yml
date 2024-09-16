@@ -1,11 +1,11 @@
 id: 782881917
-type: way
+type: node
 latitude: 34.8612
 longitude: -111.76247
 postcode: ""
 city: Sedona
-street: "State Route 179"
-housenumber: 336
-phone: "+1 928-282-1575"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.reneetaylorgallery.com/"
+street: State Route 179
+housenumber: "336"
+phone: +1 928-282-1575
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.reneetaylorgallery.com/

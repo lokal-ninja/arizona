@@ -1,11 +1,11 @@
 id: 1311588384
-type: way
+type: node
 latitude: 33.46168
 longitude: -112.361
 postcode: "85395"
 city: Goodyear
-street: "North Litchfield Road"
-housenumber: 1408
-phone: "+1 623-536-1183"
-opening_hours: "Mo-Tu 10:00-21:00; Su 10:00-18:00"
-website: "https://stores.bestbuy.com/az/goodyear/1408-n-litchfield-rd-485.html"
+street: North Litchfield Road
+housenumber: "1408"
+phone: +1 623-536-1183
+opening_hours: Mo-Tu 10:00-21:00; Su 10:00-18:00
+website: https://stores.bestbuy.com/az/goodyear/1408-n-litchfield-rd-485.html

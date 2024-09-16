@@ -1,11 +1,11 @@
 id: 531240452
-type: way
+type: node
 latitude: 32.6776
 longitude: -114.62593
 postcode: "85364"
 city: Yuma
-street: "South 4th Avenue"
-housenumber: 2790
-phone: "+1 928-344-2400"
+street: South 4th Avenue
+housenumber: "2790"
+phone: +1 928-344-2400
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/arizona/yuma/7710000030/"
+website: https://stores.ashleyfurniture.com/store/us/arizona/yuma/7710000030/

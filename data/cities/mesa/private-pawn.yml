@@ -4,8 +4,8 @@ latitude: 33.41493
 longitude: -111.80778
 postcode: "85203"
 city: Mesa
-street: "East Main Street"
-housenumber: 1055
-phone: "+1 480-939-3333"
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00"
-website: "https://pawnprivate.com/"
+street: East Main Street
+housenumber: "1055"
+phone: +1 480-939-3333
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00
+website: https://pawnprivate.com/

@@ -1,11 +1,11 @@
 id: 1254737758
-type: way
+type: node
 latitude: 33.44341
 longitude: -111.92744
 postcode: "85281"
 city: Tempe
-street: "North Scottsdale Road"
-housenumber: 1290
+street: North Scottsdale Road
+housenumber: "1290"
 phone: ""
 opening_hours: ""
 website: ""

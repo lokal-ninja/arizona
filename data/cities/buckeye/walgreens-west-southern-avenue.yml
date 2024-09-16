@@ -1,11 +1,11 @@
 id: 823707988
-type: way
+type: node
 latitude: 33.39158
 longitude: -112.59039
 postcode: "85326"
 city: Buckeye
-street: "West Southern Avenue"
-housenumber: 25073
+street: West Southern Avenue
+housenumber: "25073"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-25073+w+southern+ave-buckeye-az-85326/id=11470"
+website: https://www.walgreens.com/locator/walgreens-25073+w+southern+ave-buckeye-az-85326/id=11470

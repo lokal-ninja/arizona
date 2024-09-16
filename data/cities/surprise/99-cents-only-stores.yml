@@ -1,11 +1,11 @@
 id: 262502464
-type: way
+type: node
 latitude: 33.63681
 longitude: -112.33611
 postcode: "85378"
 city: Surprise
-street: "West Bell Road"
-housenumber: 12801
+street: West Bell Road
+housenumber: "12801"
 phone: ""
 opening_hours: ""
-website: "https://locations.99only.com/az/surprise/discount-store-161.html"
+website: https://locations.99only.com/az/surprise/discount-store-161.html

@@ -1,11 +1,11 @@
 id: 1015704069
-type: way
+type: node
 latitude: 33.34281
 longitude: -111.64803
 postcode: "85212"
 city: Mesa
-street: "East Mesquite Street"
-housenumber: 20221
+street: East Mesquite Street
+housenumber: "20221"
 phone: ""
 opening_hours: ""
 website: ""

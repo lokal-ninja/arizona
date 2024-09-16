@@ -1,11 +1,11 @@
 id: 224009480
-type: way
+type: node
 latitude: 33.40172
 longitude: -111.95449
 postcode: "85282"
 city: Tempe
-street: "South Industrial Park Avenue"
-housenumber: 2495
+street: South Industrial Park Avenue
+housenumber: "2495"
 phone: ""
 opening_hours: ""
 website: ""

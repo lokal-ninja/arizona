@@ -1,11 +1,11 @@
 id: 991998246
-type: way
+type: node
 latitude: 33.48506
 longitude: -112.36198
 postcode: "85395"
 city: Goodyear
-street: "North Litchfield Road"
-housenumber: 3361
+street: North Litchfield Road
+housenumber: "3361"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3361+n+litchfield+rd-goodyear-az-85395/id=3657"
+website: https://www.walgreens.com/locator/walgreens-3361+n+litchfield+rd-goodyear-az-85395/id=3657

@@ -1,11 +1,11 @@
 id: 546667261
-type: way
+type: node
 latitude: 33.57746
 longitude: -111.88858
 postcode: "85258"
 city: Scottsdale
-street: "North 90th Street"
-housenumber: 10030
-phone: "+1 480-391-1647"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/scottsdale-store0147.html"
+street: North 90th Street
+housenumber: "10030"
+phone: +1 480-391-1647
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/scottsdale-store0147.html

@@ -1,11 +1,11 @@
 id: 306355973
-type: way
+type: node
 latitude: 33.33124
 longitude: -111.83967
 postcode: ""
 city: Chandler
-street: "East Highland Street"
-housenumber: 145
+street: East Highland Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

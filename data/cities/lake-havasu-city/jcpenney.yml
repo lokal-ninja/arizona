@@ -1,11 +1,11 @@
 id: 263938654
-type: way
+type: node
 latitude: 34.5696
 longitude: -114.36698
 postcode: "86404"
 city: Lake Havasu City
-street: "Highway 95 North"
-housenumber: 5651
-phone: "+1-928-764-1800"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
+street: Highway 95 North
+housenumber: "5651"
+phone: +1-928-764-1800
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
 website: ""

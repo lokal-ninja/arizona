@@ -1,11 +1,11 @@
 id: 188130731
-type: way
+type: node
 latitude: 31.55449
 longitude: -110.29816
 postcode: "85613"
 city: Sierra Vista
-street: "East Fry Boulevard"
-housenumber: 156
+street: East Fry Boulevard
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

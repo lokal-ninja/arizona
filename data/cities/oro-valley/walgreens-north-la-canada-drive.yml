@@ -1,11 +1,11 @@
 id: 918765475
-type: way
+type: node
 latitude: 32.3961
 longitude: -110.99676
 postcode: "85737"
 city: Oro Valley
-street: "North La Canada Drive"
-housenumber: 10405
+street: North La Canada Drive
+housenumber: "10405"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10405+n+la+canada+dr-oro+valley-az-85737/id=4103"
+website: https://www.walgreens.com/locator/walgreens-10405+n+la+canada+dr-oro+valley-az-85737/id=4103

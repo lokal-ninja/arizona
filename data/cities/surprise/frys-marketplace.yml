@@ -1,11 +1,11 @@
 id: 614365289
-type: way
+type: node
 latitude: 33.62202
 longitude: -112.42502
 postcode: "85388"
 city: Surprise
-street: "North Cotton Lane"
-housenumber: 15215
-phone: "+1 623-455-7900"
-opening_hours: "su 10:00-17:00; Mo-Fr 10:00-20:00; sa 09:00-17:00"
-website: "https://www.frysfood.com/stores/details/660/00680"
+street: North Cotton Lane
+housenumber: "15215"
+phone: +1 623-455-7900
+opening_hours: su 10:00-17:00; Mo-Fr 10:00-20:00; sa 09:00-17:00
+website: https://www.frysfood.com/stores/details/660/00680

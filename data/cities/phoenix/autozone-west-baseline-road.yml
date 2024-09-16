@@ -1,11 +1,11 @@
 id: 316795973
-type: way
+type: node
 latitude: 33.37848
 longitude: -112.07443
 postcode: "85041"
 city: Phoenix
-street: "West Baseline Road"
-housenumber: 14
+street: West Baseline Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/14-w-baseline.html"
+website: https://www.autozone.com/locations/az/phoenix/14-w-baseline.html

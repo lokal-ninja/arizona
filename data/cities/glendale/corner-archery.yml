@@ -4,8 +4,9 @@ latitude: 33.55372
 longitude: -112.16685
 postcode: "85301"
 city: Glendale
-street: "West Northern Avenue"
-housenumber: 5008
+street: West Northern Avenue
+housenumber: "5008"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 09:00-17:00|| Class/Event times may vary outside this"
+opening_hours: Mo-Fr 11:00-18:00; Sa 09:00-17:00|| "Class/Event times may vary outside
+    this"
 website: ""

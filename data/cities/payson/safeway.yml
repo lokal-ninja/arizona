@@ -1,11 +1,11 @@
 id: 1307340404
-type: way
+type: node
 latitude: 34.23961
 longitude: -111.31809
 postcode: "85541"
 city: Payson
-street: "East Highway 260"
-housenumber: 401
-phone: "+1 928-472-8208"
+street: East Highway 260
+housenumber: "401"
+phone: +1 928-472-8208
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/payson/401-state-route-260.html"
+website: https://local.safeway.com/safeway/az/payson/401-state-route-260.html

@@ -1,11 +1,11 @@
 id: 855218312
-type: way
+type: node
 latitude: 33.20244
 longitude: -111.63085
 postcode: "85142"
 city: Queen Creek
-street: "West Hunt Highway"
-housenumber: 6028
+street: West Hunt Highway
+housenumber: "6028"
 phone: ""
 opening_hours: ""
 website: ""

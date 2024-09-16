@@ -1,11 +1,11 @@
 id: 335204682
-type: way
+type: node
 latitude: 33.3629
 longitude: -112.08278
 postcode: "85041"
 city: Phoenix
-street: "South 7th Avenue"
-housenumber: 9201
+street: South 7th Avenue
+housenumber: "9201"
 phone: ""
 opening_hours: ""
 website: ""

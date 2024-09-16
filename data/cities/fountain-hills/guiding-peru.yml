@@ -1,11 +1,11 @@
 id: 557704063
-type: way
+type: node
 latitude: 33.6019
 longitude: -111.75469
 postcode: "85268"
 city: Fountain Hills
-street: "East Sage Drive"
-housenumber: 15119
-phone: "+1-480-650-2592"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://guidingperu.com"
+street: East Sage Drive
+housenumber: "15119"
+phone: +1-480-650-2592
+opening_hours: Mo-Su 08:00-20:00
+website: https://guidingperu.com

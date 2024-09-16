@@ -1,11 +1,11 @@
 id: 79794714
-type: way
+type: node
 latitude: 33.62882
 longitude: -111.88902
 postcode: "85260"
 city: Scottsdale
-street: "North Frank Lloyd Wright Boulevard"
-housenumber: 15694
-phone: "+1 480-391-2617"
-opening_hours: "Mo-Th 09:30-21:30; Fr-Sa 09:00-22:00; Su 09:00-20:30"
+street: North Frank Lloyd Wright Boulevard
+housenumber: "15694"
+phone: +1 480-391-2617
+opening_hours: Mo-Th 09:30-21:30; Fr-Sa 09:00-22:00; Su 09:00-20:30
 website: ""

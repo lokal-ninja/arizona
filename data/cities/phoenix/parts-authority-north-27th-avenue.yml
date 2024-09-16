@@ -1,11 +1,11 @@
 id: 851305054
-type: way
+type: node
 latitude: 33.51117
 longitude: -112.11755
 postcode: "85017"
 city: Phoenix
-street: "North 27th Avenue"
-housenumber: 5030
-phone: "+1 602 242 3454"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://partsauthority.com/"
+street: North 27th Avenue
+housenumber: "5030"
+phone: +1 602 242 3454
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://partsauthority.com/

@@ -1,11 +1,11 @@
 id: 434746980
-type: way
+type: node
 latitude: 33.46572
 longitude: -111.70084
 postcode: "85215"
 city: Mesa
-street: "North Recker Road"
-housenumber: 2733
+street: North Recker Road
+housenumber: "2733"
 phone: ""
 opening_hours: ""
 website: ""

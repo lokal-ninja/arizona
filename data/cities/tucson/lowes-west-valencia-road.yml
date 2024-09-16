@@ -1,11 +1,11 @@
 id: 436811228
-type: way
+type: node
 latitude: 32.13532
 longitude: -111.00543
 postcode: "85746"
 city: Tucson
-street: "West Valencia Road"
-housenumber: 1800
-phone: "+1 520-741-2400"
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-tucson/1791"
+street: West Valencia Road
+housenumber: "1800"
+phone: +1 520-741-2400
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-tucson/1791

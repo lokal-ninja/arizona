@@ -1,11 +1,11 @@
 id: 1126391081
-type: way
+type: node
 latitude: 33.38004
 longitude: -111.91128
 postcode: "85282"
 city: Tempe
-street: "South McClintock Drive"
-housenumber: 5100
-phone: "+1 480-752-9733"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.frysfood.com/stores/grocery/az/tempe/baseline-mcclintock/660/00607"
+street: South McClintock Drive
+housenumber: "5100"
+phone: +1 480-752-9733
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.frysfood.com/stores/grocery/az/tempe/baseline-mcclintock/660/00607

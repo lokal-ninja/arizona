@@ -1,11 +1,11 @@
 id: 280794462
-type: way
+type: node
 latitude: 31.67874
 longitude: -110.65541
 postcode: "85611"
 city: Elgin
-street: "Highway 82"
-housenumber: 3235
+street: Highway 82
+housenumber: "3235"
 phone: ""
 opening_hours: ""
 website: ""

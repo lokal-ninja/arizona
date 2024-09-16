@@ -1,11 +1,11 @@
 id: 506629226
-type: way
+type: node
 latitude: 33.46911
 longitude: -112.38953
 postcode: "85395"
 city: Goodyear
-street: "North Pebblecreek Parkway"
-housenumber: 1985
-phone: "+1 623-935-1027"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/az/goodyear/pet-supplies-goodyear-az-1173.html"
+street: North Pebblecreek Parkway
+housenumber: "1985"
+phone: +1 623-935-1027
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/az/goodyear/pet-supplies-goodyear-az-1173.html

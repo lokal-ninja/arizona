@@ -1,11 +1,11 @@
 id: 230614649
-type: way
+type: node
 latitude: 33.57878
 longitude: -112.25548
 postcode: "85345"
 city: Peoria
-street: "North 91st Avenue"
-housenumber: 10380
-phone: "+1-623-748-1632"
+street: North 91st Avenue
+housenumber: "10380"
+phone: +1-623-748-1632
 opening_hours: ""
-website: "https://www.meineke.com/locations/az/peoria-4342/"
+website: https://www.meineke.com/locations/az/peoria-4342/

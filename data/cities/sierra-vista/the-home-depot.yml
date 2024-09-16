@@ -1,11 +1,11 @@
 id: 169399133
-type: way
+type: node
 latitude: 31.52926
 longitude: -110.26182
 postcode: "85635"
 city: Sierra Vista
-street: "Avenida Cochise"
-housenumber: 3500
-phone: "+1 520-439-2806"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/sierra-vista/az/sierra-vista/85635/443"
+street: Avenida Cochise
+housenumber: "3500"
+phone: +1 520-439-2806
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/sierra-vista/az/sierra-vista/85635/443

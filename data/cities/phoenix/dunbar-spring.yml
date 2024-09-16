@@ -1,11 +1,11 @@
 id: 126328344
-type: way
+type: node
 latitude: 33.44725
 longitude: -112.08319
 postcode: "85007"
 city: Phoenix
-street: "West Jefferson Street"
-housenumber: 718
+street: West Jefferson Street
+housenumber: "718"
 phone: ""
 opening_hours: ""
 website: ""

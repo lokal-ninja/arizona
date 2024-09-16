@@ -1,11 +1,11 @@
 id: 309663745
-type: way
+type: node
 latitude: 33.61533
 longitude: -111.90077
 postcode: "85260"
 city: Scottsdale
-street: "East Gelding Drive"
-housenumber: 8361
+street: East Gelding Drive
+housenumber: "8361"
 phone: ""
 opening_hours: ""
 website: ""

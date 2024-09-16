@@ -1,11 +1,11 @@
 id: 835207769
-type: way
+type: node
 latitude: 32.24926
 longitude: -110.92785
-postcode: "85716-2826"
+postcode: 85716-2826
 city: Tucson
-street: "North Country Club Road"
-housenumber: 2221
-phone: "+1 520-326-4323"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
+street: North Country Club Road
+housenumber: "2221"
+phone: +1 520-326-4323
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
 website: ""

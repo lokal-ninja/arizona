@@ -1,11 +1,11 @@
 id: 593177276
-type: way
+type: node
 latitude: 35.19115
 longitude: -111.6644
 postcode: "86001"
 city: Flagstaff
-street: "West Historic Route 66"
-housenumber: 1050
+street: West Historic Route 66
+housenumber: "1050"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

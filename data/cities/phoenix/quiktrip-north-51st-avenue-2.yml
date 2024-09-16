@@ -1,11 +1,11 @@
 id: 691765456
-type: way
+type: node
 latitude: 33.50879
 longitude: -112.16822
 postcode: "85031"
 city: Phoenix
-street: "North 51st Avenue"
-housenumber: 4949
+street: North 51st Avenue
+housenumber: "4949"
 phone: ""
 opening_hours: ""
 website: ""

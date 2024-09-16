@@ -1,11 +1,11 @@
 id: 810821918
-type: way
+type: node
 latitude: 33.46542
 longitude: -112.14583
 postcode: "85009"
 city: Phoenix
-street: "West McDowell Road"
-housenumber: 3949
+street: West McDowell Road
+housenumber: "3949"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/phoenix/14142"
+website: https://www.dollargeneral.com/store-directory/az/phoenix/14142

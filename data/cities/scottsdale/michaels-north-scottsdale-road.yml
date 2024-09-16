@@ -1,11 +1,11 @@
 id: 858775879
-type: way
+type: node
 latitude: 33.63392
 longitude: -111.92211
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 16239
-phone: "+1 480-315-0355"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/scottsdale/2009"
+street: North Scottsdale Road
+housenumber: "16239"
+phone: +1 480-315-0355
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/scottsdale/2009

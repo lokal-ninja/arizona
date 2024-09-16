@@ -1,11 +1,11 @@
 id: 846293113
-type: way
+type: node
 latitude: 33.28188
 longitude: -111.77696
 postcode: "85297"
 city: Gilbert
-street: "East Germann Road"
-housenumber: 596
+street: East Germann Road
+housenumber: "596"
 phone: ""
 opening_hours: ""
 website: ""

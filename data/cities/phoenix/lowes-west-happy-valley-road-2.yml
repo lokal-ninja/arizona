@@ -1,11 +1,11 @@
 id: 816560990
-type: way
+type: node
 latitude: 33.70989
 longitude: -112.10915
 postcode: "85085"
 city: Phoenix
-street: "West Happy Valley Road"
-housenumber: 2470
-phone: "+1 623-445-9840"
-opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/az-phoenix/2557"
+street: West Happy Valley Road
+housenumber: "2470"
+phone: +1 623-445-9840
+opening_hours: Mo-Fr 05:00-21:00; Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/az-phoenix/2557

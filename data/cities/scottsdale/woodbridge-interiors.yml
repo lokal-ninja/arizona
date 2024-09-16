@@ -1,11 +1,11 @@
 id: 310321438
-type: way
+type: node
 latitude: 33.62909
 longitude: -111.92673
 postcode: "85254"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 15630
+street: North Scottsdale Road
+housenumber: "15630"
 phone: ""
 opening_hours: ""
 website: ""

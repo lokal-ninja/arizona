@@ -1,11 +1,11 @@
 id: 808589378
-type: way
+type: node
 latitude: 33.42426
 longitude: -111.75233
 postcode: "85213"
 city: Mesa
-street: "North Val Vista Drive"
-housenumber: 441
-phone: "+1 480-830-5132"
+street: North Val Vista Drive
+housenumber: "441"
+phone: +1 480-830-5132
 opening_hours: ""
-website: "https://local.albertsons.com/az/mesa/441-n-val-vista-dr.html"
+website: https://local.albertsons.com/az/mesa/441-n-val-vista-dr.html

@@ -1,11 +1,11 @@
 id: 313029628
-type: way
+type: node
 latitude: 33.44477
 longitude: -111.73193
 postcode: "85205"
 city: Mesa
-street: "East Ivy Street"
-housenumber: 4551
+street: East Ivy Street
+housenumber: "4551"
 phone: ""
 opening_hours: ""
 website: ""

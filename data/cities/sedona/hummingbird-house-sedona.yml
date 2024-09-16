@@ -1,11 +1,11 @@
 id: 692833058
-type: way
+type: node
 latitude: 34.86442
 longitude: -111.765
 postcode: "86336"
 city: Sedona
-street: "Brewer Road"
-housenumber: 100
+street: Brewer Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.hummingbirdhouse-sedona.com/"
+website: https://www.hummingbirdhouse-sedona.com/

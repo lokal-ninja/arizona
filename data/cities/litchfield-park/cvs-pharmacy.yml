@@ -1,11 +1,11 @@
 id: 735392515
-type: way
+type: node
 latitude: 33.50768
 longitude: -112.35876
 postcode: "85340"
 city: Litchfield Park
-street: "North Litchfield Road"
-housenumber: 4890
+street: North Litchfield Road
+housenumber: "4890"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/litchfield-park-az-pharmacies/4890-n-litchfield-rd-litchfield-park-az-85340/storeid=5791"
+website: https://www.cvs.com/store-locator/litchfield-park-az-pharmacies/4890-n-litchfield-rd-litchfield-park-az-85340/storeid=5791

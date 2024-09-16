@@ -1,11 +1,11 @@
 id: 601339804
-type: way
+type: node
 latitude: 33.64014
 longitude: -112.13074
 postcode: "85053"
 city: Phoenix
-street: "West Bell Road"
-housenumber: 3306
-phone: "+1 602-993-9688"
+street: West Bell Road
+housenumber: "3306"
+phone: +1 602-993-9688
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/3306-west-bell-rd-20416"
+website: https://www.7-eleven.com/locations/az/phoenix/3306-west-bell-rd-20416

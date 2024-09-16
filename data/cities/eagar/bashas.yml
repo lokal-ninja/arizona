@@ -1,11 +1,11 @@
 id: 863609305
-type: way
+type: node
 latitude: 34.1139
 longitude: -109.29285
 postcode: "85925"
 city: Eagar
-street: "Main Street"
-housenumber: 150
+street: Main Street
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

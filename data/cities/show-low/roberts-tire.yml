@@ -1,11 +1,11 @@
 id: 388157501
-type: way
+type: node
 latitude: 34.25515
 longitude: -110.01753
 postcode: "85901"
 city: Show Low
-street: "North Penrod"
-housenumber: 701
+street: North Penrod
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 854081642
-type: way
+type: node
 latitude: 33.24819
 longitude: -111.62546
 postcode: "85142"
 city: Queen Creek
-street: "East Ocotillo Road"
-housenumber: 21201
+street: East Ocotillo Road
+housenumber: "21201"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/queen-creek-az-pharmacies/21201-east-ocotillo-rd-queen-creek-az-85142/storeid=1720"
+website: https://www.cvs.com/store-locator/queen-creek-az-pharmacies/21201-east-ocotillo-rd-queen-creek-az-85142/storeid=1720

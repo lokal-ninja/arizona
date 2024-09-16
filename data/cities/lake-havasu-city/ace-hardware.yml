@@ -1,11 +1,11 @@
 id: 915541951
-type: way
+type: node
 latitude: 34.50607
 longitude: -114.35191
-postcode: "86403-2881"
+postcode: 86403-2881
 city: Lake Havasu City
-street: "Kiowa Avenue"
-housenumber: 1799
-phone: "+1 928-680-6020"
-opening_hours: "Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00"
+street: Kiowa Avenue
+housenumber: "1799"
+phone: +1 928-680-6020
+opening_hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00
 website: ""

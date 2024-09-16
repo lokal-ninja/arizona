@@ -1,11 +1,11 @@
 id: 733318702
-type: way
+type: node
 latitude: 32.69878
 longitude: -114.62845
 postcode: "85364"
 city: Yuma
-street: "West 16th Street"
-housenumber: 700
+street: West 16th Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

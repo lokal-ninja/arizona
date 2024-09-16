@@ -1,11 +1,11 @@
 id: 96326175
-type: way
+type: node
 latitude: 33.65087
 longitude: -111.92783
 postcode: "85054"
 city: Phoenix
-street: "East Chauncey Lane"
-housenumber: 7101
+street: East Chauncey Lane
+housenumber: "7101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 222835827
-type: way
+type: node
 latitude: 33.55283
 longitude: -112.09902
 postcode: "85021"
 city: Phoenix
-street: "West Northern Avenue"
-housenumber: 1841
+street: West Northern Avenue
+housenumber: "1841"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

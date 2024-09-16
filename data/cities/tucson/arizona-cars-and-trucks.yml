@@ -1,11 +1,11 @@
 id: 908914894
-type: way
+type: node
 latitude: 32.25339
 longitude: -110.9791
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2525
+street: North Oracle Road
+housenumber: "2525"
 phone: ""
 opening_hours: ""
-website: "https://www.arizonacarsandtrucks.net/"
+website: https://www.arizonacarsandtrucks.net/

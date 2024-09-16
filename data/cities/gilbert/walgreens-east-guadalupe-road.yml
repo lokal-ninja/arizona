@@ -1,11 +1,11 @@
 id: 559776108
-type: way
+type: node
 latitude: 33.36418
 longitude: -111.75703
 postcode: "85234"
 city: Gilbert
-street: "East Guadalupe Road"
-housenumber: 1585
+street: East Guadalupe Road
+housenumber: "1585"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1585+e+guadalupe+rd-gilbert-az-85234/id=3184"
+website: https://www.walgreens.com/locator/walgreens-1585+e+guadalupe+rd-gilbert-az-85234/id=3184

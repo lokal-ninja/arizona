@@ -1,11 +1,11 @@
 id: 940821798
-type: way
+type: node
 latitude: 33.39546
 longitude: -111.95424
 postcode: "85282"
 city: Tempe
-street: "West Fairmont Drive"
-housenumber: 1115
+street: West Fairmont Drive
+housenumber: "1115"
 phone: ""
 opening_hours: ""
 website: ""

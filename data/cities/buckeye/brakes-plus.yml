@@ -1,11 +1,11 @@
 id: 313143150
-type: way
+type: node
 latitude: 33.43657
 longitude: -112.55763
 postcode: "85326"
 city: Buckeye
-street: "South Watson Road"
-housenumber: 1116
-phone: "+1-623-386-7568"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.brakesplus.com"
+street: South Watson Road
+housenumber: "1116"
+phone: +1-623-386-7568
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.brakesplus.com

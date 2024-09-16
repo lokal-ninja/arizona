@@ -1,11 +1,11 @@
 id: 224030639
-type: way
+type: node
 latitude: 33.34616
 longitude: -111.96783
 postcode: "85284"
 city: Tempe
-street: "South Autoplex Loop"
-housenumber: 7755
-phone: "+1 888-465-0577"
+street: South Autoplex Loop
+housenumber: "7755"
+phone: +1 888-465-0577
 opening_hours: ""
-website: "https://www.autonation.com/dealers/nissan-tempe-az"
+website: https://www.autonation.com/dealers/nissan-tempe-az

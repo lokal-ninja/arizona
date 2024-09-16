@@ -1,11 +1,11 @@
 id: 33881655
-type: way
+type: node
 latitude: 33.56674
 longitude: -112.07258
 postcode: "85020"
 city: Phoenix
-street: "East Dunlap Avenue"
-housenumber: 115
-phone: "+1 480-754-8043"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2632/phoenix-az/whats-new"
+street: East Dunlap Avenue
+housenumber: "115"
+phone: +1 480-754-8043
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2632/phoenix-az/whats-new

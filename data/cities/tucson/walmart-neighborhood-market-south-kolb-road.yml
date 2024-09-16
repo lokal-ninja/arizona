@@ -1,11 +1,11 @@
 id: 490455236
-type: way
+type: node
 latitude: 32.19338
 longitude: -110.84262
 postcode: "85710"
 city: Tucson
-street: "South Kolb Road"
-housenumber: 2550
-phone: "+1 520-329-6471"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3049-tucson-az"
+street: South Kolb Road
+housenumber: "2550"
+phone: +1 520-329-6471
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3049-tucson-az

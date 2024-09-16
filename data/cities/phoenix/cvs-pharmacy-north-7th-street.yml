@@ -1,11 +1,11 @@
 id: 384761268
-type: way
+type: node
 latitude: 33.49441
 longitude: -112.06461
 postcode: "85014"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 4045
+street: North 7th Street
+housenumber: "4045"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/phoenix-az-pharmacies/711-e-indian-school-rd-phoenix-az-85014/storeid=2963"
+website: https://www.cvs.com/store-locator/phoenix-az-pharmacies/711-e-indian-school-rd-phoenix-az-85014/storeid=2963

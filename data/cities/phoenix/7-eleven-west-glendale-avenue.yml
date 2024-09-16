@@ -1,11 +1,11 @@
 id: 151902026
-type: way
+type: node
 latitude: 33.53901
 longitude: -112.099
 postcode: "85021"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 1850
-phone: "+1 602-995-3493"
+street: West Glendale Avenue
+housenumber: "1850"
+phone: +1 602-995-3493
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/1850-w.-glendale-26085"
+website: https://www.7-eleven.com/locations/az/phoenix/1850-w.-glendale-26085

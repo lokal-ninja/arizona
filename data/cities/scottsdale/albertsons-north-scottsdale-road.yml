@@ -1,11 +1,11 @@
 id: 491375464
-type: way
+type: node
 latitude: 33.47943
 longitude: -111.92416
 postcode: "85257"
 city: Scottsdale
-street: "North Scottsdale Road"
-housenumber: 2785
-phone: "+1 480-947-6977"
+street: North Scottsdale Road
+housenumber: "2785"
+phone: +1 480-947-6977
 opening_hours: ""
-website: "https://local.albertsons.com/az/scottsdale/2785-n-scottsdale-rd.html"
+website: https://local.albertsons.com/az/scottsdale/2785-n-scottsdale-rd.html

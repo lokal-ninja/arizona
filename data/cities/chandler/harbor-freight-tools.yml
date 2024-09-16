@@ -1,11 +1,11 @@
 id: 828356894
-type: way
+type: node
 latitude: 33.32239
 longitude: -111.84011
 postcode: "85225"
 city: Chandler
-street: "North Arizona Avenue"
-housenumber: 1021
-phone: "+1 928-683-3829"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1021-n-arizona-avenue-chandler-85225?number=3188"
+street: North Arizona Avenue
+housenumber: "1021"
+phone: +1 928-683-3829
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1021-n-arizona-avenue-chandler-85225?number=3188

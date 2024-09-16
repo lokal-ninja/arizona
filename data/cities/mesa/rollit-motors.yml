@@ -1,11 +1,11 @@
 id: 562335293
-type: way
+type: node
 latitude: 33.4175
 longitude: -111.78875
 postcode: "85203"
 city: Mesa
-street: "North Gilbert Road"
-housenumber: 60
+street: North Gilbert Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

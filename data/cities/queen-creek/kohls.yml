@@ -1,11 +1,11 @@
 id: 853016857
-type: way
+type: node
 latitude: 33.25759
 longitude: -111.64307
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Loop Road"
-housenumber: 21058
-phone: "+1 480-987-6232"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/az/queencreek-1207.shtml"
+street: South Ellsworth Loop Road
+housenumber: "21058"
+phone: +1 480-987-6232
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/az/queencreek-1207.shtml

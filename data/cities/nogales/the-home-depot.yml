@@ -1,11 +1,11 @@
 id: 478952882
-type: way
+type: node
 latitude: 31.36008
 longitude: -110.93844
 postcode: "85621"
 city: Nogales
-street: "West White Park Drive"
-housenumber: 430
-phone: "+1 520-375-6545"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/nogales/az/nogales/85621/8488"
+street: West White Park Drive
+housenumber: "430"
+phone: +1 520-375-6545
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/nogales/az/nogales/85621/8488

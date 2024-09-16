@@ -1,11 +1,11 @@
 id: 286668680
-type: way
+type: node
 latitude: 33.49608
 longitude: -111.98766
 postcode: "85018"
 city: Phoenix
-street: "North 44th Street"
-housenumber: 4134
+street: North 44th Street
+housenumber: "4134"
 phone: "+16029549119"
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4134+n+44th+st-phoenix-az-85018/id=5938"
+website: https://www.walgreens.com/locator/walgreens-4134+n+44th+st-phoenix-az-85018/id=5938

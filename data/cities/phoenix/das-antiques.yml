@@ -1,11 +1,11 @@
 id: 263812855
-type: way
+type: node
 latitude: 33.46255
 longitude: -112.12142
 postcode: "85009"
 city: Phoenix
-street: "West Culver Street"
-housenumber: 2901
+street: West Culver Street
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

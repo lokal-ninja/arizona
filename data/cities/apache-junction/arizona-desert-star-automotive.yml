@@ -1,11 +1,11 @@
 id: 256408782
-type: way
+type: node
 latitude: 33.4037
 longitude: -111.52757
 postcode: ""
 city: Apache Junction
-street: "East 12th Avenue"
-housenumber: 1725
-phone: "+1 480 671 4478"
+street: East 12th Avenue
+housenumber: "1725"
+phone: +1 480 671 4478
 opening_hours: ""
-website: "http://www.arizonadesertstarautomotive.com/"
+website: http://www.arizonadesertstarautomotive.com/

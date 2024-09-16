@@ -1,11 +1,11 @@
 id: 666743006
-type: way
+type: node
 latitude: 33.41466
 longitude: -111.55185
 postcode: "85120"
 city: Apache Junction
-street: "West Apache Trail"
-housenumber: 505
-phone: "+1 480 627 8408"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/az/apache-junction/s/2154"
+street: West Apache Trail
+housenumber: "505"
+phone: +1 480 627 8408
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/store/az/apache-junction/s/2154

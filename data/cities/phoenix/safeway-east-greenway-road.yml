@@ -1,11 +1,11 @@
 id: 666207503
-type: way
+type: node
 latitude: 33.62459
 longitude: -111.97943
 postcode: "85032"
 city: Phoenix
-street: "East Greenway Road"
-housenumber: 4747
-phone: "+1 602-996-5635"
+street: East Greenway Road
+housenumber: "4747"
+phone: +1 602-996-5635
 opening_hours: ""
-website: "https://local.safeway.com/safeway/az/phoenix/4747-e-greenway-rd.html"
+website: https://local.safeway.com/safeway/az/phoenix/4747-e-greenway-rd.html

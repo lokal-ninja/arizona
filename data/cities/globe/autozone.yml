@@ -1,11 +1,11 @@
 id: 647126296
-type: way
+type: node
 latitude: 33.41638
 longitude: -110.80024
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1735
+street: North Broad Street
+housenumber: "1735"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/globe/1765-n-broad-st.html"
+website: https://www.autozone.com/locations/az/globe/1765-n-broad-st.html

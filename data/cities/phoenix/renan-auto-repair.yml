@@ -1,11 +1,11 @@
 id: 1005018145
-type: way
+type: node
 latitude: 33.45267
 longitude: -112.13472
 postcode: "85009"
 city: Phoenix
-street: "North 35th Avenue"
-housenumber: 408
+street: North 35th Avenue
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

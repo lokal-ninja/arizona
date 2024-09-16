@@ -1,11 +1,11 @@
 id: 168657629
-type: way
+type: node
 latitude: 33.64029
 longitude: -112.2071
 postcode: "85308"
 city: Glendale
-street: "West Bell Road"
-housenumber: 6880
-phone: "+1 623-486-1550"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/w-bell-rd/az/glendale/85308/459"
+street: West Bell Road
+housenumber: "6880"
+phone: +1 623-486-1550
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/w-bell-rd/az/glendale/85308/459

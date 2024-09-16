@@ -1,11 +1,11 @@
 id: 995943810
-type: way
+type: node
 latitude: 33.45508
 longitude: -112.35713
 postcode: "85338"
 city: Goodyear
-street: "West Test Drive"
-housenumber: 13845
+street: West Test Drive
+housenumber: "13845"
 phone: ""
 opening_hours: ""
 website: ""

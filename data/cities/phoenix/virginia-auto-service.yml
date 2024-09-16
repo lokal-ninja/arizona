@@ -4,8 +4,8 @@ latitude: 33.47691
 longitude: -112.06575
 postcode: "85004"
 city: Phoenix
-street: "East Virginia Avenue"
-housenumber: 386
-phone: "+1-602-266-0200"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "http://www.virginiaautoservice.com"
+street: East Virginia Avenue
+housenumber: "386"
+phone: +1-602-266-0200
+opening_hours: Mo-Fr 07:30-18:00
+website: http://www.virginiaautoservice.com

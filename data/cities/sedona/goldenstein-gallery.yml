@@ -1,11 +1,11 @@
 id: 782878496
-type: way
+type: node
 latitude: 34.86257
 longitude: -111.81577
 postcode: "86336"
 city: Sedona
-street: "Dry Creek Road"
-housenumber: 70
-phone: "(928) 204-1765"
+street: Dry Creek Road
+housenumber: "70"
+phone: (928) 204-1765
 opening_hours: ""
-website: "https://goldensteinart.com/"
+website: https://goldensteinart.com/

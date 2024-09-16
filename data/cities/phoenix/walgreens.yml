@@ -1,11 +1,11 @@
 id: 33168245
-type: way
+type: node
 latitude: 33.60645
 longitude: -112.0646
 postcode: "85028"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 13227
+street: North 7th Street
+housenumber: "13227"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-13227+n+7th+st-phoenix-az-85022/id=6599"
+website: https://www.walgreens.com/locator/walgreens-13227+n+7th+st-phoenix-az-85022/id=6599

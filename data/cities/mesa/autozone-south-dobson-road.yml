@@ -1,11 +1,11 @@
 id: 669881487
-type: way
+type: node
 latitude: 33.39913
 longitude: -111.87412
 postcode: "85202"
 city: Mesa
-street: "South Dobson Road"
-housenumber: 845
+street: South Dobson Road
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/mesa/845-s-dobson.html"
+website: https://www.autozone.com/locations/az/mesa/845-s-dobson.html

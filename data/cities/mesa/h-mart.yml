@@ -1,11 +1,11 @@
 id: 895271933
-type: way
+type: node
 latitude: 33.41345
 longitude: -111.87221
 postcode: "85201"
 city: Mesa
-street: "West Main Street"
-housenumber: 1919
+street: West Main Street
+housenumber: "1919"
 phone: ""
 opening_hours: ""
 website: ""

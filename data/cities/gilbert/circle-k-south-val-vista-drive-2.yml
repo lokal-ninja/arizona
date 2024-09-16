@@ -1,10 +1,10 @@
 id: 593140503
-type: way
+type: node
 latitude: 33.34972
 longitude: -111.75484
-postcode: "85234;85296"
+postcode: 85234;85296
 city: Gilbert
-street: "South Val Vista Drive"
+street: South Val Vista Drive
 housenumber: 22;33
 phone: ""
 opening_hours: ""

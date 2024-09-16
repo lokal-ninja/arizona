@@ -1,11 +1,11 @@
 id: 600038420
-type: way
+type: node
 latitude: 33.30376
 longitude: -111.85977
 postcode: "85224"
 city: Chandler
-street: "West Parklane Boulevard"
-housenumber: 1025
+street: West Parklane Boulevard
+housenumber: "1025"
 phone: ""
 opening_hours: ""
 website: ""

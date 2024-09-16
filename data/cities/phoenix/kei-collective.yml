@@ -4,8 +4,8 @@ latitude: 33.47375
 longitude: -111.98648
 postcode: "85008"
 city: Phoenix
-street: "North 44th Street"
-housenumber: 2303
+street: North 44th Street
+housenumber: "2303"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
-website: "https://www.keicollective.com/"
+opening_hours: Mo-Sa 12:00-19:00
+website: https://www.keicollective.com/

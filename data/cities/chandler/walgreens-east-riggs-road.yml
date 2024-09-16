@@ -1,11 +1,11 @@
 id: 936188781
-type: way
+type: node
 latitude: 33.21869
 longitude: -111.78828
 postcode: "85249"
 city: Chandler
-street: "East Riggs Road"
-housenumber: 3005
+street: East Riggs Road
+housenumber: "3005"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3005+e+riggs+rd-chandler-az-85249/id=4077"
+website: https://www.walgreens.com/locator/walgreens-3005+e+riggs+rd-chandler-az-85249/id=4077

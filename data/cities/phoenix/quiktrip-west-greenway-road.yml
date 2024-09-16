@@ -1,11 +1,11 @@
 id: 456778083
-type: way
+type: node
 latitude: 33.62571
 longitude: -112.14111
 postcode: "85053"
 city: Phoenix
-street: "West Greenway Road"
-housenumber: 3806
+street: West Greenway Road
+housenumber: "3806"
 phone: ""
 opening_hours: ""
 website: ""

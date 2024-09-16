@@ -1,11 +1,11 @@
 id: 222246501
-type: way
+type: node
 latitude: 33.53828
 longitude: -112.11667
 postcode: "85051"
 city: Phoenix
-street: "West Glendale Avenue"
-housenumber: 2651
-phone: "+1 602-249-2234"
+street: West Glendale Avenue
+housenumber: "2651"
+phone: +1 602-249-2234
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/phoenix/2651-w.-glendale-ave-18117"
+website: https://www.7-eleven.com/locations/az/phoenix/2651-w.-glendale-ave-18117

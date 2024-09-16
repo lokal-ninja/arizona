@@ -1,11 +1,11 @@
 id: 829931985
-type: way
+type: node
 latitude: 32.21974
 longitude: -110.77182
 postcode: "85748"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 10380
-phone: "+1 520-885-7777"
-opening_hours: "06:00-22:00"
-website: "https://local.safeway.com/safeway/az/tucson/10380-e-broadway-blvd.html"
+street: East Broadway Boulevard
+housenumber: "10380"
+phone: +1 520-885-7777
+opening_hours: 06:00-22:00
+website: https://local.safeway.com/safeway/az/tucson/10380-e-broadway-blvd.html

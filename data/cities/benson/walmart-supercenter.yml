@@ -1,11 +1,11 @@
 id: 184794219
-type: way
+type: node
 latitude: 31.96917
 longitude: -110.31506
 postcode: "85602"
 city: Benson
-street: "South Prickly Pear Avenue"
-housenumber: 201
-phone: "+1-520-586-0742"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3807/benson-az/whats-new"
+street: South Prickly Pear Avenue
+housenumber: "201"
+phone: +1-520-586-0742
+opening_hours: 24/7
+website: https://www.walmart.com/store/3807/benson-az/whats-new

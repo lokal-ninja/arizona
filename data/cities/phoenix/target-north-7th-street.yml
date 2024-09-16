@@ -1,11 +1,11 @@
 id: 262861226
-type: way
+type: node
 latitude: 33.6385
 longitude: -112.06839
 postcode: "85022"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 16806
-phone: "+1 602-794-3601"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/phoenix-7th-street-and-bell/2236"
+street: North 7th Street
+housenumber: "16806"
+phone: +1 602-794-3601
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/phoenix-7th-street-and-bell/2236

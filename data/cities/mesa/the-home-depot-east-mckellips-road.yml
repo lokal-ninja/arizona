@@ -1,11 +1,11 @@
 id: 344168513
-type: way
+type: node
 latitude: 33.45419
 longitude: -111.68668
 postcode: "85215"
 city: Mesa
-street: "East McKellips Road"
-housenumber: 6708
-phone: "+1 480-830-2463"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/ne-mesa/az/mesa/85215/406"
+street: East McKellips Road
+housenumber: "6708"
+phone: +1 480-830-2463
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/ne-mesa/az/mesa/85215/406

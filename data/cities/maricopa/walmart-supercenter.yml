@@ -1,11 +1,11 @@
 id: 199348420
-type: way
+type: node
 latitude: 33.03991
 longitude: -112.01462
 postcode: "85138"
 city: Maricopa
-street: "West Maricopa Casa Grande Highway"
-housenumber: 41650
-phone: "+1 520-568-0846"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4430-maricopa-az"
+street: West Maricopa Casa Grande Highway
+housenumber: "41650"
+phone: +1 520-568-0846
+opening_hours: 24/7
+website: https://www.walmart.com/store/4430-maricopa-az

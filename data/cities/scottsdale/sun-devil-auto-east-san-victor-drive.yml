@@ -1,11 +1,11 @@
 id: 907921598
-type: way
+type: node
 latitude: 33.5713
 longitude: -111.88798
 postcode: "85258"
 city: Scottsdale
-street: "East San Victor Drive"
-housenumber: 8919
+street: East San Victor Drive
+housenumber: "8919"
 phone: "+14807578247"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:30-17:00"
-website: "https://www.sundevilauto.com/locations/scottsdale-17/"
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:30-17:00
+website: https://www.sundevilauto.com/locations/scottsdale-17/

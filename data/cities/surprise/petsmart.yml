@@ -1,11 +1,11 @@
 id: 361462473
-type: way
+type: node
 latitude: 33.64106
 longitude: -112.35682
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13764
-phone: "+1 623-546-8500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/surprise-store1040.html"
+street: West Bell Road
+housenumber: "13764"
+phone: +1 623-546-8500
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://www.petsmart.com/stores/us/az/surprise-store1040.html

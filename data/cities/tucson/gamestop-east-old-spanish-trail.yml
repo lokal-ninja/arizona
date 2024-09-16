@@ -1,11 +1,11 @@
 id: 838007088
-type: way
+type: node
 latitude: 32.20839
 longitude: -110.78877
 postcode: ""
 city: Tucson
-street: "East Old Spanish Trail"
-housenumber: 117
+street: East Old Spanish Trail
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/az/tucson/5107/old-spanish-trail-crossing-gamestop"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gamestop.com/store/us/az/tucson/5107/old-spanish-trail-crossing-gamestop

@@ -1,11 +1,11 @@
 id: 909934572
-type: way
+type: node
 latitude: 34.53781
 longitude: -114.35064
 postcode: "86404"
 city: Lake Havasu City
-street: "State Route 95"
-housenumber: 3200
-phone: "+1 928-505-9103"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Route 95
+housenumber: "3200"
+phone: +1 928-505-9103
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

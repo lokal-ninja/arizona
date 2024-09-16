@@ -1,11 +1,11 @@
 id: 1303967191
-type: way
+type: node
 latitude: 33.79895
 longitude: -112.1312
 postcode: "85086"
 city: Phoenix
-street: "N. Valley Parkway"
-housenumber: 34640
-phone: "623 879 1098"
-opening_hours: "Mo-Fr 09:00-20:00, Sat 9:00-18:00, Sun 10:00-16:00"
-website: "https://www.sportclipsinc.com/"
+street: N. Valley Parkway
+housenumber: "34640"
+phone: 623 879 1098
+opening_hours: Mo-Fr 09:00-20:00, Sat 9:00-18:00, Sun 10:00-16:00
+website: https://www.sportclipsinc.com/

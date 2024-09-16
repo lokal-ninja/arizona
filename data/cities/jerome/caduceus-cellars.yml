@@ -4,8 +4,8 @@ latitude: 34.75133
 longitude: -112.11644
 postcode: "86331"
 city: Jerome
-street: "Main Street"
-housenumber: 158
+street: Main Street
+housenumber: "158"
 phone: "+19286499293"
-opening_hours: "Su-Th 11:00-18:00; Fr,Sa 11:00-19:00"
-website: "https://caduceus.org/"
+opening_hours: Su-Th 11:00-18:00; Fr,Sa 11:00-19:00
+website: https://caduceus.org/

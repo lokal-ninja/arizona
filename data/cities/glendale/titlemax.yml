@@ -1,11 +1,11 @@
 id: 340251403
-type: way
+type: node
 latitude: 33.50986
 longitude: -112.18688
 postcode: "85301"
 city: Glendale
-street: "West Camelback Road"
-housenumber: 5902
+street: West Camelback Road
+housenumber: "5902"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 259744689
-type: way
+type: node
 latitude: 31.62442
 longitude: -110.33504
 postcode: "85616"
 city: Huachuca City
-street: "North Huachuca Boulevard"
-housenumber: 100
-phone: "+1 520 456 0203"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "http://www.alleycarpetandflooring.com/"
+street: North Huachuca Boulevard
+housenumber: "100"
+phone: +1 520 456 0203
+opening_hours: Mo-Fr 10:00-15:00
+website: http://www.alleycarpetandflooring.com/

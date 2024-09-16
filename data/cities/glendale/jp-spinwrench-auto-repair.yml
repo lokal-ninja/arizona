@@ -1,11 +1,11 @@
 id: 990092185
-type: way
+type: node
 latitude: 33.52988
 longitude: -112.17293
 postcode: "85301"
 city: Glendale
-street: "North 53rd Avenue"
-housenumber: 6407
+street: North 53rd Avenue
+housenumber: "6407"
 phone: ""
 opening_hours: ""
 website: ""

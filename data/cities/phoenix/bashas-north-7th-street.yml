@@ -4,8 +4,8 @@ latitude: 33.51764
 longitude: -112.06328
 postcode: "85014"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 5555
-phone: "+1-602-222-1820"
+street: North 7th Street
+housenumber: "5555"
+phone: +1-602-222-1820
 opening_hours: ""
-website: "https://bashas.com/"
+website: https://bashas.com/

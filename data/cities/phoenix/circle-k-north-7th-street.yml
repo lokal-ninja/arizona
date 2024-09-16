@@ -1,11 +1,11 @@
 id: 151608412
-type: way
+type: node
 latitude: 33.47986
 longitude: -112.06574
 postcode: "85006"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 2850
+street: North 7th Street
+housenumber: "2850"
 phone: "+16022801278"
 opening_hours: ""
 website: ""

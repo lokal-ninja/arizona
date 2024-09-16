@@ -1,11 +1,11 @@
 id: 221879292
-type: way
+type: node
 latitude: 33.62002
 longitude: -111.90219
 postcode: ""
 city: Scottsdale
-street: "East Raintree Drive"
-housenumber: 8300
+street: East Raintree Drive
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

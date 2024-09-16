@@ -1,11 +1,11 @@
 id: 521916400
-type: way
+type: node
 latitude: 32.32559
 longitude: -109.48328
 postcode: "85605"
 city: Bowie
-street: "East Business Loop"
-housenumber: 426
-phone: "+1 520 847 8272"
+street: East Business Loop
+housenumber: "426"
+phone: +1 520 847 8272
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 559808909
-type: way
+type: node
 latitude: 33.47598
 longitude: -111.98446
 postcode: "85018"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 4531
-phone: "602-955-2773"
+street: East Thomas Road
+housenumber: "4531"
+phone: 602-955-2773
 opening_hours: ""
-website: "https://www.conns.com/az/phoenix/4531-e-thomas-rd-85018"
+website: https://www.conns.com/az/phoenix/4531-e-thomas-rd-85018

@@ -1,11 +1,11 @@
 id: 853100449
-type: way
+type: node
 latitude: 33.25334
 longitude: -111.63539
 postcode: "85142"
 city: Queen Creek
-street: "South Ellsworth Road"
-housenumber: 21500
+street: South Ellsworth Road
+housenumber: "21500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 426089309
-type: way
+type: node
 latitude: 33.58134
 longitude: -112.16834
 postcode: "85302"
 city: Glendale
-street: "West Peoria Avenue"
-housenumber: 5049
+street: West Peoria Avenue
+housenumber: "5049"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 852219746
-type: way
+type: node
 latitude: 32.2619
 longitude: -110.89287
 postcode: "85712"
 city: Tucson
-street: "North Swan"
-housenumber: 3001
-phone: "+1 520-795-3644"
+street: North Swan
+housenumber: "3001"
+phone: +1 520-795-3644
 opening_hours: ""
-website: "https://www.starbucks.com/store-locator/store/1022325/swan-fort-lowell-3001-north-swan-tucson-az-857121224-us"
+website: https://www.starbucks.com/store-locator/store/1022325/swan-fort-lowell-3001-north-swan-tucson-az-857121224-us

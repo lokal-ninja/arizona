@@ -1,11 +1,11 @@
 id: 514128736
-type: way
+type: node
 latitude: 33.39834
 longitude: -111.8418
 postcode: "85210"
 city: Mesa
-street: "South Country Club Drive"
-housenumber: 922
-phone: "+1 (480) 267-9516"
+street: South Country Club Drive
+housenumber: "922"
+phone: +1 (480) 267-9516
 opening_hours: ""
-website: "https://www.desertwindharley.com/"
+website: https://www.desertwindharley.com/

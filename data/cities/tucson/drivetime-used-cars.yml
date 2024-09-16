@@ -1,11 +1,11 @@
 id: 896082656
-type: way
+type: node
 latitude: 32.25
 longitude: -110.97908
 postcode: "85705"
 city: Tucson
-street: "North Oracle Road"
-housenumber: 2301
+street: North Oracle Road
+housenumber: "2301"
 phone: ""
 opening_hours: ""
-website: "https://www.drivetime.com/"
+website: https://www.drivetime.com/

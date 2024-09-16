@@ -1,11 +1,11 @@
 id: 958750289
-type: way
+type: node
 latitude: 33.41534
 longitude: -110.80092
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1750
-phone: "+1 928 425 8595"
-opening_hours: "Mo-Th 10:00-18:30; Fr 09:00-18:30; Sa 10:00-16:00"
-website: "https://www.cloverauto.com/"
+street: North Broad Street
+housenumber: "1750"
+phone: +1 928 425 8595
+opening_hours: Mo-Th 10:00-18:30; Fr 09:00-18:30; Sa 10:00-16:00
+website: https://www.cloverauto.com/

@@ -1,11 +1,11 @@
 id: 832399337
-type: way
+type: node
 latitude: 33.40018
 longitude: -111.85654
 postcode: "85210"
 city: Mesa
-street: "South Alma School Road"
-housenumber: 815
-phone: "+1 480-833-8626"
+street: South Alma School Road
+housenumber: "815"
+phone: +1 480-833-8626
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/mesa/815-s.-alma-school-rd-21821"
+website: https://www.7-eleven.com/locations/az/mesa/815-s.-alma-school-rd-21821

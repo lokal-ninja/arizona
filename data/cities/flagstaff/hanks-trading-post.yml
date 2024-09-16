@@ -1,11 +1,11 @@
 id: 817571177
-type: way
+type: node
 latitude: 35.59269
 longitude: -111.52798
 postcode: "86004"
 city: Flagstaff
-street: "N US Highway 89"
-housenumber: 31926
-phone: "928-679-2357"
-opening_hours: "Mo-Fr 09:00-18:00, 10:00 on Wednesday"
+street: N US Highway 89
+housenumber: "31926"
+phone: 928-679-2357
+opening_hours: Mo-Fr 09:00-18:00, 10:00 on Wednesday
 website: ""

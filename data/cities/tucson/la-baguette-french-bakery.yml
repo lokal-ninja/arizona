@@ -1,11 +1,11 @@
 id: 240744834
-type: way
+type: node
 latitude: 32.2735
 longitude: -110.94459
 postcode: "85719"
 city: Tucson
-street: "East Prince Road"
-housenumber: 1797
+street: East Prince Road
+housenumber: "1797"
 phone: ""
 opening_hours: ""
 website: ""

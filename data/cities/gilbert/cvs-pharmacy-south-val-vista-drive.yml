@@ -1,11 +1,11 @@
 id: 570337241
-type: way
+type: node
 latitude: 33.30632
 longitude: -111.75628
 postcode: "85295"
 city: Gilbert
-street: "South Val Vista Drive"
-housenumber: 2428
+street: South Val Vista Drive
+housenumber: "2428"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/gilbert-az-pharmacies/2428-s-val-vista-dr-gilbert-az-85295/storeid=8365"
+website: https://www.cvs.com/store-locator/gilbert-az-pharmacies/2428-s-val-vista-dr-gilbert-az-85295/storeid=8365

@@ -1,11 +1,11 @@
 id: 1069103385
-type: way
+type: node
 latitude: 33.37724
 longitude: -112.04843
 postcode: "85042"
 city: Phoenix
-street: "East Baseline Road"
-housenumber: 1555
+street: East Baseline Road
+housenumber: "1555"
 phone: ""
 opening_hours: ""
 website: ""

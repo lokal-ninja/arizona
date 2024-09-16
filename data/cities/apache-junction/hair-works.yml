@@ -4,8 +4,8 @@ latitude: 33.42275
 longitude: -111.54856
 postcode: "85120"
 city: Apache Junction
-street: "West Superstition Boulevard"
-housenumber: 212
+street: West Superstition Boulevard
+housenumber: "212"
 phone: ""
-opening_hours: "Tu-Fr 09:00-15:00, Tu-Fr 15:00+ By appointment; Sa By appointment"
+opening_hours: Tu-Fr 09:00-15:00, Tu-Fr 15:00+ "By appointment"; Sa "By appointment"
 website: ""

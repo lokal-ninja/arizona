@@ -1,11 +1,11 @@
 id: 819671243
-type: way
+type: node
 latitude: 33.36868
 longitude: -111.81979
 postcode: "85233"
 city: Gilbert
-street: "West San Angelo Street"
-housenumber: 1415
+street: West San Angelo Street
+housenumber: "1415"
 phone: ""
 opening_hours: ""
 website: ""

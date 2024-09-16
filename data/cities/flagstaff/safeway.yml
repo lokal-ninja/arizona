@@ -4,8 +4,8 @@ latitude: 35.18947
 longitude: -111.66372
 postcode: "86001"
 city: Flagstaff
-street: "South Plaza Way"
-housenumber: 1201
-phone: "+1 928-779-3401"
-opening_hours: "Mo-Su 05:00-00:00"
-website: "https://local.safeway.com/safeway/az/flagstaff/1201-s-plaza-way.html"
+street: South Plaza Way
+housenumber: "1201"
+phone: +1 928-779-3401
+opening_hours: Mo-Su 05:00-00:00
+website: https://local.safeway.com/safeway/az/flagstaff/1201-s-plaza-way.html

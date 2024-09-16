@@ -1,11 +1,11 @@
 id: 1157119057
-type: way
+type: node
 latitude: 33.60639
 longitude: -112.41692
 postcode: "85388"
 city: Surprise
-street: "North Prasada Parkway"
-housenumber: 13410
-phone: "+1 623-336-6060"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/az/surprise-store3234.html"
+street: North Prasada Parkway
+housenumber: "13410"
+phone: +1 623-336-6060
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/az/surprise-store3234.html

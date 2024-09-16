@@ -1,11 +1,11 @@
 id: 827510448
-type: way
+type: node
 latitude: 33.39728
 longitude: -111.83988
 postcode: "85210"
 city: Mesa
-street: "South Country Club Drive"
-housenumber: 955
+street: South Country Club Drive
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

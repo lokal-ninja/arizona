@@ -1,11 +1,11 @@
 id: 1288133269
-type: way
+type: node
 latitude: 33.47937
 longitude: -112.34024
 postcode: "85392"
 city: Avondale
-street: "North Dysart Road"
-housenumber: 2915
+street: North Dysart Road
+housenumber: "2915"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 838366633
-type: way
+type: node
 latitude: 32.22118
 longitude: -110.87329
 postcode: "85711"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 5566
-phone: "+1 520-600-5585"
+street: East Broadway Boulevard
+housenumber: "5566"
+phone: +1 520-600-5585
 opening_hours: ""
-website: "https://stores.partycity.com/us/az/tucson/party-store-pc944.html"
+website: https://stores.partycity.com/us/az/tucson/party-store-pc944.html

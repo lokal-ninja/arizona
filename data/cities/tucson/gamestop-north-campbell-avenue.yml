@@ -1,11 +1,11 @@
 id: 232214458
-type: way
+type: node
 latitude: 32.25953
 longitude: -110.94345
 postcode: "85719"
 city: Tucson
-street: "North Campbell Avenue"
-housenumber: 2910
+street: North Campbell Avenue
+housenumber: "2910"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/az/tucson/1778/campbell-plaza-gamestop"
+website: https://www.gamestop.com/store/us/az/tucson/1778/campbell-plaza-gamestop

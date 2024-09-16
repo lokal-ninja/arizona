@@ -1,11 +1,11 @@
 id: 506257624
-type: way
+type: node
 latitude: 32.98439
 longitude: -111.52444
 postcode: "85128"
 city: Coolidge
-street: "North Arizona Boulevard"
-housenumber: 780
+street: North Arizona Boulevard
+housenumber: "780"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/AZ/Coolidge/780-N-Arizona-Blvd"
+website: https://www.speedway.com/locations/AZ/Coolidge/780-N-Arizona-Blvd

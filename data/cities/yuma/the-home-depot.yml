@@ -1,11 +1,11 @@
 id: 481080202
-type: way
+type: node
 latitude: 32.70698
 longitude: -114.61258
 postcode: "85365"
 city: Yuma
-street: "South Redondo Center Drive"
-housenumber: 1111
-phone: "+1 928-373-9453"
-opening_hours: "Mo-Sa 05:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/yuma/az/yuma/85365/402"
+street: South Redondo Center Drive
+housenumber: "1111"
+phone: +1 928-373-9453
+opening_hours: Mo-Sa 05:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/yuma/az/yuma/85365/402

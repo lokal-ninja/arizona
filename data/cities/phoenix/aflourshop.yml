@@ -4,8 +4,8 @@ latitude: 33.45695
 longitude: -112.065
 postcode: "85006"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 803
-phone: "+1-602-274-2253"
-opening_hours: "Mo-Sa 07:00-15:00"
-website: "https://www.aflourshop.com/"
+street: North 7th Street
+housenumber: "803"
+phone: +1-602-274-2253
+opening_hours: Mo-Sa 07:00-15:00
+website: https://www.aflourshop.com/

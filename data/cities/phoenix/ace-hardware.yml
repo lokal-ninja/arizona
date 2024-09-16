@@ -4,8 +4,8 @@ latitude: 33.51835
 longitude: -112.06395
 postcode: "85014"
 city: Phoenix
-street: "North 7th Street"
-housenumber: 5555
-phone: "+1 602-241-4000"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/11388"
+street: North 7th Street
+housenumber: "5555"
+phone: +1 602-241-4000
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/11388

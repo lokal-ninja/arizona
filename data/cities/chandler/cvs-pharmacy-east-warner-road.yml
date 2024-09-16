@@ -1,11 +1,11 @@
 id: 821248276
-type: way
+type: node
 latitude: 33.33584
 longitude: -111.82514
 postcode: "85225"
 city: Chandler
-street: "East Warner Road"
-housenumber: 990
-phone: "+1-480-899-3260"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/chandler-az-pharmacies/990-e-warner-rd-chandler-az-85225/storeid=3143"
+street: East Warner Road
+housenumber: "990"
+phone: +1-480-899-3260
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/chandler-az-pharmacies/990-e-warner-rd-chandler-az-85225/storeid=3143

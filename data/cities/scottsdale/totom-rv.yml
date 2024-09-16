@@ -1,11 +1,11 @@
 id: 1196868799
-type: way
+type: node
 latitude: 33.4649
 longitude: -111.93667
 postcode: ""
 city: Scottsdale
-street: "North 67th Place"
-housenumber: 1550
+street: North 67th Place
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 297048794
-type: way
+type: node
 latitude: 32.61035
 longitude: -110.76642
 postcode: ""
 city: Oracle
-street: "East American Avenue"
-housenumber: 690
-phone: "+1 520 896 2405"
+street: East American Avenue
+housenumber: "690"
+phone: +1 520 896 2405
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 573218827
-type: way
+type: node
 latitude: 33.40249
 longitude: -112.07424
 postcode: ""
 city: Phoenix
-street: "South Central Avenue"
-housenumber: 
+street: South Central Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/az/phoenix/4832-s-central-ave.html"
+website: https://www.autozone.com/locations/az/phoenix/4832-s-central-ave.html

@@ -1,11 +1,11 @@
 id: 729760378
-type: way
+type: node
 latitude: 32.83178
 longitude: -109.71666
 postcode: "85546"
 city: Safford
-street: "South 8th Avenue"
-housenumber: 750
-phone: "+1 928 428 5550"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/store/2984"
+street: South 8th Avenue
+housenumber: "750"
+phone: +1 928 428 5550
+opening_hours: 24/7
+website: https://www.speedway.com/locations/store/2984

@@ -1,11 +1,11 @@
 id: 103101273
-type: way
+type: node
 latitude: 35.22343
 longitude: -114.03337
 postcode: "86409"
 city: Kingman
-street: "Stockton Hill Road"
-housenumber: 3396
-phone: "+1 928-692-0555"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2051/kingman-az/whats-new"
+street: Stockton Hill Road
+housenumber: "3396"
+phone: +1 928-692-0555
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2051/kingman-az/whats-new

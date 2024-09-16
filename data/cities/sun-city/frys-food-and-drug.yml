@@ -1,11 +1,11 @@
 id: 591666254
-type: way
+type: node
 latitude: 33.60112
 longitude: -112.2893
 postcode: "85351"
 city: Sun City
-street: "Grand Avenue"
-housenumber: 10660
-phone: "+1 623-876-8220"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.frysfood.com/stores/grocery/az/sun-city/107th-ave-grand-ave/660/00122"
+street: Grand Avenue
+housenumber: "10660"
+phone: +1 623-876-8220
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.frysfood.com/stores/grocery/az/sun-city/107th-ave-grand-ave/660/00122

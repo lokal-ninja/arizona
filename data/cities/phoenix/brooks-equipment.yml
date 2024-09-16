@@ -1,11 +1,11 @@
 id: 943364204
-type: way
+type: node
 latitude: 33.46934
 longitude: -112.11279
 postcode: "85009"
 city: Phoenix
-street: "North 25th Drive"
-housenumber: 1925
+street: North 25th Drive
+housenumber: "1925"
 phone: ""
 opening_hours: ""
 website: ""

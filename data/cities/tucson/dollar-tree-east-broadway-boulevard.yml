@@ -1,11 +1,11 @@
 id: 807951077
-type: way
+type: node
 latitude: 32.22216
 longitude: -110.77234
 postcode: "85748"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 10315
+street: East Broadway Boulevard
+housenumber: "10315"
 phone: "+15204167015"
-opening_hours: "09:00-20:00"
-website: "https://www.dollartree.com/locations/az/tucson/8625/"
+opening_hours: 09:00-20:00
+website: https://www.dollartree.com/locations/az/tucson/8625/

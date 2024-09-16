@@ -1,11 +1,11 @@
 id: 875372079
-type: way
+type: node
 latitude: 33.67556
 longitude: -112.1018
 postcode: "85027"
 city: Phoenix
-street: "West Monona Drive"
-housenumber: 1936
+street: West Monona Drive
+housenumber: "1936"
 phone: ""
 opening_hours: ""
 website: ""

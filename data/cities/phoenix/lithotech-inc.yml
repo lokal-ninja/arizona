@@ -1,11 +1,11 @@
 id: 152640487
-type: way
+type: node
 latitude: 33.47025
 longitude: -112.10662
 postcode: "85009"
 city: Phoenix
-street: "North 22nd Avenue"
-housenumber: 2020
+street: North 22nd Avenue
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 630342234
-type: way
+type: node
 latitude: 33.37971
 longitude: -111.81968
 postcode: "85204"
 city: Mesa
-street: "South Lee Circle"
-housenumber: 1945
+street: South Lee Circle
+housenumber: "1945"
 phone: ""
 opening_hours: ""
 website: ""

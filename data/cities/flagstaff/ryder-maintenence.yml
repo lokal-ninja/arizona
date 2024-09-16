@@ -1,11 +1,11 @@
 id: 582087006
-type: way
+type: node
 latitude: 35.19108
 longitude: -111.67537
 postcode: "86001"
 city: Flagstaff
-street: "South Thompson Street"
-housenumber: 600
+street: South Thompson Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

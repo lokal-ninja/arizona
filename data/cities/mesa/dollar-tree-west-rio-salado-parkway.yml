@@ -1,11 +1,11 @@
 id: 175957283
-type: way
+type: node
 latitude: 33.43021
 longitude: -111.87247
 postcode: "85201"
 city: Mesa
-street: "West Rio Salado Parkway"
-housenumber: 1918
+street: West Rio Salado Parkway
+housenumber: "1918"
 phone: ""
 opening_hours: ""
 website: ""

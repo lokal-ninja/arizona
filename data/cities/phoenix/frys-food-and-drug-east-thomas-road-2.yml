@@ -1,11 +1,11 @@
 id: 128414393
-type: way
+type: node
 latitude: 33.48154
 longitude: -112.01602
 postcode: "85016"
 city: Phoenix
-street: "East Thomas Road"
-housenumber: 3036
-phone: "+1 602-468-9188"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.frysfood.com/stores/grocery/az/phoenix/30th-st-thomas/660/00002"
+street: East Thomas Road
+housenumber: "3036"
+phone: +1 602-468-9188
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.frysfood.com/stores/grocery/az/phoenix/30th-st-thomas/660/00002

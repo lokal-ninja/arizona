@@ -1,11 +1,11 @@
 id: 222447357
-type: way
+type: node
 latitude: 33.53958
 longitude: -112.18064
 postcode: "85301"
 city: Glendale
-street: "North 57th Avenue"
-housenumber: 7029
+street: North 57th Avenue
+housenumber: "7029"
 phone: ""
 opening_hours: ""
 website: ""

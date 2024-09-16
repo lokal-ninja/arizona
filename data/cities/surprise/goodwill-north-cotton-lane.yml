@@ -1,11 +1,11 @@
 id: 732011311
-type: way
+type: node
 latitude: 33.6227
 longitude: -112.42908
 postcode: "85338"
 city: Surprise
-street: "North Cotton Lane"
-housenumber: 15190
+street: North Cotton Lane
+housenumber: "15190"
 phone: ""
 opening_hours: ""
 website: ""

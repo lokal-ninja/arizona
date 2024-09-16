@@ -1,11 +1,11 @@
 id: 733144640
-type: way
+type: node
 latitude: 33.36188
 longitude: -111.80697
 postcode: "85233"
 city: Gilbert
-street: "North Cooper Road"
-housenumber: 623
-phone: "+1 480 795 5353"
-opening_hours: "07:30-17:30"
-website: "https://pullnsave.com/location/623-n-cooper-rd-gilbert/"
+street: North Cooper Road
+housenumber: "623"
+phone: +1 480 795 5353
+opening_hours: 07:30-17:30
+website: https://pullnsave.com/location/623-n-cooper-rd-gilbert/

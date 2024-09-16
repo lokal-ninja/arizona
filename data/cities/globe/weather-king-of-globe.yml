@@ -1,11 +1,11 @@
 id: 958750162
-type: way
+type: node
 latitude: 33.41559
 longitude: -110.79946
 postcode: "85501"
 city: Globe
-street: "North Broad Street"
-housenumber: 1755
-phone: "+1 928 425 8193"
+street: North Broad Street
+housenumber: "1755"
+phone: +1 928 425 8193
 opening_hours: ""
 website: ""

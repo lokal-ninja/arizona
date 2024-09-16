@@ -1,11 +1,11 @@
 id: 237599049
-type: way
+type: node
 latitude: 33.62632
 longitude: -111.90069
 postcode: "85260"
 city: Scottsdale
-street: "North Hayden Road"
-housenumber: 15350
+street: North Hayden Road
+housenumber: "15350"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/6161"
+website: https://www.carmax.com/stores/6161

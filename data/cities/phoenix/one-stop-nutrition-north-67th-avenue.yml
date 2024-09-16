@@ -4,8 +4,8 @@ latitude: 33.70949
 longitude: -112.20375
 postcode: "85383"
 city: Phoenix
-street: "North 67th Avenue"
-housenumber: 24786
+street: North 67th Avenue
+housenumber: "24786"
 phone: "+16234012758"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-18:00"
-website: "https://onestopnutrition.com"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-18:00
+website: https://onestopnutrition.com

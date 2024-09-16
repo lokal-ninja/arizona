@@ -1,11 +1,11 @@
 id: 46684152
-type: way
+type: node
 latitude: 33.4223
 longitude: -111.75436
 postcode: "85213"
 city: Mesa
-street: "North Val Vista Drive"
-housenumber: 360
+street: North Val Vista Drive
+housenumber: "360"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mesa-az-pharmacies/360-n-val-vista-dr-mesa-az-85213/storeid=5779"
+website: https://www.cvs.com/store-locator/mesa-az-pharmacies/360-n-val-vista-dr-mesa-az-85213/storeid=5779

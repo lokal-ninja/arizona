@@ -1,11 +1,11 @@
 id: 409958860
-type: way
+type: node
 latitude: 33.5534
 longitude: -112.26287
 postcode: "85305"
 city: Peoria
-street: "West Northern Avenue"
-housenumber: 9470
-phone: "+1 623-772-9614"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/az/glendale/2763"
+street: West Northern Avenue
+housenumber: "9470"
+phone: +1 623-772-9614
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/az/glendale/2763

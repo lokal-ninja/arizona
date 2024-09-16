@@ -1,10 +1,10 @@
 id: 895268256
-type: way
+type: node
 latitude: 33.42153
 longitude: -111.87408
 postcode: "85201"
 city: Mesa
-street: "West University Drive"
+street: West University Drive
 housenumber: 1955;1945
 phone: ""
 opening_hours: ""

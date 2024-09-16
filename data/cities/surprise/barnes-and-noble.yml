@@ -1,11 +1,11 @@
 id: 357299411
-type: way
+type: node
 latitude: 33.6366
 longitude: -112.35252
 postcode: "85374"
 city: Surprise
-street: "West Bell Road"
-housenumber: 13719
-phone: "623-544-4435"
-opening_hours: "Su-Th 09:00-21:00; Fr-Sa 09:00-22:00"
+street: West Bell Road
+housenumber: "13719"
+phone: 623-544-4435
+opening_hours: Su-Th 09:00-21:00; Fr-Sa 09:00-22:00
 website: ""

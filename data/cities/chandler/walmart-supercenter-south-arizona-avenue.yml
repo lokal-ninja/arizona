@@ -1,11 +1,11 @@
 id: 544011168
-type: way
+type: node
 latitude: 33.28831
 longitude: -111.8387
 postcode: "85286"
 city: Chandler
-street: "South Arizona Avenue"
-housenumber: 1175
-phone: "+1 480-726-0841"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2671-chandler-az"
+street: South Arizona Avenue
+housenumber: "1175"
+phone: +1 480-726-0841
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2671-chandler-az

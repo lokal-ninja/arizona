@@ -1,11 +1,11 @@
 id: 840714045
-type: way
+type: node
 latitude: 34.5061
 longitude: -109.38168
 postcode: "85936"
 city: St Johns
-street: "West Cleveland Street"
-housenumber: 1180
+street: West Cleveland Street
+housenumber: "1180"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/az/saint-johns/10201"
+website: https://www.dollargeneral.com/store-directory/az/saint-johns/10201

@@ -1,11 +1,11 @@
 id: 483332900
-type: way
+type: node
 latitude: 32.22044
 longitude: -110.84163
 postcode: "85710"
 city: Tucson
-street: "East Broadway Boulevard"
-housenumber: 7084
-phone: "+1 520-298-1977"
+street: East Broadway Boulevard
+housenumber: "7084"
+phone: +1 520-298-1977
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/az/tucson/7084-e.-broadway-27143"
+website: https://www.7-eleven.com/locations/az/tucson/7084-e.-broadway-27143
