@@ -1,6 +1,6 @@
 ---
 title: Benson
 url: /benson/
-latitude: 32.014
-longitude: -110.313
+latitude: 31.968
+longitude: -110.296
 ---
