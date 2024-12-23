@@ -7,5 +7,5 @@ city: Phoenix
 street: North 16th Street
 housenumber: "6031"
 phone: +1-602-283-4260
-opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00; Sun 12:00-17:00
+opening_hours: Mo-We 10:00-18:00; Th 10:00-19:00; Fr-Sa 09:00-19:00; Sun 10:00-17:00
 website: https://wildlingstoys.com
