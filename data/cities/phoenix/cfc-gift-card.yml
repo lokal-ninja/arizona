@@ -7,5 +7,5 @@ city: Phoenix
 street: West Thunderbird Road
 housenumber: "2510"
 phone: ""
-opening_hours: Mo-Sa 12:00-22:00; Su 15:00-21:00
+opening_hours: Mo-We,Fr 12:00-20:00; Th,Sa 12:00-17:00
 website: ""

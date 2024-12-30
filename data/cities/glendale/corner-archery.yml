@@ -7,6 +7,7 @@ city: Glendale
 street: West Northern Avenue
 housenumber: "5008"
 phone: ""
-opening_hours: Mo-Fr 11:00-18:00; Sa 09:00-17:00|| "Class/Event times may vary outside
-    this"
+opening_hours: 'Mo-Fr 11:00-18:00 open "Shop+Range open", Sa 09:00-17:00 open "Shop
+    open, range closed"; May Mo[-1] closed, Sep Mo[1] closed; Nov Th[4] closed; Jul
+    04,Dec 24-25 ,Dec 31,Jan 01 closed || closed "Closed: see calendar for details+exceptions"'
 website: ""
