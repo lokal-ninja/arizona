@@ -7,6 +7,5 @@ city: Mesa
 street: W 2nd Ave
 housenumber: "555"
 phone: 480-650-5045
-opening_hours: 'Monday - Friday: 8:00AM to 5:00PM Saturday: 9:00AM to 2:00PM Sunday:
-    Closed'
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; Su off
 website: ""
