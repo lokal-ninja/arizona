@@ -1,6 +1,6 @@
 ---
 title: Meadview
 url: /meadview/
-latitude: 35.781
-longitude: -114.13
+latitude: 36.002
+longitude: -114.065
 ---
