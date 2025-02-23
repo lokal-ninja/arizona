@@ -1,6 +1,6 @@
 ---
 title: Mohave Valley
 url: /mohave-valley/
-latitude: 34.909
-longitude: -114.599
+latitude: 34.898
+longitude: -114.597
 ---

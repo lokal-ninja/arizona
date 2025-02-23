@@ -1,6 +1,6 @@
 ---
 title: Tolleson
 url: /tolleson/
-latitude: 33.464
-longitude: -112.248
+latitude: 33.465
+longitude: -112.24
 ---
