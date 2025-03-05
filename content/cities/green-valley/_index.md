@@ -1,6 +1,6 @@
 ---
 title: Green Valley
 url: /green-valley/
-latitude: 31.869
-longitude: -110.993
+latitude: 31.851
+longitude: -110.996
 ---
