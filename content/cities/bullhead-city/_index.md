@@ -1,6 +1,6 @@
 ---
 title: Bullhead City
 url: /bullhead-city/
-latitude: 35.166
-longitude: -114.564
+latitude: 35.083
+longitude: -114.594
 ---
