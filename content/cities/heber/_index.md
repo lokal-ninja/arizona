@@ -1,6 +1,6 @@
 ---
 title: Heber
 url: /heber/
-latitude: 34.427
-longitude: -110.586
+latitude: 34.439
+longitude: -110.622
 ---
