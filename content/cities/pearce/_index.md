@@ -1,6 +1,6 @@
 ---
 title: Pearce
 url: /pearce/
-latitude: 31.937
-longitude: -109.83
+latitude: 31.941
+longitude: -109.832
 ---
