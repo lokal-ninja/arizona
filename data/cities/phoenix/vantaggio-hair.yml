@@ -7,5 +7,5 @@ city: Phoenix
 street: N 16th Ave
 housenumber: "24820"
 phone: +1-623-444-2711
-opening_hours: 'Tues&Thu:0900:19:00, Wed,Fri,Sat: 09:00-17:00'
+opening_hours: Tu,Th 09:00-19:00, We,Fr,Sa 09:00-17:00
 website: https://www.vantaggiohair.com/
