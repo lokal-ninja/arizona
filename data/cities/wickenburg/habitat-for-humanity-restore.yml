@@ -7,5 +7,5 @@ city: Wickenburg
 street: West Center Street
 housenumber: "370"
 phone: +1-928-684-2220
-opening_hours: Th-Fr 08:00-16:00; Sa 08:00-13:00; Su off
+opening_hours: Mo,Su off; Tu-Fr 08:00-16:00; Sa 08:00-13:00
 website: https://habitatwickenburg.org/restore/restore-location-and-hours/
