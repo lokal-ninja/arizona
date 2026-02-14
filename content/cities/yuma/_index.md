@@ -1,6 +1,6 @@
 ---
 title: Yuma
 url: /yuma/
-latitude: 32.674
-longitude: -114.598
+latitude: 32.697
+longitude: -114.624
 ---
