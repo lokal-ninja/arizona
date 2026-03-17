@@ -1,5 +1,5 @@
 ---
-title: "Bashas'"
+title: "Bashas’"
 url: /flagstaff/bashas/
 shop: supermarket
 ---
