@@ -1,6 +1,6 @@
 ---
 title: Show Low
 url: /show-low/
-latitude: 34.256
-longitude: -110.021
+latitude: 34.233
+longitude: -110.027
 ---
