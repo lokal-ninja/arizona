@@ -2,5 +2,5 @@
 title: Mayer
 url: /mayer/
 latitude: 34.399
-longitude: -112.23
+longitude: -112.229
 ---
