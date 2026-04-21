@@ -1,6 +1,6 @@
 ---
 title: Kykotsmovi
 url: /kykotsmovi/
-latitude: 35.875
-longitude: -110.608
+latitude: 35.879
+longitude: -110.611
 ---
