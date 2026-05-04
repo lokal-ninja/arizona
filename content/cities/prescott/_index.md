@@ -1,6 +1,6 @@
 ---
 title: Prescott
 url: /prescott/
-latitude: 34.562
-longitude: -112.484
+latitude: 34.547
+longitude: -112.468
 ---
