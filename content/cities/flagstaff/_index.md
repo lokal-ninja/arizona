@@ -1,6 +1,6 @@
 ---
 title: Flagstaff
 url: /flagstaff/
-latitude: 35.197
-longitude: -111.652
+latitude: 35.189
+longitude: -111.664
 ---
