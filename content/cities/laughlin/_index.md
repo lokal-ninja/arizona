@@ -1,6 +1,6 @@
 ---
 title: Laughlin
 url: /laughlin/
-latitude: 35.162
-longitude: -114.571
+latitude: 35.155
+longitude: -114.573
 ---
