@@ -1,5 +1,5 @@
 ---
-title: "Primp And Blow"
+title: "Primp and Blow"
 url: /phoenix/primp-and-blow/
 shop: beauty
 ---
