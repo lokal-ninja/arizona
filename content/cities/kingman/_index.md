@@ -1,6 +1,6 @@
 ---
 title: Kingman
 url: /kingman/
-latitude: 35.221
-longitude: -114.005
+latitude: 35.22
+longitude: -114.006
 ---

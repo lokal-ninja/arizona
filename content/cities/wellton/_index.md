@@ -1,6 +1,6 @@
 ---
 title: Wellton
 url: /wellton/
-latitude: 32.67
-longitude: -114.142
+latitude: 32.675
+longitude: -114.126
 ---
