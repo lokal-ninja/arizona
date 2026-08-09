@@ -7,6 +7,5 @@ city: Tucson
 street: '1801 S Alvernon Way, #108'
 housenumber: ""
 phone: +1-520-647-9905
-opening_hours: 'Tue - Thu: 9:00AM to 5:00PM, Fri: 9:00AM to 6:00PM, Sat: 8:00AM to
-    1:00PM'
+opening_hours: Tu-Th 09:00-17:00, Fr 09:00-18:00, Sa 08:00-13:00
 website: ""
