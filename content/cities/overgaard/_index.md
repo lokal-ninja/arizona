@@ -1,6 +1,6 @@
 ---
 title: Overgaard
 url: /overgaard/
-latitude: 34.414
-longitude: -110.573
+latitude: 34.407
+longitude: -110.566
 ---
