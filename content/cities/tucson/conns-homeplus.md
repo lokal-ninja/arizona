@@ -1,5 +1,5 @@
 ---
-title: "Conn’s HomePlus"
+title: "Conn's HomePlus"
 url: /tucson/conns-homeplus/
 shop: houseware
 ---
