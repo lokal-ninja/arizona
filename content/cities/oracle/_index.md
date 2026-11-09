@@ -1,6 +1,6 @@
 ---
 title: Oracle
 url: /oracle/
-latitude: 32.612
-longitude: -110.77
+latitude: 32.619
+longitude: -110.817
 ---
