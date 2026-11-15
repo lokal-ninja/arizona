@@ -1,6 +1,6 @@
 ---
 title: Tempe
 url: /tempe/
-latitude: 33.334
-longitude: -111.912
+latitude: 33.322
+longitude: -111.93
 ---
