@@ -1,6 +1,6 @@
 ---
 title: Snowflake
 url: /snowflake/
-latitude: 34.51
-longitude: -110.079
+latitude: 34.558
+longitude: -109.962
 ---
